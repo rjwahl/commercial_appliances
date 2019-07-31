@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<concept id="concept_olg_zgz_rdb" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:concept.xsd">
+    <title>Components - Left-Side View</title>
+    <shortdesc></shortdesc>
+    <conbody>
+        <fig id="fig_btx75_cmpnts_sde_vw_ffn_xlz_rdb">
+            <image keyref="img:Left_Side_View" id="image_btx75_cmpnts_sde_vw_xh1_cmz_rdb"
+                scale="300"/>
+        </fig>
+        <ol id="ol_btx75_cmpnts_sde_vw_irq_jmz_rdb">
+            <li>
+                <p id="p_btx75_cmpnts_sde_vw_jrq_jmz_rdb">Access panel.</p>
+                <note>This access panel covers a 2" NPT plug that is required during the
+                    manufacturing of this water heater. This 2"NPT flange is not a cleanout fitting.
+                    Removoving the 2" NPT plug and using this fitting as a cleanout could void your
+                    warranty.</note>
+            </li>
+            <li>
+                <p id="p_btx75_cmpnts_sde_vw_prq_jmz_rdb">UIM (user interface module). The UIM
+                    includes the display circuit board and the control system’s LCD Touch Display.
+                    Used to adjust various user settings and view operational information. See <xref
+                        keyref="sec:Control_System_Operation"/>.</p>
+            </li>
+            <li>
+                <p id="p_btx75_cmpnts_sde_vw_krq_jmz_rdb">CCB enclosure - see item 3 in <xref
+                        keyref="sec:Components_Top_View"/> for description.</p>
+            </li>
+            <li>
+                <p id="p_btx75_cmpnts_sde_vw_nrq_jmz_rdb">Combustion Blower.</p>
+            </li>
+            <li>
+                <p id="p_btx75_cmpnts_sde_vw_vrq_jmz_rdb">Supply gas line connection. </p>
+            </li>
+            <li>
+                <p id="p_btx75_cmpnts_sde_vw_mrq_jmz_rdb">Water heater 24-volt gas valve.</p>
+            </li>
+            <li>
+                <p id="p_btx75_cmpnts_sde_vw_lrq_jmz_rdb">Intake air connection - three-inch
+                    PVC.</p>
+            </li>
+            <li>
+                <p id="p_btx75_cmpnts_sde_vw_trq_jmz_rdb">Water inlet - 1 1/2” NPT connection.</p>
+            </li>
+            <li>Blocked Intake Air switch. Normally closed contacts that open on fall in pressure.
+                This switch is used to insure intake (combustion) air to the water heater is not
+                restricted. The control system monitors this switch and will disable heating
+                operation if its contacts are open during a heating cycle.</li>
+            <li>Blocked Exhaust (vent) switch. Normally closed contacts that open on a rise in
+                pressure. This switch is used to insure the Exhaust (vent) piping connected to the
+                water heater is not restricted. The control system monitors this switch and will
+                disable heating operation if its contacts are open during a heating cycle.</li>
+            <li>
+                <p id="p_btx75_cmpnts_sde_vw_qrq_jmz_rdb">Temperature-Pressure Relief Valve. See
+                        <xref keyref="sec:Temperature_Pressure_Relief_Valve"/>. </p>
+            </li>
+            <li>
+                <p id="p_btx75_cmpnts_sde_vw_rrq_jmz_rdb">Temperature-Pressure Relief Valve
+                    discharge pipe</p>
+            </li>
+            <li>
+                <p id="p_btx75_cmpnts_sde_vw_urq_jmz_rdb">Water heater drain valve.</p>
+            </li>
+        </ol>
+        <p></p>
+    </conbody>
+</concept>

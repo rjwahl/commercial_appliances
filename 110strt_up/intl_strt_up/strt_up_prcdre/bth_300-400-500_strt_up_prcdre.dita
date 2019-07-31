@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><task xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="task_y2n_5mh_hbb" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:task.xsd">
+    <title>Start-Up Procedure</title>
+    <shortdesc/>
+    <taskbody>
+<!-- BTH 120-250 and BTH 300-400-500 have identical startup procedures but the graphics and xrefs to them are different. -->
+        <steps>
+            <step>
+                <cmd>Using the control system menus, change the Operating Set Point to the lowest
+                    temperature setting. 
+                    See <xref keyref="sec:Operating_Set_Point_and_Differential_Adjustment"/>.</cmd>
+            </step>
+            <step>
+                <cmd>Turn the water heater’s Enable/Disable switch to the Disabled position.</cmd>
+            </step>
+            <step>
+                <cmd>Close the Main Gas Shut Off valve, see <xref keyref="sec:Supply_Gas_Line_Installation/fig_supply_gas_line_installation"/>.</cmd>
+            </step>
+            <step>
+                <cmd>Wait five (5) minutes for any residual gas to clear.</cmd>
+            </step>
+            <step>
+                <cmd>Connect the manometer to the supply gas pressure port on the gas valve. 
+                     See <xref keyref="sec:Start_Up_Procedure/fig_Location_of_Air_Intake_Pressure_Reference_Connection"/>.
+                </cmd>
+            </step>
+            <step>
+                <cmd>The manometer tubing should be purged before taking any readings.</cmd>
+                <substeps id="substeps_ebg_gnh_hbb">
+                    <substep>
+                        <cmd>Water heaters covered by this manual have test ports for supply and
+                            manifold gas pressure readings on the gas valve. Using a small flat tip
+                            pocket screw driver - open the needle valve inside the supply gas
+                            pressure test port one full turn only.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Turn the needle valve screw counter-clockwise to open the valve.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Slide the manometer sensing tube over the top of the test port.</cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd>Open the Main Gas Shutoff valve.</cmd>
+            </step>
+            <step>
+                <cmd>Measure and record the supply gas pressure. This is a “static” supply gas
+                    pressure reading taken while the water heater is not firing. Adjust supply gas
+                    pressure as necessary. See <xref keyref="sec:Initial_Start_Up"/>.</cmd>
+                <info>
+                    <fig id="fig_Location_of_Air_Intake_Pressure_Reference_Connection">
+                        <title>Location of Air Intake Pressure Reference Connection</title>
+                        <image keyref="img:location_of_air_intake_pressure_reference_connection" id="image_ifk_bcb_ccb" width="400"/>
+                    </fig> </info>
+            </step>
+        </steps>
+    </taskbody>
+</task>

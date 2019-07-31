@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><concept xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="concept_ezx_d45_gbb" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:concept.xsd">
+    <title>Temperature and Pressure Valve Discharge Pipe</title>
+    <shortdesc/>
+    <conbody>
+        <p>This water heater is provided by the manufacturer with a properly-rated/sized and
+            certified combination temperature - pressure (T&amp;P) relief valve. See <xref keyref="sec:Temperature_Pressure_Relief_Valve"/> for information on replacement and
+            other requirements.</p>
+        <p id="p_exy_k45_gbb">     
+            <hazardstatement conkeyref="wmsg:explosion_hazard-TP_valve">
+            <messagepanel>
+                <typeofhazard/>
+                <consequence/>
+                <howtoavoid/>
+            </messagepanel>
+            <hazardsymbol/>
+        </hazardstatement>
+        </p>
+        <p>Install a discharge pipe between the T&amp;P-valve discharge opening and a suitable floor
+            drain. Do not connect discharge piping directly to the drain unless an air gap of
+                <keyword keyref="TP_drain_clearance"/> is provided. To prevent bodily injury, hazard
+            to life, or property damage, the relief valve must be allowed to discharge water in
+            adequate quantities if circumstances demand. If the discharge pipe is not connected to a
+            drain or other suitable means, the water flow can cause property damage.</p>
+    </conbody>
+</concept>

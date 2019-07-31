@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><concept xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="concept_udw_tqc_bbb" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:concept.xsd">
+    <title>Unusually Tight Construction</title>
+    <shortdesc/>
+    <conbody>
+        <p>In unconfined spaces in buildings, infiltration may be adequate to provide air for
+            combustion, ventilation and dilution of flue gases. However, in buildings of unusually
+            tight construction (for example, weather stripping, heavily insulated, caulked, vapor
+            barrier, etc.), additional air must be provided using the methods described in the
+            <xref keyref="sec:Confind_Space"/> section that follows.</p>
+    </conbody>
+</concept>

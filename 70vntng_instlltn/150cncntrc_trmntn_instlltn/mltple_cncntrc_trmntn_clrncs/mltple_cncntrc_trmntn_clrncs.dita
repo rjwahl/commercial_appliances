@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?><concept xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="concept_hlf_4yy_wbb" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:concept.xsd">
+    <title>Multiple Concentric Termination Clearances </title>
+    <shortdesc/>
+    <conbody>
+        <p id="p_jyc_s3g_xbb">When installing multiple concentric terminations vertically through a
+            roof or horizontally through a sidewall ensure the required clearances (separation)
+            between terminations are maintained. Ensure multiple terminations are arranged or
+            grouped as required.</p>
+        <note>These clearances must be maintained to prevent the recirculation of vent (exhaust)
+            gases to the intake air. Clearances are measured between the edges of the concentric
+            termination caps. </note>
+        <p id="p_thf_v3g_xbb">When installing multiple concentric terminations through a roof or
+            through a sidewall the clearances shown in 
+            <xref keyref="sec:Multiple_Concentric_Termination_Clearances/fig_two_cncntrc_trmntns_thrgh_rf_or_sde_wll"/> must be maintained.</p>
+        <p id="p_cst_v3g_xbb">See <xref keyref="sec:Multiple_Concentric_Termination_Arrangements"/>.</p>
+        <section id="section_yq4_nc1_xbb">
+            <title>Close Proximity and Standard Clearance</title>
+            <ol id="ol_ptl_y3g_xbb">
+                <li>The clearance between multiple termination caps must be from zero inches
+                    (touching) to a maximum of two inches (5 cm), (see dimension A - 
+                    <xref keyref="sec:Multiple_Concentric_Termination_Clearances/fig_two_cncntrc_trmntns_thrgh_rf_or_sde_wll"/>, 
+                    when installing concentric terminations in close proximity. 
+                    See <xref keyref="sec:Multiple_Concentric_Termination_Clearances/fig_two_cncntrc_trmntns_thrgh_rf_or_sde_wll"/> through
+                    <xref keyref="sec:Multiple_Concentric_Termination_Clearances/fig_eight_cncntrc_trmntns_sde_wll_and_rf"/>.</li>
+                <li>The clearance between multiple termination caps must be increased to a minimum
+                    of 24 inches (61 cm) (see dimension B - 
+                    <xref keyref="sec:Multiple_Concentric_Termination_Clearances/fig_two_cncntrc_trmntns_thrgh_rf_or_sde_wll"/>, 
+                    when installation in close proximity (above) is not possible. This is the standard
+                    clearance.</li>
+            </ol>
+            <fig id="fig_two_cncntrc_trmntns_thrgh_rf_or_sde_wll">
+                <title>Two Concentric Terminations (Side-Walll and Roof)</title>
+                <image keyref="img:two_concentric_terminations_through_roof_or_sidewall" id="image_r1b_c3g_xbb"/>
+            </fig>
+        </section>
+        <section id="section_w4s_d3g_xbb">
+            <title>Three Concnetric Terminations</title>
+            <ol id="ol_alx_g3g_xbb">
+                <li>When installing three concentric terminations through a roof or through a
+                    sidewall, the third termination may be installed in close proximity as indicated
+                    by dimension A in 
+                    <xref keyref="sec:Multiple_Concentric_Termination_Clearances/fig_three_cncntrc_trmntns_thrgh_rf_or_sde_wll"/>.
+                </li>
+                <li>If close proximity installation of the third termination is not possible, the
+                    third termination may be installed as indicated by dimension B in 
+                    <xref keyref="sec:Multiple_Concentric_Termination_Clearances/fig_three_cncntrc_trmntns_thrgh_rf_or_sde_wll"/>.</li>
+            </ol>
+            <fig id="fig_three_cncntrc_trmntns_thrgh_rf_or_sde_wll">
+                <title>Three Concentric Terminations Through a Roof or Side Wall</title>
+                <image keyref="img:three_concentric_terminations_through_roof_or_sidewall" id="image_egn_m3g_xbb"/>
+            </fig>
+        </section>
+        <section id="section_jt1_nd1_xbb">
+            <title>Four Concentric Terminations</title>
+            <ol id="ol_xh3_4d1_xbb">
+                <li>When installing four concentric terminations through a roof or through a
+                    sidewall in close proximity, they may be arranged into stacked rows of two as
+                    shown in 
+                    <xref keyref="sec:Multiple_Concentric_Termination_Clearances/fig_four_grouped_cncntrc_trmntns_thrgh_rf_or_sde_wll"/> 
+                    or lateral rows of two as shown in 
+                    <xref keyref="sec:Multiple_Concentric_Termination_Clearances/fig_four_linear_cncntrc_trmntns_thrgh_rf_or_sde_wll"/>.</li>
+                <li>Four is the maximum number of concentric terminations that may be installed in a
+                    group where all terminations are in close proximity as shown in Figure 34.</li>
+            </ol>
+            <fig id="fig_four_grouped_cncntrc_trmntns_thrgh_rf_or_sde_wll">
+                <title>Four Grouped Concentric Terminations Through a Roof or Side Wall</title>
+                <image keyref="img:four_grouped_concentric_terminations_through_roof_or_sidewall" id="image_j4w_jjg_xbb"/>
+            </fig>
+            <fig id="fig_four_linear_cncntrc_trmntns_thrgh_rf_or_sde_wll">
+                <title>Four Linear Concentric Terminations Through a Roof or Side Wall</title>
+                <image keyref="img:four_linear_concentric_terminations_through_roof_or_sidewall" id="image_rn2_mjg_xbb"/>
+            </fig>
+        </section>
+        <section id="section_avn_wd1_xbb">
+            <title>Groups of Terminations</title>
+            <p id="p_fjn_s21_xbb">When installing multiple groups of concentric terminations through
+                a roof or through a sidewall in close proximity, they can be installed into stacked
+                groups of four as shown in 
+                <xref keyref="sec:Multiple_Concentric_Termination_Clearances/fig_eight_cncntrc_trmntns_sde_wll_and_rf"/>. 
+                Lateral groups of four, as shown in 
+                <xref keyref="sec:Multiple_Concentric_Termination_Clearances/fig_four_linear_cncntrc_trmntns_thrgh_rf_or_sde_wll"/>,
+                may be a more convenient installation arrangement for multiple groups depending on
+                available space.</p>
+            <fig id="fig_eight_cncntrc_trmntns_sde_wll_and_rf">
+                <title>Eight Concentric Terminations - Through a Roof or Sidewall</title>
+                <image keyref="img:eight_concentric_terminations_through_roof_or_sidewall" id="image_uxz_njg_xbb"/>
+            </fig>
+        </section>
+    </conbody>
+</concept>

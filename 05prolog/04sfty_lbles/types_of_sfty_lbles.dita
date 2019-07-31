@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="sfty_lbles" xml:lang="en-us">
+    <title>Types of Safety Labels</title>
+    <shortdesc>The types of safety lables that appear in this manual.</shortdesc>
+    <prolog>
+        <metadata>
+            <keywords>
+                <indexterm>safety labels</indexterm>
+            </keywords>
+        </metadata>
+    </prolog>
+    <conbody>
+        
+        <image keyref="wmsg:warning_group_safe_install" placement="break" width="3.5in"/>
+    	
+    	<!--<fig><image href="warning_group_safe_install.svg"/></fig>-->
+    	<p>All safety messages will generally tell you about the type of hazard, what can happen if you do not follow the safety message, and how to avoid the risk of injury.</p>
+    </conbody>
+</concept>

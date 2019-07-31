@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><concept xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="concept_uxs_qm5_gbb" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:concept.xsd">
+    <title>Thermometers (Not Supplied)</title>
+    <shortdesc/>
+    <conbody>
+        <p>Thermometers are installed in the water-piping system as a means of detecting the
+            temperature of the hot-water supply at critical points in the system. Field-supplied
+            thermometers should be obtained and installed. See <xref keyref="sec:Water_Piping_Diagrams"/>.</p>
+    </conbody>
+</concept>

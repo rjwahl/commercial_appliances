@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="explsve_hydrgn_gas00001" xml:lang="en-us">
+    <title>Explosive Hydrogen Gas</title>
+    <shortdesc>Hydrogen might be present in the water supply system.</shortdesc>
+    <prolog>
+        <metadata>
+            <keywords>
+                <indexterm>hydrogen</indexterm>
+            </keywords>
+        </metadata>
+    </prolog>
+    <conbody>
+    	<p>Hydrogen gas can be produced in a hot water system served by this water heater that has not been used for a long period of time (generally two weeks or more). Hydrogen gas is extremely flammable. To reduce the risk of injury under these conditions, it is recommended that a hot water faucet served by this water heater be opened for several minutes before using any electrical appliance connected to the hot water system. If hydrogen is present there will probably be an unusual sound such as air escaping through the pipe as the water begins to flow. There should be no smoking or open flame near the faucet at the time it is open. </p>
+        <image keyref="wmsg:warning_explosion_hazard_hydrogen_gas" width="300pt" placement="break"/>
+    </conbody>
+</concept>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?><task xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="task_xbg_m3b_hbb" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:task.xsd">
+    <title>Operating Set Point and Differential Adjustment</title>
+    <shortdesc/>
+    <taskbody>
+        <context>
+            <p id="p_pxy_pfw_1cb">The Operating Set Point is adjustable from 90°F (42°C) to 180°F
+                (82°C). The factory setting is 120°F (49°C). The Differential is adjustable from 2°
+                to 20°. The factory setting is 8°. These user settings are accessed from the
+                Temperatures menu. The following instructions explain how to adjust these settings
+                and navigate the control system menus.</p>
+            <p id="p_g3v_rfw_1cb">When the water temperature, sensed by the control system from the
+                two (upper and lower) temperature probes, reaches the Operating Set Point, the
+                control system ends the heating cycle. A heating cycle begins again when the sensed
+                water temperature drops below the Operating Set Point minus the Differential
+                setting.</p>
+            <note>A lower Differential setting can cause excessive heating cycles (short-cycling),
+                which can cause premature failure of components.
+                Set the Differential at the highest setting that produces an acceptable hot water
+                supply. Set the Operating Set Point to the lowest setting that produces an
+                acceptable hot water supply for most efficient use.</note>
+                <!-- The bth 300-500 version inculudes a reference to the  hot surface ignighter
+                  in this note as an example of the type of components that can be damaged by 
+                  excessive heating cycles. -->
+        </context>
+        <steps>
+            <step>
+                <cmd>From the Desktop screen, press <uicontrol>MENU</uicontrol>. </cmd>
+                <info>
+                    <fig id="fig_home_screen">
+                        <title>Desktop Screen</title>
+                        <image keyref="img:UIM_home_screen" id="image_sgw_3jb_hbb"/>
+                    </fig>
+                </info>
+                <stepresult>The Main Menu screen displays.<fig id="fig_ljl_sgk_kcb">
+                        <image keyref="img:UIM_main_menu" id="image_t41_vlb_hbb"/>
+                    </fig></stepresult>
+            </step>
+            <step>
+                <cmd>Use the <uicontrol>Up</uicontrol> and <uicontrol>Down</uicontrol>
+                    <uicontrol>slidebar</uicontrol> to view all control-system menus from the Main
+                    Menu.</cmd>
+                <info>
+                    <p id="p_w3q_2pb_hbb">The Main Menu is where all control system menus are
+                        listed. See <xref keyref="sec:Control_System_Menus/table_control_system_menus"/> for a
+                        complete list and description of control system menus. </p>
+                </info>
+            </step>
+            <step>
+                <cmd>On the Main Menu, press <uicontrol>Temperatures</uicontrol> to access the
+                    Temperatures menu.</cmd>
+                <info/>
+                <stepresult>
+                    <fig id="fig_dh2_m3k_kcb">
+                        <image keyref="img:UIM_temperatures_menu" id="image_qz5_1pb_hbb"/>
+                    </fig>
+                </stepresult>
+            </step>
+            <step>
+                <cmd>Press <uicontrol>Operating Setpoint</uicontrol> to access the Temperature
+                    Setpoint menu. Press <uicontrol>CHANGE</uicontrol> to activate the adjustment
+                    mode for this menu item.</cmd>
+                <!-- There does not seem to be a Temperature Setpoint Menu with a Change button in the legacy documentation -->
+                <info>
+                    <note>Higher temperature settings increase wear and operating costs. Set the
+                        Operating Set Point to the lowest setting that produces an acceptable hot
+                        water supply. This will always provide the most energy efficient operation
+                        and longer life.</note>
+                    <fig id="fig_ltw_qjk_kcb">
+                        <image keyref="img:UIM_operating_setpoint_menu" id="image_avl_hqb_hbb"/>
+                    </fig>
+                </info>
+            </step>
+            <step>
+                <cmd>Do the following:</cmd>
+                <substeps id="substeps_nrj_mqb_hbb">
+                    <substep>
+                        <cmd>Use the <uicontrol>+</uicontrol> and <uicontrol>-</uicontrol> Buttons
+                            to change the current setting.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Press <uicontrol>ACCEPT</uicontrol> to save the new setting. Press
+                                <uicontrol>BACK</uicontrol> to discard changes and return to the
+                            previously saved setting.</cmd>
+                    </substep>
+                </substeps>
+                <info>
+                    <note>Use this procedure to change the Differential setting and other adjustable
+                        user settings in the control system menus.</note>
+                </info>
+            </step>
+        </steps>
+    </taskbody>
+</task>

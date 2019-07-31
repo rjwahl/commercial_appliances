@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<concept id="concept_xx5_s3z_rdb" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:concept.xsd">
+    <title>Rough-In Dimensions</title>
+    <conbody>
+        <p>The diagrams and measurements in this section convey the minimum space and clearance
+            requirements for locating the water heater.</p>
+        <fig id="fig_Untitled3_x1f_y3z_rdb">
+            <title>BTX Rough-In Dimensions</title>
+            <image keyref="img:rough_in_dimensions" id="image_Untitled3_o2w_cjz_rdb" scale="200"/>
+        </fig>
+        <table frame="all" rowsep="1" colsep="1" id="table_btx_rgh_in_dmnsns_fjy_rr2_sdb">
+            <title>Rough-In Dimensions</title>
+            <tgroup cols="13" align="center">
+                <colspec colname="c1" colnum="1" colwidth="1*"/>
+                <colspec colname="newCol2" colnum="2" colwidth="1*"/>
+                <colspec colname="c2" colnum="3" colwidth="1*"/>
+                <colspec colname="c3" colnum="4" colwidth="1*"/>
+                <colspec colname="c4" colnum="5" colwidth="1*"/>
+                <colspec colname="c5" colnum="6" colwidth="1*"/>
+                <colspec colname="c6" colnum="7" colwidth="1*"/>
+                <colspec colname="c7" colnum="8" colwidth="1*"/>
+                <colspec colname="c8" colnum="9" colwidth="1*"/>
+                <colspec colname="c9" colnum="10" colwidth="1*"/>
+                <colspec colname="c10" colnum="11" colwidth="1*"/>
+                <colspec colname="c11" colnum="12" colwidth="1*"/>
+                <colspec colname="c12" colnum="13" colwidth="1*"/>
+                <thead>
+                    <row>
+                        <entry namest="c1" nameend="newCol2"/>
+                        <entry namest="c2" nameend="c12">Dimensions from Diagram</entry>
+                    </row>
+                    <row>
+                        <entry>Model</entry>
+                        <entry>Units</entry>
+                        <entry>A</entry>
+                        <entry>B</entry>
+                        <entry>C</entry>
+                        <entry>D</entry>
+                        <entry>E</entry>
+                        <entry>F</entry>
+                        <entry>G</entry>
+                        <entry>H</entry>
+                        <entry> J</entry>
+                        <entry namest="c11" nameend="c12">K</entry>
+                    </row>
+                </thead>
+                <tbody>
+                    <row>
+                        <entry valign="middle" morerows="1">120</entry>
+                        <entry>Inchs</entry>
+                        <entry>71-1/8</entry>
+                        <entry>68-3/4</entry>
+                        <entry>51-7/8</entry>
+                        <entry>20-7/8</entry>
+                        <entry>9-1/8</entry>
+                        <entry>12.5</entry>
+                        <entry>22</entry>
+                        <entry>8</entry>
+                        <entry>15.5</entry>
+                        <entry namest="c11" nameend="c12">26-5/8</entry>
+                    </row>
+                    <row>
+                        <entry>cm</entry>
+                        <entry>180.64</entry>
+                        <entry>174.50</entry>
+                        <entry>131.83</entry>
+                        <entry>53.09</entry>
+                        <entry>23.24</entry>
+                        <entry>31.75</entry>
+                        <entry>55.88</entry>
+                        <entry>20.32</entry>
+                        <entry>39.37</entry>
+                        <entry namest="c11" nameend="c12">67.63</entry>
+                    </row>
+                    <row valign="top">
+                        <entry valign="middle" namest="c1" nameend="c12" align="left">
+                            <p id="p_btx_rgh_in_dmnsns_edl_gt2_sdb" outputclass="Table-Note"
+                                >Top/Side Inlet and Outlet: 3/4″ NPT</p>
+                            <p id="p_btx_rgh_in_dmnsns_fdl_gt2_sdb" outputclass="Table-Note">Gas
+                                Inlet: 1/2″ NPT</p>
+                        </entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+        <table frame="all" rowsep="1" colsep="1" id="table_btx_rgh_in_dmnsns_nm1_d52_sdb">
+            <title>Capacity and Gas and Electric Characteristics</title>
+            <tgroup cols="8" align="center">
+                <colspec colname="newCol1" colnum="1" colwidth="1*"/>
+                <colspec colname="c1" colnum="2" colwidth="1*"/>
+                <colspec colname="c2" colnum="3" colwidth="1*"/>
+                <colspec colname="c3" colnum="4" colwidth="1*"/>
+                <colspec colname="c4" colnum="5" colwidth="1*"/>
+                <colspec colname="c5" colnum="6" colwidth="1*"/>
+                <colspec colname="c6" colnum="7" colwidth="1*"/>
+                <colspec colname="c7" colnum="8" colwidth="1*"/>
+                <thead>
+                    <row>
+                        <entry/>
+                        <entry namest="c1" nameend="c2">Approximate Capacity</entry>
+                        <entry namest="c3" nameend="c5">Manifold Pressure</entry>
+                        <entry namest="c6" nameend="c7">Electrical Characteristics</entry>
+                    </row>
+                    <row>
+                        <entry>Model</entry>
+                        <entry>U.S. Gals.</entry>
+                        <entry>Liters</entry>
+                        <entry>Gas Type</entry>
+                        <entry>"WC</entry>
+                        <entry>kPA</entry>
+                        <entry>Volts/Hz</entry>
+                        <entry>Amperes</entry>
+                    </row>
+                </thead>
+                <tbody>
+                    <row>
+                        <entry>120</entry>
+                        <entry>50</entry>
+                        <entry>189</entry>
+                        <entry>Nat.</entry>
+                        <entry>4.00</entry>
+                        <entry>0.99</entry>
+                        <entry>120/60</entry>
+                        <entry>&lt;5</entry>
+                    </row>
+                    <row>
+                        <entry namest="newCol1" nameend="c7" align="left" valign="top">
+                            <p id="p_btx_rgh_in_dmnsns_j4d_552_sdb" outputclass="Table-Note">All
+                                models - Maximum Supply Pressure: 14 inches W.C. (3.48kPa)</p>
+                            <p id="p_btx_rgh_in_dmnsns_k4d_552_sdb" outputclass="Table-Note">Minimum
+                                Supply Pressure Natural Gas: 5.0 inches W.C. (1.24kPa)</p>
+                            <p id="p_btx_rgh_in_dmnsns_l4d_552_sdb" outputclass="Table-Note">Minimum
+                                Pressure must be maintained under both load and no load (static and
+                                dynamic) conditions.</p>
+                        </entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+        <table frame="all" rowsep="1" colsep="1" id="table_btx_rgh_in_dmnsns_f1r_jv2_sdb">
+            <title>Recovery Capacities - U.S. Gallons/Hr. and Liters/Hr. at Temperature Rise
+                Indicated</title>
+            <tgroup cols="16" align="center">
+                <colspec colname="c1" colnum="1" colwidth="1*"/>
+                <colspec colname="c2" colnum="2" colwidth="1*"/>
+                <colspec colname="c3" colnum="3" colwidth="1*"/>
+                <colspec colname="c4" colnum="4" colwidth="1*"/>
+                <colspec colname="c5" colnum="5" colwidth="1*"/>
+                <colspec colname="c6" colnum="6" colwidth="1*"/>
+                <colspec colname="c7" colnum="7" colwidth="1*"/>
+                <colspec colname="c8" colnum="8" colwidth="1*"/>
+                <colspec colname="c9" colnum="9" colwidth="1*"/>
+                <colspec colname="c10" colnum="10" colwidth="1*"/>
+                <colspec colname="c11" colnum="11" colwidth="1*"/>
+                <colspec colname="c12" colnum="12" colwidth="1*"/>
+                <colspec colname="c13" colnum="13" colwidth="1*"/>
+                <colspec colname="c14" colnum="14" colwidth="1*"/>
+                <colspec colname="c15" colnum="15" colwidth="1*"/>
+                <colspec colname="newCol16" colnum="16" colwidth="1*"/>
+                <thead>
+                    <row>
+                        <entry namest="c1" nameend="c2">Input</entry>
+                        <entry namest="c3" nameend="newCol16">Recovery Capacity</entry>
+                    </row>
+                </thead>
+                <tbody outputclass="Table-Note">
+                    <row>
+                        <entry morerows="1" align="center" valign="middle">
+                            <p id="p_btx_rgh_in_dmnsns_pdx_jw2_sdb">Rating (Btu/hr)</p>
+                        </entry>
+                        <entry morerows="1" align="center" valign="middle">Rating (kW)</entry>
+                        <entry morerows="1" align="center" valign="middle">Temp. Rise</entry>
+                        <entry>°F</entry>
+                        <entry>30</entry>
+                        <entry>40</entry>
+                        <entry>50</entry>
+                        <entry>60</entry>
+                        <entry>70</entry>
+                        <entry>80</entry>
+                        <entry>90</entry>
+                        <entry>100</entry>
+                        <entry>110</entry>
+                        <entry>120</entry>
+                        <entry>130</entry>
+                        <entry>140</entry>
+                    </row>
+                    <row>
+                        <entry>°C</entry>
+                        <entry>17</entry>
+                        <entry>22</entry>
+                        <entry>28</entry>
+                        <entry>33</entry>
+                        <entry>39</entry>
+                        <entry>44</entry>
+                        <entry>50</entry>
+                        <entry>56</entry>
+                        <entry>61</entry>
+                        <entry>67</entry>
+                        <entry>72</entry>
+                        <entry>78</entry>
+                    </row>
+                    <row>
+                        <entry morerows="1"> 76,000 </entry>
+                        <entry morerows="1">22.3</entry>
+                        <entry namest="c3" nameend="c4">GPH</entry>
+                        <entry>286</entry>
+                        <entry>215</entry>
+                        <entry>172</entry>
+                        <entry>143</entry>
+                        <entry>123</entry>
+                        <entry>107</entry>
+                        <entry>95</entry>
+                        <entry>361</entry>
+                        <entry>78</entry>
+                        <entry>72</entry>
+                        <entry>271</entry>
+                        <entry>61</entry>
+                    </row>
+                    <row>
+                        <entry namest="c3" nameend="c4">LPH</entry>
+                        <entry>1084</entry>
+                        <entry>813</entry>
+                        <entry>651</entry>
+                        <entry>542</entry>
+                        <entry>465</entry>
+                        <entry>407</entry>
+                        <entry>361</entry>
+                        <entry>325</entry>
+                        <entry>296</entry>
+                        <entry>271</entry>
+                        <entry>250</entry>
+                        <entry>232</entry>
+                    </row>
+                    <row>
+                        <entry namest="c1" nameend="newCol16" align="left" valign="top">Recovery
+                            capacity based on 94% thermal efficiency.</entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+    </conbody>
+</concept>

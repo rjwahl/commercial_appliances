@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><concept xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="concept_yrx_gxc_ybb" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:concept.xsd">
+    <title>Primer and Cement</title>
+    <shortdesc/>
+    <conbody>
+        <p>Tetrahydrofuran (THF) primer should be used to prepare the surfaces of pipe and fittings
+            for solvent welding. If CPVC or ABS pipe and fittings are used, then the proper cement
+            must be used for all joints, including joining the pipe to the factory provided
+            terminations (PVC material). PVC Materials should use ASTM D-2564 Grade Cement; CPVC
+            Materials should use ASTM F-493 Grade Cement.</p>
+    </conbody>
+</concept>

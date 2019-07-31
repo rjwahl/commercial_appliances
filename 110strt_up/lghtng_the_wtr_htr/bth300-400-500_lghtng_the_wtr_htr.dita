@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><concept xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="concept_ezm_yrh_hbb" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:concept.xsd">
+    <title>Lighting Operation and Labels</title>
+    <shortdesc/>
+    <conbody>
+        <p>The instruction label below is affixed to the water heaters that are covered by this
+            manual at the factory and must be followed when lighting and operating the water
+            heater.</p>
+        <fig id="fig_bps_tsh_hbb">
+            <title>Lighting and Operation Label</title>
+            <image keyref="img:lighting_and_operation_label" id="image_cps_tsh_hbb" width="600px"/>
+        </fig>
+    </conbody>
+</concept>

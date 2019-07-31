@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><concept xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="concept_ccr_yqc_bbb" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:concept.xsd">
+    <title>Confined Space</title>
+    <shortdesc/>
+    <conbody>
+        <p id="p_fpv_zqc_bbb">A <i>confined space</i> is one whose volume is less than 50 cubic feet
+            per 1,000 Btu/hr (4.8 cm per kW) of the total input rating of all appliances installed
+            in the space.</p>
+        <p id="p_gpv_zqc_bbb">Openings must be installed to provide fresh air for combustion,
+            ventilation and dilution in confined spaces. The required size for the openings is
+            dependent on the method used to provide fresh air to the confined space and the total
+            Btu/hr input rating of all appliances installed in the space.</p>
+    </conbody>
+</concept>

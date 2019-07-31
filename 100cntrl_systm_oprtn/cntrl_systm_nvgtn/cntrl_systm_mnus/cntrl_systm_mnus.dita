@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><concept xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="concept_r4k_jdb_hbb" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:concept.xsd">
+    <title>Control System Menus</title>
+    <shortdesc/>
+<!-- The tables for bth 300-400-500 and bth 120-250 are the same, but the differences in the home screen require
+     a different access procedure. -->
+    <conbody>
+        <p>From the Desktop screen,  press "Menu" on the LCD Touch Display to display the Main Menu.
+            This is where all control system menus are located. The following table describes the
+            control system menus.</p>
+        <table frame="all" rowsep="1" colsep="1" id="table_ucf_ndb_hbb">
+            <title>Control System Menus</title>
+            <tgroup cols="2" align="center">
+                <colspec colname="c1" colnum="1" colwidth="1*"/>
+                <colspec colname="c2" colnum="2" colwidth="4*"/>
+                <thead>
+                    <row>
+                        <entry><p outputclass="Table-Column-Head">Menu</p></entry>
+                        <entry><p outputclass="Table-Column-Head">Description</p></entry>
+                    </row>
+                </thead>
+                <tbody>
+                    <row>
+                        <entry><p outputclass="Table-Cell">Temperatures</p></entry>
+                        <entry><p outputclass="Table-Cell">Most commonly accessed menu. Contains the Operating Set Point and
+                                Differential user settings.</p></entry>
+                    </row>
+                    <row>
+                        <entry><p outputclass="Table-Cell">Heater Status</p></entry>
+                        <entry><p outputclass="Table-Cell">This menu displays the current state of all pressure switches and the
+                                ECO (open/closed). The on/off status of the Combustion Blower, gas
+                                valve, Spark Igniter, flame sensor and other monitored water heater
+                                components are displayed in this menu.</p></entry>
+                    </row>
+                    <row>
+                        <entry><p outputclass="Table-Cell">Display Settings</p></entry>
+                        <entry><p outputclass="Table-Cell">Temperature units (°F or °C), the LCD appearance (brightness/contrast)
+                                and backlight delay user adjustable settings are located in this
+                                menu.</p></entry>
+                    </row>
+                    <row>
+                        <entry><p outputclass="Table-Cell">Heater Information</p></entry>
+                        <entry><p outputclass="Table-Cell">Elapsed time of operation, total heating cycle time, heating cycle
+                                count, heating on time along with UIM and CCB software revisions can
+                                be viewed in this menu.</p></entry>
+                    </row>
+                    <row>
+                        <entry><p outputclass="Table-Cell">Current Fault</p></entry>
+                        <entry><p outputclass="Table-Cell">Displays any current Alert or Fault messages.</p></entry>
+                    </row>
+                    <row>
+                        <entry><p outputclass="Table-Cell">Fault History</p></entry>
+                        <entry><p outputclass="Table-Cell">This control system menu retains a list of the last nine (9) Fault and
+                                Alert messages with a time stamp. The newest event will replace the
+                                oldest. Faults will clear after 30 days.</p></entry>
+                    </row>
+                    <row>
+                        <entry><p outputclass="Table-Cell">Fault Occurrence</p></entry>
+                        <entry><p outputclass="Table-Cell">This control system menu retains a running total of how many times each
+                                Fault condition has occurred since the water heater was first
+                                installed. The data does not clear and cannot be reset.</p></entry>
+                    </row>
+                    <row>
+                        <entry><p outputclass="Table-Cell">Restore Factory Defaults</p></entry>
+                        <entry><p outputclass="Table-Cell">This control system feature allows the user to restore control system
+                                user settings to their factory default settings. Display Settings
+                                preferences ARE NOT changed when factory defaults are restored.</p></entry>
+                    </row>
+                    <row>
+                        <entry><p outputclass="Table-Cell">Help Screens</p></entry>
+                        <entry><p outputclass="Table-Cell">Help Screens</p></entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+    </conbody>
+</concept>

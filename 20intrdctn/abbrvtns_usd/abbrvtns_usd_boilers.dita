@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="abbrvtns_usd00001" xml:lang="en-us">
+    <!-- Scope: commercial boilers; a different version is used for water heaters.  -->
+    <title>Abbreviations</title>
+    <shortdesc>Abbreviations found in this manual</shortdesc>
+    <prolog>
+        <metadata>
+            <keywords>
+                <indexterm>ANSI</indexterm>
+                <indexterm>ASME</indexterm>
+                <indexterm>NEC</indexterm>
+                <indexterm>NFPA</indexterm>
+                <indexterm>NFPA</indexterm>
+                 <indexterm>UL</indexterm>
+                 <indexterm>CSA</indexterm>
+            </keywords>
+        </metadata>
+    </prolog>
+    <conbody>
+    	<p>Abbreviations found in this manual include the following:</p>
+    	<ul>
+			<li>American National Standards Institute (ANSI)</li>
+			<li>American Society of Mechanical Engineers (ASME)</li>
+			<li>National Electrical Code (NEC)</li>
+			<li>National Fire Protection Association (NFPA)</li>
+			<li>Underwriters Laboratory (UL)</li>
+			<li>Canadian Standards Association (CSA)</li>
+    	</ul>
+    </conbody>
+</concept>

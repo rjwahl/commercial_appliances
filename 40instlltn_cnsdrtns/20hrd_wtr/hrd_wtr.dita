@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><concept xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="concept_why_kcc_fbb" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:concept.xsd">
+    <title>Hard Water</title>
+    <shortdesc/>
+    <conbody>
+        <p>Where hard water conditions exist, water softening or the threshold type of water
+            treatment is recommended. This will protect the dishwashers, coffee urns, water heaters,
+            water piping and other equipment. 
+            See <xref keyref="sec:Maintenance"/> for sediment and lime scale
+            removal procedures.</p>
+    </conbody>
+</concept>

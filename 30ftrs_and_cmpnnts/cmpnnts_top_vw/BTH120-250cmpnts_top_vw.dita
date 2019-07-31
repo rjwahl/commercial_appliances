@@ -1,0 +1,901 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<concept id="concept_lwp_mcj_t1b" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:concept.xsd">
+    <title>Components - Top View</title>
+    <shortdesc/>
+    <conbody>
+        <fig id="fig:Top_View">
+            <title>BTH Components - Top View</title>
+            <image keyref="img:Top_View" id="image_ivv_5fj_t1b" width="500px"/>
+        </fig>
+        <ol><li>Water Heater’s Enable/Disable Switch. When in the "Disabled" position the switch removes
+                electrical power from the gas valve so that water heating is disabled. The display,
+                CCB, and other electrical components will still be energized and the display will
+                read "Water Heating Disabled".<note type="important">The Enable/Disable switch
+                    listed in this manual is NOT an "on/off" switch and does not disconnect 120 volt
+                    power to the CCB and other heater components.</note></li>
+            <li>Powered anode rods. The water heaters covered in this manual are equipped with powered (non sacrificial) anode rods. The BTH 120 has one powered anode, all other models will have two. Protective current is fed by the control system to the titanium electrodes at the end of each anode rod. This current flows through the water to the conductive surfaces inside the storage tank which diminishes the corrosive effect of water when it comes in contact with steel.</li>
+            <li>Central Control Board (CCB) enclosure. This enclosure houses the control system’s main circuit board, power supply board, power transformer, and configuration key. The CCB regulates water temperature and controls all water heater functions, see Control System Operation on page 45.</li>
+            <li>Combustion Blower Assembly includes, Gas Valve and Venturi gas feed system.</li>
+            <li>120-VAC junction box. Incoming power supply, ground connections, and other field installed electrical connections are made here. See Power Supply (page 13) and Power Supply Connections (page 42).</li>
+            <li>Water heater's 24-volt gas valve.</li>
+            <li>Blocked Intake Air switch. Normally closed contacts that open on fall in pressure. This switch is used to insure intake (combustion) air to the water heater is not restricted. The control system monitors this switch and will disable heating operation if its contacts are open during a heating cycle.</li>
+            <li>Supply gas line connection. See the requirements for gas supply systems in Gas Supply Systems (page 13).</li>
+            <li>Low Gas Pressure switch. Normally open contacts that close on a rise in pressure. This switch is used to insure supply gas pressure is above minimum requirements. The control system monitors this switch and will disable heating operation if its contacts are open during a heating cycle. See the gas pressure requirements listed in Table 4 (page 11).</li>
+            <li>Vent connection (exhaust / condensate elbow) - three-inch aluminum.</li>
+            <li>Intake air connection - three-inch PVC.</li>
+            <li>Blocked Exhaust (vent) switch. Normally closed contacts that open on a rise in pressure. This switch is used to insure the Exhaust (vent) piping connected to the water heater is not restricted. The control system monitors this switch and will disable heating operation if its contacts are open during a heating cycle.</li>
+            <li>Temperature-Pressure Relief Valve. See Temperature-Pressure Relief Valve (page 15).</li>
+            <li>Upper Temperature Probe, 1 of 2 temperature probes. The water heater’s control system monitors this probe to detect water temperature in the upper portion of the storage tank. The Upper Temperature Probe also houses the Energy Cut-Out switch (ECO). This is a non adjustable high temperature limit switch. The ECO switch contacts are normally closed and will open on a temperature rise. See High Temperature Limit Control (ECO) (page 44).</li>
+            <li>Water outlet connection 1 1/2” NPT.</li>
+            <li>UIM (user interface module). The UIM includes the display circuit board and the control system’s LCD Touch Display. Used to adjust various user settings and view operational information. See Control System Operation (page 45).</li>
+            <li>Spark Ignition Transformer. When energized, sends the electrical current to the spark igniter.</li>
+        </ol>
+        <table frame="all" rowsep="1" colsep="1" id="bth_120_250_rgh_in_dmnsns">
+            <title>Rough-In Dimensions</title>
+            <tgroup cols="13" align="center">
+                <colspec colname="c1" colnum="1" colwidth="1*"/>
+                <colspec colname="c2" colnum="2" colwidth="1*"/>
+                <colspec colname="c3" colnum="3" colwidth="1*"/>
+                <colspec colname="c4" colnum="4" colwidth="1*"/>
+                <colspec colname="c5" colnum="5" colwidth="1*"/>
+                <colspec colname="c6" colnum="6" colwidth="1*"/>
+                <colspec colname="c7" colnum="7" colwidth="1*"/>
+                <colspec colname="c8" colnum="8" colwidth="1*"/>
+                <colspec colname="c9" colnum="9" colwidth="1*"/>
+                <colspec colname="c10" colnum="10" colwidth="1*"/>
+                <colspec colname="c11" colnum="11" colwidth="1*"/>
+                <colspec colname="c12" colnum="12" colwidth="1*"/>
+                <colspec colname="c13" colnum="13" colwidth="1*"/>
+                <thead>
+                    <row>
+                        <entry morerows="1">
+                            <p outputclass="Table-Column-Head">Model</p>
+                            <p outputclass="Table-Cell" id="p_nxv_5lv_t1b"/>
+                        </entry>
+                        <entry><p outputclass="Table-Column-Head">A</p></entry>
+                        <entry><p outputclass="Table-Column-Head">B</p></entry>
+                        <entry><p outputclass="Table-Column-Head">C</p></entry>
+                        <entry><p outputclass="Table-Column-Head">D</p></entry>
+                        <entry><p outputclass="Table-Column-Head">E</p></entry>
+                        <entry><p outputclass="Table-Column-Head">F</p></entry>
+                        <entry><p outputclass="Table-Column-Head">G</p></entry>
+                        <entry><p outputclass="Table-Column-Head">H</p></entry>
+                        <entry><p outputclass="Table-Column-Head">I</p></entry>
+                        <entry><p outputclass="Table-Column-Head">J</p></entry>
+                        <entry><p outputclass="Table-Column-Head">Approx. ShipWeight STD</p></entry>
+                        <entry><p outputclass="Table-Column-Head">Approx. Ship Weight ASME</p></entry>
+                    </row>
+
+                    <row>
+                        <entry><p outputclass="Table-Cell">Inches (cm)</p></entry>
+                        <entry><p outputclass="Table-Cell">Inches (cm)</p></entry>
+                        <entry><p outputclass="Table-Cell">Inches (cm)</p></entry>
+                        <entry><p outputclass="Table-Cell">Inches (cm)</p></entry>
+                        <entry><p outputclass="Table-Cell">Inches (cm)</p></entry>
+                        <entry><p outputclass="Table-Cell">Inches (cm)</p></entry>
+                        <entry><p outputclass="Table-Cell">Inches (cm)</p></entry>
+                        <entry><p outputclass="Table-Cell">Inches (cm)</p></entry>
+                        <entry><p outputclass="Table-Cell">Inches (cm)</p></entry>
+                        <entry><p outputclass="Table-Cell">Inches (cm)</p></entry>
+                        <entry><p outputclass="Table-Cell">LBS (kg)</p></entry>
+                        <entry><p outputclass="Table-Cell">LBS (kg)</p></entry>
+                    </row>
+                </thead>
+                <tbody>                    
+                    
+                    <row>
+                        <entry><p outputclass="Table-Cell">BTH 120</p></entry>
+                        <entry><p outputclass="Table-Cell">55-1/2 (141)</p></entry>
+                        <entry><p outputclass="Table-Cell">35 (88.9)</p></entry>
+                        <entry><p outputclass="Table-Cell">27-3/4 (70.5)</p></entry>
+                        <entry><p outputclass="Table-Cell">6-5/16 (16)</p></entry>
+                        <entry><p outputclass="Table-Cell">3 (7.62)</p></entry>
+                        <entry><p outputclass="Table-Cell">42-1/4 (107.32)</p></entry>
+                        <entry><p outputclass="Table-Cell">11-1/4 (28.6)</p></entry>
+                        <entry><p outputclass="Table-Cell">48-1/2 (123.2)</p></entry>
+                        <entry><p outputclass="Table-Cell">53-1/2 (135.9)</p></entry>
+                        <entry><p outputclass="Table-Cell">18-1/4 (46.36)</p></entry>
+                        <entry><p outputclass="Table-Cell">460 (208)</p></entry>
+                        <entry><p outputclass="Table-Cell">490 (220)</p></entry>
+                    </row>
+                    <row>
+                        <entry><p outputclass="Table-Cell">BTH 150</p></entry>
+                        <entry><p outputclass="Table-Cell">76-1/2 (194.9)</p></entry>
+                        <entry><p outputclass="Table-Cell">56-3/8 (143.2)</p></entry>
+                        <entry><p outputclass="Table-Cell">27-3/4 (70.5)</p></entry>
+                        <entry><p outputclass="Table-Cell">6-5/16 (16)</p></entry>
+                        <entry><p outputclass="Table-Cell">3 (7.62)</p></entry>
+                        <entry><p outputclass="Table-Cell">64 (162.6)</p></entry>
+                        <entry><p outputclass="Table-Cell">11-1/4 (28.6)</p></entry>
+                        <entry><p outputclass="Table-Cell">70 (177.8)</p></entry>
+                        <entry><p outputclass="Table-Cell">75-1/2 (191.8)</p></entry>
+                        <entry><p outputclass="Table-Cell">18-1/4 (46.36)</p></entry>
+                        <entry><p outputclass="Table-Cell">523 (237)</p></entry>
+                        <entry><p outputclass="Table-Cell">553 (251)</p></entry>
+                    </row>
+                    <row>
+                        <entry><p outputclass="Table-Cell">BTH 199</p></entry>
+                        <entry><p outputclass="Table-Cell">76-1/2 (194.9)</p></entry>
+                        <entry><p outputclass="Table-Cell">56-3/8 (143.2)</p></entry>
+                        <entry><p outputclass="Table-Cell">27-3/4 (70.5)</p></entry>
+                        <entry><p outputclass="Table-Cell">6-5/16 (16)</p></entry>
+                        <entry><p outputclass="Table-Cell">3 (7.62)</p></entry>
+                        <entry><p outputclass="Table-Cell">64 (162.6)</p></entry>
+                        <entry><p outputclass="Table-Cell">11-1/4 (28.6)</p></entry>
+                        <entry><p outputclass="Table-Cell">70 (177.8)</p></entry>
+                        <entry><p outputclass="Table-Cell">75-1/2 (191.8)</p></entry>
+                        <entry><p outputclass="Table-Cell">18-1/4 (46.36)</p></entry>
+                        <entry><p outputclass="Table-Cell">523 (237)</p></entry>
+                        <entry><p outputclass="Table-Cell">553 (251)</p></entry>
+                    </row>
+                    <row>
+                        <entry><p outputclass="Table-Cell">BTH 250</p></entry>
+                        <entry><p outputclass="Table-Cell">76-1/2 (194.9)</p></entry>
+                        <entry><p outputclass="Table-Cell">56-3/8 (143.2)</p></entry>
+                        <entry><p outputclass="Table-Cell">27-3/4 (70.5)</p></entry>
+                        <entry><p outputclass="Table-Cell">6-5/16 (16)</p></entry>
+                        <entry><p outputclass="Table-Cell">3 (7.62)</p></entry>
+                        <entry><p outputclass="Table-Cell">64 (162.6)</p></entry>
+                        <entry><p outputclass="Table-Cell">11-1/4 (28.6)</p></entry>
+                        <entry><p outputclass="Table-Cell">70 (177.8)</p></entry>
+                        <entry><p outputclass="Table-Cell">75-1/2 (191.8)</p></entry>
+                        <entry><p outputclass="Table-Cell">18-1/4 (46.36)</p></entry>
+                        <entry><p outputclass="Table-Cell">523 (237)</p></entry>
+                        <entry><p outputclass="Table-Cell">553 (251)</p></entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+        <table frame="all" rowsep="1" colsep="1" id="bth_120_250_fuel_typ_cnnctn_sze_by_mdl">
+            <title>Fule Type/Connection Size by Model</title>
+            <tgroup cols="4" align="center">
+                <colspec colname="c1" colnum="1" colwidth="1*"/>
+                <colspec colname="c2" colnum="2" colwidth="1*"/>
+                <colspec colname="c3" colnum="3" colwidth="1*"/>
+                <colspec colname="c4" colnum="4" colwidth="1*"/>
+                <thead>
+                    <row>
+                        <entry ><p outputclass="Table-Column-Head">†Model</p></entry>
+                        <entry><p outputclass="Table-Column-Head">Series</p></entry>
+                        <entry><p outputclass="Table-Column-Head">Natural Gas</p></entry>
+                        <entry><p outputclass="Table-Column-Head">Propane Gas</p></entry>
+                    </row>
+                </thead>
+                <tbody>
+                    <row>
+                        <entry><p outputclass="Table-Cell">BTH 120</p></entry>
+                        <entry><p outputclass="Table-Cell">300/301</p></entry>
+                        <entry><p outputclass="Table-Cell">3/4 "NPT</p></entry>
+                        <entry><p outputclass="Table-Cell">3/4 "NPT</p></entry>
+                    </row>
+                    <row>
+                        <entry><p outputclass="Table-Cell">BTH 150</p></entry>
+                        <entry><p outputclass="Table-Cell">300/301</p></entry>
+                        <entry><p outputclass="Table-Cell">3/4 "NPT</p></entry>
+                        <entry><p outputclass="Table-Cell">3/4 "NPT</p></entry>
+                    </row>
+                    <row>
+                        <entry><p outputclass="Table-Cell">BTH 199</p></entry>
+                        <entry><p outputclass="Table-Cell">300/301</p></entry>
+                        <entry><p outputclass="Table-Cell">3/4 "NPT</p></entry>
+                        <entry><p outputclass="Table-Cell">3/4 "NPT</p></entry>
+                    </row>
+                    <row>
+                        <entry><p outputclass="Table-Cell">BTH 250</p></entry>
+                        <entry><p outputclass="Table-Cell">300/301</p></entry>
+                        <entry><p outputclass="Table-Cell">3/4 "NPT</p></entry>
+                        <entry><p outputclass="Table-Cell">3/4 "NPT</p></entry>
+                    </row>
+                    <row>
+                        <entry namest="c1" nameend="c4">† Depending on the installed equivalent
+                            length, and/or the number of appliances connected, the supply gas line
+                            size may have to be increased beyond the minimum required sizes - see
+                            Gas Line Sizing on page 40.</entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+        <table frame="all" rowsep="1" colsep="1" id="bth_120_250_strge_cpcts">
+            <title>Storage Capacities</title>
+            <tgroup cols="3" align="center">
+                <colspec colname="c1" colnum="1" colwidth="1*"/>
+                <colspec colname="c2" colnum="2" colwidth="1*"/>
+                <colspec colname="c3" colnum="3" colwidth="1*"/>
+                <thead>
+                    <row>
+                        <entry><p outputclass="Table-Column-Head">Model</p></entry>
+                        <entry><p outputclass="Table-Column-Head">U. S. Gallons</p></entry>
+                        <entry><p outputclass="Table-Column-Head">Liters</p></entry>
+                    </row>
+                </thead>
+                <tbody>
+                    <row>
+                        <entry><p outputclass="Table-Cell">BTH 120</p></entry>
+                        <entry><p outputclass="Table-Cell"></p></entry>
+                        <entry><p outputclass="Table-Cell"></p></entry>
+                    </row>
+                    <row>
+                        <entry><p outputclass="Table-Cell">BTH 150</p></entry>
+                        <entry><p outputclass="Table-Cell"></p></entry>
+                        <entry><p outputclass="Table-Cell"></p></entry>
+                    </row>
+                    <row>
+                        <entry><p outputclass="Table-Cell">BTH 199</p></entry>
+                        <entry><p outputclass="Table-Cell"></p></entry>
+                        <entry><p outputclass="Table-Cell"></p></entry>
+                    </row>
+                    <row>
+                        <entry><p outputclass="Table-Cell">BTH 250</p></entry>
+                        <entry><p outputclass="Table-Cell"></p></entry>
+                        <entry><p outputclass="Table-Cell"></p></entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+        <table frame="all" rowsep="1" colsep="1" id="bth_120_250_gas_prssre_rqrmnts">
+            <title>Gas Pressure Requirements</title>
+            <tgroup cols="7" align="center">
+                <colspec colname="c1" colnum="1" colwidth="1*"/>
+                <colspec colname="c2" colnum="2" colwidth="1*"/>
+                <colspec colname="c3" colnum="3" colwidth="1*"/>
+                <colspec colname="c4" colnum="4" colwidth="1*"/>
+                <colspec colname="c5" colnum="5" colwidth="1*"/>
+                <colspec colname="c6" colnum="6" colwidth="1*"/>
+                <colspec colname="c7" colnum="7" colwidth="1*"/>
+                <thead>
+                    <row>
+                        <entry><p outputclass="Table-Column-Head">Model</p></entry>
+                        <entry namest="c2" nameend="c3">
+                            <p outputclass="Table-Column-Head">*Manifold Pressure</p>
+                        </entry>
+                        <entry namest="c4" nameend="c5">
+                            <p outputclass="Table-Column-Head">Minimum Supply Pressure</p>
+                        </entry>
+                        <entry namest="c6" nameend="c7">
+                            <p outputclass="Table-Column-Head">Maximum Supply Pressure</p>
+                        </entry>
+                    </row>
+
+                    <row>
+                        <entry><p outputclass="Table-Column-Head"></p></entry>
+                        <entry><p outputclass="Table-Column-Head">Natural Gas</p></entry>
+                        <entry><p outputclass="Table-Column-Head">Propane Gas</p></entry>
+                        <entry><p outputclass="Table-Column-Head">Natural Gas</p></entry>
+                        <entry><p outputclass="Table-Column-Head">Propane Gas</p></entry>
+                        <entry><p outputclass="Table-Column-Head">Natural Gas</p></entry>
+                        <entry><p outputclass="Table-Column-Head">Propane Gas</p></entry>
+                    </row>
+                </thead>
+                <tbody>
+                    <row>
+                        <entry><p outputclass="Table-Cell">BTH 120</p></entry>
+                        <entry><p outputclass="Table-Cell">0" W.C. (0 kPa)</p></entry>
+                        <entry><p outputclass="Table-Cell">0" W.C. (0 kPa)</p></entry>
+                        <entry><p outputclass="Table-Cell">3.5” W. C. (1.10 kPa)</p></entry>
+                        <entry><p outputclass="Table-Cell">8.5” W. C. (2.12 kPa)</p></entry>
+                        <entry><p outputclass="Table-Cell">14” W. C. (3.49 kPa)</p></entry>
+                        <entry><p outputclass="Table-Cell">14” W. C. (3.49 kPa)</p></entry>
+                    </row>
+                    <row>
+                        <entry><p outputclass="Table-Cell">BTH 150</p></entry>
+                        <entry><p outputclass="Table-Cell">0" W.C. (0 kPa)</p></entry>
+                        <entry><p outputclass="Table-Cell">0" W.C. (0 kPa)</p></entry>
+                        <entry><p outputclass="Table-Cell">3.5” W. C. (1.10 kPa)</p></entry>
+                        <entry><p outputclass="Table-Cell">8.5” W. C. (2.12 kPa)</p></entry>
+                        <entry><p outputclass="Table-Cell">14” W. C. (3.49 kPa)</p></entry>
+                        <entry><p outputclass="Table-Cell">14” W. C. (3.49 kPa)</p></entry>
+                    </row>
+                    <row>
+                        <entry><p outputclass="Table-Cell">BTH 199</p></entry>
+                        <entry><p outputclass="Table-Cell">0” W. C. (0 kPa)</p></entry>
+                        <entry><p outputclass="Table-Cell">0" W.C. (0 kPa)</p></entry>
+                        <entry><p outputclass="Table-Cell">3.5” W. C. (1.10 kPa)</p></entry>
+                        <entry><p outputclass="Table-Cell">8.5” W. C. (2.12 kPa)</p></entry>
+                        <entry><p outputclass="Table-Cell">14” W. C. (3.49 kPa)</p></entry>
+                        <entry><p outputclass="Table-Cell">14” W. C. (3.49 kPa)</p></entry>
+                    </row>
+                    <row>
+                        <entry><p outputclass="Table-Cell">BTH 250</p></entry>
+                        <entry><p outputclass="Table-Cell">0” W. C. (0 kPa)</p></entry>
+                        <entry><p outputclass="Table-Cell">0" W.C. (0 kPa)</p></entry>
+                        <entry><p outputclass="Table-Cell">3.5” W. C. (1.10 kPa)</p></entry>
+                        <entry><p outputclass="Table-Cell">8.5” W. C. (2.12 kPa)</p></entry>
+                        <entry><p outputclass="Table-Cell">14” W. C. (3.49 kPa)</p></entry>
+                        <entry><p outputclass="Table-Cell">14” W. C. (3.49 kPa)</p></entry>
+                    </row>
+                    <row>
+                        <entry><p outputclass="Table-Cell"></p></entry>
+                        <entry><p outputclass="Table-Cell"></p></entry>
+                        <entry><p outputclass="Table-Cell"></p></entry>
+                        <entry><p outputclass="Table-Cell"></p></entry>
+                        <entry><p outputclass="Table-Cell"></p></entry>
+                        <entry><p outputclass="Table-Cell"></p></entry>
+                        <entry><p outputclass="Table-Cell"></p></entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+        <table frame="all" rowsep="1" colsep="1" id="bth_120_250_rcvry_cpcts">
+            <title>Recovery Capacities</title>
+            <tgroup cols="18" align="center">
+                <colspec colname="c1" colnum="1" colwidth="1*"/>
+                <colspec colname="c2" colnum="2" colwidth="1*"/>
+                <colspec colname="c3" colnum="3" colwidth="1*"/>
+                <colspec colname="c4" colnum="4" colwidth="1*"/>
+                <colspec colname="c5" colnum="5" colwidth="1*"/>
+                <colspec colname="c7" colnum="6" colwidth="1*"/>
+                <colspec colname="c8" colnum="7" colwidth="1*"/>
+                <colspec colname="c9" colnum="8" colwidth="1*"/>
+                <colspec colname="c10" colnum="9" colwidth="1*"/>
+                <colspec colname="c11" colnum="10" colwidth="1*"/>
+                <colspec colname="c12" colnum="11" colwidth="1*"/>
+                <colspec colname="c13" colnum="12" colwidth="1*"/>
+                <colspec colname="c14" colnum="13" colwidth="1*"/>
+                <colspec colname="c15" colnum="14" colwidth="1*"/>
+                <colspec colname="c16" colnum="15" colwidth="1*"/>
+                <colspec colname="c17" colnum="16" colwidth="1*"/>
+                <colspec colname="c18" colnum="17" colwidth="1*"/>
+                <colspec colname="newCol18" colnum="18" colwidth="1*"/>
+                <thead>
+                    <row>
+                        <entry morerows="2">
+                            <p outputclass="Table-Column-Head">Model</p>
+                        </entry>
+                        <entry morerows="2">
+                            <p outputclass="Table-Column-Head">Type of Gas</p>
+                        </entry>
+                        <entry namest="c3" nameend="c4">
+                            <p outputclass="Table-Column-Head">Input</p>
+                        </entry>
+                        <entry morerows="2">
+                            <p outputclass="Table-Column-Head">Thermal Efficiency %</p>
+                        </entry>
+                        <entry namest="c7" nameend="c18">
+                            <p outputclass="Table-Column-Head">U. S. Gallons/hr &amp; Liter/hr at
+                                Temperature Rise Indicatd</p>
+                        </entry>
+                        <entry/>
+                    </row>
+                    <row>
+                        <entry morerows="1">
+                            <p outputclass="Table-Column-Head">BTu/hr</p>
+                        </entry>
+                        <entry morerows="1">
+                            <p outputclass="Table-Column-Head">kW</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Column-Head">°F</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Column-Head">30°F</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Column-Head">40°F</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Column-Head">50°F</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Column-Head">60°F</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Column-Head">70°F</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Column-Head">80°F</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Column-Head">90°F</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Column-Head">100°F</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Column-Head">110°F</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Column-Head">120°F</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Column-Head">130°F</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Column-Head">140°F</p>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry>
+                            <p outputclass="Table-Column-Head">°C</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Column-Head">17°C</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Column-Head">22°C</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Column-Head">28°C</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Column-Head">33°C</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Column-Head">39°C</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Column-Head">44°C</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Column-Head">50°C</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Column-Head">56°C</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Column-Head">61°C</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Column-Head">67°C</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Column-Head">72°C</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Column-Head">78°C</p>
+                        </entry>
+                    </row>
+                </thead>
+                <tbody>
+                    <row>
+                        <entry morerows="1">
+                            <p outputclass="Table-Cell">BTH 120</p>
+                            <p outputclass="Table-Cell" id="p_nhj_wcy_t1b"/>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell">Natural Gas</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell"/>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell"/>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell"/>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell"/>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell"/>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell"/>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell"/>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell"/>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell"/>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell"/>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell"/>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell"/>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell"/>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell"/>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell"/>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell"/>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry>
+                            <p outputclass="Table-Cell">Propane</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell"/>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell"/>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell"/>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell"/>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell"/>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell"/>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell"/>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell"/>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell"/>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell"/>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell"/>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell"/>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell"/>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell"/>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell"/>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell"/>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry>
+                            <p outputclass="Table-Cell">BTH 150</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell">Natural Gas</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell"/>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell"/>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell"/>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell"/>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell"/>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell"/>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell"/>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell"/>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell"/>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell"/>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell"/>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell"/>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell"/>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell"/>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell"/>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell"/>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry>
+                            <p outputclass="Table-Cell"/>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell">Propane</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell"/>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell"/>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell"/>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell"/>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell"/>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell"/>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell"/>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell"/>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell"/>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell"/>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell"/>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell"/>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell"/>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell"/>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell"/>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell"/>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry>
+                            <p outputclass="Table-Cell">BTH 199</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell">Natural Gas</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell"/>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell"/>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell"/>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell"/>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell"/>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell"/>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell"/>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell"/>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell"/>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell"/>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell"/>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell"/>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell"/>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell"/>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell"/>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell"/>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry>
+                            <p outputclass="Table-Cell"/>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell">Propane</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell"/>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell"/>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell"/>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell"/>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell"/>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell"/>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell"/>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell"/>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell"/>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell"/>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell"/>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell"/>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell"/>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell"/>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell"/>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell"/>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry>
+                            <p outputclass="Table-Cell"/>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell">Natural Gas</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell"/>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell"/>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell"/>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell"/>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell"/>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell"/>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell"/>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell"/>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell"/>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell"/>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell"/>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell"/>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell"/>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell"/>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell"/>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell"/>
+                        </entry>
+                    </row>
+
+                    <row>
+                        <entry>
+                            <p outputclass="Table-Cell"/>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell">Propane</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell"/>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell"/>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell"/>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell"/>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell"/>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell"/>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell"/>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell"/>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell"/>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell"/>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell"/>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell"/>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell"/>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell"/>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell"/>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell"/>
+                        </entry>
+                    </row>
+
+                </tbody>
+            </tgroup>
+        </table>
+    </conbody>
+</concept>

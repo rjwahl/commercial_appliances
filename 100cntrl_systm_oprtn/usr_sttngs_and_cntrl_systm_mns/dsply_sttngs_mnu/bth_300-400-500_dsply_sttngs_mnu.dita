@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><concept xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="concept_lcp_hc4_qbb" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:concept.xsd">
+    <title>Display Settings Menu</title>
+    <shortdesc/>
+    <conbody>
+        <table frame="all" rowsep="1" colsep="1" id="table_zj3_x2w_1cb">
+            <title>Display Settings</title>
+            <tgroup cols="2" align="left">
+                <colspec colname="c1" colnum="1" colwidth="1*" align="left"/>
+                <colspec colname="c2" colnum="2" colwidth="1*" align="center"/>
+                <thead>
+                    <row>
+                        <entry>Description/Action</entry>
+                        <entry>Display</entry>
+                    </row>
+                </thead>
+                <tbody>
+                    <row>
+                        <entry>
+                            <p id="p_h5w_hc4_qbb">Select <uicontrol>Display Settings</uicontrol>
+                                from the Main menu to enter this menu. This menu contains adjustable
+                                display options for viewing information on the UIM’s screen. Use the
+                                slidebar to navigate the menu.</p>
+                            <ul id="ul_kms_y2w_1cb">
+                                <li><uicontrol>Temperature Units</uicontrol> - Adjustable user
+                                    setting that changes temperature units display to Celsius °C or
+                                    Fahrenheit °F.</li>
+                                <li><uicontrol>Backlight Delay</uicontrol> - Adjustable user setting
+                                    that determines how long the UIM’s LCD backlight remains
+                                    illuminated after a key has been pressed. Available settings
+                                    are; Always Off, 10, 30 or 60 seconds and Always On.</li>
+                                <li><uicontrol>Contrast </uicontrol>- Adjustable user setting to
+                                    adjust the UIM’s LCD screen contrast between text and
+                                    background.</li>
+                            </ul>
+                            <note>These settings are adjusted in the same way described for the
+                                  <xref keyref="sec:Operating_Set_Point_and_Differential_Adjustment"/>.</note>
+                        </entry>
+                        <entry><image keyref="img:UIM_display_settings_menu" id="image_b3y_sc4_qbb" width="400"/></entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+    </conbody>
+</concept>

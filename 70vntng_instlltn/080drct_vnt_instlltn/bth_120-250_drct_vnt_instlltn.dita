@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?><task xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="task_thh_zhj_fbb" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:task.xsd">
+    <title>Direct Vent Installation</title>
+    <shortdesc/>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Read the <xref keyref="sec:General_Venting_Instructions"/> and
+                    <xref keyref="sec:Venting_Requirements"/> before proceeding. These instructions and
+                    requirements must be followed in addition to the instructions below that are
+                    specific for Direct Vent configurations.</cmd>
+            </step>
+            <step>
+                <cmd>Determine which Direct Vent arrangement will be used for the installation.
+                    There are seven Direct Vent arrangement options. 
+                    See <xref keyref="sec:Venting_Arrangements/fig_drct_vnt_vrtcl"/> through
+                    <xref keyref="sec:Venting_Arrangements/fig_drct_vnt_hrzntl_low_prfle"/>.</cmd>
+            </step>
+            <step>
+                <cmd>Determine vent and intake air pipe size to be used for the installation. 
+                    See <xref keyref="sec:Venting_Requirements"/>.</cmd>
+            </step>
+            <step>
+                <cmd>Plan the layout of the vent and intake air piping backwards from the
+                    termination point outdoors to the water heater. Layout the vent and intake air
+                    piping to use a minimum of pipe and elbows.</cmd>
+            </step>
+            <step>
+                <cmd>Install the terminations first.</cmd>
+                <info>
+                    <ul id="ul_azx_g3j_fbb">
+                        <li>If standard terminations are being used and the intake air or vent
+                            piping will terminate vertically, through a roof.
+                            See <xref keyref="sec:Vertical_Termination_Installation"/>.</li>
+                        <li>If standard terminations are being used and the intake air or vent
+                            piping will terminate horizontally, through a sidewall.
+                            See <xref keyref="sec:Sidewall_Termination_Installation"/>. </li>
+                        <li>If a concentric termination(s) will be used,
+                            see <xref keyref="sec:Concentric_Termination_Installation_Preparation"/>.</li>
+                        <li>If a low-profile termination will be used 
+                            see <xref keyref="sec:Low-Profile_Vent_Termination_Installation"/>.</li>
+                    </ul>
+                </info>
+            </step>
+            <step>
+                <cmd>When installation of the termination(s) is complete, install necessary piping
+                    and fittings to route the intake air and vent piping back to the water
+                    heater.</cmd>
+            </step>
+            <step>
+                <cmd>The intake air and vent piping shall be supported properly to avoid bending or
+                    failure. The water heater manufacturer recommends that the vent and intake air
+                    piping be supported every 5 feet (152 cm) of vertical run and every 3 feet (91
+                    cm) of horizontal run.</cmd>
+            </step>
+            <step>
+                <cmd>Do not install the vent or intake air piping in a manner that will allow water
+                    to be trapped in the piping.</cmd>
+            </step>
+            <step>
+                <cmd>A field-supplied condensate Tee fitting and drain hose shall be installed in
+                    the intake air piping near the water heater in colder climates with heavy snow
+                    accumulations and in areas that regularly experience high humidity. The drain
+                    hose should be routed to an adequate floor drain separate from any other
+                    condensate drains.
+                    See <xref keyref="sec:Direct_Vent_Installation/fig_Intake_Air_Condensate_Tee_Installation"/>.</cmd>
+                <info>
+                    <note>Snow being pulled into the intake air piping and then melting can lead to
+                        excessive amounts of water accumulation and damage water heater components.
+                        Warm, humid outdoor air can lead to excessive condensation inside the intake
+                        air piping and may also damage water heater components.</note>
+                </info>
+            </step>
+            <step>
+                <cmd>The intake air and vent (exhaust) piping must be pitched a minimum of a 1/4
+                    inch per foot back to the water heater (to allow drainage of condensate).</cmd>
+            </step>
+            <step>
+                <cmd>If installing three-inch vent pipe connect the vent pipe to the exhaust elbow
+                    on the water heater.</cmd>
+            </step>
+            <step>
+                <cmd>If installing two- or four-inch vent pipe, transition to three-inch pipe at the
+                    exhaust elbow on the water heater as shown in 
+                    <xref keyref="sec:Power_Vent_Installation/fig_power_vent_exhaust_connection"/>. 
+                    The field installed three-inch pipe between the exhaust elbow and the reducer 
+                    coupling should be 18 inches (45 cm) or less in length.</cmd>
+                <info>
+                    <fig id="fig_Intake_Air_Condensate_Tee_Installation">
+                        <title>Intake Air Condensate Tee Installation</title>
+                        <image keyref="img:Intake_Air_Condensate_Tee_Installation" id="image_wtm_fq3_ybb"/>
+                    </fig>
+                </info>
+            </step>
+            <step>
+                <cmd>Ensure the Intake Air Screen on the Intake Air Connection to the water heater
+                    is removed before connecting the intake air pipe to the water heater. See <xref keyref="sec:Direct_Vent_Installation/fig_intke_air_scrn"/>.</cmd>
+                <info>
+                    <hazardstatement conkeyref="wmsg:warning_brthg_hzrd-insuation_air-intake">
+                        <messagepanel>
+                            <typeofhazard/>
+                            <consequence/>
+                            <howtoavoid/>
+                        </messagepanel>
+                        <hazardsymbol/>
+                    </hazardstatement>
+                </info>
+                <info>
+                    <note>Do not leave the screen inside the Intake Air Connection for Direct Vent
+                        installations. Once the intake air pipe is installed the screen will be
+                        hidden from view and may become clogged with debris over time. This will
+                        cause improper combustion and may also lead to Blocked Intake Air fault
+                        conditions and associated control system lock outs.</note>
+                    <fig id="fig_intke_air_scrn">
+                        <title>Intake Air Screen</title>
+                        <image keyref="img:Intake_Air_Screen" id="image_jhq_csp_fbb" width="500px"/>
+                    </fig>
+                </info>
+            </step>
+            <step>
+                <cmd>If installing three-inch intake air pipe connect the intake air pipe to the
+                    intake air connection on the water heater.</cmd>
+            </step>
+            <step>
+                <cmd>If installing two- or four-inch intake air pipe, transition to three-inch pipe
+                    at the intake air connection on the water heater as shown in <xref keyref="sec:Direct_Vent_Installation/fig_intke_air_cnnctn"/>.. The field installed three-inch
+                    pipe between the intake air connection and the reducer coupling should be 18
+                    inches (45 cm) or less in length.</cmd>
+                <info>
+                    <fig id="fig_intke_air_cnnctn">
+                        <title>Intake Air Connection</title>
+                        <image keyref="img:Intake_Air_Connection" id="image_eqv_vsp_fbb" width="500px"/>
+                    </fig>
+                </info>
+            </step>
+        </steps>
+    </taskbody>
+</task>

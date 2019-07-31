@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><concept xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="concept_vsg_xcc_fbb" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:concept.xsd">
+    <title>Circulation Pumps</title>
+    <shortdesc/>
+    <conbody>
+        <p id="p_fyg_ycc_fbb">A circulating pump is used when a system requires a circulating loop
+            or there is a storage tank used in conjunction with the water heater. The tank is
+            provided with a 3/4" NPT recirculation loop return connection.
+            See <xref keyref="sec:Rough_In_Dimensions/fig_rough_in_dimensions"/> for its location.
+            See <xref keyref="sec:Water_Piping_Diagrams/"/> for installation location of circulating pumps. </p>
+        <p id="p_gyg_ycc_fbb">See <xref keyref="sec:Circulation_Pump_Wiring_Diagrams"/> for
+            electrical hookup information. Install in accordance with the current edition of the <i outputclass="Cite">National Electrical Code, NFPA 70</i> or the <i outputclass="Cite">Canadian Electrical Code, CSA C22.1</i>.</p>
+        <p id="p_hyg_ycc_fbb">Stainless steel circulating pumps are recommended for use with
+            commercial water heaters.</p>
+        <p id="p_iyg_ycc_fbb">Refer to the circulating pump manufacturer’s instructions for its
+            operation, lubrication, and maintenance instructions.</p>
+    </conbody>
+</concept>

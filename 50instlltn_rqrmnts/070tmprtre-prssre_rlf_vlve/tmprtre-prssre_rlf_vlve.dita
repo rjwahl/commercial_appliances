@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><concept xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="concept_zdy_zbx_1bb" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:concept.xsd">
+    <title>Temperature-Pressure Relief Valve</title>
+    <shortdesc/>
+    <conbody>
+        <p>This water heater is provided with a properly rated/sized and certified combination
+            Temperature-Pressure Relief Valve (T &amp; P valve) by the manufacturer. The valve is
+            certified by a nationally recognized testing laboratory that maintains periodic
+            inspection of production of listed equipment of materials as meeting the requirements
+            for <i outputclass="Cite">Relief Valves for Hot Water Supply Systems, ANSI Z21.22</i> • <i outputclass="Cite">CSA 4.4</i>, and
+            the code requirements of <i outputclass="Cite">ASME</i>.</p>
+        <hazardstatement conkeyref="wmsg:burn_hazard-hot_water">
+            <messagepanel id="messagepanel_inx_bcx_1bb">
+                <typeofhazard/>
+                <howtoavoid/>
+            </messagepanel>
+        </hazardstatement>
+        <p id="p_hgh_ncx_1bb">If replaced, the new T&amp;P valve must meet the requirements of local
+            codes, but not less than a combination Temperature-Pressure Relief Valve rated/sized and
+            certified as indicated in the above paragraph. The new valve must be marked with a
+            maximum set pressure not to exceed the marked hydrostatic working pressure of the water
+            heater (150 psi = 1,035 kPa) and a discharge capacity not less than the water heater
+            Btu/hr or kW input rate as shown on the water heater’s model rating label.</p>
+        <note> In addition to the factory installed Temperature-Pressure Relief Valve on the water
+            heater, each remote storage tank that may be installed and piped to a water heating
+            appliance must also have its own properly sized, rated and approved Temperature-Pressure
+            Relief Valve installed. Call the toll free technical support phone number listed on the
+            back cover of this manual for technical assistance in sizing a Temperature-Pressure
+            Relief Valve for remote storage tanks.</note>
+        <p id="p_jgh_ncx_1bb">For safe operation of the water heater, the Temperature-Pressure
+            Relief Valve must not be removed from its designated opening nor plugged. The
+            Temperature-Pressure Relief Valve must be installed directly into the fitting of the
+            water heater designed for the relief valve. Install discharge piping so that any
+            discharge will exit the pipe within <keyword keyref="TP_drain_clearance"/> above an adequate floor drain,
+            or external to the building. In cold climates it is recommended that it be terminated at
+            an adequate drain inside the building. Be certain that no contact is made with any live
+            electrical part. The discharge opening must not be blocked or reduced in size under any
+            circumstances. Excessive length, over 30 feet (9.14 m), or use of more than four elbows
+            can cause restriction and reduce the discharge capacity of the valve.</p>
+        <p id="p_kgh_ncx_1bb">No valve or other obstruction is to be placed between the
+            Temperature-Pressure Relief Valve and the tank. Do not connect discharge piping directly
+            to the drain unless a <keyword keyref="TP_drain_clearance"/> air gap is provided. To prevent bodily
+            injury, hazard to life, or property damage, the relief valve must be allowed to
+            discharge water in adequate quantities if circumstances demand. If the discharge pipe is
+            not connected to a drain or other suitable means, the water flow may cause property
+            damage.</p>
+        <hazardstatement conkeyref="wmsg:burn_hazard-hot_water">
+            <messagepanel id="messagepanel_u4j_ffx_1bb">
+                <typeofhazard/>
+                <howtoavoid/>
+            </messagepanel>
+        </hazardstatement>
+    </conbody>
+</concept>

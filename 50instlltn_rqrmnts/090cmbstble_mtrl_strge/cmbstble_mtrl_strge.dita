@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><concept xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="concept_rbk_vvx_1bb" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:concept.xsd">
+    <title>Combustible Material Storage</title>
+    <shortdesc/>
+    <conbody>
+        <p id="p_wbv_wvx_1bb">Keep water heater area clear and free of combustible materials,
+            gasoline, and other flammable vapors and liquids.</p>
+        <hazardstatement conref="../../hzrd_sttmnts/hzrd_sttmnts.dita#topic_gjt_5pg_x1b/fre_or_explsn_hzrd-flmble_strge">
+            <messagepanel id="messagepanel_xgs_1wx_1bb">
+                <typeofhazard/>
+                <howtoavoid/>
+            </messagepanel>
+        </hazardstatement>
+    </conbody>
+</concept>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><task xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="task_bg1_ky4_hbb" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:task.xsd">
+    <title>Noisy Operation</title>
+    <shortdesc/>
+    <taskbody>
+        <context>
+            <ul id="ul_sc2_ly4_hbb">
+                <li>Sediment or lime-scale accumulations can cause rumbling and pounding noises
+                    during heating cycles. See <xref keyref="sec:Sediment_Removal"/> and <xref keyref="sec:Lime_Scale_Removal"/> for sediment and lime-scale removal
+                    procedures.</li>
+                <li>Normal operating noise of electrical components; combustion blower, transformer
+                    hum, relay contact closure.</li>
+            </ul>
+        </context>
+    </taskbody>
+</task>

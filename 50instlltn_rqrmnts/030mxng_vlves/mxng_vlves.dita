@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?><concept xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="concept_dg1_tvv_1bb" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:concept.xsd">
+    <title>Mixing Valves</title>
+    <shortdesc/>
+    <conbody>
+        <p>Water heated to a temperature which will satisfy clothes washing, dish washing, and other
+            sanitizing needs can scald and cause permanent injury upon contact. Short repeated
+            heating cycles caused by small hot water uses can cause temperatures at the point of use
+            to exceed the water heater’s temperature setting by up to 20°F (11°C).</p>
+        <p id="p_khg_rfw_1bb">
+            <hazardstatement conkeyref="wmsg:burn_hazard-hot_water">
+                <messagepanel id="messagepanel_pph_vfw_1bb">
+                    <typeofhazard/>
+                    <howtoavoid/>
+                </messagepanel>
+            </hazardstatement>
+        </p>
+        <p id="p_hgp_bgw_1bb">Some people are more likely to be permanently injured by hot water
+            than others. These include the elderly, children, the infirm and the physically/mentally
+            disabled. 
+            <xref keyref="sec:Mixing_Valves/burn_time_at_various_temps"/> 
+            shows the approximate time-to-burn relationship for normal adult skin.
+            If anyone using hot water provided by the water heater being installed fits into one of
+            these groups or if there is a local code or state law requiring a certain water
+            temperature at the point of use, then special precautions must be taken.</p>
+        <p id="p_igp_bgw_1bb">In addition to using the lowest possible temperature setting that
+            satisfies the demand of the application, a mixing valve should be installed at the water
+            heater or at the hot water taps to further reduce system water temperature. 
+            See <xref keyref="sec:Mixing_Valves/mixing_valve_example"/>.</p>
+        <p id="p_jgp_bgw_1bb">Mixing valves are available at plumbing supply stores. Consult a <i outputclass="Emphasis">Qualified Installer</i> or <i outputclass="Emphasis">Service
+                Agency</i>. Follow mixing valve manufacturer’s instructions for installation of the
+            valves.</p>
+        <fig id="fig_mixing_valve_example">
+            <title>Mixing Valve</title>
+            <image keyref="img:mixing_valve_example" alt="Mixing Valve" width="500px" id="image_qrm_rtq_mbb"/>
+        </fig>
+
+
+        <table frame="all" rowsep="1" colsep="1" id="table_burn_time_at_various_temps">
+            <title>Burn Time at Various Temperatures</title>
+            <tgroup cols="3" align="center">
+                <colspec colname="c1" colnum="1" colwidth="1*"/>
+                <colspec colname="c2" colnum="2" colwidth="1*"/>
+                <colspec colname="c3" colnum="3" colwidth="1*"/>
+                <thead>
+
+                    <row>
+                        <entry>
+                            <p id="p_xgd_5hw_1bb" outputclass="Table-Column-Head-Small">Water Temperature °F (°C)</p>
+                        </entry>
+                        <entry>
+                            <p id="p_zgx_5hw_1bb" outputclass="Table-Column-Head-Small">Time for 1st Degree Burn (Less Severe Burns)</p>
+                        </entry>
+                        <entry>
+                            <p id="p_tcn_vhw_1bb" outputclass="Table-Column-Head-Small">Time for Permanent Burns 2nd &amp; 3rd Degree
+                                (Most Severe Burns)</p>
+                        </entry>
+                    </row>
+                    
+                </thead>
+                <tbody>
+                    
+                    <row>
+                        <entry><p outputclass="Table-Cell-Small-Centered">110 (43)</p></entry>
+                        <entry><p outputclass="Table-Cell-Small-Centered">(normal shower temp.)</p></entry>
+                        <entry><p outputclass="Table-Cell-Small-Centered">No burns</p></entry>
+                    </row>
+                    <row>
+                        <entry><p outputclass="Table-Cell-Small-Centered">116 (47)</p></entry>
+                        <entry><p outputclass="Table-Cell-Small-Centered">(pain threshold)</p></entry>
+                        <entry><p outputclass="Table-Cell-Small-Centered">No burns</p></entry>
+                    </row>
+                    <row>
+                        <entry><p outputclass="Table-Cell-Small-Centered">116 (47)</p></entry>
+                        <entry><p outputclass="Table-Cell-Small-Centered">35 minutes</p></entry>
+                        <entry>45 minutes</entry>
+                    </row>
+                    <row>
+                        <entry><p outputclass="Table-Cell-Small-Centered">122 (50)</p></entry>
+                        <entry><p outputclass="Table-Cell-Small-Centered">1 minute</p></entry>
+                        <entry>5 minutes</entry>
+                    </row>
+                    <row>
+                        <entry><p outputclass="Table-Cell-Small-Centered">131 (55)</p></entry>
+                        <entry><p outputclass="Table-Cell-Small-Centered">5 seconds</p></entry>
+                        <entry><p outputclass="Table-Cell-Small-Centered">25 seconds</p></entry>
+                    </row>
+                    <row>
+                        <entry><p outputclass="Table-Cell-Small-Centered">140 (60)</p></entry>
+                        <entry><p outputclass="Table-Cell-Small-Centered">2 seconds</p></entry>
+                        <entry><p outputclass="Table-Cell-Small-Centered">5 seconds</p></entry>
+                    </row>
+                    <row>
+                        <entry><p outputclass="Table-Cell-Small-Centered">149 (65)</p></entry>
+                        <entry><p outputclass="Table-Cell-Small-Centered">1 second</p></entry>
+                        <entry><p outputclass="Table-Cell-Small-Centered">2 seconds</p></entry>
+                    </row>
+                    <row>
+                        <entry><p outputclass="Table-Cell-Small-Centered">154 (68)</p></entry>
+                        <entry><p outputclass="Table-Cell-Small-Centered">instantaneous</p></entry>
+                        <entry><p outputclass="Table-Cell-Small-Centered">1 second</p></entry>
+                    </row>
+                    <row>
+                        <entry namest="c1" nameend="c3"><p outputclass="Table-Footnote">(U.S. Government Memorandum, C.P.S.C., Peter
+                            L. Armstrong, Sept. 15, 1978)</p></entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+    </conbody>
+</concept>

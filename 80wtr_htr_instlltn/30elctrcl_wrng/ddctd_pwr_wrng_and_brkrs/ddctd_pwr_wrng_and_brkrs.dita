@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><concept xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="concept_bnh_jf5_gbb" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:concept.xsd">
+    <title>Dedicated Power Wiring and Breakers</title>
+    <shortdesc/>
+    <conbody>
+        <p id="p_qsp_kf5_gbb">Dedicated power supply wires, neutral wires, ground wiring, and
+            dedicated circuit breakers often prevent electrical line noise and are required when
+            installing the water heater.</p>
+        <note id="p_rsp_kf5_gbb">This water heater should not be connected to its electrical supply
+            with a Ground Fault Circuit Interrupter (GFCI) or Arc Fault Circuit Interrupter (AFCI)
+            with Integral GFCI protection as defined in <i outputclass="Cite">NFPA 70, CSA C22.1</i>
+            and <i outputclass="Cite">UL 943</i>. </note>
+    </conbody>
+</concept>

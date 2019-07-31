@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><concept xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="concept_wr5_c5h_hbb" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:concept.xsd">
+    <title>Multiple Water Heater Installations</title>
+    <shortdesc/>
+    <conbody>
+        <p id="p_ply_d5h_hbb">In multiple water heater installations or in installations where the
+            installed water heater(s) share a common gas supply main with other gas fired
+            appliances, the supply gas pressures shall be measured at each water heater with all gas
+            fired appliances connected to a common main firing at full capacity.</p>
+        <p id="p_qly_d5h_hbb">On multiple water heater installations, the supply gas line regulators
+            shall be adjusted to provide gas pressure to each water heater within the minimum and
+            maximum supply pressure requirements listed in 
+            <xref keyref="sec:Rough_In_Dimensions/table_gas_prssre_rqrmnts"/> with all gas fired appliances connected
+            to a common gas main firing at full capacity.</p>
+        <note>A pressure drop of more than 1.5” W. C. (0.37 kPa) when the Main Burner ignites is an
+            indication of an inadequate supply of gas and can lead to ignition failure, rough starts,
+            and/or rough operation. If a drop of more than 1.5” W. C. (0.37 kPa) in supply gas
+            pressure occurs when the Main Burner ignites, ensure the supply gas lines and
+            regulator(s) are properly sized and installed. See the requirements for <xref keyref="sec:Gas_Supply_Systems"/>,  <xref keyref="sec:Supply_Gas_Line_Installation"/>,  and <xref keyref="sec:Supply_Gas_Regulator"/>. Ensure all requirements and
+            installation instructions are maintained.</note>
+    </conbody>
+</concept>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><concept xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="concept_bsg_23k_3bb" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:concept.xsd">
+    <title>Circulation Pump Wiring Diagrams</title>
+    <shortdesc/>
+    <conbody>
+        <fig id="fig_storage_tank_or_building_recirculation">
+            <title>Circulating Pump Wiring Diagram - Storage Tank or Building Recirculation</title>
+            <image keyref="img:crcltn_pmp_strge_tnk_or_bldng_recrcltn" id="image_ddm_33k_3bb" width="500px"/>
+        </fig>
+        <fig id="fig_dishwasher_loop_toggle_switch">
+            <title>Circulating Pump Wiring Diagram - Dishwasher Loop Toggle Switch</title>
+            <image keyref="img:crcltn_pmp_dsh_wshr_lp_tggle_swtch" id="image_lsp_l3k_3bb" width="500px"/>
+        </fig>
+    </conbody>
+</concept>

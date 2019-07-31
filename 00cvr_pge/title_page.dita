@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<concept id="concept_fr4_cg5_ndb" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:concept.xsd">
+    <title></title>
+    <prolog>
+        <author type="contributor">rjwahl</author>
+        <critdates>
+            <!--rjwahl-->
+            <revised modified="2018/09/25"/>
+        </critdates>
+    </prolog>
+    <conbody>
+        <table frame="all" id="table_Untitled6_ny1_mg5_ndb">
+            <tgroup cols="2">
+                <colspec colname="c1" colnum="1" colwidth="1*"/>
+                <colspec colname="c2" colnum="2" colwidth="1.13*" align="right"/>
+                <tbody>
+                    <row>
+                        <entry namest="c1" nameend="c2">Instruction Manual</entry>
+                    </row>
+                    <row>
+                        <entry namest="c1" nameend="c2">Commercial Gas Water Heaters</entry>
+                    </row>
+                    <row>
+                        <entry namest="c1" nameend="c2">
+                            <p id="p_Untitled6_ywq_5h5_ndb">POWER VENTED GAS MODELS W/HOT SURFACE
+                                IGNITION</p>
+                            <p id="p_Untitled6_zwq_5h5_ndb">120 Series Model</p>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry valign="top">
+                            <image href="../grphcs/title_page_grey_grid.svg" placement="break"
+                                id="image_Untitled6_tz4_g35_ndb" align="center" width="390"
+                                scalefit="no" height="600"/>
+                        </entry>
+                        <entry><image href="../grphcs/vertex-76-cover.svg"
+                                id="image_Untitled6_g32_nh5_ndb" align="center"/></entry>
+                    </row>
+                    <row>
+                        <entry namest="c1" nameend="c2" align="justify">ALL TECHNICAL AND WARRANTY
+                            QUESTIONS: SHOULD BE DIRECTED TO THE LOCAL DEALER FROM WHOM THE WATER
+                            HEATER WAS PURCHASED. IF YOU ARE UNSUCCESSFUL, PLEASE WRITE TO THE
+                            COMPANY LISTED ON THE RATING PLATE ON THE WATER HEATER.</entry>
+                    </row>
+                    <row>
+                        <entry namest="c1" nameend="c2" align="center">
+                            <p id="p_title_page_gbv_pk5_ndb">Keep this manual in the pocket on
+                                heater for future reference </p>
+                            <p id="p_title_page_hbv_pk5_ndb">Whenever maintenance adjustment or
+                                service is required.</p>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry>PRINTED ${env(current_date)}</entry>
+                        <entry>100282881_2000542556_Rev. C</entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+    </conbody>
+</concept>

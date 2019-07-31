@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<task id="task_rfr_kgg_ndb" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:task.xsd">
+    <title>Fill the Water Heater</title>
+    <shortdesc></shortdesc>
+    <taskbody>
+        <context>
+            <p></p>
+        </context>
+        <steps-unordered>
+            <step id="step_fill_the_storage_tank_A">
+                <cmd>Fill the water heater. See Filling the Water Heater.</cmd>
+            </step>
+        </steps-unordered>
+    </taskbody>
+</task>

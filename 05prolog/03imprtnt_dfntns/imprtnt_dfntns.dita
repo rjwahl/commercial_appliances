@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><concept xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="concept_gxd_brw_r1b" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:concept.xsd">
+    <title>Important Definitions</title>
+    <shortdesc/>
+    <conbody>
+        <ul id="ul_tgs_grw_r1b">
+            <li>Qualified Installer or Service Agency<p id="p_zb2_msw_r1b">Installation and service
+                    of this water heater requires ability equivalent to that of a Qualified Agency
+                    (as defined by <i outputclass="Cite">ANSI</i> below) in the field involved.
+                    Installation skills such as plumbing, electrical supply are required in addition
+                    to electrical testing skills when performing service.</p></li>
+            <li><i outputclass="Cite">ANSI Z223.1 2006 Sec. 3.3.83</i><p id="p_hc1_qsw_r1b"
+                    >“Qualified Agency” - “Any individual, firm, corporation or company that either
+                    in person or through a representative is engaged in and is responsible for (a)
+                    the installation, testing or replacement of gas piping or (b) the connection,
+                    installation, testing, repair or servicing of appliances and equipment; that is
+                    experienced in such work; that is familiar with all precautions required; and
+                    that has complied with all the requirements of the authority having
+                    jurisdiction.”</p></li>
+            <li><i>Gas Supplier</i><p id="p_imprtnt_dfntns_ncq_jqz_ndb">The Natural Gas or Propane
+                    Utility or service who supplies gas for utilization by the gas burning
+                    appliances within this application. The gas supplier typically has
+                    responsibility for the inspection and code approval of gas piping up to and
+                    including the Natural Gas meter or Propane storage tank of a building. Many gas
+                    suppliers also offer service and inspection of appliances within the
+                    building.</p></li>
+        </ul>
+    </conbody>
+</concept>

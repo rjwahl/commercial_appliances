@@ -1,0 +1,23 @@
+
+
+table.warning-title-cell {
+    background-color:orange;
+}
+.warning-title {
+    background-color:orange;
+    color:red;
+}
+entry.warning-title-cell {
+    background-color:orange;
+}
+table.warning thead {
+    background-color:orange;
+    
+}
+p.warning-title {
+    color:red;
+}
+
+p.typeofhazard {
+    color:green;
+}

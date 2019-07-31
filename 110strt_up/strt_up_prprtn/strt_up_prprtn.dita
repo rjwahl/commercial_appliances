@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><concept xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="concept_wsj_slh_hbb" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:concept.xsd">
+    <title>Start-Up Preparation</title>
+    <shortdesc/>
+    <conbody>
+        <p id="p_tft_tlh_hbb">Before attempting start up, thoroughly study and familiarize yourself
+            with the exact sequence of operation (see <xref keyref="sec:Sequence_of_Operation"/>). 
+            Ensure the water heater is properly grounded. Flame sensing requires an adequate earth ground. 
+            If the water heater is not properly grounded it will cause ignition failure.</p>
+        <p id="p_uft_tlh_hbb">Be certain that the water heater is full of water, that air is purged
+            from the gas and water lines, and that there are no leaks in the gas and water lines.
+            Ensure all inlet water valves are open.</p>
+    </conbody>
+</concept>

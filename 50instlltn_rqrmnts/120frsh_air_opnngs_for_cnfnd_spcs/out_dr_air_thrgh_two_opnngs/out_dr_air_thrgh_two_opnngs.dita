@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><concept xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="concept_nc4_msc_bbb" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:concept.xsd">
+    <title>Outdoor Air Through Two Openings</title>
+    <conbody>
+        <p>The confined space shall be provided with two permanent openings, one commencing within
+            12 inches (300 mm) of the top and one commencing within 12 inches (300 mm) of the bottom
+            of the enclosure. The openings shall communicate directly with the outdoors. 
+            See <xref keyref="sec:Outdoor_Air_Through_Two_Openings/fig_out_dr_air_thrgh_two_opnngs"/>.</p>
+        <fig id="fig_out_dr_air_thrgh_two_opnngs">
+            <title>Outdoor Air Through Two Openings</title>
+            <image keyref="img:air_req_outdoor_two_openings" width="500" id="image_nbd_mn4_qbb"/>
+        </fig>
+        <p id="p_arp_mn4_qbb">Each opening shall have a minimum free area of 1 square inch per 4,000
+            Btu/hr (550 mm<sup>2</sup> per kW) of the aggregate input rating of all appliances
+            installed in the enclosure. Each opening shall not be less than 100 square inches (645
+                cm<sup>2</sup>). </p></conbody>
+</concept>

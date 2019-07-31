@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><concept xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="concept_fr4_bn3_fbb" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:concept.xsd">
+    <title>Factory-Supplied Fittings</title>
+    <shortdesc/>
+    <conbody>
+        <p>The water heater ships with two factory-supplied three-inch terminations (PVC 45° elbows
+            with debris screen). Factory-supplied vent and intake air terminations, concentric, or
+            low-profile terminations must be used. Factory-supplied terminations and installed
+            fittings (exhaust/condensate elbow and intake air connection) add zero equivalent feet
+            to the vent and intake air piping.</p>
+        <table frame="all" rowsep="1" colsep="1" id="table_PVC_CPVC_plyprpylne_mximm_ft_by_ppe_dmtr_and_nmbr_of_elbws">
+            <title>PVC/CPVC Equivalent Length and Maximum Number of Elbows</title>
+            <tgroup cols="7" align="center">
+                <colspec colname="c1" colnum="1" colwidth="1*"/>
+                <colspec colname="c2" colnum="2" colwidth="1*"/>
+                <colspec colname="c3" colnum="3" colwidth="1*"/>
+                <colspec colname="c4" colnum="4" colwidth="1*"/>
+                <colspec colname="c5" colnum="5" colwidth="1*"/>
+                <colspec colname="c6" colnum="6" colwidth="1*"/>
+                <colspec colname="c7" colnum="7" colwidth="1*"/>
+                <thead>
+                    <row>
+                        <entry morerows="1">BTH</entry>
+                        <entry namest="c2" nameend="c4">Equivalent Vent Length</entry>
+                        <entry namest="c5" nameend="c7">Max Elbows</entry>
+                    </row>
+                    <row>
+                        <entry>2"</entry>
+                        <entry>3"</entry>
+                        <entry>4"</entry>
+                        <entry>2"</entry>
+                        <entry>3"</entry>
+                        <entry>4"</entry>
+                    </row>
+                </thead>
+                <tbody>
+                    <row>
+                        <entry>120</entry>
+                        <entry>12' to 40'</entry>
+                        <entry>7' to 50'</entry>
+                        <entry>50' to 120'</entry>
+                        <entry>4</entry>
+                        <entry>4</entry>
+                        <entry>6</entry>
+                    </row>
+                    <row>
+                        <entry>150</entry>
+                        <entry>12' to 40'</entry>
+                        <entry>7' to 50'</entry>
+                        <entry>50' to 120'</entry>
+                        <entry>4</entry>
+                        <entry>4</entry>
+                        <entry>6</entry>
+                    </row>
+                    <row>
+                        <entry>199</entry>
+                        <entry>12' to 40'</entry>
+                        <entry>7' to 50'</entry>
+                        <entry>50' to 120'</entry>
+                        <entry>4</entry>
+                        <entry>4</entry>
+                        <entry>6</entry>
+                    </row>
+                    <row>
+                        <entry>250</entry>
+                        <entry>12' to 40'</entry>
+                        <entry>7' to 50'</entry>
+                        <entry>50' to 120'</entry>
+                        <entry>4</entry>
+                        <entry>4</entry>
+                        <entry>6</entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+    </conbody>
+</concept>

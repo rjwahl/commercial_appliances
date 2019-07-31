@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<task id="task_i3m_1zf_ndb" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:task.xsd">
+    <title>Close Hot Water Faucet</title>
+    <shortdesc></shortdesc>
+    <taskbody>
+        <steps-unordered>
+            <step id="step_close_hot_water_faucet_A">
+                <cmd>Close the hot water faucet opened in Step 3.</cmd>
+            </step>
+            <step id="step_close_hot_water_faucet_B">
+                <cmd>Close the hot water faucet opened in Step 4.</cmd>
+            </step>
+            <step id="step_close_hot_water_faucet_C">
+                <cmd>Close the hot water faucet opened in Step 5.</cmd>
+            </step>
+            <step id="step_close_hot_water_faucet_D">
+                <cmd>Close the hot water faucet that was opened in a previous step.</cmd>
+            </step>
+        </steps-unordered>
+    </taskbody>
+</task>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><task xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="concept_zxz_vm5_gbb" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:task.xsd">
+    <title>Water (Potable) Heating and Space Heating</title>
+    <shortdesc/>
+    <taskbody><steps id="ol_dkr_zm5_gbb">
+            <step>
+                <cmd>All water-piping components connected to the water heater that are for
+                    space-heating applications shall be suitable for use with potable water.</cmd>
+            </step>
+            <step><cmd>Toxic chemicals, such as those used for boiler treatment, must NEVER be introduced
+                into this system.</cmd></step>
+            <step>
+                <cmd>The water heaters covered in this manual may never be connected to any existing
+                    heating system or component(s) previously used with non-potable water-heating
+                    appliance.</cmd>
+            </step>
+            <step>
+                <cmd>When the system requires water for space heating that exceeds safe temperatures
+                    at domestic water fixtures, a mixing valve must be installed. 
+                    See <xref keyref="sec:Mixing_Valves"/>.</cmd>
+                <info>
+                    <note>Malfunctions caused by the power supply and costs to install power supply
+                        filters are not covered under the limited warranty. See Commercial Water
+                        Heater Limited Warranty.</note>
+                </info>
+            </step>
+            <step>
+                <cmd>These water heaters cannot be used in space heating applications only.</cmd>
+            </step>
+        </steps></taskbody>
+</task>

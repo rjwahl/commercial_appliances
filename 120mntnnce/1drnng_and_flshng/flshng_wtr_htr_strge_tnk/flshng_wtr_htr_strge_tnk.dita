@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><task xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="task_tbv_xbq_hbb" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:task.xsd">
+    <title>Flushing the Water Heater Storage Tank</title>
+    <shortdesc/>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Turn the Enable/Disable switch located on the front of the water heater to the
+                    Disabled position.</cmd>
+            </step>
+            <step>
+                <cmd>Turn off the electrical supply to the water heater.</cmd>
+            </step>
+            <step>
+                <cmd>Ensure that the cold-water inlet valve is open.</cmd>
+            </step>
+            <step>
+                <cmd>Open a nearby hot-water faucet and let the water run until the water is no
+                    longer hot. Then close the hot-water faucet.</cmd>
+            </step>
+            <step>
+                <cmd>Connect a hose to the drain valve and terminate it at an adequate drain.</cmd>
+            </step>
+            <step>
+                <cmd>Ensure that the drain hose is secured before and during the entire flushing
+                    procedure. Flushing is performed with system-water pressure applied to the water
+                    heater.</cmd>
+            </step>
+            <step>
+                <cmd>Open the water-heater drain valve to flush the storage tank.</cmd>
+            </step>
+            <step>
+                <cmd>Flush the water-heater storage tank to remove sediment and allow the water to
+                    flow until it runs clean.</cmd>
+            </step>
+            <step>
+                <cmd>Close the water-heater drain valve when flushing is completed.</cmd>
+            </step>
+            <step>
+                <cmd>Remove the drain hose.</cmd>
+            </step>
+            <step>
+                <cmd>Fill the water heater. See <xref keyref="sec:Filling_the_Water_Heater"/>.</cmd>
+            </step>
+            <step>
+                <cmd>Turn on the electrical supply to place the water-heater back in
+                    operation.</cmd>
+            </step>
+            <step>
+                <cmd>Allow the water heater to complete several heating cycles to ensure it is
+                    operating properly.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

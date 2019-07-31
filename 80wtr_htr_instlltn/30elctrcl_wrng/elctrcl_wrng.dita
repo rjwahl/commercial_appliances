@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><concept xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="concept_lkt_k25_gbb" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:concept.xsd">
+    <title>Electrical Wiring</title>
+    <shortdesc/>
+    <conbody>
+        <p>All electrical work must be installed in accordance with the <i outputclass="Cite">National Electrical Code,
+            ANSI/NFPA 70</i> or the <i outputclass="Cite">Canadian Electrical Code, CSA C22.1</i> and local
+            requirements.</p>
+        <p id="p_hgq_m25_gbb">When installed, the water heater must be electrically grounded in
+            accordance with local codes or, in the absence of local codes, with the <i outputclass="Cite">National
+                Electrical Code, ANSI/NFPA 70</i> or the <i outputclass="Cite">Canadian Electrical Code, CSA
+            C22.1</i>.</p>
+        <p id="p_igq_m25_gbb">If any of the original wire, as supplied with the water heater, must
+            be replaced, it must be replaced with 105°C-rated wiring or its equivalent, except in
+            the burner housing. In this case, 200°C-rated wire must be used.</p>
+    </conbody>
+</concept>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><task xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="task_w1z_bb4_hbb" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:task.xsd">
+    <title>Water Heater Location</title>
+    <shortdesc/>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Ensure that proper clearances to combustibles are maintained and that there is
+                    sufficient room to service the water heater. See <xref keyref="sec:Clearance_to_Combustible_Materials"/>.</cmd>
+            </step>
+            <step>
+                <cmd>Ensure that the area is free of corrosive elements and flammable materials. See
+                    the instructions in <xref keyref="sec:Combustible_Material_Storage"/>.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<task id="task_r1n_tlt_ndb" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:task.xsd">
+    <title>Enable Enable-Disable Switch</title>
+    <taskbody>
+        <steps-unordered>
+            <step id="step_enable_enable_disable_switch">
+                <cmd>Turn the Enable/Disable switch located on the front of the heater to the Enable
+                    position.</cmd>
+            </step>
+        </steps-unordered>
+    </taskbody>
+</task>

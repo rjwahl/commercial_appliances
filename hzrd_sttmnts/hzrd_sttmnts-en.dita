@@ -1,0 +1,1630 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<?xml-stylesheet type="text/css" href="C:/Users/rjwahl/Documents/Ontology/hzrd_sttmnts/hzrd_sttmnts.css" title="Hazard Messages Style Sheet" alternate="no"?>
+<topic id="topic_gjt_5pg_x1b">
+  <title>Hazard Statements/Warning Messages</title>
+  <prolog>
+    <author type="contributor">rjwahl</author>
+    <critdates>
+      <!--rjwahl-->
+      <revised modified="2018/09/11"/>
+      <!--rjwahl-->
+      <revised modified="2019/07/09"/>
+      <!--rjwahl-->
+      <revised modified="2019/07/10"/>
+      <!--rjwahl-->
+      <revised modified="2019/07/12"/>
+      <!--rjwahl-->
+      <revised modified="2019/07/15"/>
+      <!--rjwahl-->
+      <revised modified="2019/07/16"/>
+      <!--rjwahl-->
+      <revised modified="2019/07/17"/>
+    </critdates>
+  </prolog>
+  <body>
+ 
+      <hazardstatement>
+        <messagepanel>
+          <typeofhazard></typeofhazard>
+          <consequence></consequence>
+          <howtoavoid></howtoavoid>
+        </messagepanel>
+        <hazardsymbol/>
+      </hazardstatement>
+    
+    <hazardstatement id="wmsg:ctn-dnt_oprte_in_cold" type="caution">
+      <messagepanel>
+        <typeofhazard>Do not operate the water heater if it has 
+          been exposed to or exhibits the following:</typeofhazard>
+        <consequence>
+        </consequence>
+        <howtoavoid><sl>
+          <sli>• Exposed to flooding or water damage</sli>
+          <sli>• External damage.</sli>
+          <sli>• Firing without water.</sli>
+          <sli>• Sooting.</sli>
+        </sl>
+          Do not operate the water heater until all corrective steps
+          have been made by a qualified service technician.
+        </howtoavoid>
+      </messagepanel>
+    </hazardstatement>
+    
+    <hazardstatement id="wmsg:ctn-dnt_oprte_undr_cndtns" type="caution">
+      <messagepanel>
+        <typeofhazard>Do not operate the water heater if it has 
+          been exposed to or exhibits the following:</typeofhazard>
+        <consequence>
+        </consequence>
+        <howtoavoid><sl>
+          <sli>• Exposed to flooding or water damage</sli>
+          <sli>• External damage.</sli>
+          <sli>• Firing without water.</sli>
+          <sli>• Sooting.</sli>
+        </sl>
+          Do not operate the water heater until all corrective steps
+          have been made by a qualified service technician.
+        </howtoavoid>
+      </messagepanel>
+     </hazardstatement> 
+
+    <hazardstatement id="wmsg:ctn_do_not_operate_if_damaged" type="caution">
+      <messagepanel>
+        <typeofhazard>Do not operate the water heater if it has 
+          been exposed to or exhibits the following:</typeofhazard>
+        <consequence>
+        </consequence>
+        <howtoavoid><sl>
+          <sli>• Exposed to flooding or water damage</sli>
+          <sli>• External damage.</sli>
+          <sli>• Firing without water.</sli>
+          <sli>• Sooting.</sli>
+        </sl>
+          Do not operate the water heater until all corrective steps
+          have been made by a qualified service technician.
+        </howtoavoid>
+      </messagepanel>
+    </hazardstatement>
+
+    <hazardstatement id="wmsg:ctn-use_spplied_vnt_hood_only" type="caution">
+      <messagepanel>
+        <typeofhazard>Use only the vent hood supplied with this kit. Only supplied hood 
+          provides required clearances from combustibles, both through 
+          the wall and the exterior siding. Termination of a sidewall vent
+          system with a device other than the supplied vent hood could
+          affect system performance and result in a safety hazard.</typeofhazard>
+        <consequence></consequence>
+        <howtoavoid></howtoavoid>
+        </messagepanel>
+     </hazardstatement>
+
+    <hazardstatement id="wmsg:ctn-wtr_dmge_hzrd_tp_vlve_dschrge" type="caution">
+      <messagepanel>
+        <typeofhazard>Property Damage Hazard</typeofhazard>
+        <consequence></consequence>
+        <howtoavoid>Temperature-Pressure Relief Valve discharge
+          pipe must terminate at adequate drain.</howtoavoid>
+      </messagepanel>
+    </hazardstatement>
+    
+    
+    <hazardstatement id="wmsg:ctn_acid_brn_hzrd" type="caution">
+      <messagepanel>
+        <typeofhazard>Chemical Burn Hazard</typeofhazard>
+        <consequence>Product contains phosphoric acid, which can cause severe burns on the skin.
+        </consequence>
+        <howtoavoid><sl>
+          <sli>• Keep out of the reach of children</sli>
+          <sli>• Use rubber or neoprene gloves.</sli>
+        </sl>
+        </howtoavoid>
+      </messagepanel>
+      <hazardsymbol keyref="icn:burn_acid"></hazardsymbol>
+    </hazardstatement>
+ 
+    <hazardstatement id="wmsg:ctn_brn-hzrd_dnt_touch_brnr_whle_hot" type="caution">
+      <messagepanel>
+        <typeofhazard>Burn Hazard</typeofhazard>
+        <consequence>The combustion chamber and burner sleeve 
+          and housing become very hot during operation. Touching them can cause sever burns.</consequence>
+        <howtoavoid>
+          <sl>
+            <sli>• Do not reach into the burner housing or
+              combustion chamber if the water heater
+              is still hot.</sli>
+            <sli>• Allow the water heater to cool and always use
+              gloves when handling the main burner.</sli>
+            </sl>
+        </howtoavoid>
+      </messagepanel>
+      <hazardsymbol keyref="icn:burn_hot-water"/>
+    </hazardstatement>
+    
+
+    <hazardstatement id="wmsg:ctn_fall-hzrd_spcl-trnng_and_eqpmnt_rqird" type="caution">
+      <messagepanel>
+        <typeofhazard>Fall Hazard</typeofhazard>
+        <consequence>Working on a roof puts you at risk of a fall that could cause severe injury or death.</consequence>
+        <howtoavoid>All persons working on roofs should have successfully completed a fall safety course and should be properly equipped with the appropriate safety equipment..</howtoavoid>
+      </messagepanel>
+      <hazardsymbol keyref="icn:fall-hazard_roof"/>
+    </hazardstatement>
+    
+    <hazardstatement id="wmsg:ctn_frost-dmge_frm_solar-flshng" type="caution">
+      <messagepanel>
+        <typeofhazard>Frost Damage</typeofhazard>
+        <consequence>Frost damage can occur if water is used for flushing. Solar thermal
+          installations cannot be completely emptied after flushing and residual flush water can
+          freeze, damaging the installation.</consequence>
+        <howtoavoid>Only use water to flush the system when the outside temperature is above 32° F,
+          otherwise use the solar fluid to flush making sure to filter any debris before final
+          filling.</howtoavoid>
+        <howtoavoid>Use a water / propylene glycol mixture as a solar fluid (maximum 50% propylene
+          glycol).</howtoavoid>
+      </messagepanel>
+      <hazardsymbol keyref="icn:frost"/>
+    </hazardstatement>
+    
+    <hazardstatement id="wmsg:ctn_hvy-wght_of_solex-pmp" type="caution">
+      <messagepanel>
+        <typeofhazard>Construction Hazard</typeofhazard>
+        <consequence>The weight of the Solex Pump Station is sufficient for causing hanger anchors to fail if attached to drywall or thin plywood.
+          </consequence>
+        <howtoavoid>Hanger anchors must be attached to a structural support, such as a stud to support the weight of the unit.</howtoavoid>
+      </messagepanel>
+
+    </hazardstatement>
+    
+    <hazardstatement id="wmsg:ctn_prprty-dmge-hzrd_anode-mntnnce" type="caution">
+      <messagepanel>
+        <typeofhazard>Property Damage Hazard</typeofhazard>
+        <consequence></consequence>
+        <howtoavoid>Avoid damage.</howtoavoid>
+        <howtoavoid>Inspection and replacement of anode rod required.</howtoavoid>
+      </messagepanel>
+    </hazardstatement>
+    
+    <hazardstatement id="wmsg:ctn_prprty-dmge-hzrd_frm_imprpr-instlltn_use_and_srvce" type="caution">
+      <messagepanel>
+        <typeofhazard>Property Damage Hazard</typeofhazard>
+        <consequence>Improper installation, use and service may result
+          in property damage.</consequence>
+        <howtoavoid><sl>
+         <sli> • Do not operate water heater if exposed to flooding or water
+           damage.</sli>
+          <sli>• Inspect anode rods regularly, replace if damaged.</sli>
+          <sli>• Install in location with drainage.</sli>
+          <sli>• Fill tank with water before operation.</sli>
+          <sli>• Properly sized thermal expansion tanks are required on all closed water
+            systems.</sli>
+        </sl>
+        </howtoavoid>
+        <howtoavoid>Refer to this manual for installation and service.</howtoavoid>
+     
+      </messagepanel>
+    </hazardstatement>
+    
+    <hazardstatement id="wmsg:ctn_prprty-dmge-hzrd_frm_rlf-vlve-dschrge" type="caution">
+      <messagepanel>
+        <typeofhazard>Property Damage Hazard</typeofhazard>
+        <consequence>Hot water can be released through the relief-valve discharge pipe. Without an adequate drain, the discharged water could be sufficient to cause water damage.</consequence>
+        <howtoavoid>Be sure to terminate the relief valve discharge pipe at an adequate drain.</howtoavoid>
+      </messagepanel>
+    </hazardstatement>
+    
+    <hazardstatement id="wmsg:ctn_prprty-dmge-hzrd_leak_drain" type="caution">
+      <messagepanel>
+        <typeofhazard>Property Damage Hazard</typeofhazard>
+        <consequence>All water heaters have the potential to leak. Water leakage from the water heater could be sufficient to cause water damage.</consequence>
+        <howtoavoid>Do not install without adequate drainage.</howtoavoid>
+      </messagepanel>
+    </hazardstatement>
+    
+    <hazardstatement id="wmsg:ctn_prprty-dmge-hzrd_tp_vlve_dschrge" type="caution">
+      <messagepanel>
+        <typeofhazard>Property Damage Hazard</typeofhazard>
+        <consequence>Hot water can be released through the temperature-pressure relief-valve discharge pipe. Without an adequate drain, the discharged water could be sufficient to cause water damage.</consequence>
+        <howtoavoid>Be sure to terminate the temperature-pressure relief-valve relief-valve discharge pipe at an adequate drain.</howtoavoid>
+      </messagepanel>
+    </hazardstatement>
+    
+    <hazardstatement id="wmsg:ctn_prprty-dmge_prssrs-tmprtrs" type="caution">
+      <messagepanel>
+        <typeofhazard>Property Damage Hazard</typeofhazard>
+        <consequence>This appliance is designed to operate within specific parameters for water inlet pressure and temperature. Attempting to operate the appliance with water inlet pressures and temperatures could cause failure of the appliance and damage to its components.</consequence>
+        <howtoavoid><sl>
+          <sli>Maximum water inlet pressure: 1.0 Mpa</sli>
+          <sli>Minimum water inlet pressure: 0.015 Mpa.</sli>
+          <sli>Install a pressure reducing device when water inlet pressure exceeds 1.0 Mpa.</sli>
+          <sli>Install a pressure increasing device when the water inlet pressure is lower than 0.015 Mpa.</sli>
+          <sli>Maximum operation water temperature is 135 °F (75 °C).</sli>
+          <sli>Minimum operation water temperature is 135 °F (75 °C).</sli>
+        </sl></howtoavoid>
+      </messagepanel>
+    </hazardstatement>
+    
+    <hazardstatement id="wmsg:dngr_brn-hzrd_mxng-vlve_rqurd_solar" type="danger">
+      <messagepanel>
+        <typeofhazard>Burn Hazard</typeofhazard>
+        <consequence>High water temperatures achieved by solar heating are sufficient to cause burns.</consequence>
+        <howtoavoid>The thermostatic mixing valve provided with the system must be installed to prevent scalding from high 
+          water temperatures achieved by solar heating.</howtoavoid>
+      </messagepanel>
+      <hazardsymbol keyref="icn:burn_hot-water"></hazardsymbol>
+    </hazardstatement>
+    
+    <hazardstatement id="wmsg:dngr_brn-hzrd_rlf-vlve" type="danger">
+      <messagepanel>
+        <typeofhazard>Burn Hazard</typeofhazard>
+        <consequence>Hot water can be released through the temperature-pressure relief-valve discharge pipe. Without an adequate drain, the discharged water could be sufficient to cause water damage.</consequence>
+        <howtoavoid>Be sure to terminate the temperature-pressure relief-valve relief-valve discharge pipe at an adequate drain.</howtoavoid>
+      </messagepanel>
+      <hazardsymbol keyref="icn:burn_hot-water"></hazardsymbol>
+    </hazardstatement>
+    
+    <hazardstatement id="wmsg:dngr_brn-hzrd_wtr-tmprtre_ovr_125-dgrs" type="danger">
+      <messagepanel>
+        <typeofhazard>Burn Hazard</typeofhazard>
+        <consequence>Water temperature over 125°F (52°C) can cause servere burns instantly resulting in severe injury or death.</consequence>
+        <consequence>Children, the elderly, and the physically or mentally disabled are at highest risk for scald injury.</consequence>
+        <howtoavoid><sl>
+          <sli>• Feel water before bathing or showering.</sli>
+          <sli>• Temperature limiting valves are available.</sli>        
+          <sli>• Read instruction manual for safe temperature setting.</sli>  
+        </sl>
+        </howtoavoid>
+      </messagepanel>
+      <hazardsymbol keyref="icn:burn_hot-water"></hazardsymbol>
+    </hazardstatement>
+    
+    
+    <hazardstatement id="wmsg:dngr_burn-hzrd_hot-wtr-dschrge" type="danger">
+      <messagepanel>
+        <typeofhazard>Burn Hazard</typeofhazard>
+        <consequence>Hot water discharge from the temperature-pressure relief valve is sufficiently hot to cause severe burns.</consequence>
+        <howtoavoid>Keep clear of the temperature-pressure relief valve.</howtoavoid>
+      </messagepanel>
+      <hazardsymbol keyref="icn:burn_hot-water"></hazardsymbol>
+    </hazardstatement>
+    
+    <hazardstatement id="wmsg:dngr_prprty-dmge-hzrd_frm_solar_fluid_boil" type="danger">
+      <messagepanel>
+        <typeofhazard>Property Damage Hazard</typeofhazard>
+        <consequence>Solar fluid in the collectors can reach boiling temperatures, which can cause severe burns.</consequence>
+        <howtoavoid>The installation should not be flushed or filled during periods of strong sunshine or the 
+          panels should be covered with a blanket to keep collectors cool.</howtoavoid>
+      </messagepanel>
+      <hazardsymbol keyref="icn:solar_fluid_boil"/>
+    </hazardstatement>
+    
+    <hazardstatement id="wmsg:dngr_shck-hzrd_fll-pwr_prsnt" type="danger">
+      <messagepanel>
+        <typeofhazard>Electrical Shock Hazard</typeofhazard>
+        <consequence>Full power is present whenever the 
+          cabinet door is opened, even with 
+          the pilot switch turned off.</consequence>
+        <howtoavoid>Disconnect power from the appliance before servicing.</howtoavoid>
+      </messagepanel>
+      <hazardsymbol keyref="icn:electrical_shock_hazard" align="center"/>
+    </hazardstatement>
+    
+    
+    
+    
+    
+    
+    
+    <hazardstatement id="wmsg:wrnng_brthng-hzrd_CO-gas_fllw_applicalble_codes" type="warning">
+      <messagepanel>
+        <typeofhazard>Breathing Hazard  - Carbon Monoxide Gas</typeofhazard>
+        <consequence>Carbon Monoxide poisoning, explosion, and death can result if applicable safety codes are not followed.</consequence>
+        <howtoavoid>Follow all the local and state codes or in the absence of local and state codes, the National Fuel Gas Code, ANSI Z223.1
+          (NFPA-54)- current edition to properly install the vent system.
+        </howtoavoid>
+      </messagepanel>
+      <hazardsymbol keyref="icn:breathing_hazard"/>
+    </hazardstatement>
+    
+    <hazardstatement id="wmsg:wrnng_brthng-hzrd_CO-gas_frm_chmcl-strge_domestic-only" type="warning">
+      <messagepanel>
+        <typeofhazard>Breathing Hazard  - Carbon Monoxide Gas</typeofhazard>
+        <consequence>Chemical vapor emitting products can be drawn into the water heater combustion process and generate 
+          dangerous levels of corbon monoxide gas.</consequence>
+        <howtoavoid><sl>
+          <sli>• Install water heater in accordance with the Instruction Manual and NFPA 54 or CAN/CSA-B149.1.</sli>
+          <sli>• To avoid injury, combustion and ventilation air must be taken from outdoors.</sli>
+          <sli>• Do not place chemical vapor  emitting products near water heater.</sli>
+        </sl></howtoavoid>
+      </messagepanel>
+      <hazardsymbol  keyref="icn:breathing_hazard"/>
+    </hazardstatement>
+ 
+ 
+    <hazardstatement id="wmsg:wrnng_brthng-hzrd_CO-gas_frm_chmcl_strge" type="warning">
+      <messagepanel>
+        <typeofhazard>Breathing Hazard  - Carbon Monoxide Gas</typeofhazard>
+        <consequence>Chemical vapor emitting products can be drawn into the water heater combustion process and generate 
+          dangerous levels of corbon monoxide gas.</consequence>
+        <howtoavoid><sl>
+          <sli>• Install water heater in accordance with the Instruction Manual and <cite>NFPA 54</cite> or <cite>CAN/CSA-B149.1.</cite></sli>
+          <sli>• To avoid injury, combustion and ventilation air must be taken from outdoors.</sli>
+          <sli>• Do not place chemical vapor  emitting products near water heater.</sli>
+        </sl></howtoavoid>
+      </messagepanel>
+      <hazardsymbol  keyref="icn:breathing_hazard"/>
+    </hazardstatement>
+    
+    
+    
+    <hazardstatement id="wmsg:wrnng_brthng-hzrd_CO-gas_frm_frm_blckd_intke" type="warning">
+      <messagepanel>
+        <typeofhazard>Breathing Hazard  - Carbon Monoxide Gas</typeofhazard>
+        <consequence>Obstructing the water heater air intake can cause the water heater to generate
+          excess carbon monoxide. Breathing carbon monoxide can cause brain damage or
+          death.</consequence>
+        <howtoavoid>
+          <sl>
+            <sli>• Do not obstruct water heater air intake.</sli>
+            <sli>• Gas and carbon monoxide detectors are available.</sli>
+            <sli>• Install water heater in accordance with the instruction manual.</sli>
+          </sl>
+        </howtoavoid>
+        <howtoavoid>Always read and understand instruction manual.</howtoavoid>
+      </messagepanel>
+      <hazardsymbol  keyref="icn:breathing_hazard"/>
+    </hazardstatement>
+    
+    
+    <hazardstatement id="wmsg:wrnng_brthng-hzrd_CO-gas_frm_insltn-blkts" type="warning">
+      <messagepanel>
+        <typeofhazard>Breathing Hazard - Carbon Monoxide Gas</typeofhazard>
+      <consequence>Obstructing the water heater air intake can cause the water heater to generate
+        excess carbon monoxide. Breathing carbon monoxide can cause brain damage or
+        death.</consequence>
+      <howtoavoid>
+        <sl>
+          <sli>• Do not obstruct water heater air intake with insulation blankets.</sli>
+          <sli>• Gas and carbon monoxide detectors are available.</sli>
+          <sli>• Install water heater in accordance with the instruction manual.</sli>
+        </sl>
+      </howtoavoid>
+      <howtoavoid>Always read and understand instruction manual.</howtoavoid>
+      </messagepanel>
+      <hazardsymbol  keyref="icn:breathing_hazard"/>
+    </hazardstatement>
+    
+    
+    <hazardstatement id="wmsg:wrnng_brthng-hzrd_CO-gas_frm_overfiring" type="warning">
+      <messagepanel>
+        <typeofhazard>Breathing Hazard  - Carbon Monoxide Gas</typeofhazard>
+        <consequence>Exceeding the firing rate shown on the water heater's rating label can cause 
+          the water heater to generate excessive levels of carbon monoxide gas. Breathing carbon monoxide can cause brain damage or
+          death.</consequence>
+        <howtoavoid>
+          <sl>
+            <sli>• Under no circumstances should
+          the input exceed the rate shown
+          on the water heater’s rating label.</sli>
+            <sli>• Over-firing could result in damage to
+              the water heater and sooting.</sli>
+            <sli>• Gas and carbon monoxide detectors
+              are available.</sli>
+          </sl>
+        </howtoavoid>
+        <howtoavoid>Always read and understand instruction manual.</howtoavoid>
+      </messagepanel>
+      <hazardsymbol  keyref="icn:breathing_hazard"/>
+    </hazardstatement>
+    
+    
+    <hazardstatement id="wmsg:wrnng_brthng-hzrd_CO-gas_frm_vent_inst_begin_altitude_10K" type="warning">
+      <messagepanel>
+        <typeofhazard>Breathing Hazard - Carbon Monoxide Gas</typeofhazard>
+        <consequence>Breathing carbon monoxide can cause brain damage or death.
+          Always read and understand the instruction manual.</consequence>
+        <howtoavoid>
+          <sl>
+            <sli>• Install vent system in accordance with codes. </sli>
+            <sli>• Do not operate water heater if exposed to flooding or
+              water damage</sli>
+            <sli>• Special consideration must be taken with installations
+              above 10,000 feet (3,048 m) refer to high altitude
+              section of this manual.</sli>
+            <sli>• Do not operate if soot buildup.</sli>
+            <sli>• Do not obstruct water heater air intake with insulating
+              jacket or blanket.</sli>
+            <sli>• Do not place chemical vapor emitting products near
+              water heater.</sli>
+            <sli>• Gas and carbon monoxide detectors are available.</sli>
+            <sli>• Never operate the heater unless it is vented to the
+              outdoors and has adequate air supply to avoid risks
+              of improper operation, fire, explosion or asphyxiation.</sli>
+            <sli>• Analyze the entire vent system to make sure that
+              condensate will not become trapped in a section of
+              vent pipe and therefore reduce the open cross
+              sectional area of the vent.</sli>
+          </sl>
+        </howtoavoid>
+      </messagepanel>
+      <hazardsymbol  keyref="icn:breathing_hazard"/>
+    </hazardstatement>
+    
+    
+    <hazardstatement id="wmsg:wrnng_brthng-hzrd_CO-gas_precautions" type="warning">
+      <messagepanel>
+        <typeofhazard>Breathing Hazard - Carbon Monoxide Gas</typeofhazard>
+        <consequence>Breathing carbon monoxide can cause brain damage or death.
+          </consequence>
+        <howtoavoid>
+          <sl>
+            <sli>• Install vent system in accordance with codes.</sli>
+            <sli>• Do not operate water heater if any part has been
+              exposed to flooding or water damage.</sli>
+            <sli>• High altitude models should be installed at elevations
+              above 5,300 feet (1,615 m). For operation above 10,100
+              feet (3,079 m), a high altitude orifice must be installed.</sli>
+            <sli>• Do not operate if soot buildup is present.</sli>
+            <sli>• Do not obstruct water heater air intake with
+              insulating jacket.</sli>
+            <sli>• Do not place chemical vapor emitting products
+              near water heater.</sli>
+            <sli>• Gas and carbon monoxide detectors are available.</sli>
+            <sli>• No vent damper installation is compatible with
+              this power vented water heater.</sli>
+            <sli>• Do NOT elevate any portion of the field supplied
+              drain line beyond the 1/2” adaptor above the
+              adaptor. This must be true for the entire length
+              of the drain line including the exit into an 
+              appropriate drain.</sli>
+            <sli>• Condensate lines must be free and clear of debris
+              and must not allow back flow through the hose.
+              The condensate lines must be able to flow freely
+              to an appropriate drain.</sli>
+            <sli>• Do not allow condensate lines to become
+              crimped closed.</sli>
+            <sli>• Analyze the entire vent system to make sure
+              that condensate will not become trapped in a
+              section of vent pipe and therefore reduce the open
+              cross sectional area of the vent.</sli>
+          </sl>    
+        </howtoavoid>
+        <howtoavoid>Always read and understand the instruction manual.</howtoavoid>
+      </messagepanel>
+      <hazardsymbol  keyref="icn:breathing_hazard"/>
+    </hazardstatement>
+    
+    
+    <hazardstatement id="wmsg:wrnng_brthng-hzrd_CO_condensate_line" type="warning">
+      <messagepanel>
+        <typeofhazard>Breathing Hazard - Carbon Monoxide Gas</typeofhazard>
+        <consequence>Breathing carbon monoxide can cause brain damage or
+          death.</consequence>
+        <howtoavoid>
+          <sl>
+            <sli>• Do not elevate any portion of the field-supplied drain line beyond the 1/2” adaptor. 
+              This must be true for the entire length of the drain line, including the exit into an appropriate drain.</sli>
+            <sli>• Condensate lines must be free and clear of debris and must not allow back-flow through the hose. 
+              The condensate lines must be able to flow freely to an appropriate drain.</sli>
+            <sli>• Do not allow condensate lines to become crimped closed.</sli>
+          </sl>
+        </howtoavoid>
+        <howtoavoid>Always read and understand instruction manual.</howtoavoid>
+      </messagepanel>
+      <hazardsymbol  keyref="icn:breathing_hazard" scale="200"/>
+    </hazardstatement>
+    
+    
+    <hazardstatement id="wmsg:wrnng_brthng-hzrd_CO-gas_installation" type="warning">
+      <messagepanel>
+        <typeofhazard>Breathing Hazard - Carbon Monoxide Gas</typeofhazard>
+        <consequence>Breathing carbon monoxide can cause brain damage or
+          death.</consequence>
+        <howtoavoid>
+          <sl>
+            <sli>• Install water heater in accordance with
+              the Instruction Manual and <cite>NFPA 54</cite>.</sli>
+            <sli>• To avoid injury, combustion and ventilation
+              air must be taken from outdoors</sli>
+            <sli>• Do not place chemical vapor  emitting
+              products near water heater.</sli>
+          </sl>
+        </howtoavoid>
+        <howtoavoid>Always read and understand instruction manual.</howtoavoid>
+      </messagepanel>
+      <hazardsymbol  keyref="icn:breathing_hazard"/>
+    </hazardstatement>
+    
+    
+    <hazardstatement id="wmsg:wrnng_fre-and-explsn-hzrd_crrct_gas_exssve_prssre" type="warning">
+      <messagepanel>
+        <typeofhazard>Fire and Explosion Hazard</typeofhazard>
+        <consequence>Using the wrong type of gas, excessive pressure, or mishandling the installation can cause fire and/or an explosion.</consequence>
+        <howtoavoid>
+          <sl>
+            <sli>• Do not use water heater with any gas
+              other than the gas shown on the rating
+              label. </sli>
+            <sli>• Excessive gas pressure to gas valve can
+              cause serious injury or death.</sli>
+            <sli>• Turn off gas lines during installation.</sli>
+            <sli>• Contact a qualified installer or service
+              agency for installation and service.</sli>
+          </sl>          
+        </howtoavoid>
+      </messagepanel>
+      <hazardsymbol keyref="icn:fire_and_explsn" scale="150"/>
+    </hazardstatement>
+    
+    
+    <hazardstatement id="wmsg:wrnng_dnt_chng_dip_swtch_sttngs" type="warning">
+      <messagepanel>
+        <typeofhazard>DO NOT adjust the other dip switches unless specifically instructed to do so.</typeofhazard>
+        <consequence></consequence>
+        <howtoavoid></howtoavoid>
+      </messagepanel>
+    </hazardstatement>
+    
+    
+    <hazardstatement id="wmsg:wrnng_dnt_cnnct_tmprtr-cntrllr_untl_pwr_off" type="warning">
+      <messagepanel>
+        <typeofhazard>Electrical Shock Hazard</typeofhazard>
+        <consequence>120 volt potential wiring is close to the temperature controller connections. 
+          There is a risk of electrical shock if you attempt to connect the temperature controllers while the power is on.</consequence>
+        <howtoavoid>Disconnect electrical power before performing any maintenance involving the temperature controller connections.</howtoavoid>
+        <howtoavoid><sl>
+          <sli>• Do not attempt to connect the temperature controllers with the power on. 
+            There is 120 volt potential, next to the temperature controller connections inside the unit.</sli>
+          <sli>• Do not connect the temperature controller to the 120VAC terminals provided for the optional solenoid drain valves.</sli>
+          <sli>• All service and wiring should be performed by a registered installer.</sli>
+         </sl>
+        </howtoavoid>
+      </messagepanel>
+      <hazardsymbol keyref="icn:electrical_shock_hazard" align="center"/>
+    </hazardstatement>
+    
+    
+    <hazardstatement id="wmsg:wrnng_elctrcl_shck_hzrd_fll_pwr_prsnt" type="warning">
+      <messagepanel>
+        <typeofhazard>Electrical Shock Hazard</typeofhazard>
+        <consequence>Full power is present whenever the cabinet door is opened even with the pilot switch is turned off.</consequence>
+        <howtoavoid></howtoavoid>
+        <howtoavoid></howtoavoid>
+      </messagepanel>
+      <hazardsymbol keyref="icn:electrical_shock_hazard" align="center"/>
+    </hazardstatement>
+    
+    
+    <hazardstatement id="wmsg:wrnng_elctrcl_shck_hzrd_frm_flood_dmge" type="warning">
+      <messagepanel>
+        <typeofhazard>Electrical Shock Hazard</typeofhazard>
+        <consequence>If the water heater becomes immersed in water up to or
+          above the level of the bottom of the element doors, 
+          the heater should be examined by a qualified service 
+          agency before it is placed in operation.</consequence>
+        <howtoavoid></howtoavoid>
+      </messagepanel>
+      <hazardsymbol keyref="icn:electrical_shock_hazard" align="center"/>
+    </hazardstatement>
+    
+    
+    <hazardstatement id="wmsg:wrnng_elctrcl_shck_hzrd_trn_off_pwr_spply_bfre_srvce" type="warning">
+      <messagepanel>
+        <typeofhazard>Electrical Shock Hazard</typeofhazard>
+        <consequence></consequence>
+        <howtoavoid>
+          <sl>
+            <sli>• Turn off power at the branch circuit
+              breaker serving the water heater
+              before performing any service.</sli>
+            <sli>• Label all wires prior to disconnecting
+              when performing service. Wiring errors
+              can cause improper and dangerous
+              operation.</sli>
+            <sli>• Verify proper operation after servicing.</sli>
+            <sli>• Failure to follow these instructions can
+              result in personal injury or death.</sli>            
+          </sl>
+        </howtoavoid>
+      </messagepanel>
+      <hazardsymbol keyref="icn:electrical_shock_hazard" align="center"/>
+    </hazardstatement>
+    
+    
+    <hazardstatement id="wmsg:wrnng_exhst_and_cndnste_frm_unused_cllctr" type="warning">
+      <messagepanel>
+        <typeofhazard>Breathing Hazard</typeofhazard>
+        <consequence>Exhaust gasses and condensate can escape through the drain pipe if the
+          condensate collector is not used.</consequence>
+        <howtoavoid>If the condensate collector is not used, the drain pipe must be capped to 
+          prevent exhaust gases and condensate from entering the building. 
+          The cap is supplied on the appliance.</howtoavoid>
+      </messagepanel>
+      <hazardsymbol  keyref="icn:breathing_hazard"/>
+    </hazardstatement>
+    
+    
+    <hazardstatement id="wmsg:wrnng_explsn-hzrd_frm_hydrgn_gas" type="warning">
+      <messagepanel>
+        <typeofhazard>Explosion Hazard</typeofhazard>
+        <consequence>Flammable hydrogen gases
+          may be present.</consequence>
+        <howtoavoid>Keep all ignition sources away
+          from faucet when turning on
+          hot water.</howtoavoid>
+      </messagepanel>
+      <hazardsymbol keyref="icn:explosion_hazard"/>
+    </hazardstatement>
+    
+    
+    <hazardstatement id="wmsg:wrnng_explsn-hzrd_frm_ovr-htd-wtr" type="warning">
+      <messagepanel>
+        <typeofhazard>Explosion Hazard</typeofhazard>
+        <consequence>Overheated water can cause the water tank to explode.</consequence>
+        <howtoavoid>Properly-sized temperature and pressure relief valves must be installed in the opening provided.</howtoavoid>
+      </messagepanel>
+      <hazardsymbol keyref="icn:explosion_hazard"/>
+    </hazardstatement>
+    
+    <hazardstatement id="wmsg:wrnng_explsn-hzrd_overheated_water" type="warning">
+      <messagepanel>
+        <typeofhazard>Explosion Hazard</typeofhazard>
+        <consequence>Overheated water can cause the water tank to explode.</consequence>
+        <howtoavoid>Properly-sized temperature and pressure relief valves must be installed in the opening provided.</howtoavoid>
+      </messagepanel>
+      <hazardsymbol keyref="icn:explosion_hazard"/>
+    </hazardstatement>
+    
+    
+    
+    <hazardstatement id="wmsg:wrnng_explsn-hzrd_frm_tp_vlve" type="warning">
+      <messagepanel>
+        <typeofhazard>Explosion Hazard</typeofhazard>
+        <consequence></consequence>
+        <howtoavoid>
+          <sl>
+            <sli>• Temperature-pressure relief valve must comply with <cite>ANSI Z21.22- CSA
+                4.4</cite> and <cite>ASME</cite> code.</sli>
+            <sli>• Properly sized temperature-
+              pressure relief valve must be
+              installed in opening provided.</sli>
+            <sli>• Can result in overheating and
+              excessive tank pressure.</sli>
+            <sli>• Can cause serious injury or death.</sli>
+          </sl>
+        </howtoavoid>
+      </messagepanel>
+      <hazardsymbol keyref="icn:explosion_hazard"/>
+    </hazardstatement>
+    
+    <hazardstatement id="wmsg:wrnng_explsn-hzrd_precautionary" type="warning">
+      <messagepanel>
+        <typeofhazard>Explosion Hazard</typeofhazard>
+        <consequence></consequence>
+        <howtoavoid>
+          <sl>
+            <sli>• Temperature-pressure relief valve must comply with <cite>ANSI Z21.22- CSA
+              4.4</cite> and <cite>ASME</cite> code.</sli>
+            <sli>• Properly sized temperature-pressure relief valve must be
+              installed in opening provided.</sli>
+            <sli>• Can result in overheating and excessive tank pressure.</sli>
+            <sli>• Can cause serious injury or death.</sli>
+          </sl>
+        </howtoavoid>
+      </messagepanel>
+      <hazardsymbol keyref="icn:explosion_hazard"/>
+    </hazardstatement>
+
+    
+    <hazardstatement id="wmsg:wrnng_explsn-hzrd_prctns" type="warning">
+      <messagepanel>
+        <typeofhazard>Explosion Hazard</typeofhazard>
+        <consequence></consequence>
+        <howtoavoid>
+          <sl>
+            <sli>• Use a new CSA-approved gas supply line</sli>
+            <sli>• Install a shut-off valve</sli>
+            <sli>• Do not connect a natural gas water heater to an L.P. gas supply. </sli>
+             </sl>
+        </howtoavoid>
+        <howtoavoid>Failure to follow these instructions can result in death, explosion, or carbon monoxide poisoning.</howtoavoid>
+      </messagepanel>
+      <hazardsymbol keyref="icn:explosion_hazard"/>
+    </hazardstatement>
+    
+    <hazardstatement id="wmsg:wrnng_explsn-hzrd_t_p_valve" type="warning">
+      <messagepanel>
+        <typeofhazard>Explosion Hazard</typeofhazard>
+        <consequence></consequence>
+        <howtoavoid>
+          <sl>
+            <sli>• Use a new CSA-approved gas supply line</sli>
+            <sli>• Install a shut-off valve</sli>
+            <sli>• Do not connect a natural gas water heater to an L.P. gas supply. </sli>
+          </sl>
+        </howtoavoid>
+        <howtoavoid>Failure to follow these instructions can result in death, explosion, or carbon monoxide poisoning.</howtoavoid>
+      </messagepanel>
+      <hazardsymbol keyref="icn:explosion_hazard"/>
+    </hazardstatement>
+    
+
+    <hazardstatement id="wmsg:wrnng_explsn-hzrd_tank-explosion" type="warning">
+      <messagepanel>
+        <typeofhazard>Explosion Hazard</typeofhazard>
+        <consequence>Failure to follow these instructions can cause the tank to 
+          explode and result in DEATH, SERIOUS BODILY INJURY, 
+          OR PROPERTY DAMAGE.</consequence>
+        <howtoavoid></howtoavoid>
+      </messagepanel>
+      <hazardsymbol keyref="icn:explosion_hazard"/>
+    </hazardstatement>
+    
+    
+ 
+    <hazardstatement id="wmsg:wrnng_fre-and-explsn-hzrd_exssve-gas-prssre" type="warning">
+      <messagepanel>
+        <typeofhazard>Fire and Explosion Hazard</typeofhazard>
+        <consequence></consequence>
+        <howtoavoid>
+          <sl>
+            <sli>• Do not use water heater with any gas
+              other than the gas shown on the rating
+              label. </sli>
+            <sli>• Excessive gas pressure to gas valve can
+              cause serious injury or death.</sli>
+            <sli>• Turn off gas lines during installation.</sli>
+            <sli>• Contact a qualified installer or service
+              agency for installation and service.</sli>
+          </sl>          
+        </howtoavoid>
+      </messagepanel>
+      <hazardsymbol keyref="icn:fire_and_explsn"/>
+    </hazardstatement>
+    
+    <hazardstatement id="wmsg:wrnng_fre-and-explsn-hzrd_frm_gas_type_or_exssve_prssre" type="warning">
+      <messagepanel>
+        <typeofhazard>Fire and Explosion Hazard</typeofhazard>
+        <consequence></consequence>
+        <howtoavoid>
+          <sl>
+            <sli>• Do not use water heater with any gas
+              other than the gas shown on the rating
+              label. </sli>
+            <sli>• Excessive gas pressure to gas valve can
+              cause serious injury or death.</sli>
+            <sli>• Turn off gas lines during installation.</sli>
+            <sli>• Contact a qualified installer or service
+              agency for installation and service.</sli>
+          </sl>          
+        </howtoavoid>
+      </messagepanel>
+      <hazardsymbol keyref="icn:fire_and_explsn"/>
+    </hazardstatement>
+    
+
+
+    <hazardstatement id="wmsg:wrnng_fre-and-explsn-hzrd_frm_excdng_frng_rte" type="warning">
+      <messagepanel>
+        <typeofhazard>Fire and Explosion Hazard</typeofhazard>
+        <consequence></consequence>
+        <howtoavoid>
+          <sl>
+            <sli>• Under no circumstances should the 
+              input exceed the rate shown on the 
+              water heater’s rating label. </sli>
+            <sli>• Overfiring could result in fire or
+              explosion.</sli>
+            <sli>• Gas and carbon monoxide detectors are
+              available.</sli>        
+          </sl>
+        </howtoavoid>
+      </messagepanel>
+      <hazardsymbol keyref="icn:fire_and_explsn"/>
+    </hazardstatement>
+    
+    
+    <hazardstatement id="wmsg:wrnng_fre-and-explsn-hzrd_frm_gas-lkge_precautions" type="warning">
+      <messagepanel>
+        <typeofhazard>Fire and Explosion Hazard</typeofhazard>
+        <consequence></consequence>
+        <howtoavoid>
+          <sl>
+            <sli>• Use joint compound or Teflon tape
+              compatible with propane gas.</sli>
+            <sli>• Leak test gas connections before
+              placing water heater in operation.</sli>
+            <sli>• Disconnect gas piping at main
+              gas shutoff valve before leak
+              testing heater.</sli>
+            <sli>• Install sediment trap in
+              accordance with <cite>NFPA 54</cite> or 
+              <cite>CAN/CSA B149.1</cite>.</sli>
+          </sl>  
+        </howtoavoid>
+      </messagepanel>
+      <hazardsymbol keyref="icn:fire_and_explsn"/>
+    </hazardstatement>
+    
+    <hazardstatement id="wmsg:wrnng_fre-and-explsn-hzrd_frm_lkd_gas" type="warning">
+      <messagepanel>
+        <typeofhazard>Fire and Explosion Hazard</typeofhazard>
+        <consequence></consequence>
+        <howtoavoid>
+          <sl>
+            <sli>• Use joint compound or Teflon tape
+              compatible with propane gas.</sli>
+            <sli>• Leak test gas connections before
+              placing water heater in operation.</sli>
+            <sli>• Disconnect gas piping at main
+              gas shutoff valve before leak
+              testing heater.</sli>
+            <sli>• Install sediment trap in
+              accordance with <cite>NFPA 54</cite> or 
+              <cite>CAN/CSA B149.1</cite>.</sli>
+          </sl>  
+        </howtoavoid>
+      </messagepanel>
+      <hazardsymbol keyref="icn:fire_and_explsn"/>
+    </hazardstatement>
+    
+    
+    <hazardstatement id="wmsg:wrnng_fre-and-explsn-hzrd_frm_many" type="warning">
+      <messagepanel>
+        <typeofhazard>Fire and Explosion Hazard</typeofhazard>
+        <consequence>Read instruction manual before
+          installing, using or servicing
+          water heater.</consequence>
+        <howtoavoid>
+          <sl>
+            <sli>• Do not store or use gasoline or other flammable vapors and
+              liquids in the vicinity of this or any other appliance.</sli>
+            <sli>• Avoid all ignition sources if you smell gas.</sli>
+            <sli>• Do not expose water heater controls to excessive gas
+              pressure.</sli>
+            <sli>• Use only the gas shown on the water heater rating label.</sli>
+            <sli>• Maintain required clearances to combustibles.</sli>
+            <sli>• Keep ignition sources away from faucets after extended
+              periods of non-use.</sli>
+          </sl>
+        </howtoavoid>
+      </messagepanel>
+      <hazardsymbol keyref="icn:fire_and_explsn"/>
+    </hazardstatement>
+    
+    
+    <hazardstatement id="wmsg:wrnng_fre-and-explsn-hzrd_if-you-smell-gas" type="warning">
+      <messagepanel>
+        <typeofhazard>Fire and Explosion Hazard</typeofhazard>
+        <consequence>If the information in these
+          instructions is not followed exactly, a fire
+          or explosion may result causing property
+          damage, personal injury or death.</consequence>
+        <howtoavoid>Do not store  or  use  gasoline  or other
+          flammable vapors and liquids in the
+          vicinity of this or any other appliance.</howtoavoid>
+        <howtoavoid>WHAT TO DO IF YOU SMELL GAS:
+          <sl>
+            <sli>• Do not try to light any appliance.</sli>
+            <sli>• Do not  touch any electrical switch;  do
+              not use any phone in your building.</sli>
+            <sli>• Immediately   call   your   gas   supplier
+              from a  neighbor’s  phone.  Follow the
+              gas supplier’s instructions.</sli>
+            <sli>• If you cannot  reach your  gas supplier,
+              call the fire department.</sli>
+          </sl>
+        </howtoavoid>
+        <howtoavoid>Installation and service must be
+          performed by a qualified installer,
+          service agency or the gas supplier.</howtoavoid>
+      </messagepanel>
+      <hazardsymbol keyref="icn:fire_and_explsn"/>
+    </hazardstatement>
+    
+    
+    <hazardstatement id="wrnng_fre_hzrd_dnt_use_stre_flmmble_lqds" type="warning">
+      <messagepanel>
+        <typeofhazard>Fire Hazard</typeofhazard>
+        <consequence></consequence>
+        <howtoavoid></howtoavoid>
+      </messagepanel>
+      <hazardsymbol keyref="icn:burn_acid"/>
+    </hazardstatement>
+    
+    <hazardstatement conkeyref="wmsg:wrnng_fre_hzrd_dnt_use_stre_flmmble_lqds" type="warning">
+      <messagepanel>
+        <typeofhazard></typeofhazard>
+        <consequence></consequence>
+        <howtoavoid></howtoavoid>
+      </messagepanel>
+      <hazardsymbol/>
+    </hazardstatement>
+    
+    <hazardstatement id="wmsg:wrnng_fre_hzrd_frm_crptd_flr_or_fld_dmge" type="warning">
+      <messagepanel>
+        <typeofhazard>Fire Hazard</typeofhazard>
+        <consequence></consequence>
+        <howtoavoid></howtoavoid>
+      </messagepanel>
+      <hazardsymbol keyref="icn:burn_acid"/>
+    </hazardstatement>
+    
+    
+    <hazardstatement id="wmsg:wrnng_fre_hzrd_frm_crpted_flrs_or_fld_dmge" type="warning">
+      <messagepanel>
+        <typeofhazard>Fire Hazard</typeofhazard>
+        <consequence></consequence>
+        <howtoavoid></howtoavoid>
+      </messagepanel>
+      <hazardsymbol keyref="icn:burn_acid"/>
+    </hazardstatement>
+    
+    
+    <hazardstatement id="wmsg:wrnng_gas_pipedope_leak_test_domestic-only" type="warning">
+      <messagepanel>
+        <typeofhazard>Fire Hazard</typeofhazard>
+        <consequence></consequence>
+        <howtoavoid></howtoavoid>
+      </messagepanel>
+      <hazardsymbol keyref="icn:burn_acid"/>
+    </hazardstatement>
+    
+    
+    <hazardstatement id="wmsg:wrnng_glycol-poisoning-hzrd_read_manual" type="warning">
+      <messagepanel>
+        <typeofhazard>Poison Hazard</typeofhazard>
+        <consequence></consequence>
+        <howtoavoid></howtoavoid>
+      </messagepanel>
+      <hazardsymbol keyref="icn:burn_acid"/>
+    </hazardstatement>
+    
+    
+    <hazardstatement id="wmsg:wrnng_glycol-posoning_hzrd_precautions_first_aid" type="warning">
+      <messagepanel>
+        <typeofhazard>Poison Hazard</typeofhazard>
+        <consequence></consequence>
+        <howtoavoid></howtoavoid>
+      </messagepanel>
+      <hazardsymbol keyref="icn:burn_acid"/>
+    </hazardstatement>
+    
+    
+    <hazardstatement id="wmsg:wrnng_group_safe_install" type="warning">
+      <messagepanel>
+        <typeofhazard></typeofhazard>
+        <consequence></consequence>
+        <howtoavoid></howtoavoid>
+      </messagepanel>
+      <hazardsymbol keyref="icn:burn_acid"/>
+    </hazardstatement>
+    
+    
+    <hazardstatement id="wmsg:wrnng_multi_hzrd_dnt_srvce_jmp_cntrls" type="warning">
+      <messagepanel>
+        <typeofhazard></typeofhazard>
+        <consequence></consequence>
+        <howtoavoid></howtoavoid>
+      </messagepanel>
+      <hazardsymbol keyref="icn:burn_acid"/>
+    </hazardstatement>
+    
+    
+    <hazardstatement id="wmsg:wrnng_outside_corner_installation" type="warning">
+      <messagepanel>
+        <typeofhazard></typeofhazard>
+        <consequence></consequence>
+        <howtoavoid></howtoavoid>
+      </messagepanel>
+      <hazardsymbol keyref="icn:burn_acid"/>
+    </hazardstatement>
+    
+   
+   
+    <hazardstatement id="wmsg:wrnng_pressure_test" type="warning">
+      <messagepanel>
+        <typeofhazard></typeofhazard>
+        <consequence></consequence>
+        <howtoavoid></howtoavoid>
+      </messagepanel>
+      <hazardsymbol keyref="icn:burn_acid"/>
+    </hazardstatement>
+    
+    
+    <hazardstatement id="wmsg:wrnng_property_damage_hazard_heaters_leak" type="warning">
+      <messagepanel>
+        <typeofhazard>Property Damage Hazard</typeofhazard>
+        <consequence></consequence>
+        <howtoavoid></howtoavoid>
+      </messagepanel>
+      <hazardsymbol keyref="icn:burn_acid"/>
+    </hazardstatement>
+    
+    
+    <hazardstatement id="wmsg:wrnng_property_damage_heaters_leak" type="warning">
+      <messagepanel>
+        <typeofhazard>Property Damage Hazard</typeofhazard>
+        <consequence></consequence>
+        <howtoavoid></howtoavoid>
+      </messagepanel>
+      <hazardsymbol keyref="icn:burn_acid"/>
+    </hazardstatement>
+    
+    
+    <hazardstatement id="wmsg:wrnng_psnng-hzrd_glycol-precautions_first_aid" type="warning">
+      <messagepanel>
+        <typeofhazard>Poison Hazard</typeofhazard>
+        <consequence></consequence>
+        <howtoavoid></howtoavoid>
+      </messagepanel>
+      <hazardsymbol keyref="icn:burn_acid"/>
+    </hazardstatement>
+    
+    
+    <hazardstatement id="wmsg:wrnng_qual-tech_only" type="warning">
+      <messagepanel>
+        <typeofhazard></typeofhazard>
+        <consequence></consequence>
+        <howtoavoid></howtoavoid>
+      </messagepanel>
+      <hazardsymbol keyref="icn:burn_acid"/>
+    </hazardstatement>
+    
+    
+    <hazardstatement id="wmsg:wrnng_read_and_understand_manual" type="warning">
+      <messagepanel>
+        <typeofhazard></typeofhazard>
+        <consequence></consequence>
+        <howtoavoid></howtoavoid>
+      </messagepanel>
+      <hazardsymbol keyref="icn:burn_acid"/>
+    </hazardstatement>
+    
+    
+    <hazardstatement id="wmsg:wrnng_service_jumping_controls" type="warning">
+      <messagepanel>
+        <typeofhazard></typeofhazard>
+        <consequence></consequence>
+        <howtoavoid></howtoavoid>
+      </messagepanel>
+      <hazardsymbol keyref="icn:burn_acid"/>
+    </hazardstatement>
+    
+    
+    <hazardstatement id="wmsg:wrnng_shck-hzrd_brkr_and_grnd" type="warning">
+      <messagepanel>
+        <typeofhazard>Electrical Shock Hazard</typeofhazard>
+        <consequence></consequence>
+        <howtoavoid></howtoavoid>
+      </messagepanel>
+      <hazardsymbol keyref="icn:electrical_shock_hazard" align="center"/>
+    </hazardstatement>
+    
+    
+    <hazardstatement id="wmsg:wrnng_smell_gas" type="warning">
+      <messagepanel>
+        <typeofhazard></typeofhazard>
+        <consequence></consequence>
+        <howtoavoid></howtoavoid>
+      </messagepanel>
+      <hazardsymbol keyref="icn:burn_acid"/>
+    </hazardstatement>
+    
+    
+    <hazardstatement id="wmsg:wrnng_snow_lvl_vent_clrnce" type="warning">
+      <messagepanel>
+        <typeofhazard></typeofhazard>
+        <consequence></consequence>
+        <howtoavoid></howtoavoid>
+      </messagepanel>
+      <hazardsymbol keyref="icn:burn_acid"/>
+    </hazardstatement>
+    
+    
+    <hazardstatement id="wmsg:wrnng_some_tsks_rqir_srvce_tchntn" type="warning">
+      <messagepanel>
+        <typeofhazard></typeofhazard>
+        <consequence></consequence>
+        <howtoavoid></howtoavoid>
+      </messagepanel>
+      <hazardsymbol keyref="icn:burn_acid"/>
+    </hazardstatement>
+    
+    
+    <hazardstatement id="wmsg:wrnng_toxic_chmcl_hzrd-non_potable" type="warning">
+      <messagepanel>
+        <typeofhazard>Poison Hazard</typeofhazard>
+        <consequence></consequence>
+        <howtoavoid></howtoavoid>
+      </messagepanel>
+      <hazardsymbol keyref="icn:burn_acid"/>
+    </hazardstatement>
+    
+    
+    <hazardstatement id="wmsg:wrnng_turn_off_power_before_service" type="warning">
+      <messagepanel>
+        <typeofhazard>Electrical Shock or Electrocution Hazard</typeofhazard>
+        <consequence></consequence>
+        <howtoavoid></howtoavoid>
+      </messagepanel>
+      <hazardsymbol keyref="icn:electrical_shock_hazard" align="center"/>
+    </hazardstatement>
+    
+    
+    <hazardstatement id="wmsg:wrnng_types_of_mssgs" type="warning">
+      <messagepanel>
+        <typeofhazard></typeofhazard>
+        <consequence></consequence>
+        <howtoavoid></howtoavoid>
+      </messagepanel>
+      <hazardsymbol keyref="icn:burn_acid"/>
+    </hazardstatement>
+    
+   
+ 
+    
+ 
+ 
+      <hazardstatement id="dngr_scld_hzrd-001" type="danger">
+        <messagepanel>
+          <typeofhazard><b>Scalding Hazard</b></typeofhazard>
+          <consequence>Water temperature over 125°F (52°C)
+            can cause severe burns instantly 
+            resulting in severe injury or death. Children, the elderly and the
+            physically or mentally disabled are at
+            highest risk for scald injury.</consequence>
+          <howtoavoid>Feel water before bathing or
+            showering. Temperature limiting devices such as
+            mixing valves must be installed
+            when required by codes and to
+            ensure safe temperatures at fixtures.</howtoavoid>
+        </messagepanel>
+        <hazardsymbol keyref="icn:danger_scalding_hazard"></hazardsymbol>
+      </hazardstatement>
+  
+  
+      <hazardstatement id="brn_hzrd-hot_water" type="danger" >
+        <messagepanel>
+          <typeofhazard>Burn Hazard</typeofhazard>
+          <consequence>Hot water over 125 °F can cause severe burns instantly resulting in severe
+            injury or death. 
+            Children, the elderly, and the physically or mentally disabled are at highest risk for scald injury.</consequence>
+          <howtoavoid><sl><sli>Feel the water before bathing or showering.</sli>
+            <sli>Temperature limiting devices such as mixing valves must be installed when required by codes and to ensure safe temperatures at
+              fixtures.</sli></sl></howtoavoid>
+        </messagepanel>
+        <hazardsymbol keyref="icn:danger_scalding_hazard"></hazardsymbol>
+      </hazardstatement>  
+   
+      
+      <hazardstatement id="brn_hzrd-TP_valve" type="danger">
+        <messagepanel>
+          <typeofhazard>Burn Hazard</typeofhazard>
+          <consequence>Severe burns can result from coming into contact with the Temperature-Pressure Relief valve discharge.</consequence>
+          <howtoavoid>Keep clear of the Temperature-Pressure Relief valve discharge outlet.</howtoavoid>
+        </messagepanel>
+        <hazardsymbol keyref="icn:danger_scalding_hazard"></hazardsymbol>
+      </hazardstatement>
+ 
+ 
+      <hazardstatement id="brn_hzrd-wtr_htr_internals" type="caution">
+        <messagepanel>
+          <typeofhazard>Burn Hazard</typeofhazard>
+          <consequence>While operating, water heater components can be hot enough to cause burns.</consequence>
+          <howtoavoid><sl>
+            <sli>• Do not touch any part of the combustion chamber or burner sleeve and housing while the water heater is operating.</sli>
+            <sli>• Do not reach into the burner housing or combustion chamber if the water heater is still hot.</sli>
+            <sli>• Allow the water heater to cool and always use gloves when handling the main burner.</sli>
+          </sl> </howtoavoid>
+        </messagepanel>
+        <hazardsymbol keyref="icn:danger_scalding_hazard"></hazardsymbol>
+      </hazardstatement>
+      
+      
+ 
+      <hazardstatement id="fre_hzrd-carpet_flood_damage" type="danger">
+        <messagepanel>
+          <typeofhazard>Fire Hazard</typeofhazard>
+          <consequence>Fire can be ignited by the water heater resulting in severe injury or death.</consequence>
+          <howtoavoid><sl>
+            <sli>• Do not install water heater on a carpeted floor.</sli>
+            <sli>• Do not operate water heater if it has been exposed to flooding or water damage.</sli>
+          </sl>
+          </howtoavoid>
+        </messagepanel>
+        <hazardsymbol keyref="icn:fire_hazard"/>
+      </hazardstatement>
+ 
+ 
+      
+      <hazardstatement id="fre_or_explsn_hzrd-flmble_strge" type="danger">
+        <messagepanel>
+          <typeofhazard>Fire or Explosion Hazard</typeofhazard>
+          <consequence>Flamable or explosive vapors from spilled or leaking containers can be ignited by the water heater resulting in fire or explosion.</consequence>
+          <howtoavoid><sl>
+            <sli>• Do not store or use gasoline or other flammable vapors or liquidsin the
+              vicinity of this or any other appliance.</sli>
+            <sli>• Avoid all ignition sources if you smell gas.</sli>
+            <sli>• Do not expose water heater controls to excessive gas pressure.</sli>
+            <sli>• Use only the gas shown on the water heater rating label.</sli>
+            <sli>• Maintain required clearances to combustibles.</sli>
+            <sli>• Keep ignition sources away from faucets after extended periods of non-use.</sli>
+          </sl> </howtoavoid>
+        </messagepanel>
+        <hazardsymbol keyref="icn:explosion_hazard"/>
+      </hazardstatement>
+
+      <hazardstatement id="fre_or_explsn_hzrd-flmble_strge_long" type="danger">
+        <messagepanel>
+          <typeofhazard>Fire or Explosion Hazard</typeofhazard>
+          <consequence>Flamable or explosive vapors from spilled or leaking containers can be ignited by the water heater resulting in fire or explosion.</consequence>
+          <howtoavoid><sl>
+            <sli>• Do not store or use gasoline, solvants, adhesives, or other flammable vapors or liquidsin the
+              vicinity of this or any other appliance.</sli>
+            <sli>• Use only approved containers.</sli>
+            <sli>• Keep containers tightly closed and out of the reach of children.</sli>
+            <sli>• Avoid all ignition sources if you smell gas.</sli>
+            <sli>• Do not expose water heater controls to excessive gas pressure.</sli>
+            <sli>• Use only the gas shown on the water heater rating label.</sli>
+            <sli>• Maintain required clearances to combustibles.</sli>
+            <sli>• Keep ignition sources away from faucets after extended periods of non-use.</sli>
+          </sl> </howtoavoid>
+        </messagepanel>
+        <hazardsymbol keyref="icn:explosion_hazard"/>
+      </hazardstatement>
+      
+
+      <hazardstatement id="brthg_hzrd-insulation_blanket" type="warning">
+        <messagepanel>
+          <typeofhazard>Breathing Hazard - Carbon Monoxide Gas</typeofhazard>
+          <consequence>Breathing carbon monoxide can cause brain damage or death. Always read and understand instruction manual.</consequence>
+          <howtoavoid><sl>
+            <sli>• Do not obstruct water heater air intake with insulating blanket.</sli>
+            <sli>• Gas and carbon monoxide detectors are available.</sli>
+            <sli>• Install water heater in accordance with the instruction manual.</sli>
+          </sl> </howtoavoid>
+        </messagepanel>
+        <hazardsymbol keyref="icn:breathing_hazard"/>
+      </hazardstatement>
+
+      <hazardstatement id="warning_brthng_hzrd_CO2_long" type="warning">
+        <messagepanel>
+          <typeofhazard>Breathing Hazard - Carbon Monoxide Gas</typeofhazard>
+          <consequence>Breathing carbon monoxide can cause brain damage or death. Always read and understand instruction manual.</consequence>
+          <howtoavoid><sl>
+            <sli>• Install vent system in accordance with codes.</sli>
+            <sli>• Do not operate water heater if any part has been exposed to flooding or water damage.</sli>
+            <sli>• Special consideration must be taken with installations above 10,000' (3,078m) for standard models.</sli>
+            <sli>• Do not operate if soot buildup is present.</sli>
+            <sli>• Do not obstruct water heater air intake with insulating blanket.</sli>
+            <sli>• Do not place chemical vapor emitting products near water heater.</sli>
+            <sli>• Gas and carbon monoxide detectors are available.</sli>
+            <sli>• No vent-damper installation is compatible with this power-vented water heater.</sli>
+            <sli>• Install water heater in accordance with the instruction manual.</sli>
+            <sli>• Condensate lines (field supplied) must not be elevated above the exhaust elbow assembly drain outlet. This must be true for the entire length of the condensate lines including the exit into an appropriate drain.</sli>
+            <sli>• Condensate lines must be free and clear of debris and must not allow backflow through the lines. The condensate lines must be able to flow freely to an appropriate drain.</sli>
+            <sli>• Do not allow condensate lines to become crimped closed.</sli>
+            <sli>• Analyze the entire vent system to make sure that condensate will not become trapped in a section for vent pipe and therfore reduce the open cross sectional area of the vent.</sli>
+            <sli>• Do not install any external condensate trap. The exhaurst elbow assembly has an internal condensate trap..</sli>
+          </sl> </howtoavoid>
+        </messagepanel>
+        <hazardsymbol keyref="icn:breathing_hazard"/>
+      </hazardstatement>
+
+
+
+      <hazardstatement id="breathing_hzrd-overfiring" type="warning">
+        <messagepanel>
+          <typeofhazard>Breathing Hazard</typeofhazard>
+          <consequence>The gas used in these water heaters can ignite or explode if not properly handled.</consequence>
+          <howtoavoid><sl>
+            <sli>• Under no circumstances should the input exceed the rate shown on the water heater's rating label.</sli>
+            <sli>• Overfiring could result in fire or explosion.</sli>
+            <sli>• Gas and carbon monoxide detectors are available.</sli>
+          </sl> </howtoavoid>
+        </messagepanel>
+        <hazardsymbol keyref="icn:breathing_hazard"/>
+      </hazardstatement>
+      
+      <hazardstatement id="fre_or_explsn_hzrd-overfiring" type="warning">
+        <messagepanel>
+          <typeofhazard>Fire or Explosion Hazard</typeofhazard>
+          <consequence>The gas used in these water heaters can ignite or explode if not properly handled.</consequence>
+          <howtoavoid><sl>
+            <sli>• Under no circumstances should the input exceed the rate shown on the water heater's rating label.</sli>
+            <sli>• Overfiring could result in fire or explosion.</sli>
+            <sli>• Gas and carbon monoxide detectors are available.</sli>
+          </sl> </howtoavoid>
+        </messagepanel>
+        <hazardsymbol keyref="icn:explosion_hazard"/>
+      </hazardstatement>
+
+      <hazardstatement id="fre_or_explsn_hzrd-gas" type="warning">
+        <messagepanel>
+          <typeofhazard>Fire or Explosion Hazard</typeofhazard>
+          <consequence>The gas used in these water heaters can ignite or explode if not properly handled.</consequence>
+          <howtoavoid><sl>
+            <sli>• Do not use water heater with any gas other than the gas shown on the rating label.</sli>
+            <sli>• Excess gas pressure to gas valve can cause serious injury or death.</sli>
+            <sli>• Turn off gas lines during installation.</sli>
+            <sli>• Contact a qualified installer or service agency for installation and service.</sli>
+         </sl> </howtoavoid>
+        </messagepanel>
+        <hazardsymbol keyref="icn:explosion_hazard"/>
+      </hazardstatement>
+
+      <hazardstatement id="fre_or_explsn_hzrd-leak_test" type="warning">
+        <messagepanel>
+          <typeofhazard>Fire or Explosion Hazard</typeofhazard>
+          <consequence>The gas used in these water heaters can ignite or explode if not properly handled.</consequence>
+          <howtoavoid><sl>
+            <sli>• Use joint compound or Teflon tape compatible with propane gas.</sli>
+            <sli>• Leak test gas connections before placing water heater in operation.</sli>
+            <sli>• Disconnect gas piping at main gas shutoff valve before leak testing heater.</sli>
+            <sli>• Install sediment trap in accordance with NFPA 54 or CAN?CSA B149.1.</sli>
+          </sl> </howtoavoid>
+        </messagepanel>
+        <hazardsymbol keyref="icn:explosion_hazard"/>
+      </hazardstatement>
+
+
+      <hazardstatement id="explsn_hzrd-overheated_wtr" type="warning">
+        <messagepanel>
+          <typeofhazard>Explosion Hazard</typeofhazard>
+          <consequence>Overheated water can cause water tank explosion.</consequence>
+          <howtoavoid>Properly sized temperature and pressure relief valve must be installed in the opening provided.</howtoavoid>
+        </messagepanel>
+        <hazardsymbol  keyref="icn:explosion_hazard"/>
+      </hazardstatement>
+
+
+      <hazardstatement id="explsn_hzrd-TP_valve" type="warning">
+        <messagepanel>
+          <typeofhazard>Explosion Hazard</typeofhazard>
+          <consequence>Failure of the temperature-pressure relief valve can result in overheating,
+          excessive tank pressure, or explosion causing serious injury or death.</consequence>
+          <howtoavoid>
+            <sl>
+              <sli>• The temperature-pressure relief valve must comply with <cite>ANSI Z21.22</cite>-<cite>CSA 4.4</cite>, and the <cite>ASME code</cite>.</sli> 
+              <sli>• A properly-sized temperature-pressure relief valve must be installed in the opening provided.</sli>
+            </sl>
+          </howtoavoid>
+        </messagepanel>
+        <hazardsymbol keyref="icn:explosion_hazard"/>
+      </hazardstatement>
+  
+      <hazardstatement id="explsn_hzrd-prssre_rlf_valve" type="warning">
+        <messagepanel>
+          <typeofhazard>Explosion Hazard</typeofhazard>
+          <consequence>Failure of the pressure relief valve can result in overheating,
+            excessive tank pressure, or explosion causing serious injury or death.</consequence>
+          <howtoavoid>
+            <sl>
+              <sli>• The pressure relief valve must comply with <cite>ASME</cite> code.</sli>
+              <sli>• A properly-sized relief valve must be installed in opening provided.</sli>
+            </sl>
+          </howtoavoid> 
+        </messagepanel>
+        <hazardsymbol keyref="icn:explosion_hazard"/>
+      </hazardstatement>
+      
+  
+      <hazardstatement id="wtr_dmge_hzrd-TP_valve" type="caution">
+        <messagepanel>
+          <typeofhazard>Water Damage Hazard</typeofhazard>
+          <consequence>The temperature-pressure relief valve can discharge a sufficient amount of
+          water to cause water damage.</consequence>
+          <howtoavoid>Be sure to terminate the teperature-pressure relief valve discharge pipe at an
+          adequate drain.</howtoavoid>
+        </messagepanel>
+        <hazardsymbol keyref="icn:exclaim_black_triangle"/>
+      </hazardstatement>
+
+      <hazardstatement id="wtr_dmge_hzrd-prssre_rlf_valve" type="caution">
+        <messagepanel>
+          <typeofhazard>Water Damage Hazard</typeofhazard>
+          <consequence>The pressure relief valve can discharge a sufficient amount of
+            water to cause water damage.</consequence>
+          <howtoavoid>Be sure to terminate the pressure relief valve discharge pipe at an
+            adequate drain.</howtoavoid>
+        </messagepanel>
+        <hazardsymbol keyref="icn:exclaim_black_triangle"/>
+      </hazardstatement>
+      
+
+      <hazardstatement id="brthg_hzrd-insuation_blanket" type="warning">
+        <messagepanel>
+          <typeofhazard>Breathing Hazard - Carbon Monoxide Gas</typeofhazard>
+          <consequence>Breathing carbon monoxide can cause brain damage or death.</consequence>
+          <howtoavoid><sl>
+            <sli>• Do not obstruct water heater air intake with insuation blankent.</sli>
+            <sli>• Gas and carbon monoxide detectors are available.</sli>
+            <sli>• Install water heater in accordance with the instruction manual.</sli>
+            </sl>
+          </howtoavoid>
+        </messagepanel>
+        <hazardsymbol keyref="icn:breathing_hazard"/>
+      </hazardstatement>      
+
+
+      <hazardstatement id="brthg_hzrd-insuation_air-intake" type="warning">
+        <messagepanel>
+          <typeofhazard>Breathing Hazard - Carbon Monoxide Gas</typeofhazard>
+          <consequence>Breathing carbon monoxide can cause brain damage or death.</consequence>
+          <howtoavoid><sl>
+            <sli>• Do not obstruct water heater air intake.</sli>
+            <sli>• Gas and carbon monoxide detectors are available.</sli>
+            <sli>• Install water heater in accordance with the instruction manual.</sli>
+          </sl>
+          </howtoavoid>
+        </messagepanel>
+        <hazardsymbol keyref="icn:breathing_hazard"/>
+      </hazardstatement>      
+
+      <hazardstatement id="warning_brthng_hzrd_CO2_installation" type="warning">
+        <messagepanel>
+          <typeofhazard>Breathing Hazard - Carbon Monoxide Gas</typeofhazard>
+          <consequence>Breathing carbon monoxide can cause brain damage or death.</consequence>
+          <howtoavoid>• Always read and understand instruction manual.<sl>
+            <sli>• Install water heater in accordance with the instruction manual and <i
+                outputclass="Cite">NFPA 54</i> or <i outputclass="Cite">CAN/CSA-B149.1</i>.</sli>
+            <sli>• To avoid injury, combustion and ventilation air must be taken from outdoors.</sli>
+            <sli>• Do not place chemical vapor emitting products near water heater</sli>
+          </sl></howtoavoid>
+        </messagepanel>
+        <hazardsymbol keyref="icn:breathing_hazard"/>
+      </hazardstatement>
+      
+      <hazardstatement id="brthg_hzrd-CO_vent_installation" type="warning">
+        <messagepanel>
+          <typeofhazard>Breathing Hazard - Carbon Monoxide Gas</typeofhazard>
+          <consequence>Breathing carbon monoxide can cause brain damage or death.</consequence>
+          <howtoavoid><sl>
+            <sli>• Install vent system in accordance with codes.</sli>
+            <sli>• Do not operate water heater if exposed to flooding or water damage.</sli>
+            <sli>• Special consideration must be taken with installations above 10,000 feet (3,048 m) refer to high altitude section of this manual.</sli>
+            <sli>• Do not operate if soot buildup.</sli>
+            <sli>• Do not obstruct water heater air intake with insulating jacket or blanket.</sli>
+            <sli>• Do not place chemical vapor emitting products near water heater.</sli>
+            <sli>• Gas and carbon monoxide detectors are available.</sli>
+            <sli>• Never operate the heater unless it is vented to the outdoors and has adequate air supply to avoid risks of improper operation, fire, explosion or asphyxiation.</sli>
+            <sli>• Analyze the entire vent system to make sure that condensate will not become trapped in a section of vent pipe and therefore reduce the open cross sectional area of the vent.</sli>
+          </sl></howtoavoid>
+        </messagepanel>
+        <hazardsymbol keyref="icn:breathing_hazard"/>
+      </hazardstatement>      
+      
+
+<hazardstatement id="warning_explosion_hazard_hydrogen" type="warning">
+  <messagepanel>
+    <typeofhazard>Explosion Hazard</typeofhazard>
+    <consequence>Explosive hydrogen gas might be present.</consequence>
+    <howtoavoid>Keep all ignition sources away from faucet when turning on hot water.</howtoavoid>
+  </messagepanel>
+  <hazardsymbol keyref="icn:explosion_hazard"/>
+</hazardstatement>
+      
+
+<hazardstatement id="explsn_hzrd-over_heated_water" type="warning">
+  <messagepanel>
+    <typeofhazard>Explosion Hazard</typeofhazard>
+    <consequence>Overheated water can cause the water tank to explode.</consequence>
+    <howtoavoid>Properly sized temperature and pressure relief valve must be
+      installed in the opening provided.</howtoavoid>
+  </messagepanel>
+  <hazardsymbol keyref="icn:explosion_hazard"/>
+</hazardstatement>
+      
+
+<hazardstatement id="warning_fre_and_explsn_hzrd_general" type="warning">
+  <messagepanel>
+    <typeofhazard>Fire and Explosion Hazard</typeofhazard>
+    <consequence>Severe injury or death could result from a fire or explosion caused by a failure to follow these precautions.</consequence>
+    <howtoavoid>
+    <sl>
+      <sli>• Do not store or use gasoline or other flammable vapors and
+        liquids in the vicinity of this or any other appliance.</sli>
+      <sli>• Avoid all ignition sources if you smell gas.</sli>
+      <sli>• Do not expose water heater controls to excessive gas
+        pressure.</sli>
+      <sli>• Use only the gas shown on the water heater rating label.</sli>
+      <sli>• Maintain required clearances to combustibles.</sli>
+      <sli>• Keep ignition sources away from faucets after extended
+        periods of non-use.</sli>
+      <sli>• Read instruction manual before installing, using or servicing water heater.</sli>
+      </sl>
+      </howtoavoid>
+  </messagepanel>
+  <hazardsymbol keyref="icn:explosion_hazard"/>
+</hazardstatement>
+
+
+<hazardstatement id="prprty_dmge_hzrd-lkge" type="caution"> 
+    <messagepanel>
+    <typeofhazard>Property Damage Hazard</typeofhazard>
+    <consequence>All water heaters eventually leak.      </consequence>
+      <howtoavoid><sl>
+        <sli>• Do not install without adequate drainage.</sli>
+        <sli>• Ensure proper drainage for potential leakage.</sli>
+        <sli>• Failure to follow these instructions and safety messages could result in property damage.</sli> 
+      </sl></howtoavoid>
+  </messagepanel>
+  <hazardsymbol keyref="icn:exclaim_black_triangle"/>
+</hazardstatement>
+
+      <hazardstatement id="caution_prprty_dmge_hzrd-improper_installation" type="caution"> 
+        <messagepanel>
+          <typeofhazard>Property Damage Hazard</typeofhazard>
+          <consequence>Improper installation, use and service may result in property damage. </consequence>
+          <howtoavoid><sl>
+            <sli>• Do not operate water heater if exposed to flooding or water damage.</sli>
+            <sli>• Inspect anode rods regularly, replace if damaged.</sli>
+            <sli>• Install in location with drainage.</sli> 
+            <sli>• Fill tank with water before operation.</sli> 
+            <sli>• Properly sized thermal expansion tanks are required on all closed water systems.</sli> 
+            <sli>• Refer to this manual for installation and service.</sli> 
+          </sl></howtoavoid>
+        </messagepanel>
+        <hazardsymbol keyref="icn:exclaim_black_triangle"/>
+      </hazardstatement>
+
+
+
+      <hazardstatement id="caution_prprty_dmge_hzrd-improper_install_short" type="caution"> 
+        <messagepanel>
+          <typeofhazard>Property Damage Hazard</typeofhazard>
+          <consequence>Improper installation, use and service may result in property damage. </consequence>
+          <howtoavoid><sl>
+            <sli>• Do not operate water heater if exposed to flooding or water damage.</sli>
+            <sli>• Do not operate water heater if the water heater has external damage.</sli>
+            <sli>• Do not operate water heater if the water heater has been fired without water.</sli> 
+            <sli>• Do not operate water heater if the there is any evidence of sooting.</sli> 
+          </sl></howtoavoid>
+        </messagepanel>
+        <hazardsymbol keyref="icn:exclaim_black_triangle"/>
+      </hazardstatement>
+
+
+
+  <hazardstatement id="warning_read_manual" type="warning">
+  <messagepanel>
+    <typeofhazard>Risk of Serious Injury or Death</typeofhazard>
+    <consequence>Failure to follow these instructions and safety messages could result in death or serious injury.</consequence>
+    <howtoavoid>Read and understand this instruction manual and the safety messages herin before installing, operating, or servicing this water heater. This manual must remain with th water heater.</howtoavoid>
+  </messagepanel>
+    <hazardsymbol keyref="icn:reader"/>
+</hazardstatement>
+
+
+<hazardstatement id="wrnng-elctrcl_shck-mntnnce" type="warning">
+  <messagepanel>
+    <typeofhazard>Electrical Shock Hazard</typeofhazard>
+    <consequence>Failure to follow these instructions can result in serious personal injury or death.</consequence>
+    <howtoavoid>
+      <sl>
+        <sli>• Turn off power at the branch circuit breaker serving the water heater before performing any service.</sli>
+        <sli>• Label all wires prior to disconnecting when performing service. Wiring errors can cause improper and dangerous operation.</sli>
+        <sli>• Verify proper operation after servicing.</sli> 
+      </sl>
+    </howtoavoid>
+  </messagepanel>
+  <hazardsymbol keyref="icn:electrical_shock_hazard" align="center"/>
+</hazardstatement>
+
+<hazardstatement id="service_jumping_controls_hazard" type="danger">
+  <messagepanel>
+    <typeofhazard>Property Damage, Personal Injury, or Death</typeofhazard>
+    <consequence>Jumping out control circuits or components can result in property damage, personal injury, or death.</consequence>
+    <howtoavoid> <sl>
+      <sli>• Altering in any way, the control circuits, components, or wiring of the water heater, could result in permanent damage to the controls or water heater, water heater malfunction, electrocution, fire, explosion and result in personal injury or death..</sli> 
+      <sli>• Service must be performed by a qualified service technician only using proper test equipment.</sli> 
+    </sl> 
+    </howtoavoid>
+  </messagepanel>
+      <hazardsymbol keyref="icn:exclaim_black_triangle" id="hazardsymbol_jr2_vl3_mcb"/>
+</hazardstatement>
+    
+    
+ </body>
+</topic>

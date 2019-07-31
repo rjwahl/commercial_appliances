@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<task id="task_cmr_rb2_ndb" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:task.xsd">
+    <title>Open Hot Water Faucet</title>
+    <taskbody>
+        <steps-unordered>
+            <step id="step_open_hot_faucet_A">
+                <cmd>Open a nearby hot water faucet to vent the system.</cmd>
+            </step>
+            <step id="step_open_hot_faucet_B">
+                <cmd>Open a nearby hot-water faucet and let the water run until the water is no
+                    longer hot.</cmd>
+            </step>
+            <step id="step_open_hot_faucet_C">
+                <cmd>Open a hot water valve and let it run until the water is cool, and then close
+                    the supply-water inlet valve to heater.</cmd>
+            </step>
+            <step id="step_open_hot_faucet_D">
+                <cmd>Open a nearby hot-water faucet and let it run until the water is no longer
+                    hot.</cmd>
+            </step>
+            <step id="step_open_hot_faucet_E">
+                <cmd>Open a nearby hot-water faucet to vent the system.</cmd>
+            </step>
+            <step id="step_open_hot_faucet_F">
+                <cmd>Open a nearby hot-water faucet and leave open to allow for draining.</cmd>
+            </step>
+            <step id="step_open_hot_faucet_G">
+                <cmd>Open a nearby hot-water faucet.</cmd>
+            </step>
+        </steps-unordered>
+    </taskbody>
+</task>

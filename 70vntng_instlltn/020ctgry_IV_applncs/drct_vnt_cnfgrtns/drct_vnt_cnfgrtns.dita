@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><concept xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="concept_zmf_mvc_fbb" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:concept.xsd">
+    <title>Direct Vent Configurations</title>
+    <shortdesc/>
+    <conbody>
+        <p>Direct Vent configurations derive all combustion air directly from the outdoor atmosphere
+            through a sealed intake air pipe and discharge all flue gases to the outdoor atmosphere
+            through a sealed vent (exhaust) pipe. Direct Vent configurations have two pipes
+            connected to the water heater, one vent pipe and one intake air pipe. Direct Vent
+            configurations can be terminated in one of seven different arrangements. 
+            See <xref keyref="sec:Venting_Arrangements/fig_drct_vnt_vrtcl"/> 
+            through <xref keyref="sec:Venting_Arrangements/fig_drct_vnt_hrzntl_low_prfle"/>.</p>
+    </conbody>
+</concept>

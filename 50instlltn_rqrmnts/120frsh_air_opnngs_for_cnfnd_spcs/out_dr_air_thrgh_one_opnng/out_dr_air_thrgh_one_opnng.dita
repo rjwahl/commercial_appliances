@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><concept xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="concept_fbr_xzq_mbb" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:concept.xsd">
+    <title>Outdoor Air Through One Opening</title>
+    <shortdesc/>
+    <conbody>
+        <p id="p_vpk_b1r_mbb">Alternatively a single permanent opening, commencing within 12 inches
+            (300 mm) of the top of the enclosure, shall be provided. 
+            See <xref keyref="sec:Outdoor_Air_Through_One_Opening/fig_out_dr_air_thrgh_one_opnng"/>. 
+            The water heater shall have clearances of at least 1 inch (25 mm) from the sides and 
+            back and 6 inches (l50 mm) from the front of the water heater. 
+            The opening shall directly communicate with the outdoors or shall communicate through 
+            a vertical or horizontal duct to the outdoors or spaces that freely communicate with 
+            the outdoors and shall have a minimum free area of the following:</p>
+        <ol id="ol_dnq_c1r_mbb">
+            <li>
+                <p id="p_bhl_d1r_mbb">1 square inch per 3000 Btu/hr (700 mm2 per kW) of the total
+                    input rating of all appliances located in the enclosure, and</p>
+            </li>
+            <li>
+                <p id="p_v3g_21r_mbb">Not less than the sum of the areas of all vent connectors in
+                    the space.</p>
+            </li>
+        </ol>
+        <fig id="fig_out_dr_air_thrgh_one_opnng">
+            <title>Outdoor Air through One Opening</title>
+            <image keyref="img:air_req_outdoor_one_opening" width="500" id="image_ndj_m1r_mbb"/>
+        </fig>
+    </conbody>
+</concept>

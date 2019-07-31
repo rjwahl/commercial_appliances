@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="cSfe-Instlltn-Use-and-Srvce">
+    <title>Safe Installation, Use, and Service</title>
+    <shortdesc>The proper installation, use, and servicing of this water heater is
+        extremely important to your safety and the safety of others.</shortdesc>
+    <prolog>
+        <author type="contributor">rjwahl</author>
+        <critdates>
+            <!--rjwahl-->
+            <revised modified="2018/09/10"/>
+            <!--rjwahl-->
+            <revised modified="2018/09/11"/>
+        </critdates>
+    </prolog>
+    <!-- This file is intended for use in water heater, boiler, and well tank manuals. 
+        The only difference is in the first and second paragraph where the text explicitly refers
+        to either "water heater," "boiler," or "well tank." To deal with this, a keyref should be 
+        set up to define the key, type_of_product, as either "water heater," "boiler," or "well tank"
+        in the keys map. The keyrefs in this text will then take on the proper term.
+    -->
+    <conbody>
+        <p id="p_jps_h3r_d1b">The proper installation, use, and servicing of this <keyword keyref="type_of_product"/> is
+            extremely important to your safety and the safety of others.</p>
+        <p id="p_kps_h3r_d1b">Many safety-related messages and instructions have been provided in
+            this manual and on your own  <keyword keyref="type_of_product"/> to warn you and others
+            of a potential injury hazard. Read and obey all safety messages and instructions
+            throughout this manual. It is very important that the meaning of each safety message is
+            understood by you and others who install, use, or service this  <keyword
+                keyref="type_of_product"/>
+        </p>
+        <p>
+            <image keyref="wmsg:warning_group_safe_install"
+                id="image_sfe_instlltn_use_and_srvcng_jtb_2tp_cfb"/></p>
+        <p id="p_sfe_instlltn_use_and_srvcng_mv4_t5p_cfb">
+            <table conref="../../hzrd_sttmnts/hzrd_sttmnts.dita#topic_gjt_5pg_x1b/table123xyz"
+                id="table_sfe_instlltn_use_and_srvcng_o3b_v5p_cfb">
+                <tgroup cols="1">
+                    <tbody>
+                        <row>
+                            <entry/>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table>
+            <table conref="../../hzrd_sttmnts/hzrd_sttmnts.dita#topic_gjt_5pg_x1b/hazard_types_definition_table"
+                id="table_sfe_instlltn_use_and_srvcng_hlq_gvp_cfb">
+                <tgroup cols="1">
+                    <tbody>
+                        <row>
+                            <entry/>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table>
+        </p>
+     
+        <p id="p_dhn_v5r_d1b">All safety messages will generally tell you about the type of hazard,
+            what can happen if you do not follow the safety message, and how to avoid the risk of
+            injury.</p>
+        
+        <p>The <i outputclass="Cite">California Safe Drinking Water and Toxic Enforcement Act</i>
+            requires the Governor of California to publish a list of substances known to the State
+            of California to cause cancer, birth defects, or other reproductive harm, and requires
+            businesses to warn of potential exposure to such substances.  </p>
+        <note type="warning">This product contains a chemical known to the State of California to
+            cause cancer, birth defects, or other reproductive harm. This appliance can cause low
+            level exposure to some of the substances listed in the Act.</note>
+        
+    </conbody>
+</concept>

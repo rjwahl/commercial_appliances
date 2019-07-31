@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><concept xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="concept_nv2_3m5_gbb" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:concept.xsd">
+    <title>Water-Piping Diagrams</title>
+    <shortdesc/>
+    <conbody>
+        <p id="p_hxd_jm5_gbb">This manual provides detailed water-piping diagrams for typical
+            methods of application for the water heaters. See <xref keyref="sec:Water_Piping_Diagrams"/>.</p>
+        <p id="p_ixd_jm5_gbb">The water heater can be installed with or without a separate storage
+            tank. When used with a separate storage tank, the circulation can be either by gravity
+            or by means of a circulating pump. When a circulating pump is used, it is important to
+            note that the flow rate should be slow enough that there is a minimum of turbulence
+            inside the water heater storage tank.</p>
+        <p id="p_jxd_jm5_gbb">Adjust the flow by throttling a full-port ball valve installed in the
+            circulating line on the outlet side of the pump. Never throttle the flow on the suction
+            side of a pump. See <xref keyref="sec:Water_Piping_Diagrams"/>.</p>
+        <note>In addition to the factory-installed Temperature-Pressure Relief valve (T&amp;P valve)
+            on the water heater, each remote-storage tank that can be installed and piped to a
+            water-heating appliance must also have its own properly-sized, rated, and approved
+            Temperature-Pressure Relief valve installed.</note>
+        <p id="p_dnw_lm5_gbb">Call the toll-free technical-support phone number listed on the back
+            cover of this manual for further assistance in sizing a T&amp;P valve for remote-storage
+            tanks.</p>
+    </conbody>
+</concept>

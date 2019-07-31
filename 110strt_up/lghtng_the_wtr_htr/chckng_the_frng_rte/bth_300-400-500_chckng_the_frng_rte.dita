@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><task xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="task_jc3_s5h_hbb" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:task.xsd">
+    <title>Checking the Firing Rate</title>
+    <shortdesc/>
+    <taskbody>
+        <context>
+            <p>Follow these instructions to determine the actual firing rate of the water
+                heater:</p>
+            <note>The heaters covered by this manual are capable of modulating their firing rate.
+                The firing rate should be checked with the heater operating at it's full firing
+                rate.</note>
+        </context>
+        <!-- The bth 120-250 version of this procedure uses a manometer  (after step 2)  and a step to check the supply gas pressure that are not mentioned in the legacy bth 300-500 version of the procedure. -->
+        <steps>
+            <step>
+                <cmd>Ensure there are no other gas fired appliances connected to the gas meter
+                    firing during this test.</cmd>
+            </step>
+            <step>
+                <cmd>Contact the gas supplier to determine the heating value, in Btu per cubic foot,
+                    of the gas supply.</cmd>
+            </step>
+            <step>
+                <cmd>Start the water heater and ensure it is firing.</cmd>
+            </step>
+            <step>
+                <cmd>Locate the gas meter serving the water heater.</cmd>
+            </step>
+            <step>
+                <cmd>Using a stop watch, time how long (in seconds) it takes for one cubic foot of
+                    gas to be used while the water heater is firing.</cmd>
+            </step>
+            <step>
+                <cmd>Use the formula below to “clock” the gas meter and determine the actual firing
+                    rate of the water heater based on the heating value (Btu per cubic foot) of the
+                    gas supply:</cmd>
+                <info><image keyref="img:gas_input_equation" id="image_lnj_qvh_hbb" width="300px"/><ul id="ul_dmv_svh_hbb">
+                        <li>3600 = seconds in one hour.</li>
+                        <li>T = time, in seconds, to burn one cubic foot of gas.</li>
+                        <li>H = heating value of gas in Btu per cubic foot.</li>
+                        <li>Btu/hr = actual firing rate of the water heater.</li>
+                    </ul><note>1050 Btu per cubic foot is a standard value for natural gas. Standard
+                        propane gas Btu content is 2500 Btu per cubic foot. Btu values may change in
+                        certain areas and at high elevations. Check with the local gas utility
+                        company.</note></info>
+            </step>
+        </steps>
+    </taskbody>
+</task>

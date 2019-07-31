@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map id="cmptblty_wth_othr_tchnlgs00001">
+    <title>Compatibility with Other Technologies.dita</title>
+    <topicref href="icomm_cmptblty.dita"/>
+    <topicref href="icc_cmptblty.dita"/>
+</map>

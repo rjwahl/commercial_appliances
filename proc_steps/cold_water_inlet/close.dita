@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<task id="task_wd5_gtj_mdb" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:task.xsd">
+    <title>Close Cold Water Inlet</title>
+    <shortdesc>Container topic for 'Open cold water inlet' step variations.</shortdesc>
+    <taskbody>
+        <steps-unordered>
+            <step id="step_close_cold_water_inlet_A">
+                <cmd>Close the cold-water inlet valve.</cmd>
+            </step>
+            <step id="step_close_cold_water_inlet_B">
+                <cmd>Close the cold-water inlet valve to heater.</cmd>
+            </step>
+            <step id="step_close_cold_water_inlet_C">
+                <cmd>Close the cold-water inlet valve to the water heater.</cmd>
+            </step>   
+        </steps-unordered>
+    </taskbody>
+</task>

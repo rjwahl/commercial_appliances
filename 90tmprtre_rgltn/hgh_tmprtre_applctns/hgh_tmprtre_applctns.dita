@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><concept xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="concept_jdt_35z_gbb" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:concept.xsd">
+    <title>High-Temperature Applications</title>
+    <shortdesc/>
+    <conbody>
+        <p id="p_ug1_k5z_gbb">Higher operating temperatures cause more wear on all water heaters and
+            will decrease the life span of the water heater. Consider installing a small booster
+            water heater for high temperature applications, such as commercial dishwashers, to raise
+            the outlet temperature from the larger primary water heater to the desired point of use
+            temperature.</p>
+        <p id="p_vg1_k5z_gbb">Contact your local distributor or call the technical support phone
+            number listed on the back cover of this manual for further technical assistance.</p>
+    </conbody>
+</concept>

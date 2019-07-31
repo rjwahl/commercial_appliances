@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<task id="task_yj4_m5f_ndb" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:task.xsd">
+    <title>Open Cold Water Inlet</title>
+    <shortdesc></shortdesc>
+    <taskbody>
+        <steps-unordered>
+            <step id="step_open_cold_water_inlet_A">
+                <cmd>Open the cold water inlet.</cmd>
+            </step>
+            <step id="step_open_cold_water_inlet_B">
+                <cmd>Ensure that the cold-water inlet valve is open.</cmd>
+            </step>
+        </steps-unordered>
+    </taskbody>
+</task>

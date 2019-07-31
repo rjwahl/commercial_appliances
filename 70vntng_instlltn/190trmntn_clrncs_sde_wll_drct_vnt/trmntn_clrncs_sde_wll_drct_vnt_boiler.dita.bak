@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?><concept xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="concept_anx_hvm_gbb" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:concept.xsd">
+    <title>Termination Clearances Sidewall Direct Vent</title>
+    <shortdesc/>
+    <conbody>
+        <fig id="fig_trmntn_clrnces_for_drct_vnt_usng_otsde_air">
+            <title>Termination Clearances for Direct Vent Using Outside Air</title>
+            <image keyref="img:direct_vent_using_outside_air" id="image_rhp_zvm_gbb" width="600px"/>
+        </fig>
+        
+        
+  
+  
+  
+  
+        <table frame="all" rowsep="1" colsep="1" id="table_r1m_hwm_gbb" rowheader="firstcol"><title>Sidewall Direct Vent Using Outside Air</title>
+            <tgroup cols="4" align="center">
+                <colspec colname="c1" colnum="1" colwidth=".2*" align="left"/>
+                <colspec colname="c2" colnum="2" colwidth="1*" align="left"/>
+                <colspec colname="c3" colnum="3" colwidth="1*" align="left"/>
+                <colspec colname="c4" colnum="4" colwidth="1*" align="left"/>
+                <thead>
+                    <row>
+                        <entry/>
+                        <entry>
+                            <p outputclass="Table-Column-Head">Type of Clearance</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Column-Head">Canadian Installations 1</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Column-Head">US Installations 2</p>
+                        </entry>
+                    </row>
+                </thead>
+                <tbody>
+                    <row>
+                        <entry>
+                            <p outputclass="Table-Cell">A</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell">Clearance above grade, veranda, porch, deck
+                                or balcony</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell">12 inches (30 cm)</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell">12 inches (30 cm)</p>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry>
+                            <p outputclass="Table-Cell">B</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell">Clearance to window or door that may be
+                                opened</p>
+                        </entry>
+                        <entry>
+                            <ul id="ul_szy_vym_gbbfff">
+                                <li outputclass="Table-Cell">6 in (15 cm) for appliances ≤ 10,000
+                                    Btuh (3 kW) </li>
+                                <li outputclass="Table-Cell">12 in (30 cm) for appliances &gt;
+                                    10,000 Btuh (3 kW) and ≤ 100,000 Btuh (30 kW)</li>
+                                <li outputclass="Table-Cell">36 in (91 cm) for appliances &gt;
+                                    100,000 Btuh (30 kW)</li>
+                            </ul>
+                        </entry>
+                        <entry>
+                            <ul id="ul_swt_r23_cdb">
+                                <li outputclass="Table-Cell">6 in (15 cm) for appliances ≤ 10,000
+                                    Btuh (3 kW) </li>
+                                <li outputclass="Table-Cell">9 in (23 cm) for appliances &gt; 10,000
+                                    Btuh (3 kW) and ≤ 50,000 Btuh (15 kW)</li>
+                                <li outputclass="Table-Cell">12 in (30 cm) for appliances > 50,000
+                                    Btuh (15 kW)</li>
+                            </ul>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry>
+                            <p outputclass="Table-Cell">C</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell">Clearance to permanently closed window</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell">6 inches (15 cm)*</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell">6 inches (15 cm)*</p>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry>
+                            <p outputclass="Table-Cell">D</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell">Vertical clearance to ventilated soffit
+                                located above the terminal within a horizontal distance of 2 feet
+                                (61 cm) from the center line of the terminal</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell">12 inches (30 cm)*</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell">12 inches (30 cm)*</p>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry>
+                            <p outputclass="Table-Cell">E</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell">Clearance to unventilated soffit</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell">12 inches (30 cm)*</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell">12 inches (30 cm)*</p>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry>
+                            <p outputclass="Table-Cell">F</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell">Clearance to outside corner</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell">2 feet (60 cm)*</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell">2 feet (60 cm)*</p>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry>
+                            <p outputclass="Table-Cell">G</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell">Clearance to inside corner</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell">8 feet (2.44 m)*</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell">8 feet (2.44 m)*</p>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry>
+                            <p outputclass="Table-Cell">H</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell">Clearance to each side of center line
+                                extended above meter/regulator assembly</p>
+                        </entry>
+                        <entry>
+                            <p id="p_isb_vk3_cdb">3 feet (91 cm) within a height 15 feet (4.5 m)
+                                above the meter/regulator assembly</p>
+                        </entry>
+                        <entry>
+                            <p id="p_dcp_wk3_cdb">3 feet (91 cm) within a height 15 feet (4.5 m)
+                                above the meter/regulator assembly</p>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry>
+                            <p outputclass="Table-Cell">I</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell">Clearance to service regulator vent
+                                outlet</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell">3 feet (91 cm)</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell">3 feet (91 cm)</p>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry>
+                            <p outputclass="Table-Cell">J</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell">Clearance to a non mechanical air supply
+                                inlet into building or combustion air inlet to any other
+                                appliance</p>
+                        </entry>
+                        <entry>
+                            <ul>
+                                <li>6 in (15 cm) for appliances ≤ 10,000 Btuh (3 kW)</li>
+                                <li>12 in (30 cm) for appliances &gt; 10,000 Btuh (3 kW) and ≤
+                                    100,000 Btuh (30 kW) </li>
+                                <li>36 in (91 cm) for appliances &gt;100,000 Btuh (30 kW)</li>
+                            </ul>
+                        </entry>
+                        <entry>
+                            <ul id="ul_sh1_tf3_cdb">
+                                <li outputclass="Table-Cell">6 in (15 cm) for appliances ≤ 10,000
+                                    Btuh (3 kW) </li>
+                                <li outputclass="Table-Cell">9 in (23 cm) for appliances &gt; 10,000
+                                    Btuh (3 kW) and ≤ 50,000 Btuh (15 kW)</li>
+                                <li outputclass="Table-Cell">12 in (30 cm) for appliances > 50,000
+                                    Btuh (15 kW)</li>
+                            </ul>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry>
+                            <p outputclass="Table-Cell">K</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell">Clearance to a mechanical air supply
+                                inlet</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell">6 feet (1.83 m)</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell">3 feet (91 cm) above if within 10 feet (3 m)
+                                horizontally</p>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry>
+                            <p outputclass="Table-Cell">L</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell">Clearance above paved sidewalk or paved
+                                driveway located on public property</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell">7 feet (2.13 m)†</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell">7 feet (2.13 m) †*</p>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry>
+                            <p outputclass="Table-Cell">M</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell">Clearance under veranda, porch, deck, or
+                                balcony</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell">12 inches (30 cm) ‡</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell">12 inches (30 cm) ‡</p>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry namest="c1" nameend="c4">
+                            <p id="p_txn_m1n_gbb">1. In accordance with the current CSA B149.1,
+                                Natural Gas and Propane Installation Code.</p>
+                            <p id="p_uxn_m1n_gbb">2. In accordance with the current ANSI Z223.1/NFPA
+                                54, National Fuel Gas Code.</p>
+                            <p id="p_vxn_m1n_gbb">† A vent shall not terminate directly above a
+                                sidewalk or paved driveway that is located between two single family
+                                dwellings and serves both dwellings </p>
+                            <p id="p_wxn_m1n_gbb">Where it may cause hazardous frost or ice
+                                accumulations on adjacent property surfaces.</p>
+                            <p id="p_xxn_m1n_gbb">‡ Permitted only if veranda, porch, deck, or
+                                balcony is fully open on a minimum of two sides beneath the
+                                floor.</p>
+                            <p id="p_yxn_m1n_gbb">* Clearance in accordance with local installation
+                                codes and the requirements of the gas supplier and the
+                                manufacturer's installation instructions</p>
+                        </entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>    
+    </conbody>
+</concept>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><concept xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="concept_xrg_3vc_fbb" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:concept.xsd">
+    <title>Power Vent Configurations</title>
+    <shortdesc/>
+    <conbody>
+        <p>Power Vent configurations derive all combustion air from the room where they are
+            installed and discharge all flue gases to the outdoor atmosphere through a sealed vent
+            (exhaust) pipe. Power vent configurations have one vent pipe connected to the water
+            heater which can be terminated in a vertical or horizontal arrangement. 
+            See <xref keyref="sec:Venting_Arrangements/fig_pwr_vnt_vrtcl"/> 
+            and <xref keyref="sec:Venting_Arrangements/fig_pwr_vnt_hrzntl"/>.</p>
+    </conbody>
+</concept>

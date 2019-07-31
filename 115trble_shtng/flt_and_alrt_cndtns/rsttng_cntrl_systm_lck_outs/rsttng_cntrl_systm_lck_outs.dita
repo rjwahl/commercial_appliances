@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><concept xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="concept_lpd_x1p_hbb" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:concept.xsd">
+    <title>Resetting Control System Lock Outs</title>
+    <shortdesc/>
+    <conbody>
+        <p>To reset the control system from a lock out condition, turn the power supply off at the
+            breaker for approximately 20 seconds and then back on. Keep in mind, if the condition
+            that caused the fault has not been corrected, the control system will continue to lock
+            out.</p>
+    </conbody>
+</concept>

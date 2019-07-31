@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<task id="task_hvg_svf_ndb" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:task.xsd">
+    <title>Attach a Drain Hose</title>
+    <shortdesc></shortdesc>
+    <taskbody>
+        <steps-unordered>
+            <step id="step_attach_hose_to_drain_valve_A">
+                <cmd>Connect a hose to the water-heater drain valve and terminate it to an adequate
+                    drain.</cmd>
+            </step>
+            <step id="step_attach_hose_to_drain_valve_B">
+                <cmd>Attach hose to outlet opening of drain valve and direct end to drain.</cmd>
+            </step>
+            <step id="step_attach_hose_to_drain_valve_C">
+                <cmd>Connect a hose to the drain valve and terminate to an adequate drain or
+                    outdoors. </cmd>
+            </step>
+            <step id="step_attach_hose_to_drain_valve_D">
+                <cmd>Connect a hose to the drain valve and terminate to an adequate drain.</cmd>
+            </step>
+        </steps-unordered>
+    </taskbody>
+</task>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="id00001b" xml:lang="en-us">
+    <!-- Scope: commercial, ELECTRIC TANK TYPE, water heaters and boilers. -->
+    <title>Qualified Installer or Service Agency</title>
+    <shortdesc>Short description</shortdesc>
+    <prolog>
+        <metadata>
+            <keywords>
+                <indexterm>Qualified Installer</indexterm>
+                <indexterm>Qualified Agency</indexterm>
+            </keywords>
+        </metadata>
+    </prolog>
+    <conbody>
+    	<p>Installation and service of this water heater requires ability equivalent to that of a
+                <i>Qualified Agency</i> (as defined by ANSI below) in the field involved.
+            Installation skills such as plumbing, air supply, venting, gas supply, and electrical
+            supply are required in addition to electrical testing skills when performing
+            service.</p>
+    	<p><cite>ANSI Z223.1 2015 Sec. 3.3.81</cite>: “Qualified Agency” - “Any individual, firm, corporation or company that either 
+    	    in person or through a representative is engaged in and is responsible for (a) the installation, testing or replacement 
+    	    of gas piping or (b) the connection, installation, testing, repair or servicing of appliances and equipment; that is 
+    	    experienced in such work; that is familiar with all precautions required; and that has complied with all the 
+    	    requirements of the authority having jurisdiction.”</p>
+    	<p>If you are not qualified (as defined by ANSI above) and licensed or certified as required by the authority having 
+    	    jurisdiction to perform a given task do not attempt to perform any of the procedures described in this manual. 
+    	    If you do not understand the instructions given in this manual do not attempt to perform any procedures outlined 
+    	    in this manual.</p>
+    </conbody>
+</concept>

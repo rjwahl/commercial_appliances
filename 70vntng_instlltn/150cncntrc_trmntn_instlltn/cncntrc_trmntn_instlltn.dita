@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><task xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="task_edv_ljr_fbb" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:task.xsd">
+    <title>Concentric Termination Installation</title>
+    <shortdesc/>
+    <taskbody>
+        <context>
+            <p>Assemble and install the concentric termination. Refer to Figure 28, Figure 29 and
+                Figure 30 for these instructions:</p>
+            <fig id="fig_cncntrc_trmntn_kit">
+                <title>Concentric Termination Kit</title>
+                <image keyref="img:concentric_termination_component_dimensions" id="image_dcb_dkr_fbb" width="500px"/>
+            </fig>
+        </context>
+        <steps>
+            <step>
+                <cmd>Cement the Y fitting to the larger diameter intake air pipe.</cmd>
+            </step>
+            <step>
+                <cmd>Slide the intake air pipe and Y fitting assembly from inside the building
+                    through the hole cut for the termination in the roof or sidewall. Ensure no
+                    foreign materials such as insulation accumulate inside the assembly.</cmd>
+            </step>
+            <step>
+                <cmd>Secure the intake air Y fitting assembly using field supplied metal strapping
+                    or equivalent support materials.</cmd>
+            </step>
+            <step>
+                <cmd>On installations installed through the roof, slide a field-supplied plumbing
+                    boot or roof flashing over the intake air Y-fitting assembly and secure it to
+                    the roof.</cmd>
+            </step>
+            <step>
+                <cmd>Seal around the plumbing boot or roof flashing.</cmd>
+            </step>
+            <step>
+                <cmd>Cement the vent cap onto the vent pipe. Alternately a field-supplied stainless
+                    steel screw may be used to secure the two components together when field
+                    disassembly is desired for cleaning. A pilot hole must be drilled for the screw
+                    to prevent damage/cracking of the vent cap and/or vent pipe.</cmd>
+            </step>
+            <step>
+                <cmd>Install the vent cap/vent pipe assembly into the intake air Y fitting assembly.
+                    Ensure the small diameter vent pipe is cemented and bottomed in the Y
+                    fitting.</cmd>
+            </step>
+            <step>
+                <cmd>Use the appropriate method for connecting intake air and vent piping to the
+                    termination as follows:</cmd>
+                <info>
+                    <ul id="ul_zdj_lkr_fbb">
+                        <li>For two-inch installations, connect the pipe directly to the two-inch
+                            termination. For three-inch installations connect the pipe directly to
+                            the three-inch termination. Do not mix different pipe and termination
+                            sizes.</li>
+                        <li>For four-inch pipe installations - connect the piping to the concentric
+                            termination using field supplied 4" x 3" reducer couplings and short
+                            sections of three-inch pipe (18 inches or less). </li>
+                    </ul>
+                </info>
+                <info>Do not exceed the maximum equivalent vent length listed in 
+                    <xref keyref="sec:Factory-Supplied_Fittings/table_PVC_CPVC_plyprpylne_mximm_ft_by_ppe_dmtr_and_nmbr_of_elbws"/>.</info>
+            </step>
+            <step>
+                <cmd>Cement all fittings and pipe in place.</cmd>
+            </step>
+            <step>
+                <cmd>Return to Direct Vent Installation (page 24) to complete the installation of
+                    the intake air and vent piping between the concentric termination and the water
+                    heater.</cmd>
+                <info>
+                    <fig id="fig_cncntrc_trmntn_vrtcl_instlltn">
+                        <title>Concentric Termination - Vertical Installation</title>
+                        <image keyref="img:concentric_verical_termination_installation" id="image_dgs_2lr_fbb" width="500px"/>
+                    </fig>
+                    <fig id="fig_cncntrc_trmntn_sde_wll_instlltn">
+                        <title>Concentric Termination - Side-Wall Installation</title>
+                        <image keyref="img:concentric_horiz_termination_installation" id="image_mtj_plr_fbb" width="500px"/>
+                    </fig>
+                </info>
+            </step>
+        </steps>
+    </taskbody>
+</task>

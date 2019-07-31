@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><concept xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="concept_d4y_m5l_wbb" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:concept.xsd">
+    <title>Six-Inch Extended Vent Terminations</title>
+    <shortdesc/>
+    <conbody>
+        <p id="p_oyd_q5l_wbb">When six-inch intake air or vent pipe is installed using standard
+            terminations, factory-supplied six-inch terminations must be used. Contact your local
+            distributor or call the parts department (phone number listed on the back cover of this
+            manual) to order six-inch termination(s). 
+            See <xref keyref="sec:Optional_Direct_Vent_Terminations"/>.</p>
+        <p id="p_pyd_q5l_wbb">The water heaters covered by this manual may be installed in a Direct
+            Vent configuration using a six-inch concentric or six-inch low-profile termination.
+            Contact your local distributor or call the parts department phone number listed on the
+            back cover of this manual to order.</p>
+        <ul>
+            <li>6” Concentric Termination Part # 9008841005
+            </li>
+            <li>6" Low Profile Termination Part # 9008935005</li>
+        </ul>
+    </conbody>
+</concept>

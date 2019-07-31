@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><concept xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="concept_zbq_5nx_1bb" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:concept.xsd">
+    <title>Condensate Drain Water Trap</title>
+    <shortdesc/>
+    <conbody>
+        <p>Do not remove the factory installed exhaust/condensate elbow 
+            (see <xref keyref="sec:Mixing_Valves/mixing_valve_example"/>) for any
+            reason. The water heater’s vent pipe is under a slight positive pressure while unit is
+            in operation. The water trap inside of the exhaust/condensate elbow prevents flue gases
+            from escaping into the installed space. The exhaust elbow has a built in condensate
+            trap. Do not install an additional trap in the condensate drain piping. 
+            See <xref keyref="sec:Mixing_Valves/mixing_valve_example"/> and
+            <xref keyref="sec:Condensate_Drain_Installation"/>.</p>
+    </conbody>
+</concept>

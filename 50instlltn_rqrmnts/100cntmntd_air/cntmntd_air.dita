@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><concept xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="concept_gpx_3pc_bbb" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:concept.xsd">
+    <title>Contaminated Air</title>
+    <shortdesc/>
+    <conbody>
+        <p>Corrosion of the flue ways and vent system may occur if air for combustion contains
+            certain chemical vapors. Such corrosion may result in failure and risk of
+            asphyxiation.</p>
+        <p id="p_f5w_kpc_bbb">
+            <hazardstatement conkeyref="wmsg:warning_brthng_hzrd_CO2_installation">
+                <messagepanel id="messagepanel_pqq_ppc_bbb">
+                    <typeofhazard/>
+                    <howtoavoid/>
+                </messagepanel>
+            </hazardstatement>
+        </p>
+        <p id="p_p2g_spc_bbb">Combustion air that is contaminated can greatly diminish the life span
+            of the water heater and water heater components such as igniters and burners.
+            Propellants of aerosol sprays, beauty shop supplies, water softener chemicals and
+            chemicals used in dry cleaning processes that are present in the combustion, ventilation
+            or ambient air can cause such damage.</p>
+        <p id="p_q2g_spc_bbb">Do not store products of this sort near the water heater. Air which is
+            brought in contact with the water heater should not contain any of these chemicals. If
+            necessary, uncontaminated air should be obtained from remote or outdoor sources. The
+            limited warranty is voided when failure of water heater is due to a corrosive
+            atmosphere. See the <i>Commercial Water Heater Limited Warranty</i> for complete terms
+            and conditions.</p>
+        <p id="p_r2g_spc_bbb">If the water heater will be used in beauty shops, barber shops,
+            cleaning establishments, or self-service laundries with dry cleaning equipment, it is
+            imperative that the water heater(s) be installed in a Direct Vent configuration so that
+            all air for combustion is derived directly from the outdoor atmosphere through a sealed
+            intake air pipe. See <xref keyref="sec:Venting_Installation"/>.</p>
+    </conbody>
+</concept>

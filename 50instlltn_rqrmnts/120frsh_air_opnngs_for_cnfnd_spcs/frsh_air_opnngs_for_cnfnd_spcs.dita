@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><concept xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="concept_ksv_vh4_qbb" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:concept.xsd">
+    <title>Fresh Air Openings for Confined Spaces</title>
+    <conbody>
+        <p id="p_rqj_yh4_qbb">The following instructions shall be used to calculate the size,
+            number, and placement of openings providing fresh air for combustion, ventilation, and
+            dilution in confined spaces. The illustrations shown in this section of the manual are a
+            reference for the openings that provide fresh air into confined spaces only. Do not
+            refer to these illustrations for the purpose of vent installation. See <xref keyref="sec:Venting_Installation"/> for complete venting installation
+            instructions.</p>
+    </conbody>
+</concept>

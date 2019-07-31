@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><concept xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="concept_mhn_2lv_2bb" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:concept.xsd">
+    <title>Locating the Water Heater</title>
+    <shortdesc/>
+    <conbody>
+        <p id="p_gtv_flv_2bb">Carefully choose a location for the new water heater. The placement is
+            a very important consideration for the safety of the occupants in the building and for
+            the most economical use of the water heater.</p>
+        <p id="p_jtv_flv_2bb">
+            <hazardstatement conkeyref="wmsg:caution_property_damage_leakage">
+                <messagepanel>
+                    <typeofhazard/>
+                    <consequence/>
+                    <howtoavoid/>
+                </messagepanel>
+            </hazardstatement>
+        </p>
+        <p id="p_wps_qcb_fbb">Whether replacing an existing water heater or installing the water
+            heater in a new location, observe the following critical points:</p>
+        <ol id="ol_zdr_scb_fbb">
+            <li>The water heater must be located indoors.</li>
+            <li>The water heater must not be located in an area where it will be subject to freezing
+                temperatures.</li>
+            <li>Locate the water heater so it is protected and not subject to physical damage by a
+                moving vehicle.</li>
+            <li>Locate the water heater on a level surface.</li>
+            <li>Locate the water heater near a floor drain. The water heater should be located in an
+                area where leakage of the tank or connections will not result in damage to the area
+                adjacent to the water heater or to lower floors of the structure. When such
+                locations cannot be avoided, it is recommended that a metal drain pan, adequately
+                drained, be installed under the water heater.</li>
+            <li>Locate the water heater close to the point of major hot water usage.</li>
+            <li>Locate the water heater close to a 120 VAC power supply. See <xref keyref="sec:Power_Supply"/> for requirements.</li>
+            <li>Locate the water heater where an adequate supply of fresh air for combustion and
+                ventilation can be obtained. See <xref keyref="sec:Air_Requirements"/>.</li>
+            <li>Locate the water heater where the vent and intake air piping, when installed, will
+                remain within the maximum equivalent lengths allowed. See <xref keyref="sec:Venting_Requirements"/>.</li>
+            <li>Do not locate the water heater where noise (such as the Combustion Blower) during
+                normal operation will be objectionable in adjacent areas.</li>
+            <li>Do not locate the water heater where the subsequent installation of the vent
+                (exhaust) or intake air terminations would be objectionable due to noise at the
+                termination(s). This includes locations close to or across from windows and doors.
+                See <xref keyref="sec:Venting_Installation"/>.</li>
+        </ol>
+        <p id="p_abcd">
+            <hazardstatement conkeyref="wmsg:fire_or_explosion_hazard-general">
+                <messagepanel>
+                    <typeofhazard/>
+                    <consequence/>
+                    <howtoavoid/>
+                </messagepanel>
+            </hazardstatement>
+        </p>
+        <p id="p_xc3_gfb_fbb">There is a risk in using fuel burning appliances such as gas water
+            heaters in rooms, garages or other areas where gasoline, other flammable liquids or
+            engine driven equipment or vehicles are stored, operated or repaired. Flammable vapors
+            are heavy and travel along the floor and may be ignited by the water heater’s igniter or
+            Main Burner flames causing fire or explosion.</p>
+        <p id="p_f2n_hfb_fbb">Flammable items, pressurized containers or any other potential fire
+            hazardous articles must never be placed on or adjacent to the water heater.</p>
+    </conbody>
+</concept>

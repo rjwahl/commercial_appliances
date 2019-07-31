@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><task xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="task_gsy_mrv_1bb" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:task.xsd">
+    <title>Supply Gas Regulator</title>
+    <shortdesc/>
+    <taskbody>
+        <context>
+            <p>The maximum allowable gas supply pressure for this water heater is <keyword keyref="maximum_gas_supply_pressure"/> 
+                for natural and propane gas. Install a positive lock-up gas pressure
+                regulator in the gas supply line if inlet gas pressure can exceed these pressures at
+                any time.</p>
+            <p id="p_iky_prv_1bb">If a positive lock-up regulator is required follow these
+                instructions:</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Positive lock-up gas pressure regulators must be rated at or above the input Btu/hr rating of the water heater they supply.
+                </cmd>
+            </step>
+            <step>
+                <cmd>Supply gas regulators shall have inlet and outlet connections not less than the
+                    minimum supply gas line size for the water heater they supply. See Table 14
+                    (page 40).</cmd>
+            </step>
+            <step>
+                <cmd>Positive lock-up gas pressure regulator(s) should be installed no closer than 3
+                    feet (1 meter) and no farther than 8 feet (2.4 meters) from the water heater’s
+                    inlet gas connection.</cmd>
+            </step>
+            <step>
+                <cmd>After installing the positive lock-up gas pressure regulator(s) an initial
+                    nominal supply pressure setting of 7.0” W.C. while the water heater is operating
+                    is recommended and will generally provide good water heater operation. Some
+                    additional adjustments may be required later to maintain a steady gas supply
+                    pressure.</cmd>
+            </step>
+            <step>
+                <cmd>When installing multiple water heaters in the same gas supply system it is
+                    recommended that individual positive lock-up gas pressure regulators be
+                    installed at each unit from the supply gas connection on the water heater.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

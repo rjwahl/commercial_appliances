@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><concept xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="concept_nhy_gdd_bbb" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:concept.xsd">
+    <title>Venting Installation</title>
+    <shortdesc/>
+    <conbody>
+        <p>Never operate the water heater unless it is vented to outdoors. The instructions in this
+            section of the manual must be followed to avoid choked combustion or recirculation of
+            flue gases. Such conditions cause sooting of the combustion chamber, burners, and flue
+            tubes, and creates a risk of asphyxiation.</p>
+        <p><hazardstatement conkeyref="wmsg:warning_breathing_hazard_CO_vent_install" type="danger">
+            <messagepanel>
+                <typeofhazard/>
+                <consequence/>
+                <howtoavoid/>
+            </messagepanel>
+            <hazardsymbol/>
+        </hazardstatement></p>
+    </conbody>
+</concept>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><concept xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="concept_rlg_vnv_1bb" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:concept.xsd">
+    <title>Gas Supply Systems</title>    
+    <shortdesc>Gas supply systems fall into two categories: low pressure and high pressure. Each
+        category has distinct performance characteristics of which the installer should be
+        aware.</shortdesc>
+    <prolog><metadata><audience type="US-commercial"/></metadata></prolog>
+
+    <conbody>
+        <p id="p_gtt_ynv_1bb">Low pressure building gas supply systems are defined as those systems
+            that cannot under any circumstances exceed 14” W.C. (1/2 PSI Gauge). These systems do
+            not require pressure regulation. Measurements should be taken to insure that gas
+            pressures are stable and fall within the requirements stated on the water heater rating
+            plate. Readings should be taken with all gas burning equipment off (static pressure) and
+            with all gas burning equipment running at maximum rate (dynamic pressure). The gas
+            supply pressure must be stable within 1.5” W.C. from static to dynamic pressure to
+            provide good performance. Pressure drops that exceed 1.5” W.C. may cause rough starting,
+            noisy combustion or nuisance outages. Increases or spikes in static pressure during off
+            cycles may cause failure to ignite or in severe cases damage to appliance gas valves. If
+            your low pressure system does NOT meet these requirements, the installer is responsible
+            for the corrections.</p>
+        <p id="p_htt_ynv_1bb">High Pressure building supply systems use pressures that exceed 14”
+            W.C. (1/2 PSI Gauge). These systems must use field-supplied regulators to lower the gas
+            pressure to less than 14” W.C. (1/2 PSI Gauge). Water heaters require gas regulators
+            that are properly sized for the water heater input and deliver the rating plate
+            specified pressures. Gas supply systems where pressure exceeds 5 PSI often require
+            multiple regulators to achieve desired pressures. Systems in excess of 5 PSI building
+            pressure should be designed by gas delivery professionals for best performance. Water
+            heaters connected to gas supply systems that exceed 14” W.C. (1/2 PSI Gauge) at any time
+            must be equipped with a gas supply regulator.</p>
+        <p id="p_itt_ynv_1bb">All models require a minimum gas supply pressure of 
+            <keyword keyref="minimum_natural_gas_supply_pressure"/> for
+            natural gas and <keyword keyref="minimum_propane_gas_supply_pressure"/> for propane gas. The minimum supply pressure is measured while
+            gas is flowing (dynamic pressure). The supply pressure should never fall below <keyword keyref="minimum_natural_gas_supply_pressure"/>
+            for natural gas and <keyword keyref="minimum_propane_gas_supply_pressure"/> for propane gas. The supply pressure should be measured
+            with all gas fired appliances connected to the common main firing at full capacity. If
+            the supply pressure drops more than 1.5” W.C. as gas begins to flow to the water heater
+            then the supply gas system including the gas line and/or the gas regulator may be
+            restricted or undersized. See Supply Gas Regulator section of this manual. The gas valve
+            on all models has a maximum gas supply pressure limit of <keyword keyref="maximum_gas_supply_pressure"/>. The maximum supply
+            pressure is measured while gas is not flowing (static pressure).</p>
+    </conbody>
+</concept>

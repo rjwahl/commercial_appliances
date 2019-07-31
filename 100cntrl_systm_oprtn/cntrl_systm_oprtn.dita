@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><concept xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="concept_cqm_twz_gbb" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:concept.xsd">
+    <title>Control System Operation</title>
+    <conbody>
+        <p id="p_ihh_tyz_gbb">The water heaters covered in this manual are equipped with an
+            electronic control system that regulates water temperature inside the storage tank.
+            Heating cycles and ignition are managed by the control system. The energy cut-out switch
+            (ECO), flame sensor, pressure switches, and temperature probes are monitored by the
+            control system. The combustion blower, spark ignition transformer, 24-volt gas valve,
+            and anode rods are all powered by the control system. </p>
+        <p id="p_jhh_tyz_gbb">The main components of the control system are the user interface
+            module (UIM) and the central control board (CCB). The UIM is located on the top
+            front-side of the water heater. The CCB is mounted on top of the water heater, inside a
+            protective enclosure. This unit is equipped with an Enable/Disable switch. To operate
+            the unit, make sure the switch is set to Enable. See <xref keyref="sec:Features_and_Components"/> for the location of these and all water
+            heater components.</p>
+        <fig id="fig_cntrl_systm_cmpnnts">
+            <title>Control System Components</title>
+            <image keyref="img:UIM_control_system_components" id="image_h52_xzz_gbb" width="500px"/>
+        </fig>
+    </conbody>
+</concept>

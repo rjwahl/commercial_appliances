@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<task id="task_u1l_13m_ndb" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:task.xsd">
+    <title>Draining the Water Heater</title>
+    <taskbody>
+        <steps>
+            <step
+                conref="../../proc_steps/electrical_power_supply/turn_off.dita#task_fcs_xbk_mdb/step_elctrcl_pwr_off1"
+                id="step_drain_f_qhb_kdm_ndb">
+                <cmd/>
+            </step>
+            <step
+                conref="../../proc_steps/cold_water_inlet/close.dita#task_wd5_gtj_mdb/step_close_cold_water_inlet_C"
+                id="step_drain_h_i5w_h3m_ndb">
+                <cmd/>
+            </step>
+            <step
+                conref="../../proc_steps/hot_water_faucet/open.dita#task_cmr_rb2_ndb/step_open_hot_faucet_F"
+                id="step_drain_h_cyk_j3m_ndb">
+                <cmd/>
+            </step>
+            <step
+                conref="../../proc_steps/drain_hose/attach.dita#task_hvg_svf_ndb/step_attach_hose_to_drain_valve_A"
+                id="step_drain_g_hqt_mfm_ndb">
+                <cmd/>
+            </step>
+            <step
+                conref="../../proc_steps/drain_valve/open.dita#task_u3l_v3f_ndb/step_open_drain_valve_B"
+                id="step_drain_e_mfh_f1m_ndb">
+                <cmd/>
+            </step>
+            <step
+                conref="../../proc_steps/drain_valve/close.dita#task_sck_hxf_ndb/step_close_drain_valve_A"
+                id="step_drain_e_pfl_h1m_ndb">
+                <cmd/>
+            </step>
+            <step id="step_drain_h_uvj_q3m_ndb">
+                <cmd>Follow “Filling the Water Heater” instructions in the “Installation
+                    Instructions” section.</cmd>
+            </step>
+            <step id="step_drain_h_imz_s3m_ndb">
+                <cmd props="drain storage tank"
+                    otherprops="electrically powered, electrically heated, drain hose, fill, turn on again"
+                    >Turn on power to the water heater.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><concept xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="concept_g2x_mwg_hbb" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:concept.xsd">
+    <title>Current Fault</title>
+    <shortdesc/>
+    <conbody>
+        <!-- The bth 300-400-500 and bth 120-250 versions  have different UIM versions. -->
+        <table frame="all" rowsep="1" colsep="1" id="table_current_fault">
+            <title>Current Fault Menu</title>
+            <tgroup cols="2" align="left">
+                <colspec colname="c1" colnum="1" colwidth="1*"/>
+                <colspec colname="c2" colnum="2" colwidth="1*"/>
+                <thead>
+                    <row>
+                        <entry>Description/Action</entry>
+                        <entry>Display</entry>
+                    </row>
+                </thead>
+                <tbody>
+                    <row>
+                        <entry>
+                            <p id="p_q1y_nwg_hbb">Select <uicontrol>Current Fault</uicontrol> from
+                                the Main menu and press the multifunction button under
+                                    <uicontrol>SELECT</uicontrol> to enter this menu. This menu
+                                contains non adjustable operational information. Use the
+                                    <uicontrol>Up</uicontrol> and <uicontrol>Down</uicontrol>
+                                buttons to navigate the menu.</p>
+                            <p id="p_r1y_nwg_hbb">This menu contains the current Fault or Alert
+                                error message. The time the Fault or Alert message occurred appears
+                                directly below. A brief description of what causes the particular
+                                Fault or Alert condition appears below that. Pressing the
+                                multifunction button under  <uicontrol>ADVANCED</uicontrol> will
+                                give more detailed service information and a list of possible causes
+                                for the Fault or Alert condition. See <xref keyref="sec:Fault_and_Alert_Messages"/> for more detailed
+                                information and diagnostic procedures.</p>
+                            <p id="p_s1y_nwg_hbb">If there is no Fault or Alert condition active,
+                                this menu will not contain any information, and
+                                    <uicontrol>(none)</uicontrol> will be shown next to
+                                    <uicontrol>Current Fault</uicontrol> in the Main menu.</p>
+                        </entry>
+                        <entry><image keyref="img:UIM_current_fault_menu" id="image_ccq_gxg_hbb" width="400px"/></entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+    </conbody>
+</concept>

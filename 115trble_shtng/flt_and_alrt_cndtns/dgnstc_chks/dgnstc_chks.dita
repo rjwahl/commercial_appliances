@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><concept xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="concept_qd3_cbp_hbb" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:concept.xsd">
+    <title>Diagnostic Checks</title>
+    <shortdesc/>
+    <conbody>
+        <p>      
+        <hazardstatement conkeyref="wmsg:wrnng-elctrcl_shck-mntnnce">
+            <messagepanel>
+                <typeofhazard/>
+                <consequence/>
+                <howtoavoid/>
+            </messagepanel>
+            <hazardsymbol/>
+        </hazardstatement></p>
+        <p id="p_ytl_hdp_hbb">The following section, <xref keyref="sec:Fault_and_Alert_Messages"/>,
+            lists some of the messages that the control system displays on the screen when there are
+            operational problems. This is not a complete list. Along with each of the fault and
+            alert messages described, there is a list of possible causes and things to check and
+            repair.</p>
+        <p id="p_ztl_hdp_hbb">Only qualified service agents, as defined in <xref keyref="sec:Qualifications"/>,
+            using appropriate test equipment, should perform any service procedures on the water
+            heater. </p>
+        <note> If you are not qualified and licensed or certified as required by the authority
+            having jurisdiction to perform a given task, do not attempt to perform any of the
+            diagnostic or service procedures described in the following section.</note>
+        <p id="p_g4l_jdp_hbb">If you do not understand the instructions in the following section, do
+            not attempt to perform any procedures.</p>
+        <p id="p_h4l_jdp_hbb">Call the technical support phone number listed on the back cover of
+            this manual for further technical assistance or to locate a qualified service agent in
+            your area.</p>
+        
+        <p><hazardstatement conkeyref="wmsg:service_jumping_controls_hazard">
+            <messagepanel>
+                <typeofhazard/>
+                <consequence/>
+                <howtoavoid/>
+            </messagepanel>
+            <hazardsymbol/>
+        </hazardstatement></p>
+        
+    </conbody>
+</concept>

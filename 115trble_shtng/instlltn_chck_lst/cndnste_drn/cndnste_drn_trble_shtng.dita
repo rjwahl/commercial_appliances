@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><concept xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="concept_ckf_zsn_ccb" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:concept.xsd">
+    <title>Condensate Drain</title>
+    <shortdesc/>
+    <conbody>
+        <p id="p_un2_ltn_ccb">Ensure that the condensate drain is properly connected to the exhaust
+            elbow on the water heater with a water trap to prevent vent gases from escaping into the
+            installed space and that it drains freely to a suitable floor drain. See <xref keyref="sec:Condensate_Drain/fig_exhaust_condensate_elbow"/> and <xref keyref="sec:Condensate_Drain_Installation"/>.</p>
+    </conbody>
+</concept>

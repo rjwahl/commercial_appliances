@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<concept id="concept_fm3_glh_cdb" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:concept.xsd">
+    <title>Pressure Relief Valve</title>
+    <shortdesc></shortdesc>
+    <conbody>
+        <p>An ASME-rated pressure-relief valve is furnished with the boiler. A fitting for the
+            relief valve is provided in the top of the boiler. Never operate the heating elements
+            without being certain that the boiler is filled with water and a properly-sized
+            pressure-relief valve is installed in the relief-valve opening provided.</p>
+        <p id="p_pdm_jlh_cdb">The pressure rating of the relief valve should be equal to or less
+            than the rated-pressure capacity of any component in the system, including the boiler.
+            If the valve needs to be replaced, call the toll-free phone number listed on the back of
+            this manual for further technical assistance.</p>
+        
+        <hazardstatement conkeyref="wmsg:explosion_hazard-prssre_rlf_valve/">
+            <messagepanel id="messagepanel_exphzprssrlfvlv">
+                <typeofhazard/>
+                <howtoavoid/>
+            </messagepanel>
+        </hazardstatement>
+        <p id="p_d2r_bph_cdb">A discharge pipe from the relief valve should terminate at an adequate
+            floor drain. Do not thread, plug, or cap the end of the drain line.</p>
+        
+        <hazardstatement conkeyref="wmsg:property_damage_hazard-prssre_rlf_valve/">
+            <messagepanel id="messagepanel_propertydmgehzrdprssrlfvlv">
+                <typeofhazard/>
+                <howtoavoid/>
+            </messagepanel>
+        </hazardstatement>
+        <p id="p_of5_fqh_cdb"><b>The Discharge Pipe:</b></p>
+        <ul id="ul_c4n_2qh_cdb">
+            <li>Shall not be smaller in size than the outlet-pipe size of the valve, or have any
+                reducing couplings or other restrictions.</li>
+            <li>Shall not be plugged or blocked.</li>
+            <li>Shall not be exposed to freezing temperatures.</li>
+            <li>Shall be of material listed for hot water distribution.</li>
+            <li>Shall be installed so as to allow complete drainage of both the relief valve and the
+                discharge pipe.</li>
+            <li>Must terminate a maximum of <keyword keyref="TP_drain_clearance"/> above a floor drain or external to
+                the building. In cold climates, it is recommended that the discharge pipe be
+                terminated at an adequate drain inside the building.</li>
+            <li>Shall not have any valve or other obstruction between the relief valve and the
+                drain.</li>
+        </ul>
+        <p id="p_ydn_5qh_cdb">Once the boiler is installed and filled with water and the system is
+            pressurized, manually test the operation of the pressure relief valve. See Maintenance
+            section for instructions.</p>
+    </conbody>
+</concept>

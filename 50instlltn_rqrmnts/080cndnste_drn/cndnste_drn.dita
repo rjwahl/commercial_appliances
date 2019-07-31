@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><concept xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="concept_en4_rjx_1bb" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:concept.xsd">
+    <title>Condensate Drain Function</title>
+    <shortdesc/>
+    <conbody>
+        <p id="p_vdj_tjx_1bb">The water heaters covered in this manual are condensing appliances and
+            require a building drain to be located in close proximity to allow the condensate to
+            drain safely. </p>
+        <p id="p_wdj_tjx_1bb">The condensate drains from the water heater at the exhaust elbow
+            located at the bottom. The field-installed condensate drain line must not be elevated
+            above the condensate drain connection on the built-in condensate trap. See <xref keyref="sec:Condensate_Drain/fig_exhaust_condensate_elbow"/>. If the condensate does
+            not drain properly, it builds up in the exhaust (vent) elbow. This restricts the flow of
+            flue gases and causes the blocked exhaust pressure switch to open its contacts. The
+            control system monitors all pressure switches. If the blocked exhaust switch contacts
+            are open, the control system locks out and disables the heating operation. The “Blocked
+            Exhaust" fault message displays on the control system screen. See <xref keyref="sec:Fault_and_Alert_Conditions"/>.</p>
+        <p id="p_xdj_tjx_1bb">The Condensate Cleanout Cap must be on and tight when unit is in
+            operation.</p>
+        <p id="p_ydj_tjx_1bb">The exhaust elbow has a built-in condensate trap. Do not install an
+            additional trap in the condensate drain piping.
+            See <xref keyref="sec:Mixing_Valves/mixing_valve_example"/>.</p>
+        <note type="note">If the “Blocked Exhaust Fault" message is displayed on the control system
+            LCD, check the condensate drain first and ensure it is not blocked. Periodically,
+            inspect and clean the built-in condensate trap of any debris.</note>
+        <fig id="fig_exhaust_condensate_elbow">
+            <title>Exhaust/Condensate Elbow</title>
+            <image keyref="img:cndnste_drn" width="500px"/>
+        </fig>
+    </conbody>
+</concept>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><concept xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="concept_egf_wr3_t1b" status="new" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:concept.xsd">
+    <!-- Role: Top Level Process Description -->
+    <title>Basic Operation</title>
+    <conbody>
+        <p> The water heaters covered in this manual have a helical coil shaped heat exchanger that is submerged in the storage tank. The water
+            heater’s main burner is a radial-design burner. It is mounted on the top and fires downward through the heat exchanger. This is a
+            forced-draft burner; hot burning gases are forced through the heat exchanger under pressure and exit through the exhaust/vent connection
+            located at the bottom of the water heater. See <xref href="#concept_egf_wr3_t1b/fig_water_heater_components" format="dita">Figure 1</xref>
+            and Figure 2.</p>
+        <fig id="fig_water_heater_components">
+            <title>How it Works</title>
+            <image keyref="img:basic_operation" id="image_bsc_oprtn_c3d_3nk_pdb" align="center"
+                height="800"/>
+            <ol id="ol_bsc_oprtn_k4q_p3r_rdb">
+                <li>Air intake connection</li>
+                <li>Burner/blower assembly</li>
+                <li>Main burner</li>
+                <li>Heat exchanger</li>
+                <li>Helical coil</li>
+                <li>Vent outlet</li>
+            </ol>
+        </fig>
+    </conbody>
+</concept><!-- Topic is coordinated among three manuals.
+     
+-->

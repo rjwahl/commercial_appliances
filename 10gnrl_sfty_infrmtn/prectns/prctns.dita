@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="precauctions00001" xml:lang="en-us">
+    <title>Precautions</title>
+    <shortdesc>Do not install or operate a water heater that might have been damaged by flooding, fire, or improper use.</shortdesc>
+    <prolog>
+        <metadata>
+            <keywords>
+                <indexterm>precautions<indexterm>flood damage</indexterm></indexterm>
+                <indexterm>precautions<indexterm>external fire</indexterm></indexterm>
+                <indexterm>precautions<indexterm>physical damage</indexterm></indexterm>
+                <indexterm>precautions<indexterm>fire without water</indexterm></indexterm>                
+            </keywords>
+        </metadata>
+    </prolog>
+    <conbody>
+    	<p>DO NOT USE THIS WATER HEATER IF ANY PART HAS BEEN EXPOSED TO FLOODING OR WATER DAMAGE. Immediately call a qualified service agency to inspect the water heater and to make a determination on what steps should be taken next.</p>
+    	<p>If the unit is exposed to the following, do not operate heater until all corrective steps have been made by a qualified service agency.</p>
+    	<ol>
+    	    <li>External Fire</li>
+    		<li>Damage</li>
+    		<li>Fire Without Water</li>
+    	</ol>
+    </conbody>
+</concept>

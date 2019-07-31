@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><task xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="task_csh_qg4_hbb" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:task.xsd">
+    <title>Venting</title>
+    <shortdesc/>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Ensure that the intake air and/or vent (exhaust) piping is the correct size for
+                    the installed length. See <xref keyref="sec:Venting_Requirements"/>.</cmd>
+            </step>
+            <step>
+                <cmd>Ensure that the maximum equivalent feet of pipe has not been exceeded for the
+                    intake air and/or vent pipe. 
+                    See <xref keyref="sec:Factory-Supplied_Fittings/table_PVC_CPVC_plyprpylne_mximm_ft_by_ppe_dmtr_and_nmbr_of_elbws"/>.</cmd>
+            </step>
+            <step>
+                <cmd>Ensure that the maximum number of elbows has not been exceeded in the intake
+                    air and/or vent pipe. See <xref keyref="sec:Factory-Supplied_Fittings/table_PVC_CPVC_plyprpylne_mximm_ft_by_ppe_dmtr_and_nmbr_of_elbws"/>.</cmd>
+            </step>
+            <step>
+                <cmd>Ensure that the intake air screen has been removed from the intake air
+                    connection on the water heater when installing the water heater in a direct vent
+                    configuration. See <xref keyref="sec:Direct_Vent_Installation/fig_intke_air_scrn"/> </cmd>
+            </step>
+            <step>
+                <cmd>Ensure that all exterior clearances for the intake air, vent, concentric, and 
+                     low-profile terminations are maintained. </cmd>
+                <info><p>See the following:</p>
+                    <ul>
+                        <li><xref keyref="sec:Vertical_Termination_Installation"/></li>
+                        <li><xref keyref="sec:Sidewall_Termination_Installation"/> </li>
+                        <li><xref keyref="sec:Concentric_Termination_Installation"/></li>
+                        <li><xref keyref="sec:Low-Profile_Vent_Termination_Installation"/></li>
+                    </ul>
+                <p>These clearances and those cited by local and national codes must be maintained.</p>
+                </info>
+            </step>
+        </steps>
+    </taskbody>
+</task>

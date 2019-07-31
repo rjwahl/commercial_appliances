@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><concept xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="concept_x2m_4y3_t1b" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:concept.xsd">
+    <title>Blower/Burner Assembly Detail</title>
+    <shortdesc/>
+    <conbody>
+       <section>
+           <!-- Role: Component Process Description -->
+           <title>Spark Igniter</title>
+           <p>The control system energizes the spark ignition transformer with 120 VAC during the ignition cycle. The spark ignition transformer then sends a high-voltage current to the spark igniter which in turn ignites the main burner air/gas mixture.
+           </p>
+           <!-- This topic is coordinated among manuals for bth120-250, bth300-500, and btx120.
+                The text and callout list are identical and shared. The graphic is selected by the 
+                key map file used for the manual. If changes require revisions to the text or the
+                order or content of the callout list, create a new topic.           -->
+            <fig id="fig_blower_burner_components">
+                <title>Blower/Burner Components</title>
+                <image keyref="img:Blower_Burner_Components" id="image_k5s_j1j_t1b"/>
+                <ol id="ol_blwr_brnr_assmbly_dtl_wf2_nsx_rdb">
+                    <li>Intake Air (Combustion Air)</li>
+                    <li>Blower Assembly</li>
+                    <li>Blower Flange</li>
+                    <li>Spark Igniter</li>
+                    <li>Main Burner</li>
+                    <li>Flame Sensor</li>
+                </ol>
+            </fig>
+       </section>
+       <section>
+           <!-- Role: Component Process Description -->
+           <title>Flame Sensor</title>
+           <p>The control system also monitors the flame sensor to confirm a flame is present at the main burner. If a flame is not verified during the ignition trial period (3-5 seconds) the control system will immediately de-energize the 24-volt gas valve.</p>
+       </section>
+    </conbody>
+</concept>

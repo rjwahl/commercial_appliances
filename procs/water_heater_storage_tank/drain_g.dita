@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<task id="task_lly_k2m_ndb" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:task.xsd" props="drain storage tank"
+    otherprops="electrically powered, electrically heated, pilot switch, cool-down flush, drain hose">
+    <title>Draining the Water Heater</title>
+    <taskbody>
+        <steps>
+            <step
+                conref="../../proc_steps/electrical_power_supply/turn_off.dita#task_fcs_xbk_mdb/step_elctrcl_pwr_off2"
+                id="step_drain_g_fq5_cfm_ndb">
+                <cmd/>
+            </step>
+            <step
+                conref="../../proc_steps/pilot_switch/tggle_off.dita#task_wbp_y12_ndb/step_toggle_pilot_switch_off_A"
+                id="step_drain_g_any_2fm_ndb">
+                <cmd/>
+            </step>
+            <step
+                conref="../../proc_steps/cold_water_inlet/open.dita#task_yj4_m5f_ndb/step_open_cold_water_inlet_B"
+                id="step_drain_g_elh_gfm_ndb">
+                <cmd/>
+            </step>
+            <step
+                conref="../../proc_steps/hot_water_faucet/open.dita#task_cmr_rb2_ndb/step_open_hot_faucet_B"
+                id="step_drain_g_bfv_hfm_ndb">
+                <cmd/>
+            </step>
+            <step
+                conref="../../proc_steps/cold_water_inlet/close.dita#task_wd5_gtj_mdb/step_close_cold_water_inlet_C"
+                id="step_drain_g_tql_kfm_ndb">
+                <cmd/>
+            </step>
+            <step
+                conref="../../proc_steps/drain_hose/attach.dita#task_hvg_svf_ndb/step_attach_hose_to_drain_valve_A"
+                id="step_drain_g_hqt_mfm_ndb">
+                <cmd/>
+            </step>
+            <step
+                conref="../../proc_steps/drain_valve/open.dita#task_u3l_v3f_ndb/step_open_drain_valve_B"
+                id="step_drain_e_mfh_f1m_ndb">
+                <cmd/>
+            </step>
+            <step
+                conref="../../proc_steps/drain_valve/close.dita#task_sck_hxf_ndb/step_close_drain_valve_A"
+                id="step_drain_e_pfl_h1m_ndb">
+                <cmd/>
+            </step>
+            <step
+                conref="../../proc_steps/hot_water_faucet/close.dita#task_i3m_1zf_ndb/step_close_hot_water_faucet_B"
+                id="step_drain_g_cvz_qfm_ndb">
+                <cmd/>
+            </step>
+            <step
+                conref="../../proc_steps/drain_valve/conditional_steps.dita#task_fgm_ttf_ndb/step_if_extended_shutdown"
+                id="step_drain_b_ihq_m5l_ndb">
+                <cmd/>
+            </step>
+        </steps>
+    </taskbody>
+</task>

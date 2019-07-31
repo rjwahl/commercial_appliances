@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><task xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="task_xh5_ddh_hbb" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:task.xsd">
+    <title>Service Contact Information</title>
+    <shortdesc/>
+    <taskbody>
+        <context>
+            <p>The control system has a discrete menu that installing contractors and/or service
+                agents can access to enter contact information for their customers. This contact
+                information will be displayed with all fault and alert messages.</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>From the Desktop screen, press and hold down the middle (unmarked)
+                    multifunction button for 30 seconds, and then release it. See <xref keyref="sec:Control_System_Navigation/fig_UIM_home_screen_components"/>.</cmd>
+                <info>
+                    <fig id="fig_UIM_service_contact_information_menu">
+                        <image keyref="img:UIM_service_contact_information_menu" id="image_gzd_wdh_hbb" width="500px"/>
+                    </fig>
+                </info>
+                <stepresult>
+                    <p id="p_jc1_3dh_hbb">This will launch a discrete menu where personalized
+                        contact information can be entered.</p>
+                </stepresult>
+            </step>
+            <step>
+                <cmd>Using the <uicontrol>UP</uicontrol> and <uicontrol>DOWN</uicontrol> buttons,
+                    select (highlighted in black) the <uicontrol>Show Contact
+                        Information</uicontrol> menu item.</cmd>
+            </step>
+            <step>
+                <cmd>Press the multifunction button under <uicontrol>CHANGE</uicontrol> to activate
+                    the adjustment mode for this parameter.</cmd>
+                <stepresult><p id="p_mw1_s3f_bcb">With the adjustment mode for <uicontrol>Show
+                            Contact Information</uicontrol> activated, the selection bar will change
+                        from a black fill to a black outline.</p><image keyref="img:UIM_service_contact_information_menu2" id="image_nw1_s3f_bcb" width="400"/></stepresult>
+            </step>
+            <step>
+                <cmd>Use the <uicontrol>Up</uicontrol> and <uicontrol>Down</uicontrol> buttons to
+                    change the setting from No to Yes, and the press the multifunction button under
+                        <uicontrol>UPDATE</uicontrol> to save the new setting.</cmd>
+                <info>
+                    <note>The Access Code at the bottom of the Service Contact Information screen is
+                        for manufacturing engineering purposes only. There are no user settings or
+                        information accessed through this menu item.</note>
+                </info>
+            </step>
+            <step>
+                <cmd>Using the <uicontrol>UP</uicontrol> and <uicontrol>DOWN</uicontrol> buttons,
+                    select (highlighted in black) the <uicontrol>Change Contact Name</uicontrol>
+                    menu item.</cmd>
+            </step>
+            <step>
+                <cmd>Press the multifunction button under <uicontrol>SELECT</uicontrol> to open the
+                    Change Contact Name menu.</cmd>
+                <info><image keyref="img:UIM_service_contact_information_menu3" id="image_cfq_2fh_hbb" width="500px"/></info>
+            </step>
+            <step>
+                <cmd>Follow the on-screen instructions to enter your name or the name of your
+                    company. There is a maximum of 20 character spaces for this purpose.</cmd>
+                <info><image keyref="img:UIM_service_contact_information_menu4" id="image_sp4_lgh_hbb" width="500px"/></info>
+            </step>
+            <step>
+                <cmd>When finished, press the multifunction button under
+                        <uicontrol>UPDATE</uicontrol> to save the new Contact Name. The control
+                    system will return to the discrete menu.</cmd>
+            </step>
+            <step>
+                <cmd>Using the <uicontrol>UP</uicontrol> and <uicontrol>DOWN</uicontrol> buttons,
+                    select (highlighted in black) the <uicontrol>Change Contact Phone</uicontrol>
+                    menu item and press the multifunction button under
+                    <uicontrol>SELECT</uicontrol>.</cmd>
+            </step>
+            <step>
+                <cmd>Follow the on-screen instructions to enter a new Contact Phone number and press
+                    the multifunction button under <uicontrol>UPDATE</uicontrol> to save the new
+                    phone number.</cmd>
+            </step>
+            <step>
+                <cmd>When the new Contact Name and Contact Phone number have both been updated,
+                    press the multifunction button under <uicontrol>BACK</uicontrol> to return to
+                    the Desktop screen.</cmd>
+                <info><image keyref="img:UIM_service_contact_information_menu5" id="image_iff_ghh_hbb" width="500px"/></info>
+            </step>
+        </steps>
+    </taskbody>
+</task>

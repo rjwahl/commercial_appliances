@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><task xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="task_g2p_mg5_gbb" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:task.xsd">
+    <title>Power Supply Connections</title>
+    <!-- In legacy documentation, the Power Supply Connections procedure for the BTH 120-240 and BTH 300-400-500 are the identical (including the drawing) except for step 5, which is similar and might be identical when updated, but this would need to be confirmed by the engineer. -->
+    <shortdesc/>
+    <taskbody>
+        <context>
+            <p id="p_vcf_4g5_gbb">Read the requirements for the <xref keyref="sec:Power_Supply"/> before
+                connecting power.</p>
+            <p id="p_wcf_4g5_gbb">The 120-VAC hot wire from the power supply must connect to the
+                black jumper wire or the "L1" terminal-block location in the junction box and the
+                120-VAC neutral wire must connect to the white jumper wire or the "Neutral"
+                terminal-block location in the junction box for correct polarity. See the juction
+                box diagram <xref keyref="sec:Power_Supply_Connections/fig_junction_box_and_wiring"/>.</p>
+            <p id="p_qqx_4g5_gbb">Power supply connections must be made as follows: </p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Turn off power at the water heater's Enable/Disable switch and the breaker that
+                    supplies power to the water heater.</cmd>
+            </step>
+            <step>
+                <cmd>Remove the junction-box cover. See <xref keyref="sec:Components_Top_View"/> for
+                    junction box location. </cmd>
+            </step>
+            <step>
+                <cmd>Connect the 120-VAC hot wire from the power supply to the black jumper wire or
+                    the terminal-block location marked "L1" inside of the junction box located on
+                    top of the water heater. If the black jumper wire is used, make the connection
+                    inside of the junction box with a properly-sized wire nut. Wrap electrical tape
+                    around the wire nut and wire end. See the juction box diagram <xref keyref="sec:Power_Supply_Connections/fig_junction_box_and_wiring"/> and the
+                    wiring diagram <xref keyref="sec:Wiring_Diagram"/>.</cmd>
+                <info>
+                    <note>If the electrical connection is made directly to terminal block, remove
+                        the black jumper wire before making the connection.</note>
+                </info>
+            </step>
+            <step>
+                <cmd>Connect the 120-VAC neutral wire from the power supply to the white jumper wire
+                    or the terminal-block location marked "Neutral" inside of the junction box
+                    located on top of the water heater. If the white jumper wire is used, make the
+                    connection inside of the junction box with a properly-sized wire nut and wrap
+                    electrical tape around the wire nut and wire end. See the juction box diagram
+                        <xref keyref="sec:Power_Supply_Connections/fig_junction_box_and_wiring"/>
+                    and the wiring diagram <xref keyref="sec:Wiring_Diagram"/>.</cmd>
+                <info>
+                    <note>If the electrical connection is made directly to the terminal block,
+                        remove the white jumper wire before making the connection.</note>
+                </info>
+            </step>
+            <step>
+                <cmd>Connect the ground wire from the power supply to the green jumper wire or the
+                    ground-terminal location inside of the junction box located on top of the water
+                    heater. If the green jumper wire is used, make the connection inside of the
+                    junction box with a properly-sized wire nut and wrap electrical tape around the
+                    wire nut and wire end. See the the juction-box diagram <xref keyref="sec:Power_Supply_Connections/fig_junction_box_and_wiring"/> and the
+                    wiring diagram wiring diagram <xref keyref="sec:Wiring_Diagram"/>.</cmd>
+            </step>
+            <step>
+                <cmd>Replace junction-box cover when the connections are complete.</cmd>
+                <info>
+                    <note>Do not apply power to the water heater before the installation is complete
+                        and the water heater is filled with water.</note>
+                </info>
+                <info>
+                    <fig id="fig_junction_box_and_wiring">
+                        <title>Junction Box and Wiring</title>
+                        <image keyref="img:junction_box_and_wiring" id="image_e3r_mxm_qbb"/>
+                    </fig>
+                </info>
+            </step>
+        </steps>
+    </taskbody>
+</task>

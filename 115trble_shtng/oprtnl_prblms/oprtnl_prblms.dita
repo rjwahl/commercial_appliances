@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><concept xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="concept_sns_444_hbb" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:concept.xsd">
+    <title>Operational Problems</title>
+    <shortdesc/>
+    <conbody>
+        <p>      
+            <hazardstatement conkeyref="wmsg:read_manual">
+            <messagepanel>
+                <typeofhazard/>
+                <consequence/>
+                <howtoavoid/>
+            </messagepanel>
+            <hazardsymbol/>
+        </hazardstatement></p>
+        <p id="p_rc4_br4_hbb">This section of the manual is intended to be an aid in correcting
+            common operational problems; it is not all inclusive. The installer may be able to
+            observe and correct certain problems which might arise when the water heater is first
+            put into operation or when it is re-fired after a prolonged shutdown. However, only
+            qualified service agents, as defined in <xref keyref="sec:Qualifications"/>, using
+            appropriate test equipment, should perform any service procedures on the water
+            heater.</p>
+        <note>Call the technical support phone number listed on the back cover of this manual for
+            further technical assistance or to locate a qualified service agent in your area.</note>
+    </conbody>
+</concept>

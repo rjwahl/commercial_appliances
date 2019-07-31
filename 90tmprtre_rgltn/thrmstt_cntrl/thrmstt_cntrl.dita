@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><concept xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="concept_scf_2pz_gbb" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:concept.xsd">
+    <title>Thermostat Control</title>
+    <shortdesc/>
+    <conbody>
+        <p>Hot water temperatures required for automatic-dishwasher and laundry use can cause scald
+            burns resulting in serious personal injury and death.
+            <xref keyref="sec:Mixing_Valves/table_burn_time_at_various_temps"/>
+            shows the approximate time-to-burn relationship for normal adult skin.</p>
+        <p><hazardstatement conkeyref="wmsg:burn_hazard-hot_water">
+            <messagepanel>
+                <typeofhazard/>
+                <consequence/>
+                <howtoavoid/>
+            </messagepanel>
+            <hazardsymbol/>
+        </hazardstatement></p>
+        <p id="p_wbz_brz_gbb">The temperature at which injury occurs varies with the person’s age
+            and duration of exposure. The slower response time of children, the elderly, or disabled
+            persons increases the hazards to them. If anyone using hot water provided by the water
+            heater being installed fits into one of these groups or if there is a local code or
+            state law requiring a certain water temperature at the point of use, then special
+            precautions must be taken.</p>
+        <p id="p_xbz_brz_gbb">In addition to using the lowest possible temperature setting that
+            satisfies the demand of the application a mixing valve can be installed at the water
+            heater or at the hot water taps to further reduce system water temperature. 
+            See <xref keyref="sec:Mixing_Valves/fig_mixing_valve_example"/>.</p>
+        <p id="p_ybz_brz_gbb">Never allow a small child to use a hot water tap unsupervised or draw
+            his or her own bath water. Never leave a child or disabled person unattended in a
+            bathtub or shower. </p>
+        <p id="p_zbz_brz_gbb">The water heater should be located in an area where the general public
+            does not have access to set temperatures.</p>
+        <p id="p_acz_brz_gbb">Setting the Operating Set Point at 120°F (49°C) will reduce the risk
+            of scalds. Some States require settings at specific lower temperatures.</p>
+        
+        <!-- In legacy versions, there is a duplicate of the time to burn table here; since it is a duplicate,
+             I have removed it from the xml versions and set references to its first use in the manual.
+        -->
+
+        <p id="p_zyn_ttz_gbb">The water heaters covered in this manual are equipped with an
+            electronic control system to regulate water temperature inside the storage tank. The
+            control system senses temperature from two factory installed temperature probes, one
+            installed in the top of the storage tank and one installed near the bottom. 
+            See <xref keyref="sec:Components_Top_View/fig_top_view"/> 
+            and <xref keyref="sec:Components_Side_Views/fig_components_side_view"/>.</p>
+        <p id="p_azn_ttz_gbb">The “Operating Set Point” is adjusted to regulate water temperature
+            inside the storage tank. This is an adjustable user setting in the control system’s
+            “Temperatures Menu.” This and all control system menus are accessed through the UIM
+            (user interface module) located on the front of the water heater. 
+            See <xref keyref="sec:Control_System_Navigation/fig_UIM_home_screen_components"/>.</p>
+        <p id="p_bzn_ttz_gbb">The Operating Set Point is adjustable from 90°F (32°C) to 180°F
+            (82°C). The factory setting is 120°F (49°C). 
+            See <xref keyref="sec:Operating_Set_Point_and_Differential_Adjustment"/> 
+            for instructions on how to adjust the Operating Set Point and other user settings.</p>
+        <p id="p_czn_ttz_gbb">Set the Operating Set Point at the lowest setting that produces an
+            acceptable hot water supply. This will always provide the most energy efficient
+            operation.</p>
+    </conbody>
+</concept>

@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?><concept xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="concept_tfp_hzq_fbb" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:concept.xsd">
+    <title>Polypropylene Installations</title>
+    <conbody>
+        <p>The water heater has been approved to be installed with Polypropylene vent material as
+            shown in <xref keyref="sec:Polypropylene_Installations/table_MG_Duravent_PolyPro_vnt_systm_cmpnnts"/>
+            and <xref keyref="sec:Polypropylene_Installations/table_Centrotherm_InnoFlueSW_vnt_systm_cmpnnts"/>.
+            The approved application of single-wall, non-flexible, non-concentric Polypropylene vent material is
+            offered by two specific manufacturers (Centrotherm ECO Systems and DuraVent
+            Polypropylene. These listed products must be installed by following the vent
+            manufacturer’s instructions. 
+            See <xref keyref="sec:Factory-Supplied_Fittings/table_PVC_CPVC_plyprpylne_mximm_ft_by_ppe_dmtr_and_nmbr_of_elbws"/>
+            to determine the maximum pipe length and number of elbows that can be used.</p>
+        <p id="p_wv3_kzq_fbb">Insulation should not be used on Polypropylene venting materials. The
+            use of insulation will cause increased vent wall temperatures, which could result in
+            vent pipe failure.</p>
+        <p id="p_xv3_kzq_fbb">Use only the adapters and vent system listed in Tables below. DO NOT
+            mix vent systems of different types or manufacturers. Failure to comply could result in
+            severe personal injury, death, or substantial property damage.</p>
+        <p id="p_yv3_kzq_fbb">Installations must comply with applicable national, state, and local
+            codes. For Canadian installation, Polypropylene vent must be listed as a <i outputclass="Cite">ULC-S636</i>
+            approved system. If Polypropylene vent is not required by your local code, you may use
+            either PVC or CPVC pipes for your water heater that allows non-metallic venting material
+            installations.</p>
+        <p id="p_zv3_kzq_fbb">Polypropylene vent systems do not use cement to connect the pipe and
+            elbow sections. They use a push-together gasket-seal method. Do not attempt to connect
+            Polypropylene with sealant cement. All vent connections MUST be secured by the vent
+            manufacturer's joint connector. The installer must use a specific vent starter adapter
+            at the flue connection. The adapter is supplied by the vent manufacturer to adapt to its
+            vent system.</p>
+        <p id="p_aw3_kzq_fbb">In order to be in full compliance with <i outputclass="Cite">UL
+                1738</i> or <i outputclass="Cite">ULC-S636</i> and to meet the requirements of the
+            water heater manufacturer, you must use the metal joint connector rings, available from
+            the Polypropylene vent manufacturer, to stiffen the joints of two-inch, three-inch, and
+            four-inch diameter pipes.</p>
+        <table frame="all" rowsep="1" colsep="1" id="table_MG_Duravent_PolyPro_vnt_systm_cmpnnts">
+            <title>M &amp; G Duravent Polypro Vent System Comonents</title>
+            <tgroup cols="7" align="center">
+                <colspec colname="c1" colnum="1" colwidth="1*"/>
+                <colspec colname="c2" colnum="2" colwidth="1*"/>
+                <colspec colname="c3" colnum="3" colwidth="1*"/>
+                <colspec colname="c4" colnum="4" colwidth="1*"/>
+                <colspec colname="c5" colnum="5" colwidth="1*"/>
+                <colspec colname="c6" colnum="6" colwidth="1*"/>
+                <colspec colname="c7" colnum="7" colwidth="4*" align="center"/>
+                <thead>
+                    <row>
+                        <entry>
+                            <p id="p_jsr_31r_fbb">Nominal Pipe </p>
+                            <p id="p_ksr_31r_fbb">Diamete</p></entry>
+                        <entry><p outputclass="Table-Column-Head">Flue Outlet Adapter</p></entry>
+                        <entry><p outputclass="Table-Column-Head">Adapter Connector</p></entry>
+                        <entry>
+                            <p id="p_j3g_l1r_fbb">Ring </p>
+                            <p id="p_k3g_l1r_fbb">Connector</p></entry>
+                        <entry><p outputclass="Table-Column-Head">90° Elbow</p></entry>
+                        <entry><p outputclass="Table-Column-Head">Vent Material</p></entry>
+                        <entry><p outputclass="Table-Column-Head">Terminal(s)</p></entry>
+                    </row>
+                </thead>
+                <tbody>
+                    <row>
+                        <entry><p outputclass="Table-Cell">2"</p></entry>
+                        <entry><p outputclass="Table-Cell">2PPS-AD</p></entry>
+                        <entry><p outputclass="Table-Cell">PPS-PAC</p></entry>
+                        <entry><p outputclass="Table-Cell">2PPS-LB</p></entry>
+                        <entry><p outputclass="Table-Cell">2PPS-E90B</p></entry>
+                        <entry><p outputclass="Table-Cell">2PPS</p></entry>
+                        <entry align="left">
+                            <p id="p_l5n_v1r_fbb">2PPS-E45B for Exhaust; </p>
+                            <p id="p_m5n_v1r_fbb">2PPS-E45B for intake (Direct Vent Only) </p>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry><p outputclass="Table-Cell">3"</p></entry>
+                        <entry><p outputclass="Table-Cell">3PPS-AD</p></entry>
+                        <entry><p outputclass="Table-Cell">PPS-PAC</p></entry>
+                        <entry><p outputclass="Table-Cell">3PPS-LB</p></entry>
+                        <entry><p outputclass="Table-Cell">3PPS-E90B</p></entry>
+                        <entry><p outputclass="Table-Cell">3PPS</p></entry>
+                        <entry align="left">
+                            <p id="p_tj4_1br_fbb">3PPS-E45B for Exhaust;</p>
+                            <p id="p_uj4_1br_fbb">3PPS-E45B for Intake (Direct Vent only)</p>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry><p outputclass="Table-Cell">4"</p></entry>
+                        <entry><p outputclass="Table-Cell">4PPS-AD</p></entry>
+                        <entry><p outputclass="Table-Cell">PPS-PAC</p></entry>
+                        <entry><p outputclass="Table-Cell">4PPS-LB</p></entry>
+                        <entry><p outputclass="Table-Cell">4PPS-E90B</p></entry>
+                        <entry><p outputclass="Table-Cell">4PPS</p></entry>
+                        <entry align="left">
+                            <p id="p_hr1_bbr_fbb">4PPS-E45B for Exhaust;</p>
+                            <p id="p_ir1_bbr_fbb">4PPS-E45B for Intake (Direct Vent only)</p>
+                        </entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+        <table frame="all" rowsep="1" colsep="1" id="table_Centrotherm_InnoFlueSW_vnt_systm_cmpnnts">
+            <title>Centrotherm Innoflue® SW Vent System Comonents</title>
+            <tgroup cols="7" align="center">
+                <colspec colname="c1" colnum="1" colwidth="1*"/>
+                <colspec colname="c2" colnum="2" colwidth="1*"/>
+                <colspec colname="c3" colnum="3" colwidth="1*"/>
+                <colspec colname="c4" colnum="4" colwidth="1*"/>
+                <colspec colname="c5" colnum="5" colwidth="1*"/>
+                <colspec colname="c6" colnum="6" colwidth="1*"/>
+                <colspec colname="c7" colnum="7" colwidth="4*" align="left"/>
+                <thead>
+                <row>
+                    <entry>
+                        <p id="p_qtb_kcr_fbb">Nominal Pipe </p>
+                        <p id="p_rtb_kcr_fbb">Diamete</p>
+                    </entry>
+                    <entry>
+                        <p outputclass="Table-Column-Head" id="p_stb_kcr_fbb">Flue Outlet
+                            Adapter</p>
+                    </entry>
+                    <entry>
+                        <p outputclass="Table-Column-Head" id="p_ttb_kcr_fbb">Adapter Connector</p>
+                    </entry>
+                    <entry>
+                        <p id="p_utb_kcr_fbb">Ring </p>
+                        <p id="p_vtb_kcr_fbb">Connector</p>
+                    </entry>
+                    <entry>
+                        <p outputclass="Table-Column-Head" id="p_wtb_kcr_fbb">90° Elbow</p>
+                    </entry>
+                    <entry>
+                        <p outputclass="Table-Column-Head" id="p_xtb_kcr_fbb">Vent Material</p>
+                    </entry>
+                    <entry>
+                        <p outputclass="Table-Column-Head" id="p_ytb_kcr_fbb">Terminal(s)</p>
+                    </entry>
+                </row>
+                </thead>
+                <tbody>
+                    <row>
+                        <entry>2"</entry>
+                        <entry>ISAGL0202</entry>
+                        <entry>IAFC02</entry>
+                        <entry>IANS02</entry>
+                        <entry>ISELL0287</entry>
+                        <entry>ISVL02</entry>
+                        <entry>
+                            <p id="p_vt2_5cr_fbb">ISELL0245UV for Exhaust; </p>
+                            <p id="p_wt2_5cr_fbb">ISELL0245UV for intake (Direct Vent only)</p>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry>3"</entry>
+                        <entry>ISAGL0303</entry>
+                        <entry>IAFC03</entry>
+                        <entry>IANS03</entry>
+                        <entry>ISELL0387</entry>
+                        <entry>ISVL03</entry>
+                        <entry>
+                            <p id="p_w4w_5cr_fbb">ISELL0345UV for Exhaust; </p>
+                            <p id="p_x4w_5cr_fbb">ISELL0345UV for Intake (Direct Vent only)</p>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry>4"</entry>
+                        <entry>ISAGL0404</entry>
+                        <entry>IAFC04</entry>
+                        <entry>IANS04</entry>
+                        <entry>ISELL0487</entry>
+                        <entry>ISVL04</entry>
+                        <entry>
+                            <p id="p_atl_vcr_fbb">ISELL0445UV for Exhaust; </p>
+                            <p id="p_btl_vcr_fbb">ISELL0445UV for Intake (Direct Vent only)</p>
+                        </entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+        
+    </conbody>
+</concept>

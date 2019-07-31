@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><task xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="task_gaslinconnection1" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:task.xsd">
+    <title>Gas Line Connection</title>
+    <taskbody>
+        <!-- The provided supply-gas connection fittings are 3/4" for bth 120-250; 1 1/2" for bth 300-400-500-->
+        <context id="context_mmw_4hr_ybb">The water heaters covered by this manual are shipped from
+            the factory with 3/4 inch supply-gas connections. The supply-gas line must not be
+            smaller than 3/4 inch. </context>
+        <steps>
+            <step>
+                <cmd>Connect the supply-gas line to the water heater's 24-volt gas valve in
+                    accordance with all applicable local and national code requirements. See <xref keyref="sec:Termination_Clearances_Sidewall_Power_Vent" format="dita"/> and
+                        <xref keyref="sec:Termination_Clearances_Sidewall_Direct_Vent" format="dita"/></cmd>
+            </step>
+            <step>
+                <cmd>Depending on the developed equivalent length and/or the number of appliances
+                    connected to a common main, the size of the supply gas line might have to be
+                    increased. See <xref keyref="sec:Gas_Line_Sizing" format="dita"/>. If the
+                    supply-gas line must be resized larger to accommodate increased supply-gas line
+                    lengths or multiple appliances, use reducer couplings and short pipe nipples to
+                    increase the supply-gas line length. </cmd>
+                <info>
+                    <note>Make the transition to the larger supply-gas line as close to the
+                        supply-gas connection as possible.</note>
+                </info>
+            </step>
+            <step>
+                <cmd>Apply thread-sealing compound (pipe dope/<tm tmtype="reg">Teflon</tm> tape)
+                    sparingly and only to the male threads of the pipe joints. Do not apply sealing
+                    compound to the first two threads. Use pipe dope or <tm tmtype="reg">Teflon</tm>
+                    tape marked as being resistant to the action of liquid petroleum (LP/propane)
+                    gases.</cmd>
+                <info>
+                    <fig id="fig_a14_ztt_gbb">
+                        <title>Supply Gas Line Connection</title>
+                        <image keyref="img:supply_gas_line_connection" width="500px"/>
+                    </fig>
+                </info>
+            </step>
+            <step>
+                <cmd>Use only a smooth jaw adjustable wrench as a back-up on the body of the 24-volt
+                    gas valve when tightening the first pipe nipple into the body of the valve. Do
+                    not use a standard pipe wrench (Stillson wrench) with metal-tooth jaws as this
+                    may permanently damage the valve.</cmd>
+            </step>
+            <step>
+                <cmd>Use a standard pipe wrench (Stillson wrench) as a back-up on the first pipe
+                    nipple installed above when connecting other fittings and pipe in the supply-gas
+                    line to prevent the 24-volt gas valve on the water heater from twisting during
+                    installation.</cmd>
+            </step>
+            <step>
+                <cmd>To prevent damage, care must be taken not to apply too much torque when
+                    connecting the supply-gas line to the water heater.</cmd>
+            </step>
+            <step>
+                <cmd>Install a sediment trap as shown in
+                    <xref keyref="sec:Supply_Gas_Line_Installation/fig_supply_gas_line_installation"/>.</cmd>
+            </step>
+            <step>
+                <cmd>Install a Main Gas Shutoff valve in the supply gas line as shown 
+                    in <xref keyref="sec:Supply_Gas_Line_Installation/fig_supply_gas_line_installation"/>.</cmd>
+                <info>
+                    <note>If overheating occurs, or the gas supply fails to shut off, turn off the
+                        Main Gas Shutoff valve to the water heater.</note>
+                </info>
+            </step>
+        </steps>
+    </taskbody>
+</task>

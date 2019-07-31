@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><concept xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="concept_fvd_qr4_hbb" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:concept.xsd">
+    <title>Rough Starting, Rough Operation</title>
+    <shortdesc/>
+    <conbody>
+        <p>Rough starting can be caused by any of the following:<hazardstatement conkeyref="wmsg:fire_or_explosion_hazard-gas">
+                <messagepanel>
+                    <typeofhazard/>
+                    <consequence/>
+                    <howtoavoid/>
+                </messagepanel>
+                <hazardsymbol/>
+            </hazardstatement></p>
+        <ul id="ul_snn_bs4_hbb">
+            <li>Undersized supply-gas line (low volume of supply gas). See <xref keyref="sec:Gas_Supply_Systems"/>.</li>
+            <li>Supply-gas regulator is not installed per installation requirements (erratic gas
+                supply volume/pressures). See <xref keyref="sec:Supply_Gas_Regulator"/>.</li>
+            <li>Excessive supply-gas pressure. See <xref keyref="sec:Rough_In_Dimensions/table_gas_prssre_rqrmnts"/> and <xref keyref="sec:Initial_Start_Up"/>.</li>
+            <li>Vent-gas (exhaust) recirculation at the vent and intake-air pipe terminations on
+                direct vent installation. See <xref keyref="sec:Direct_Vent_Installation"/>.</li>
+            <li>Excessive equivalent lengths of intake-air and/or vent (exhaust) piping installed.
+                See <xref keyref="sec:Venting_Requirements"/>.</li>
+            <li>Debris clogging/blocking the intake-air screen(s). See <xref keyref="sec:Condensate_Drain/fig_exhaust_condensate_elbow"/> and Figure <xref keyref="sec:Sidewall_Termination_Installation/fig_sde_wll_trmntns_drct_vnt"/>.</li>
+            <li>Debris clogging/blocking the main burner. See <xref keyref="sec:Blower_Burner_Assembly_Detail/fig_blower_burner_components"/>.</li>
+        </ul>
+    </conbody>
+</concept>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?><concept xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="concept_utz_sl3_fbb" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:concept.xsd">
+    <title>Maximum Number Of Elbows</title>
+    <shortdesc/>
+    <conbody>
+        <p>The maximum number of elbows allowed varies according to the heater input rating and pipe
+            diameter. </p>
+        <table frame="all" rowsep="1" colsep="1" id="table_Maximum_Number_of_Elbows">
+            <title>PVC/CPVC Equivalent Length and Maximum Number of Elbows</title>
+            <tgroup cols="7" align="center">
+                <colspec colname="c1" colnum="1" colwidth="1*"/>
+                <colspec colname="c2" colnum="2" colwidth="1*"/>
+                <colspec colname="c3" colnum="3" colwidth="1*"/>
+                <colspec colname="c4" colnum="4" colwidth="1*"/>
+                <colspec colname="c5" colnum="5" colwidth="1*"/>
+                <colspec colname="c6" colnum="6" colwidth="1*"/>
+                <colspec colname="c7" colnum="7" colwidth="1*"/>
+                <thead>
+
+                    <row>
+                        <entry/>
+                        <entry namest="c2" nameend="c4"><p outputclass="Table-Column-Head">Equivalent Vent Length</p></entry>
+                        <entry namest="c5" nameend="c7"><p outputclass="Table-Column-Head">Max Elbows</p></entry>
+                    </row>
+                    <row>
+                        <entry><p outputclass="Table-Row-Head">BTH</p></entry>
+                        <entry><p outputclass="Table-Column-Head">2"</p></entry>
+                        <entry><p outputclass="Table-Column-Head">3"</p></entry>
+                        <entry><p outputclass="Table-Column-Head">4"</p></entry>
+                        <entry><p outputclass="Table-Column-Head">2"</p></entry>
+                        <entry><p outputclass="Table-Column-Head">3"</p></entry>
+                        <entry><p outputclass="Table-Column-Head">4"</p></entry>
+                    </row>
+                </thead>
+                <tbody>
+                    <row>
+                        <entry><p outputclass="Table-Row-Head">120</p></entry>
+                        <entry><p outputclass="Table-Cell">12' to 40'</p></entry>
+                        <entry><p outputclass="Table-Cell">7' to 50'</p></entry>
+                        <entry><p outputclass="Table-Cell">50' to 120'</p></entry>
+                        <entry><p outputclass="Table-Cell">4</p></entry>
+                        <entry><p outputclass="Table-Cell">4</p></entry>
+                        <entry><p outputclass="Table-Cell">6</p></entry>
+                    </row>
+                    <row>
+                        <entry><p outputclass="Table-Row-Head">150</p></entry>
+                        <entry><p outputclass="Table-Cell">12' to 40'</p></entry>
+                        <entry><p outputclass="Table-Cell">7' to 50'</p></entry>
+                        <entry><p outputclass="Table-Cell">50' to 120'</p></entry>
+                        <entry><p outputclass="Table-Cell">4</p></entry>
+                        <entry><p outputclass="Table-Cell">4</p></entry>
+                        <entry><p outputclass="Table-Cell">6</p></entry>
+                    </row>
+                    <row>
+                        <entry><p outputclass="Table-Row-Head">199</p></entry>
+                        <entry><p outputclass="Table-Cell">12' to 40'</p></entry>
+                        <entry><p outputclass="Table-Cell">7' to 50'</p></entry>
+                        <entry><p outputclass="Table-Cell">50' to 120'</p></entry>
+                        <entry><p outputclass="Table-Cell">4</p></entry>
+                        <entry><p outputclass="Table-Cell">4</p></entry>
+                        <entry><p outputclass="Table-Cell">6</p></entry>
+                    </row>
+                    <row>
+                        <entry><p outputclass="Table-Row-Head">250</p></entry>
+                        <entry><p outputclass="Table-Cell">12' to 20'</p></entry>
+                        <entry><p outputclass="Table-Cell">7' to 50'</p></entry>
+                        <entry><p outputclass="Table-Cell">50' to 120'</p></entry>
+                        <entry><p outputclass="Table-Cell">2</p></entry>
+                        <entry><p outputclass="Table-Cell">4</p></entry>
+                        <entry><p outputclass="Table-Cell">6</p></entry>
+                    </row>
+
+                </tbody>
+            </tgroup>
+        </table>
+        <note type="note">See <xref keyref="sec:AL29-4C_Vent_Installations/table_HeatFab_Saf_T_vnt_AL29-4C_vnt_systm_cmpnnts"/> 
+            and <xref keyref="sec:AL29-4C_Vent_Installations/table_Duravent_FasNSeal_AL29_4C_vnt_systm"/> for the
+            equivalent linear pipe length of <tm tmtype="reg">AL29-4C</tm> 45° and 90°
+            elbows.</note>
+        
+    </conbody>
+</concept>

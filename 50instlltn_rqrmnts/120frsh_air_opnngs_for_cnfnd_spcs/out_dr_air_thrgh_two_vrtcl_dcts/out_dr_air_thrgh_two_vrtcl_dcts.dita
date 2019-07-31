@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><concept xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="concept_dfy_ncr_mbb" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:concept.xsd">
+    <title>Outdoor Air through Two Vertical Ducts</title>
+    <shortdesc/>
+    <conbody>
+        <p id="p_xrz_rcr_mbb">The illustrations shown in this section of the manual are a reference
+            for the openings that provide fresh air into confined spaces only.</p>
+        <p id="p_yrz_rcr_mbb">Do not refer to these illustrations for the purpose of vent
+            installation. 
+            See <xref keyref="sec:Venting_Installation"/> for complete venting installation
+            instructions.</p>
+        <p id="p_shp_scr_mbb">The confined space shall be provided with two permanent vertical
+            ducts, one commencing within 12 inches (300 mm) of the top and one commencing within 12
+            inches (300 mm) of the bottom of the enclosure. The vertical ducts shall communicate
+            directly with the outdoors.
+            See <xref keyref="sec:Outdoor_Air_Through_Two_Vertical_Ducts/fig_out_dr_air_thrgh_two_vrtcl_dcts"/>.</p>
+        <p id="p_thp_scr_mbb">Each duct opening shall have a minimum free area of 1 square inch per
+            4,000 Btu/hr (550 mm2 per kW) of the aggregate input rating of all appliances installed
+            in the enclosure. </p>
+        <p id="p_uhp_scr_mbb">When ducts are used, they shall be of the same cross sectional area as
+            the free area of the openings to which they connect. The minimum dimension of
+            rectangular air ducts shall be not less than 3 inches.</p>
+        <fig id="fig_out_dr_air_thrgh_two_vrtcl_dcts">
+            <title>Outdoor Air through Two Vertical Ducts</title>
+            <image keyref="img:air_req_outdoor_two_vrtcl_dcts" width="500" id="image_wtc_vcr_mbb"/>
+        </fig>
+    </conbody>
+</concept>

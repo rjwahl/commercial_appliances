@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><concept xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="concept_vft_kzc_ybb" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:concept.xsd">
+    <title>Maxumum Equivalent Lengths</title>
+    <shortdesc/>
+    <conbody>
+        <section id="section_pcs_mzc_ybb">
+            <title>Four-Inch Pipe</title>
+            <p id="p_qcs_mzc_ybb">The water heaters covered in this manual are certified to a
+                maximum length of 4 inch pipe for the exhaust venting arrangement of 70 equivalent
+                feet (21.3 m). The certified maximum length of 4 inch pipe for intake air piping is
+                also 70 equivalent feet (21.3 m). IE: On Direct Vent installations both pipes can be
+                up to 70 equivalent feet (21.3 m).</p>
+        </section>
+        <section id="section_emx_4zc_ybb">
+            <title>Six-Inch Pipe</title>
+            <p id="p_fmx_4zc_ybb">The water heaters covered in this manual are certified to a
+                maximum length of 6 inch pipe for the exhaust venting arrangement of 120 equivalent
+                feet (36.5 m). The certified maximum length of 6 inch pipe for intake air piping is
+                also 120 equivalent feet (36.5 m). IE: On Direct Vent installations both pipes can
+                be up to 120 equivalent feet (36.5 m).</p>
+        </section>
+    </conbody>
+</concept>

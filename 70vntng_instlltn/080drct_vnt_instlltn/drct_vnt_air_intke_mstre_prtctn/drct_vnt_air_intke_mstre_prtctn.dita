@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><concept xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="concept_z1f_rtp_fbb" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:concept.xsd">
+    <title>Direct Vent Air Intake Moisture Protection</title>
+    <shortdesc/>
+    <conbody>
+        <p>The air intake piping in a direct vent system will normally not have any moisture
+            accumulation in it. However, in certain cases, moisture may build up and needs to be
+            drained. Typical situations include, but are not limited to:</p>
+        <ul id="ul_y33_ttp_fbb">
+            <li>Cold outdoor temperature, particularly if the air inlet is short</li>
+            <li>Heater being used mostly for space heating</li>
+            <li>Air inlet pipe has vertical rise near the heater</li>
+        </ul>
+        <p id="p_bgn_wtp_fbb">Installations with any of these conditions are required to provide a
+            moisture drain with a trap that flows to a waste drain. 
+            See <xref keyref="sec:Direct_Vent_Installation/fig_Intake_Air_Condensate_Tee_Installation"/>. 
+            A horizontal section of the air inlet pipe, near the heater should include a 3” x 3” x 1/2” tee and a
+            hose barb fitting to drain the water. The tee should be as close to the heater as is
+            practical. The drain tubing in any installation should have a loop trap and flow to an
+            appropriate waste drain. The air intake drain line must be entirely separate from the
+            exhaust vent outlet condensate line.</p>
+    </conbody>
+</concept>

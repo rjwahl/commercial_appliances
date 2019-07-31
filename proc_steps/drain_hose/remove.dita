@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<task id="task_kww_f1g_ndb" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:task.xsd">
+    <title>Remove the Drain Hose</title>
+    <shortdesc></shortdesc>
+    <taskbody>
+        <steps-unordered>
+            <step  id="step_remove_drain_hose_A">
+                <cmd>The hose may be removed.</cmd>
+            </step>
+            <step id="step_remove_drain_hose_B">
+                <cmd>Remove the drain hose.</cmd>
+            </step>
+        </steps-unordered>
+    </taskbody>
+</task>

@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?><task xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="task_wm2_fsk_gbb" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:task.xsd">
+    <title>Low-Profile Vent Termination installation</title>
+    <shortdesc/>
+    
+    <!-- The bth 120-250 and bth 300-400-500 versions of this topic are identical except for what is in the
+         table Low Profile Termination Kits - Dimensions. The bth 120-250 version has sizes 2", 3", and 4" kits
+         while the bth 300-400-500 has 4" and 6" kits.-->
+    <taskbody>
+        <context>
+            <p id="p_jyv_gsk_gbb">This water heater is certified for sidewall direct venting with
+                IPEX System 636 Low Profile Vent Kit. Follow instructions below for proper
+                installations.</p>
+            <p id="p_kyv_gsk_gbb">All termination kits must be located and installed in accordance
+                with local building code and <i outputclass="Cite">CSA B149.1 Natural Gas and Propane Installation
+                Code.</i></p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Once the proper location has been determined, cut two holes in the wall large
+                    enough to accommodate the pipe. See <xref keyref="sec:Low-Profile_Vent_Termination_Installation/table_low_prfle_trmntn_kts"/> 
+                    for pipe diameters and distance between hole centers.</cmd>
+            </step>
+            <step>
+                <cmd>Slide both the intake and exhaust pipes through the holes. Solvent cement both
+                    pipes to the base of the vent termination kit, follow the solvent cementing
+                    procedures outlined in the <i outputclass="Cite">IPEX System 636 Installation Guide</i>, which is
+                    available on the web www.ipexinc.com.</cmd>
+            </step>
+            <step>
+                <cmd>To fasten the base to the wall, use the supplied screws and anchors. A 3/16” (5
+                    mm) hole, that is 1-3/16” (30 mm) deep, will need to be drilled for the anchors.
+                    Locate the anchor hole using the base as a template.</cmd>
+            </step>
+            <step>
+                <cmd>Screw the cap to the base using the supplied screws.</cmd>
+            </step>
+            <step>
+                <cmd>Once the vent termination and pipes are secured, the wall penetrations will
+                    need to be sealed from the interior using a PVC-compatible sealant
+                    material.</cmd>
+            </step>
+            <step>
+                <cmd>All vent pipes and air inlets must terminate at the same height to avoid the
+                    possibility of severe personal injury, death, or substantial property
+                    damage.</cmd>
+            </step>
+            <step>
+                <cmd>Operate the heater through one heat cycle to ensure combustion-air and vent
+                    pipes are properly connected to the concentric vent termination.</cmd>
+                
+                <info><fig id="fig_inlet_vent_flow_in_low-profile_vent_installation">
+                    <title>Inlet and Vent Flow in Low-Profile Vent Installation</title>
+                    <image keyref="img:inlet_vent_flow_in_low-profile_vent_installation" id="image_cgh_wtk_gbb" width="500px"/>
+                </fig>
+                    <fig id="fig_low_profile_vent_clearances">
+                        <title>Low Profile Vent Clearances</title>
+                        <image keyref="img:low_profile_vent_clearances" id="image_i1m_xwk_gbb" width="500px"/>
+                    </fig>
+                    <fig id="fig_multiple_low_profile_vent_clearances">
+                        <title>Multiple Low-Profile Vent Clearances</title>
+                        <image keyref="img:multi_low_profile_vent_clearances" id="image_nd2_cyk_gbb" width="500px"/>
+                    </fig>
+                 
+                    <table id="table_low_prfle_trmntn_kts" frame="all" rowsep="1" colsep="1">
+                        <title>Low Profile Termination Kits - Dimensions</title>
+                        <tgroup cols="5" align="center">
+                            <colspec colname="c1" colnum="1" colwidth="1*"/>
+                            <colspec colname="c2" colnum="2" colwidth="1*"/>
+                            <colspec colname="c3" colnum="3" colwidth="1*"/>
+                            <colspec colname="c4" colnum="4" colwidth="1*"/>
+                            <colspec colname="c5" colnum="5" colwidth="1*"/>
+                            <thead>
+                                <row>
+                                    <entry>
+                                        <p outputclass="Table-Column-Head">Kit Number</p>
+                                    </entry>
+                                    <entry>
+                                        <p outputclass="Table-Column-Head">IPEX Part Number</p>
+                                    </entry>
+                                    <entry>
+                                        <p outputclass="Table-Column-Head">Description</p>
+                                    </entry>
+                                    <entry>
+                                        <p outputclass="Table-Column-Head">Pipe Outside Diameter</p>
+                                    </entry>
+                                    <entry>
+                                        <p outputclass="Table-Column-Head">Hole Spacing (Center to
+                                            Center)</p>
+                                    </entry>
+                                </row>
+                            </thead>
+                            <tbody>
+                                <row>
+                                    <entry>
+                                        <p outputclass="Table-Cell">100086241</p>
+                                    </entry>
+                                    <entry>
+                                        <p outputclass="Table-Cell">196984</p>
+                                    </entry>
+                                    <entry>
+                                        <p outputclass="Table-Cell"> 2" Flush Mount Vent Kit</p>
+                                    </entry>
+                                    <entry>
+                                        <p outputclass="Table-Cell">2.375"</p>
+                                    </entry>
+                                    <entry>
+                                        <p outputclass="Table-Cell">5.63"</p>
+                                    </entry>
+                                </row>
+                                <row>
+                                    <entry>
+                                        <p outputclass="Table-Cell">100187887</p>
+                                    </entry>
+                                    <entry>
+                                        <p outputclass="Table-Cell">196985</p>
+                                    </entry>
+                                    <entry>
+                                        <p outputclass="Table-Cell">3″ Flush Mount Vent Kit</p>
+                                    </entry>
+                                    <entry>
+                                        <p outputclass="Table-Cell">3.5″</p>
+                                    </entry>
+                                    <entry>
+                                        <p outputclass="Table-Cell">5.63″</p>
+                                    </entry>
+                                </row>
+                                <row>
+                                    <entry>
+                                        <p outputclass="Table-Cell">100187888</p>
+                                    </entry>
+                                    <entry>
+                                        <p outputclass="Table-Cell">196986</p>
+                                    </entry>
+                                    <entry>
+                                        <p outputclass="Table-Cell">4″ Flush Mount Vent Kit</p>
+                                    </entry>
+                                    <entry>
+                                        <p outputclass="Table-Cell">4.5″</p>
+                                    </entry>
+                                    <entry>
+                                        <p outputclass="Table-Cell">5.63″</p>
+                                    </entry>
+                                </row>
+                            </tbody>
+                        </tgroup>
+                    </table>
+                
+                <table frame="all" rowsep="1" colsep="1" id="table_cntnts_of_low_profile_trmntn_kit">
+                        <title>Contents of a Low-Profile Termination Kit</title>
+                        <tgroup cols="2" align="center">
+                            <colspec colname="c1" colnum="1" colwidth="1*"/>
+                            <colspec colname="c2" colnum="2" colwidth="1*"/>
+                            <thead>
+                                <row>
+                                    <entry>
+                                        <p outputclass="Table-Column-Head">Qty</p>
+                                    </entry>
+                                    <entry>
+                                        <p outputclass="Table-Column-Head">Item Description</p>
+                                    </entry>
+                                </row>
+                            </thead>
+                            <tbody>
+                                <row>
+                                    <entry>
+                                        <p outputclass="Table-Cell">1</p>
+                                    </entry>
+                                    <entry>
+                                        <p outputclass="Table-Cell">Base (two holes)</p>
+                                    </entry>
+                                </row>
+                                <row>
+                                    <entry>
+                                        <p outputclass="Table-Cell">1</p>
+                                    </entry>
+                                    <entry>
+                                        <p outputclass="Table-Cell">Cap (one hole)</p>
+                                    </entry>
+                                </row>
+                                <row>
+                                    <entry>
+                                        <p outputclass="Table-Cell">8</p>
+                                    </entry>
+                                    <entry>
+                                        <p outputclass="Table-Cell">Stainless Steel Screws</p>
+                                    </entry>
+                                </row>
+                                <row>
+                                    <entry>
+                                        <p outputclass="Table-Cell">4</p>
+                                    </entry>
+                                    <entry>
+                                        <p outputclass="Table-Cell">Plastic Anchors</p>
+                                    </entry>
+                                </row>
+                            </tbody>
+                        </tgroup>
+                    </table>
+                </info> 
+            </step>
+        </steps>
+    </taskbody>
+</task>

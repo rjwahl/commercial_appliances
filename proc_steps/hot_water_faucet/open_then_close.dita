@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<task id="task_ghf_4gf_ndb" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:task.xsd">
+    <title>Open Then Close Hot Water Faucet</title>
+    <shortdesc></shortdesc>
+    <taskbody>
+        <steps>
+            <step id="step_open_then_close_hot_water_faucet_A">
+                <cmd>Open a nearby hot water faucet and let the water run until the water is no
+                    longer hot. Then close the hot water faucet.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

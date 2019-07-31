@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<task id="task_ct3_x2f_ndb" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:task.xsd">
+    <title>Open Hot Water Faucet and Drain Valve</title>
+    <shortdesc></shortdesc>
+    <taskbody>
+        <!-- This file and its folder are for combination steps only. -->
+        <steps-unordered>
+            <step id="step_open_hot_water_faucet_and_drain_valve_A">
+                <cmd>Open a nearby hot water faucet and the heater drain valve.</cmd>
+            </step>
+        </steps-unordered>
+    </taskbody>
+</task>

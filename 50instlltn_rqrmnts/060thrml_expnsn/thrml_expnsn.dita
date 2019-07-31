@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><concept xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="concept_hq2_2pw_1bb" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:concept.xsd">
+    <title>Thermal Expansion</title>
+    <shortdesc/>
+    <conbody>
+        <p id="p_gcg_fpw_1bb">As water is heated, it expands (thermal expansion). In a closed system
+            the volume of water will grow when it is heated. As the volume of water grows there will
+            be a corresponding increase in water pressure due to thermal expansion. Thermal
+            expansion can cause premature tank failure (leakage). This type of failure is not
+            covered under the limited warranty. Thermal expansion can also cause intermittent
+            Temperature-Pressure Relief Valve operation: water discharged from the valve due to
+            excessive pressure build up. This condition is not covered under the limited warranty.
+            See <i>Commercial Water Heater Limited Warranty</i>.</p>
+        <p id="p_hcg_fpw_1bb">The Temperature-Pressure Relief Valve is not intended for the constant
+            relief of thermal expansion.</p>
+        <p id="p_icg_fpw_1bb">A properly sized and pressurized thermal expansion tank must be
+            installed on all closed systems to control the harmful effects of thermal expansion.
+            Contact a local plumbing service agency to have a thermal expansion tank installed.</p>
+        <p id="p_jcg_fpw_1bb">See <xref keyref="sec:Water_Line_Connections"/> and the 
+            <xref keyref="sec:Water_Piping_Diagrams"/>.</p>
+    </conbody>
+</concept>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><concept xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="concept_g31_51p_hbb" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:concept.xsd">
+    <title>Alert Condions</title>
+    <shortdesc/>
+    <conbody>
+        <p>When the control system declares an alert condition, it displays an alert message on the
+            control system screen with a question mark ("?"). The water heater continues to operate
+            during an alert condition, but the water heater must be serviced by a qualified service
+            agent as soon as possible.</p>
+    </conbody>
+</concept>

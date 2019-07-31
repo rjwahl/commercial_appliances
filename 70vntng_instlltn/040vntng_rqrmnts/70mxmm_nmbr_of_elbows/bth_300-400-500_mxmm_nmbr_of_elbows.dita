@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><concept xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="concept_zdb_ldd_ybb" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:concept.xsd">
+    <title>Maximum Number of Elbows</title>
+    <shortdesc/>
+    <conbody>
+        <p id="p_sqx_mdd_ybb">The vent pipe may have a maximum of six 90° elbows installed. The
+            intake air pipe may have a maximum of six 90° elbows installed. IE: in a Direct Vent
+            configuration each pipe can have up to six (6) 90° elbows installed. Two (2) 45° elbows
+            equal one (1) 90° elbow. Each 90° elbow is equivalent to 5 feet (1.5 m) of linear pipe,
+            45° elbows are equivalent to 2.5 feet (0.75 m) of linear pipe.</p>
+        <note type="note">See <xref keyref="sec:AL29-4C_Vent_Installations/table_HeatFab_Saf_T_vnt_AL29-4C_vnt_systm_cmpnnts"/> 
+            and <xref keyref="sec:AL29-4C_Vent_Installations/table_Duravent_FasNSeal_AL29_4C_vnt_systm"/> for the
+            equivalent linear pipe length of <tm tmtype="reg">AL29-4C</tm> 45° and 90°
+            elbows.</note>
+    </conbody>
+</concept>

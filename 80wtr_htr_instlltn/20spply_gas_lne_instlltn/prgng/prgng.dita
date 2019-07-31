@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><concept xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="concept_c3b_md5_gbb" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:concept.xsd">
+    <title>Purging</title>
+    <shortdesc/>
+    <conbody>
+        <p id="p_zbw_md5_gbb">Gas-line purging is required with new piping or systems.</p>
+        <p id="p_acw_md5_gbb">Purging should be performed per the current edition of <i outputclass="Cite">NFPA 54</i>
+            the <i outputclass="Cite">National Fuel Gas Code</i> or <i outputclass="Cite">CAN/CSA B149.1 Natural Gas and Propane
+                Installation Code</i>.</p>
+    </conbody>
+</concept>

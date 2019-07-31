@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<task id="task_fgm_ttf_ndb" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:task.xsd">
+    <title>Drain Valve Conditional Steps</title>
+    <taskbody>
+        <steps-unordered>
+            <step id="step_if_extended_shutdown">
+                <cmd>If the heater is being drained for an extended shutdown, it is suggested the
+                    drain valve be left open during this period.</cmd>
+            </step>
+            <step id="step_conditional_steps_q35_yyt_ndb">
+                <cmd>If water does not flow from opened drain valve, follow instructions for
+                    sediment removal.</cmd>
+            </step>
+        </steps-unordered>
+    </taskbody>
+</task>

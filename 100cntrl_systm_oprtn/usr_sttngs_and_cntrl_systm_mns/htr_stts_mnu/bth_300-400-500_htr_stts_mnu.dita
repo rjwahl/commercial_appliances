@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><concept xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="concept_ozf_xtb_hbb" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:concept.xsd">
+    <title>Heater Status Menu</title>
+    <shortdesc/>
+    <conbody>
+        <table frame="all" rowsep="1" colsep="1" id="table_pbh_wwv_1cb">
+            <title>Heater Status Menu</title>
+            <tgroup cols="2" align="left">
+                <colspec colname="c1" colnum="1" colwidth="1*"/>
+                <colspec colname="c2" colnum="2" colwidth="1*"/>
+                <thead>
+                    <row>
+                        <entry>Description/Action</entry>
+                        <entry>Display</entry>
+                    </row>
+                </thead>
+                <tbody>
+                    <row>
+                        <entry>
+                            <p id="p_chd_jyv_1cb"/>
+                            <p id="p_m1s_r3l_kcb">Select <uicontrol>Heater Status</uicontrol> from
+                                the Main menu and press the multifunction button under
+                                    <uicontrol>SELECT</uicontrol> to enter this menu. This menu
+                                contains non-adjustable operational information. Use the
+                                    <uicontrol>Up</uicontrol> and <uicontrol>Down</uicontrol>
+                                buttons to navigate the menu.</p>
+                            <ul id="ul_jgd_x5b_hbb">
+                                <li><uicontrol>Status </uicontrol>- displays the current Operating
+                                    State. See <xref keyref="sec:Operating_States/table_operating_states"/>.</li>
+                                <li><uicontrol>ECO Contact, Low Gas PS, Blocked Inlet PS, Blocked
+                                        Outlet PS, Blower Prover PS</uicontrol> - displays the
+                                    current state of the switch contacts; open or closed.</li>
+                                <li><uicontrol>Igniter On, Gas Valve On</uicontrol> - displays
+                                    whether or not the control system is currently energizing these
+                                    water heater components; yes = energized, no =
+                                    de-energized.</li>
+                                <li><uicontrol>Flame Detected</uicontrol> - displays whether or not
+                                    the control system has detected Main Burner flame during
+                                    ignition from the flame sensor.</li>
+                                <li><uicontrol>Blower RPM CMD</uicontrol> – displays the controls
+                                    commanded blower rpms.</li>
+                                <li><uicontrol>Blower RPM</uicontrol> – displays the actual blower
+                                    rpms.</li>
+                                <li><uicontrol>Anode Current</uicontrol>, <uicontrol>Anode Tank
+                                        Voltage</uicontrol>, <uicontrol>Anode Drive
+                                        Voltage</uicontrol> – displays the powered anodes current
+                                    and voltage levels.</li>
+                            </ul>
+                            <!-- The bth 120-250 version has Blower RPM CMD, Blower RPM, Anode Current,                               Anode Tank Voltage, Anode Drive Voltage status indicators not found on the bth 300-500; all in addition to differences in the UIM. -->
+                            
+                            <note>The menu displays shown are for informational purposes only. The
+                                actual heater display will vary dependent upon the operational state
+                                of the water heater.</note>
+                        </entry>
+                        <entry>
+                            <p id="p_nbm_kmg_hbb">Top of Menu</p>
+                            <p id="p_olz_lyv_1cb"><image keyref="img:UIM_heater_status_menu" id="image_f5f_t5b_hbb" width="500px"/></p>
+                            <p id="p_tvw_hmg_hbb">Bottom of Menu</p>
+                            <p id="p_ost_nyv_1cb"><image keyref="img:UIM_heater_status_menu2" id="image_myy_1wb_hbb" width="500px"/></p>
+                        </entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+    </conbody>
+</concept>

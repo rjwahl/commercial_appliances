@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><concept xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="concept_nnn_s1l_kcb" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:concept.xsd">
+    <title>Temperatures Menu Functions</title>
+    <shortdesc/>
+    <conbody>
+        <ul id="ul_wtw_t1l_kcb">
+            <li><uicontrol>Differential</uicontrol> - Adjustable user setting that changes the tank
+                temperature differential with a range of 2° to 20°F. The factory setting is 8°F</li>
+            <li><uicontrol>Tank Temperature </uicontrol>- Non adjustable. Control system sensed
+                temperature (averaged from upper &amp; lower temperature probes).</li>
+            <li><uicontrol>Tank Probe Offset</uicontrol> - adjustable user setting, range -5° to +5°
+                (factory setting 0°). </li>
+            <li>
+                <note>These settings should only be used if hot water supply temperature varies
+                    greatly from the Operating Set Point setting.</note>
+                <p id="p_jyp_bbl_kcb">The Tank Probe Offset is used to calibrate control system
+                    temperature sensing. This can improve the precision of temperature control in
+                    the storage tank and at points of use. This feature can also be used to
+                    compensate for building recirculation loops (hot water returning to the storage
+                    tank) that can cause the heating cycles to terminate prematurely.</p>
+                <p id="p_unv_cbl_kcb">Example: If the current temperature from a temperature probe
+                    is 120°F (49°C) and the Offset setting is adjusted to a value other than 0°, the
+                    control system would calibrate or “offset” the sensed temperature from the probe
+                    and the averaged tank temperature. Heating cycles would be activated and
+                    deactivated based on the calibrated (offset) temperature. A -5° setting results
+                    in +5° hotter water.</p>
+                <p id="p_jpf_2bl_kcb">These settings are adjusted as described in
+                    <xref keyref="sec:Operating_Set_Point_and_Differential_Adjustment"/>.</p>
+            </li>
+        </ul>
+    </conbody>
+</concept>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><concept xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="concept_kyb_lfs_gbb" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:concept.xsd">
+    <title>Condensate Drain Installation</title>
+    <conbody>
+        <p id="p_obz_nfs_gbb">Installation must conform to these instructions and local building
+            codes.</p>
+        <p id="p_pbz_nfs_gbb">Field supplied materials required for installation include:</p>
+        <ul id="ul_hzm_4fs_gbb">
+            <li>Approved PVC cement and PVC primer.</li>
+            <li>1/2-inch PVC pipe - minimum length to equal the distance between the water heater
+                and a suitable building drain.</li>
+            <li>1/2-inch PVC fittings (elbows, couplings, and adapters) necessary to install a
+                condensate drain line between the exhaust/condensate elbow assembly and a suitable
+                building drain.</li>
+            <li>Floor-mounted standoffs to brace the drain line.</li>
+        </ul>
+    </conbody>
+</concept>

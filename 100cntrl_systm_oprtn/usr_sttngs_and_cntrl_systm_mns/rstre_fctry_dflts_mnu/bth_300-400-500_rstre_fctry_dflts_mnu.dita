@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><concept xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="concept_lqk_kbh_hbb" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:concept.xsd">
+    <title>Restore Factory Defaults</title>
+    <shortdesc/>
+    <conbody>
+        <table frame="all" rowsep="1" colsep="1" id="table_i3f_sj2_bcb">
+            <title>Restore Factory Defaults</title>
+            <tgroup cols="2" align="left">
+                <colspec colname="c1" colnum="1" colwidth="1*"/>
+                <colspec colname="c2" colnum="2" colwidth="1*"/>
+                <thead>
+                    <row>
+                        <entry>Description/Action</entry>
+                        <entry>Display</entry>
+                    </row>
+                </thead>
+                <tbody>
+                    <row>
+                        <entry>
+                            <p id="p_blv_lbh_hbb">Select <uicontrol>Restore Factory
+                                    Defaults</uicontrol> from the Main menu and press the
+                                multifunction button under <uicontrol>SELECT</uicontrol> to enter
+                                this menu.</p>
+                            <p id="p_clv_lbh_hbb">To restore the adjustable user settings to their
+                                factory default settings, press the multifunction button under
+                                    <uicontrol>YES</uicontrol>. The display will show text
+                                confirming that the factory default settings have been restored.</p>
+                            <p id="p_dlv_lbh_hbb">Press the multifunction button under
+                                    <uicontrol>NO</uicontrol> to exit the Restore Factory Defaults
+                                menu.</p>
+                            <!-- Legacy manual says the button is Back not NO; the graphic is NO. -->
+                        </entry>
+                        <entry><image keyref="img:UIM_restore_factory_defaults_menu" id="image_ifm_4ch_hbb" width="500px"/></entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+    </conbody>
+</concept>

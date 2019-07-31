@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><concept xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="concept_egf_wr3_t1b" status="new" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:concept.xsd">
+    <!-- Role: Top Level Process Description -->
+    <title>Basic Operation</title>
+    <conbody>
+        <p> The water heaters covered in this manual have a helical coil shaped heat exchanger that is submerged in the storage tank. The water
+            heater’s main burner is a radial-design burner. It is mounted on the top and fires downward through the heat exchanger. This is a
+            forced-draft burner; hot burning gases are forced through the heat exchanger under pressure and exit through the exhaust/vent connection
+            located at the bottom of the water heater. See <xref href="#concept_egf_wr3_t1b/fig_water_heater_components" format="dita">Figure 1</xref>
+            and Figure 2.</p>
+        <fig id="fig_water_heater_components">
+            <title>Water Heater Components</title>
+            <image keyref="img:Water_Heater_Components" id="image_bsc_oprtn_c3d_3nk_pdb"/>
+        </fig>
+    </conbody>
+</concept><!-- The reference to the image of the basic operations topic is generic to include both the smaller bth unit and the larger bth unit. The specific image is defined in the keys map, so switching the keys map will switch the image. The root map specifies the key map to use when the manual is generated.
+
+This is an experiment to determine if variations between the manuals should be as abstract as possible, thereby minimizing the amount of intervention from the tech writer. For example, if every reference is a keyref expressed as a generic role in the document that is represented by different objects depending on what the manual is about. 
+     
+If, among a set of related models, the documentation has all the same "roles" a copy of the same key map could be used that differs only in the file paths associated with each key definition.
+     
+If some models have roles that don't fit with other models roles, the keys would have to be different as well. It is possible that relative to a given model, others would have additional or fewer role types. This would cause the key map files to diverge. Perhaps relatedness should be expressed as a function of this particular divergence.
+
+The question is at what point is it easier to have separate identities (does that actually mean anything.
+     
+How about this: try to do as much abstraction as possible all the time on the grounds that an automated process will eventually take over some or all of that and the goal would be as little intervention as possible for the biggest most diverse changes.
+     
+-->

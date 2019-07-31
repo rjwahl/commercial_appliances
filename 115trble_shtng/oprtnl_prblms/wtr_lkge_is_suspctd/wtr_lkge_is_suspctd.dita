@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><task xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="task_awz_py4_hbb" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:task.xsd">
+    <title>Water Leakage is Suspected</title>
+    <shortdesc/>
+    <taskbody>
+        <context>
+            <ul id="ul_xpl_ry4_hbb">
+                <li>Ensure that the water heater drain valve is tightly closed.</li>
+                <li>Check the cleanout opening for leaks. 
+                    See <xref keyref="sec:Components_Side_Views/fig_components_side_view"/>.</li>
+                <li>Check the inlet/outlet water connections and system piping.</li>
+                <li>Check the temperature-pressure relief valve.</li>
+                <li>Check for excessive water temperature.</li>
+                <li>Check for excessive water pressure.</li>
+                <li>Check for a defective temperature-pressure relief valve.</li>
+            </ul>
+            <note>Excessive water pressure is the most common cause of temperature-pressure relief
+                valve leakage. Excessive water system pressure is most often caused by thermal
+                expansion in a closed system. See <xref keyref="sec:Thermal_Expansion"/> and <xref keyref="sec:Closed_Water_Systems"/> The temperature-pressure relief valve is not
+                intended for the constant relief of thermal expansion.</note>
+            <note>Temperature-pressure relief valve leakage that is due to pressure build up in a
+                closed system that does not have a thermal expansion tank installed is not covered
+                under the limited warranty. See Commercial Water Heater Limited Warranty.</note>
+            <note>
+                <p id="p_cyg_cz4_hbb">Thermal expansion tanks must be installed on all closed water systems.</p>
+            </note>
+        </context>
+    </taskbody>
+</task>

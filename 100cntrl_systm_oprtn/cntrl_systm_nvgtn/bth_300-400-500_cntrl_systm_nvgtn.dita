@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><concept xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="concept_mvk_f11_hbb" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:concept.xsd">
+    <title>Control System Navigation</title>
+    <shortdesc/>
+<!-- The bth 120-250 and bth 300-400-500 have identical screens except that on the bth 300-400-500 there are
+    five additional buttons: up and down buttons and three multi-function buttons.-->
+    <conbody>
+        <p>All operational information and user settings are displayed and accessed from the UIM.
+            The UIM houses the control system's liquid crystal display (LCD) touch screen and five
+            snap-acting (momentary) user-input buttons; an <uicontrol>Up</uicontrol>,
+                <uicontrol>Down</uicontrol>, and three multi functional buttons below the LCD. See
+                <xref keyref="sec:Control_System_Navigation/fig_UIM_home_screen_components"/></p>
+<section>
+    <title>User Input Buttons</title>
+
+    <ul>
+        <li>The <uicontrol>Up</uicontrol> and <uicontrol>Down</uicontrol> buttons are used to
+                    navigate menus and adjust user settings.</li>
+        <li>The operational buttons are used to enter/exit menus, select menu items, activate
+                    adjustment modes, and confirm or cancel new user settings. The operational
+                    buttons are multifunctional; their current function is defined by the text that
+                    appears directly above each button on the LCD screen.</li>
+    </ul>
+</section>        
+<section>
+    <title>The Desktop Screen</title>
+    <p>During normal operation, the control system displays the desktop screen on the LCD, which is
+                the default screen. The control system returns to the desktop screen when there are
+                no active Fault or Alert conditions, or when there has been no user input for
+                several minutes. The information on the screen is as follows:</p>
+    <ul>
+        <li>Manufacturer and water-heater model information displays in title bar at the top of the
+                    desktop screen. Menu titles display in the title bar when navigating the control
+                    system menus.</li>
+                <li>The first temperature shown on the desktop screen, Tank Temperature, is the
+                    temperature of the water inside the water heater's storage tank. </li>
+                <li>The second temperature shown on the desktop screen is the Operating Set Point.
+                    The Operating Set Point is the temperature at which the control system maintains
+                    the water inside the storage tank.</li>
+                <li>Under the Operating Set Point is the status line. The status line shows the
+                    current operational state of the control system in real-time. See <xref keyref="sec:Operating_States/table_operating_states"/> for a description of
+                    the various operational states.</li>
+                <li>The desktop screen also displays animated status icons to convey operational
+                    information. See <xref keyref="sec:Status_Icons/table_status_icons"/> for
+                    descriptions of the status icons.</li>
+    </ul>
+
+        <fig id="fig_UIM_home_screen_components">
+            <title>Home Screen Components</title>
+            <image keyref="img:UIM_home_screen_components" id="image_yph_3d1_hbb" width="500px"/>
+            <ol id="ol_jvw_3d1_hbb">
+                    <li>Title Bar</li>
+                <li>LCD Touch-Display</li>
+                <li>Status Icons</li>
+                <li>Operational Menus</li>
+                    <li>Up and Down Buttons - Navigate menus and adjust user settings.</li>
+                    <li>Multi Function Buttons - Their function is defined by the text that appears
+                        directly above each button.</li>
+                <li>Enable/Disable Switch</li>
+            </ol>
+        </fig>
+</section>
+    </conbody>
+</concept>

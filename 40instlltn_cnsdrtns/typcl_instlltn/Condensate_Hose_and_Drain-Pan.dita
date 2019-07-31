@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<concept id="concept_msg_mwg_sdb" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:concept.xsd">
+    <title>Condensate Hose and Drain Pan</title>
+    <conbody>
+        <fig id="fig_Condensate_Hose_and_Drain-Pan_wlw_vwg_sdb">
+            <image keyref="img:top_view_clearaces"
+                id="image_Condensate_Hose_and_Drain-Pan_cfq_zsj_tdb"/>
+            <image keyref="img:cndnste_drn_instlltn"
+                id="image_Condensate_Hose_and_Drain-Pan_mhw_gdp_tdb"/>
+        </fig>
+        <p></p>
+    </conbody>
+</concept>

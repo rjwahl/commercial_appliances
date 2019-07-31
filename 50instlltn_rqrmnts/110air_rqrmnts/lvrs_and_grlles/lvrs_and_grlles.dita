@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><concept xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="concept_uyp_qrc_bbb" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:concept.xsd">
+    <title>Louvers and Grilles</title>
+    <shortdesc/>
+    <conbody>
+        <p id="p_dx3_rrc_bbb">The free areas of the fresh air openings in the instructions that
+            follow do not take in to account the presence of louvers, grilles or screens in the
+            openings.</p>
+        <p id="p_ex3_rrc_bbb">The required size of openings for combustion, ventilation and dilution
+            air shall be based on the “net free area” of each opening. Where the free area through a
+            design of louver or grille or screen is known, it shall be used in calculating the size
+            of opening required to provide the free area specified. Where the louver and grille
+            design and free area are not known, it shall be assumed that wood louvers will have 25%
+            free area and metal louvers and grilles will have 75% free area. Non motorized louvers
+            and grilles shall be fixed in the open position.</p>
+    </conbody>
+</concept>

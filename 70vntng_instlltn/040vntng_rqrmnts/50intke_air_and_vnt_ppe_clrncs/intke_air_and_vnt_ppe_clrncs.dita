@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><concept xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="concept_wvd_b1d_ybb" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:concept.xsd">
+    <title>Intake Air and Vent Pipe Clearances</title>
+    <shortdesc/>
+    <conbody>
+        <p>The minimum clearance from combustible materials for the vent (exhaust) and intake air
+            piping shall be 0 inches. Vent or intake air piping passing through a combustible wall
+            or ceiling must be a continuous run (no joints).</p>
+    </conbody>
+</concept>

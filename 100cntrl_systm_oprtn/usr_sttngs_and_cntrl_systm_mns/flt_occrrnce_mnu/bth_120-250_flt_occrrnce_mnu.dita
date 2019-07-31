@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><concept xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="concept_msz_dk4_qbb" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:concept.xsd">
+    <title>Fault Occurrence Menu</title>
+    <shortdesc/>
+    <conbody>
+        <table frame="all" rowsep="1" colsep="1" id="table_rbz_4g2_bcb">
+            <title>Fault Occurrence</title>
+            <tgroup cols="2" align="left">
+                <colspec colname="c1" colnum="1" colwidth="1*"/>
+                <colspec colname="c2" colnum="2" colwidth="1*"/>
+                <thead>
+                    <row>
+                        <entry>Description/Action</entry>
+                        <entry>Display</entry>
+                    </row>
+                </thead>
+                <tbody>
+                    <row>
+                        <entry>
+                            <p id="p_hmq_fk4_qbb">Press <uicontrol>Fault Occurrence</uicontrol> from
+                                the Main menu to enter this menu. This menu contains non-adjustable
+                                operational information. Use the slidebar to navigate the menu.</p>
+                            <p id="p_ntl_gk4_qbb">This menu contains a running total of how many
+                                times each fault condition has occurred since the water heater was
+                                first installed</p>
+                            <note>Historical data is stored in the configuration key. If this key is
+                                replaced during servicing, the historical data will be lost. The
+                                data stored in the new configuration key will no longer reflect the
+                                entire history of the water heater. </note>
+                        </entry>
+                        <entry><image keyref="img:UIM_fault_occurrence_menu" id="image_kwy_kk4_qbb"/></entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+    </conbody>
+</concept>

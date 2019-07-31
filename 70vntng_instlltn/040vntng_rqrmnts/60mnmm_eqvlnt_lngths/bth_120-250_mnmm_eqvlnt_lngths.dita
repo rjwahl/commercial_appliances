@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><concept xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="concept_ihw_5k3_fbb" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:concept.xsd">
+    <title>Minimum Equivalent Lengths</title>
+    <shortdesc/>
+    <conbody>
+        <p/>
+        <section id="section_bq4_wk3_fbb">
+            <title>Two-Inch Pipe</title>
+            <p id="p_cq4_wk3_fbb">The water heaters covered in this manual are certified to a
+                minimum equivalent length of 2 inch pipe of 12 feet ( 3.7 m). There is no minimum
+                equivalent feet requirement for the intake air pipe.</p>
+        </section>
+        <section id="section_fqd_zk3_fbb">
+            <title>Three-Inch Pipe</title>
+            <p id="p_gqd_zk3_fbb">The water heaters covered in this manual are certified to a
+                minimum length of three-inch pipe for the vent (exhaust) of seven equivalent feet
+                (2.1 m). There is no minimum equivalent feet requirement for the intake air
+                pipe.</p>
+        </section>
+        <section id="section_rgh_bl3_fbb">
+            <title>Four-Inch Pipe</title>
+            <p id="p_s5l_cl3_fbb">There is no minimum equivalent feet requirement for the intake air
+                pipe.</p>
+            <p id="p_t5l_cl3_fbb">Optionally, the heater may use four-inch diameter vent for
+                equivalent lengths of 50 to 120 feet. For short equivalent lengths (depending on
+                heater size), a two-inch pipe option is also available. These optional vent
+                diameters must conform to Table 7 (page 23) and use field supplied terminals and
+                wall plates.</p>
+        </section>
+    </conbody>
+</concept>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><concept xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="concept_qbg_fgq_hbb" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:concept.xsd">
+    <title>Temperature-Pressure-Relief-Valve Test</title>
+    <shortdesc/>
+    <conbody>
+        <p id="p_kby_ggq_hbb">It is recommended that the temperature-pressure relief valve should be
+            checked to ensure that it is in operating condition every six months.</p>
+        <p id="p_lby_ggq_hbb">When checking the temperature-pressure-relief-valve operation, make
+            sure that (1) no one is in front of or around the outlet of the
+            temperature-pressure-relief-valve discharge line, and (2) that the water discharge will
+            not cause any property damage, as the water may be extremely hot. Use care when
+            operating the valve as the valve could be hot.</p>
+        <p id="p_usq_jgq_hbb">
+            
+            <hazardstatement conkeyref="wmsg:burn_hazard-TP_valve">
+                <messagepanel>
+                    <typeofhazard/>
+                    <consequence/>
+                    <howtoavoid/>
+                </messagepanel>
+                <hazardsymbol/>
+            </hazardstatement>
+        </p>
+        <p id="p_qfy_wgq_hbb">To check the relief valve, lift the lever at the end of the valve
+            several times. See <xref keyref="sec:Temperature-Pressure_Relief_Valve_Test/fig_temperature-pressure_relief_valve_discharge_pipe"/>. The valve should seat properly and operate freely.</p>
+        <p id="p_rfy_wgq_hbb">If, after manually operating the valve, it fails to completely reset
+            and continues to release water, immediately close the cold water inlet to the water
+            heater and drain the water heater. See <xref keyref="sec:Draining_and_Flushing"/>.
+            Replace the temperature-pressure relief valve with a properly rated/sized new one. See
+                <xref keyref="sec:Water_Line_Connections"/>
+            <xref keyref="sec:Water_Piping_Diagrams"/> for instructions on replacement.</p>
+        <fig id="fig_temperature-pressure_relief_valve_discharge_pipe">
+            <title>Temperature-Pressure Relief-Valve Discharge Pipe</title>
+            <image keyref="img:tp_valve_test" id="image_u2z_mhq_hbb"/>
+        </fig>
+        <p id="p_fm5_nhq_hbb">If the temperature-pressure relief valve on the water heater weeps or
+            discharges periodically, this may be due to thermal expansion.</p>
+        <note>
+            <p id="p_onx_4hq_hbb"> Excessive water pressure is the most common cause of
+                temperature-pressure-relief-valve leakage. Excessive water system pressure is most
+                often caused by thermal expansion in a closed system. See <xref keyref="sec:Thermal_Expansion"/> and <xref keyref="sec:Closed_Water_Systems"/>.
+                The temperature-pressure relief valve is not intended for the constant relief of
+                thermal expansion.</p>
+        </note>
+        <p id="p_pm5_phq_hbb">Temperature-pressure-relief-valve leakage, due to pressure build up in
+            a closed system that does not have a thermal expansion tank installed, is not covered
+            under the limited warranty. See Commercial Water Heater Limited Warranty.</p>
+        <p id="p_qm5_phq_hbb">Thermal expansion tanks must be installed on all closed water
+            systems.</p>
+        <p id="p_rm5_phq_hbb"><b>Do not plug the temperature-pressure-relief-valve opening. This can
+                cause property damage, serious injury or death.</b></p>
+        <p>
+            <hazardstatement conkeyref="wmsg:explosion_hazard-TP_valve">
+                <messagepanel>
+                    <typeofhazard/>
+                    <consequence/>
+                    <howtoavoid/>
+                </messagepanel>
+                <hazardsymbol/>
+            </hazardstatement>
+        </p>
+    </conbody>
+</concept>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><concept xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="concept_psd_1gs_gbb" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:concept.xsd">
+    <title>Condensate Drain Installation Notes</title>
+    <conbody>
+        <ol id="ol_ptc_cgs_gbb">
+            <li>The condensate drains from the water heater’s covered by this instruction have PH
+                levels between 4.3 and 5.0. Install a commercially available neutralizing kit if
+                required by local codes. Lower PH levels are acidic. Do not connect a metal
+                condensate drain line, such as copper pipe, to the water heater for this
+                reason.</li>
+            <li>The field installed condensate drain line must not be less than 1/2 inch PVC in
+                size.</li>
+            <li>The exhaust elbow has a built in condensate trap. Do not install an additional trap
+                in the condensate drain piping. Do not remove, modify or alter the factory
+                condensate trap.</li>
+        </ol>
+    </conbody>
+</concept>

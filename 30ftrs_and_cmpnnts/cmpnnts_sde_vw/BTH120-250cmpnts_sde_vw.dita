@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><concept xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="concept_side_view" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:concept.xsd">
+    <title>Components - Side Views</title>
+    <shortdesc/>
+    <conbody><ol>
+        <li><p>Cleanout access panel, covers water heater cleanout opening and ASME plate where applicable.</p></li>
+        <li><p>CCB enclosure - see item 3 in <xref keyref="sec:Components_Top_View"/> for description.</p></li>
+        <li><p>Intake air connection - three-inch PVC.</p></li>
+        <li><p>Water heater 24-volt gas valve.</p></li>
+        <li><p>Combustion Blower.</p></li>
+        <li><p>Water outlet - 1 1/2” NPT connection.</p></li>
+        <li><p>UIM (user interface module). The UIM includes the display circuit board and the control system’s 
+            LCD Touch Display. Used to adjust various user settings and view operational information. 
+            See <xref keyref="sec:Control_System_Operation"/>.</p></li>
+        <li><p>Temperature-Pressure Relief Valve. See <xref keyref="sec:Temperature_Pressure_Relief_Valve"/>. </p></li>
+        <li><p>Temperature-Pressure Relief Valve discharge pipe</p></li>
+        <li><p>Lower Temperature Probe, 1 of 2 temperature probes. 
+            The water heater’s control system monitors this probe to detect water temperature in the lower portion 
+            of the storage tank.</p></li>
+        <li><p>Water inlet  - 1 1/2” NPT connection.</p></li>
+        <li><p>Water heater drain valve.</p></li>
+        <li><p>Supply gas line connection. </p></li>
+        <li><p>Low Gas Pressure switch, see item 9 in <xref keyref="sec:Components_Top_View"/> 
+            for a description. See the gas pressure requirements listed in 
+            <xref keyref="sec:Rough_In_Dimensions/table_gas_prssre_rqrmnts"/>.
+        </p></li>
+        <li><p>Vent Connection (Exhaust/Condensate Elbow) three-inch  aluminum.
+        </p></li>
+        <li><p>Spark Ignition Transformer. When energized, sends the electrical current to the spark igniter.</p></li>
+    </ol>
+        <fig id="fig_components_side_view">
+            <title>Components - Side Views</title>
+            <image keyref="img:Left_Side_View" id="bth_lft_sde_vw" width="400px"/>
+            <image keyref="img:Right_Side_View" id="bth_rght_sde_vw"/>
+        </fig>
+    </conbody>
+</concept>

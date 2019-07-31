@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?><concept xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="concept_dhh_mdr_fbb" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:concept.xsd">
+    <title>AL29-4C® Vent Installations</title>
+    <shortdesc/>
+    <conbody>
+        <p id="p_um4_qdr_fbb">The water heaters covered by this manual are approved to be installed
+            with <tm tmtype="reg">AL29-4C</tm> stainless steel vent material using parts from the
+            manufacturers listed in <xref
+                keyref="sec:AL29-4C_Vent_Installations/table_HeatFab_Saf_T_vnt_AL29-4C_vnt_systm_cmpnnts"
+            /> and <xref
+                keyref="sec:AL29-4C_Vent_Installations/table_Duravent_FasNSeal_AL29_4C_vnt_systm"/>.
+            These listed systems must be installed using the vent manufacturer’s instructions
+            including their listed clearances to combustible and noncombustible materials. See <xref
+                keyref="sec:Factory-Supplied_Fittings/table_PVC_CPVC_plyprpylne_mximm_ft_by_ppe_dmtr_and_nmbr_of_elbws"
+            /> for the maximum and minimum equivalent linear vent lengths and number of elbows that
+            may be used. However, use <xref
+                keyref="sec:AL29-4C_Vent_Installations/table_HeatFab_Saf_T_vnt_AL29-4C_vnt_systm_cmpnnts"
+            /> and <xref
+                keyref="sec:AL29-4C_Vent_Installations/table_Duravent_FasNSeal_AL29_4C_vnt_systm"/>
+            to find the appropriate equivalent linear vent lengths for the <tm tmtype="reg"
+                >AL29-4C</tm> elbows.</p>
+        <p id="p_vm4_qdr_fbb">Note: The equivalent lengths of the AL29-4C elbows are different from
+            those of smooth walled plastic vents. Consult <xref
+                keyref="sec:AL29-4C_Vent_Installations/table_HeatFab_Saf_T_vnt_AL29-4C_vnt_systm_cmpnnts"
+            /> and <xref
+                keyref="sec:AL29-4C_Vent_Installations/table_Duravent_FasNSeal_AL29_4C_vnt_systm"/>
+            for the correct equivalent linear vent lengths.</p>
+        <p id="p_wm4_qdr_fbb">Listed vent systems composed of <tm tmtype="reg">AL29-4C</tm> must not
+            mix parts from the different manufacturers. The joints of these products are sealed by
+            internal gaskets. Do not use any other type of sealant. When assembling these vent
+            systems, follow the vent manufacturer’s instructions for cleaning and lubricating the
+            joints, if required. Each section must be locked together using the method supplied by
+            the vent manufacturer. </p>
+        <p id="p_xm4_qdr_fbb">The water heaters covered by this manual are approved to be installed
+            using the approved vent terminations shown in this manual. This means that, the
+            installer must use the adapter listed in <xref
+                keyref="sec:AL29-4C_Vent_Installations/table_HeatFab_Saf_T_vnt_AL29-4C_vnt_systm_cmpnnts"
+            /> and <xref
+                keyref="sec:AL29-4C_Vent_Installations/table_Duravent_FasNSeal_AL29_4C_vnt_systm"/>
+            and a short piece of PVC pipe to complete the end of the vent system with an approved
+            termination. In Canada, the PVC pipe length must be listed to <i outputclass="Cite"
+                >ULC636.</i></p>
+        <table frame="all" rowsep="1" colsep="1" id="table_HeatFab_Saf_T_vnt_AL29-4C_vnt_systm_cmpnnts">
+            <title>HeatFab Saf-T Vent AL29-4C® Vent System Components</title>
+            <tgroup cols="8" align="center">
+                <colspec colname="c1" colnum="1" colwidth="1*"/>
+                <colspec colname="c2" colnum="2" colwidth="1*"/>
+                <colspec colname="c3" colnum="3" colwidth="1*"/>
+                <colspec colname="c4" colnum="4" colwidth="1*"/>
+                <colspec colname="c5" colnum="5" colwidth="1*"/>
+                <colspec colname="newCol6" colnum="6" colwidth="1*"/>
+                <colspec colname="c6" colnum="7" colwidth="1*"/>
+                <colspec colname="c7" colnum="8" colwidth="1*"/>
+                <thead>
+                    <row>
+                        <entry>Diameter</entry>
+                        <entry>Flue Outlet Adapter</entry>
+                        <entry>*Straight Pipe (3' Section)</entry>
+                        <entry>45° Elbow</entry>
+                        <entry>Equivalent Linear Length, 45° Elbow</entry>
+                        <entry>90° Elbow</entry>
+                        <entry>Equivalent Linear length, 90° Elbow</entry>
+                        <entry>Adapter to PVC</entry>
+                    </row>
+                </thead>
+                <tbody>
+                    <row>
+                        <entry>3"</entry>
+                        <entry>9301 PVC</entry>
+                        <entry>9307</entry>
+                        <entry>9311</entry>
+                        <entry>5 feet</entry>
+                        <entry>9314</entry>
+                        <entry>10 feet</entry>
+                        <entry>9353CPVC</entry>
+                    </row>
+                    <row>
+                        <entry>4"</entry>
+                        <entry>9401 PVC</entry>
+                        <entry>9407</entry>
+                        <entry>9411</entry>
+                        <entry>5 feet</entry>
+                        <entry>9414</entry>
+                        <entry>10 feet</entry>
+                        <entry>9454CPVC</entry>
+                    </row>
+                    <row>
+                        <entry namest="c1" nameend="c7">*Consult vent manufacturer’s catalog for
+                            other available lengths.</entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+        <table frame="all" rowsep="1" colsep="1" id="table_Duravent_FasNSeal_AL29_4C_vnt_systm">
+            <title>Duravent FasNSeal AL29-4C® Vent System Components</title>
+            <tgroup cols="8" align="center">
+                <colspec colname="c1" colnum="1" colwidth="1*"/>
+                <colspec colname="c2" colnum="2" colwidth="1*"/>
+                <colspec colname="c3" colnum="3" colwidth="1*"/>
+                <colspec colname="c4" colnum="4" colwidth="1*"/>
+                <colspec colname="c5" colnum="5" colwidth="1*"/>
+                <colspec colname="c6" colnum="6" colwidth="1*"/>
+                <colspec colname="c7" colnum="7" colwidth="1*"/>
+                <colspec colname="c8" colnum="8" colwidth="1*"/>
+                <thead>
+                <row>
+                    <entry>Diameter</entry>
+                    <entry>Flue Outlet Adapter</entry>
+                    <entry>*Straight Pipe (3' Section)</entry>
+                    <entry>45° Elbow</entry>
+                    <entry>Equivalent Linear Length, 45° Elbow</entry>
+                    <entry>90° Elbow</entry>
+                    <entry>Equivalent Linear length, 90° Elbow</entry>
+                    <entry>Adapter to PVC</entry>
+                </row>
+                </thead>
+                <tbody>
+                    <row>
+                        <entry>3"</entry>
+                        <entry>810005378</entry>
+                        <entry>FSVL3603</entry>
+                        <entry>FSELB4503</entry>
+                        <entry>5 feet</entry>
+                        <entry>FSELB9003</entry>
+                        <entry>10 feet</entry>
+                        <entry>810009530</entry>
+                    </row>
+                    <row>
+                        <entry>4"</entry>
+                        <entry>810005545</entry>
+                        <entry>FSVL3604</entry>
+                        <entry>FSELB4504</entry>
+                        <entry>5 feet</entry>
+                        <entry>FSELB9004</entry>
+                        <entry>10 feet</entry>
+                        <entry>810009529</entry>
+                    </row>
+                    <row>
+                        <entry namest="c1" nameend="c8">*Consult vent manufacturer’s catalog for
+                            other available lengths.</entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+        
+     
+    </conbody>
+</concept>

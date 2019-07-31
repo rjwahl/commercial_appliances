@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><concept xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="concept_a3k_hvj_3bb" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:concept.xsd">
+    <title>Central Control Board Layout</title>
+    <conbody>
+        <image keyref="img:cntrl_cntrl_brd_ly_out" id="image_wrc_dwj_3bb" width="500px"/>
+    </conbody>
+</concept>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><concept xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="concept_gxx_h1q_hbb" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:concept.xsd">
+    <title>Draining and Flushing</title>
+    <shortdesc/>
+    <conbody>
+        <p>It is recommended that the water heater storage tank be drained and flushed every six
+            months to reduce sediment buildup. The water heater should be drained if it is being
+            shut down in anticipation of freezing temperatures. See <xref keyref="sec:Features_and_Components"/> for the location of the water heater
+            components described below.</p>
+        <p id="p_yzn_j1q_hbb">
+            
+            <hazardstatement conkeyref="wmsg:burn_hazard-TP_valve">
+                <messagepanel>
+                    <typeofhazard/>
+                    <consequence/>
+                    <howtoavoid/>
+                </messagepanel>
+                <hazardsymbol/>
+            </hazardstatement>
+            
+        </p>
+    </conbody>
+</concept>

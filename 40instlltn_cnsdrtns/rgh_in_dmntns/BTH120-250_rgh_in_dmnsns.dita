@@ -1,0 +1,512 @@
+<?xml version="1.0" encoding="UTF-8"?><concept xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="concept_tf2_3nj_t1b" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:concept.xsd">
+    <title>Rough-In Dimensions</title>
+    <shortdesc>The diagrams and measurements in this section convey the minimum space and clearance
+        requirements for locating the water heater.</shortdesc>
+    <conbody>
+        <fig id="fig_rough_in_dimensions">
+            <title>BTH Rough-In Dimensions</title>
+            <image keyref="img:rough_in_dimensions" id="image_ptx_l4j_t1b" width="7.5in" align="center"/>
+        </fig>
+        <p/>
+        <table frame="all" rowsep="1" colsep="1" id="table_rgh_in_dmnsns">
+            <title>Rough-In Dimensions by Model</title>
+            <tgroup cols="13" align="center">
+                <colspec colname="c1" colnum="1" colwidth="1*"/>
+                <colspec colname="c2" colnum="2" colwidth="1*"/>
+                <colspec colname="c3" colnum="3" colwidth="1*"/>
+                <colspec colname="c4" colnum="4" colwidth="1*"/>
+                <colspec colname="c5" colnum="5" colwidth="1*"/>
+                <colspec colname="c6" colnum="6" colwidth="1*"/>
+                <colspec colname="c7" colnum="7" colwidth="1*"/>
+                <colspec colname="c8" colnum="8" colwidth="1*"/>
+                <colspec colname="c9" colnum="9" colwidth="1*"/>
+                <colspec colname="c10" colnum="10" colwidth="1*"/>
+                <colspec colname="c11" colnum="11" colwidth="1*"/>
+                <colspec colname="c12" colnum="12" colwidth="1*"/>
+                <colspec colname="c13" colnum="13" colwidth="1*"/>
+                <thead>
+                    <row valign="bottom">
+                        <entry morerows="1">
+                            <p outputclass="Table-Column-Head">Model</p>
+                            <p outputclass="Table-Column-Head" id="p_ztd_5x5_v1b"/>
+                        </entry>
+                        <entry><p outputclass="Table-Column-Head">A</p></entry>
+                        <entry><p outputclass="Table-Column-Head">B</p></entry>
+                        <entry><p outputclass="Table-Column-Head">C</p></entry>
+                        <entry><p outputclass="Table-Column-Head">D</p></entry>
+                        <entry><p outputclass="Table-Column-Head">E</p></entry>
+                        <entry><p outputclass="Table-Column-Head">F</p></entry>
+                        <entry><p outputclass="Table-Column-Head">G</p></entry>
+                        <entry><p outputclass="Table-Column-Head">H</p></entry>
+                        <entry><p outputclass="Table-Column-Head">I</p></entry>
+                        <entry><p outputclass="Table-Column-Head">J</p></entry>
+                        <entry>
+                            <p outputclass="Table-Column-Head">Approx. Ship Weight STD</p>
+                            <p outputclass="Table-Column-Head" id="p_vvv_5x5_v1b"/>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Column-Head">Approx. Ship Weight ASME</p>
+                            <p outputclass="Table-Column-Head" id="p_kfk_vx5_v1b"/>
+                        </entry>
+                    </row>
+
+                    <row>
+                        <entry><p outputclass="Table-Column-Head">Inches (cm)</p></entry>
+                        <entry><p outputclass="Table-Column-Head">Inches (cm)</p></entry>
+                        <entry><p outputclass="Table-Column-Head">Inches (cm)</p></entry>
+                        <entry><p outputclass="Table-Column-Head">Inches (cm)</p></entry>
+                        <entry><p outputclass="Table-Column-Head">Inches (cm)</p></entry>
+                        <entry><p outputclass="Table-Column-Head">Inches (cm)</p></entry>
+                        <entry><p outputclass="Table-Column-Head">Inches (cm)</p></entry>
+                        <entry><p outputclass="Table-Column-Head">Inches (cm)</p></entry>
+                        <entry><p outputclass="Table-Column-Head">Inches (cm)</p></entry>
+                        <entry><p outputclass="Table-Column-Head">Inches (cm)</p></entry>
+                        <entry><p outputclass="Table-Column-Head">LBS (KG)</p></entry>
+                        <entry><p outputclass="Table-Column-Head">LBS (KG)</p></entry>
+                    </row>
+                </thead>
+                <tbody>
+                    <row>
+                        <entry><p outputclass="Table-Cell">BTH 120</p></entry>
+                        <entry><p outputclass="Table-Cell">55-1/2 (141)</p></entry>
+                        <entry><p outputclass="Table-Cell">35 (88.9)</p></entry>
+                        <entry><p outputclass="Table-Cell">27-3/4 (70.5</p></entry>
+                        <entry><p outputclass="Table-Cell">6-5/16 (16)</p></entry>
+                        <entry><p outputclass="Table-Cell">3 (7.62)</p></entry>
+                        <entry><p outputclass="Table-Cell">42-1/4 (107.32</p></entry>
+                        <entry><p outputclass="Table-Cell">11-1/4 (28.6)</p></entry>
+                        <entry><p outputclass="Table-Cell">48-1/2 (123.2)</p></entry>
+                        <entry><p outputclass="Table-Cell">53-1/2 (135.9)</p></entry>
+                        <entry><p outputclass="Table-Cell">18-1/4 (46.36)</p></entry>
+                        <entry><p outputclass="Table-Cell"/>460 (208)</entry>
+                        <entry><p outputclass="Table-Cell">490 (220)</p></entry>
+                    </row>
+ 
+                    <row>
+                        <entry><p outputclass="Table-Cell">BTH 150</p></entry>
+                        <entry><p outputclass="Table-Cell">76-1/2 (194.9)</p></entry>
+                        <entry><p outputclass="Table-Cell">56-3/8 (143.2)</p></entry>
+                        <entry><p outputclass="Table-Cell">27-3/4 (70.5</p></entry>
+                        <entry><p outputclass="Table-Cell">6-5/16 (16)</p></entry>
+                        <entry><p outputclass="Table-Cell">3 (7.62)</p></entry>
+                        <entry><p outputclass="Table-Cell">64 (162.6)</p></entry>
+                        <entry><p outputclass="Table-Cell">11-1/4 (28.6)</p></entry>
+                        <entry><p outputclass="Table-Cell">70 (177.8)</p></entry>
+                        <entry><p outputclass="Table-Cell">75-1/2 (191.8)</p></entry>
+                        <entry><p outputclass="Table-Cell">18-1/4 (46.36)</p></entry>
+                        <entry><p outputclass="Table-Cell">523 (237)</p></entry>
+                        <entry><p outputclass="Table-Cell">553 (251)</p></entry>
+                    </row>
+                    <row>
+                        <entry><p outputclass="Table-Cell">BTH 199</p></entry>
+                        <entry><p outputclass="Table-Cell">76-1/2 (194.9</p></entry>
+                        <entry><p outputclass="Table-Cell">56-3/8 (143.2)</p></entry>
+                        <entry><p outputclass="Table-Cell">27-3/4 (70.5)</p></entry>
+                        <entry><p outputclass="Table-Cell">6-5/16 (16)</p></entry>
+                        <entry><p outputclass="Table-Cell">3 (7.62)</p></entry>
+                        <entry><p outputclass="Table-Cell">64 (162.6)</p></entry>
+                        <entry><p outputclass="Table-Cell">11-1/4 (28.6)</p></entry>
+                        <entry><p outputclass="Table-Cell">70 (177.8)</p></entry>
+                        <entry><p outputclass="Table-Cell">75-1/2 (191.8)</p></entry>
+                        <entry><p outputclass="Table-Cell">18-1/4 (46.36)</p></entry>
+                        <entry><p outputclass="Table-Cell">523 (237)</p></entry>
+                        <entry><p outputclass="Table-Cell">553 (251)</p></entry>
+                    </row>
+                    <row>
+                        <entry><p outputclass="Table-Cell">BTH 250</p></entry>
+                        <entry><p outputclass="Table-Cell">76-1/2 (194.9)</p></entry>
+                        <entry><p outputclass="Table-Cell">56-3/8 (143.2)</p></entry>
+                        <entry><p outputclass="Table-Cell">27-3/4 (70.5)</p></entry>
+                        <entry><p outputclass="Table-Cell">6-5/16 (16)</p></entry>
+                        <entry><p outputclass="Table-Cell">3 (7.62)</p></entry>
+                        <entry><p outputclass="Table-Cell">64 (162.6)</p></entry>
+                        <entry><p outputclass="Table-Cell">11-1/4 (28.6)</p></entry>
+                        <entry><p outputclass="Table-Cell">70 (177.8)</p></entry>
+                        <entry><p outputclass="Table-Cell">75-1/2 (191.8)</p></entry>
+                        <entry><p outputclass="Table-Cell">18-1/4 (46.36)</p></entry>
+                        <entry><p outputclass="Table-Cell">523 (237)</p></entry>
+                        <entry><p outputclass="Table-Cell">553 (251)</p></entry>
+                    </row>
+                 </tbody>
+            </tgroup>
+        </table>
+       
+        <table frame="all" rowsep="1" colsep="1" id="table_fuel_typ_cnnctn_sze_by_mdl">
+            <title/>
+            <tgroup cols="4">
+                <colspec colname="c1" colnum="1" colwidth="1*"/>
+                <colspec colname="c2" colnum="2" colwidth="1*"/>
+                <colspec colname="c3" colnum="3" colwidth="1*"/>
+                <colspec colname="c4" colnum="4" colwidth="1*"/>
+                <thead>
+                    <row>
+                        <entry namest="c1" nameend="c4"><p outputclass="Table Title">Fuel Type/Connection/Size by Model</p></entry>
+                    </row>
+                    <row>
+                        <entry><p outputclass="Table-Column-Head">† Model</p></entry>
+                        <entry><p outputclass="Table-Column-Head">Series</p></entry>
+                        <entry><p outputclass="Table-Column-Head">Natural Gas</p></entry>
+                        <entry><p outputclass="Table-Column-Head">Propane Gas</p></entry>
+                    </row>
+                </thead>
+                <tbody>
+
+                    <row>
+                        <entry><p outputclass="Table-Cell">BTH 120</p></entry>
+                        <entry><p outputclass="Table-Cell">300/301</p></entry>
+                        <entry><p outputclass="Table-Cell">3/4" NPT</p></entry>
+                        <entry><p outputclass="Table-Cell">3/4" NPT</p></entry>
+                    </row>
+                    <row>
+                        <entry><p outputclass="Table-Cell">BTH 150</p></entry>
+                        <entry><p outputclass="Table-Cell">300/301</p></entry>
+                        <entry><p outputclass="Table-Cell">3/4" NPT</p></entry>
+                        <entry><p outputclass="Table-Cell">3/4" NPT</p></entry>
+                    </row>
+                    <row>
+                        <entry><p outputclass="Table-Cell"/>BTH 199</entry>
+                        <entry><p outputclass="Table-Cell">300/301</p></entry>
+                        <entry><p outputclass="Table-Cell">3/4" NPT</p></entry>
+                        <entry><p outputclass="Table-Cell">3/4" NPT</p></entry>
+                    </row>
+                    <row>
+                        <entry><p outputclass="Table-Cell">BTH 250</p></entry>
+                        <entry><p outputclass="Table-Cell">300/301</p></entry>
+                        <entry><p outputclass="Table-Cell">3/4" NPT</p></entry>
+                        <entry><p outputclass="Table-Cell">3/4" NPT</p></entry>
+                    </row>
+                    <row>
+                        <entry namest="c1" nameend="c4">
+                            <p outputclass="Table-Footnote">† Depending on the installed equivalent length, and/or the number of appliances connected, the supply gas line size may have to be increased beyond the minimum required sizes - see Gas Line Sizing on page 40.</p>
+                        </entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+        <table frame="all" rowsep="1" colsep="1" id="table_strge_cpcts">
+            <title>Storage Capacities</title>
+            <tgroup cols="3" align="center">
+                <colspec colname="c1" colnum="1" colwidth="1*"/>
+                <colspec colname="c2" colnum="2" colwidth="1*"/>
+                <colspec colname="c3" colnum="3" colwidth="1*"/>
+                <thead>
+                    <row>
+                        <entry><p outputclass="Table-Column-Head">Model</p></entry>
+                        <entry><p outputclass="Table-Column-Head">U.S. Gallons</p></entry>
+                        <entry><p outputclass="Table-Column-Head">Liters</p></entry>
+                    </row>
+                </thead>
+                <tbody>
+                    <row>
+                        <entry><p outputclass="Table-Cell">BTH 120</p></entry>
+                        <entry><p outputclass="Table-Cell">60</p></entry>
+                        <entry><p outputclass="Table-Cell">227</p></entry>
+                    </row>
+                    <row>
+                        <entry><p outputclass="Table-Cell">BTH 150</p></entry>
+                        <entry><p outputclass="Table-Cell">100</p></entry>
+                        <entry><p outputclass="Table-Cell">379</p></entry>
+                    </row>
+                    <row>
+                        <entry><p outputclass="Table-Cell">BTH 199</p></entry>
+                        <entry><p outputclass="Table-Cell">100</p></entry>
+                        <entry><p outputclass="Table-Cell">379</p></entry>
+                    </row>
+                    <row>
+                        <entry><p outputclass="Table-Cell">BTH 250</p></entry>
+                        <entry><p outputclass="Table-Cell">100</p></entry>
+                        <entry><p outputclass="Table-Cell">379</p></entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+        <table frame="all" rowsep="1" colsep="1" id="table_gas_prssre_rqrmnts">
+            <title>Gas Pressure Requirements</title>
+            <tgroup cols="7" align="center">
+                <colspec colname="c1" colnum="1" colwidth="1*"/>
+                <colspec colname="c2" colnum="2" colwidth="1*"/>
+                <colspec colname="c3" colnum="3" colwidth="1*"/>
+                <colspec colname="c4" colnum="4" colwidth="1*"/>
+                <colspec colname="c5" colnum="5" colwidth="1*"/>
+                <colspec colname="c6" colnum="6" colwidth="1*"/>
+                <colspec colname="c7" colnum="7" colwidth="1*"/>
+                <thead>
+                    <row>
+                        <entry morerows="1"><p outputclass="Table-Column-Head">Model</p></entry>
+                        <entry namest="c2" nameend="c3"><p outputclass="Table-Column-Head">Manifold Pressure</p></entry>
+                        <entry namest="c4" nameend="c5"><p outputclass="Table-Column-Head">Minimum Supply Pressure</p></entry>
+                        <entry namest="c6" nameend="c7"><p outputclass="Table-Column-Head">Maximum Supply Pressure</p></entry>
+                    </row>
+
+                    <row>
+                        <entry><p outputclass="Table-Column-Head">Natural Gas</p></entry>
+                        <entry><p outputclass="Table-Column-Head">Propane Gas</p></entry>
+                        <entry><p outputclass="Table-Column-Head">Natural Gas</p></entry>
+                        <entry><p outputclass="Table-Column-Head">Propane Gas</p></entry>
+                        <entry><p outputclass="Table-Column-Head">Natural Gas</p></entry>
+                        <entry><p outputclass="Table-Column-Head">Propane Gas</p></entry>
+                    </row>
+                </thead>
+                <tbody>
+                    <row>
+                        <entry><p outputclass="Table-Cell">BTH 120</p></entry>
+                        <entry><p outputclass="Table-Cell">0" W.C. (0 kPa)</p></entry>
+                        <entry><p outputclass="Table-Cell">0" W.C. (0 kPa)</p></entry>
+                        <entry><p outputclass="Table-Cell">3.5” W. C. (1.10 kPa)</p></entry>
+                        <entry><p outputclass="Table-Cell">8.5” W. C. (2.12 kPa)</p></entry>
+                        <entry><p outputclass="Table-Cell">14” W. C. (3.49 kPa)</p></entry>
+                        <entry><p outputclass="Table-Cell">14” W. C. (3.49 kPa)</p></entry>
+                    </row>
+                    <row>
+                        <entry><p outputclass="Table-Cell">BTH 150</p></entry>
+                        <entry><p outputclass="Table-Cell">0" W.C. (0 kPa)</p></entry>
+                        <entry><p outputclass="Table-Cell">0" W.C. (0 kPa)</p></entry>
+                        <entry><p outputclass="Table-Cell">3.5” W. C. (1.10 kPa)</p></entry>
+                        <entry><p outputclass="Table-Cell">8.5” W. C. (2.12 kPa)</p></entry>
+                        <entry><p outputclass="Table-Cell">14” W. C. (3.49 kPa)</p></entry>
+                        <entry><p outputclass="Table-Cell">14” W. C. (3.49 kPa)</p></entry>
+                    </row>
+                    <row>
+                        <entry><p outputclass="Table-Cell">BTH 199</p></entry>
+                        <entry><p outputclass="Table-Cell">0" W.C. (0 kPa)</p></entry>
+                        <entry><p outputclass="Table-Cell">0" W.C. (0 kPa)</p></entry>
+                        <entry><p outputclass="Table-Cell">3.5” W. C. (1.10 kPa)</p></entry>
+                        <entry><p outputclass="Table-Cell">8.5” W. C. (2.12 kPa)</p></entry>
+                        <entry><p outputclass="Table-Cell">14” W. C. (3.49 kPa)</p></entry>
+                        <entry><p outputclass="Table-Cell">14” W. C. (3.49 kPa)</p></entry>
+                    </row>
+                    <row>
+                        <entry><p outputclass="Table-Cell">BTH 250</p></entry>
+                        <entry><p outputclass="Table-Cell">0" W.C. (0 kPa)</p></entry>
+                        <entry><p outputclass="Table-Cell">0" W.C. (0 kPa)</p></entry>
+                        <entry><p outputclass="Table-Cell">3.5” W. C. (1.10 kPa)</p></entry>
+                        <entry><p outputclass="Table-Cell">8.5” W. C. (2.12 kPa)</p></entry>
+                        <entry><p outputclass="Table-Cell">14” W. C. (3.49 kPa)</p></entry>
+                        <entry><p outputclass="Table-Cell">14” W. C. (3.49 kPa)</p></entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+        <table frame="all" rowsep="1" colsep="1" id="table_rcvry_cpcts">
+            <title>Recovery Capacities</title>
+            <tgroup cols="18" align="center">
+                <colspec colname="c1" colnum="1" colwidth="1*"/>
+                <colspec colname="c2" colnum="2" colwidth="1*"/>
+                <colspec colname="c3" colnum="3" colwidth="1*"/>
+                <colspec colname="c4" colnum="4" colwidth="1*"/>
+                <colspec colname="c5" colnum="5" colwidth="1*"/>
+                <colspec colname="c6" colnum="6" colwidth="1*"/>
+                <colspec colname="c7" colnum="7" colwidth="1*"/>
+                <colspec colname="c8" colnum="8" colwidth="1*"/>
+                <colspec colname="c9" colnum="9" colwidth="1*"/>
+                <colspec colname="c10" colnum="10" colwidth="1*"/>
+                <colspec colname="c11" colnum="11" colwidth="1*"/>
+                <colspec colname="c12" colnum="12" colwidth="1*"/>
+                <colspec colname="c13" colnum="13" colwidth="1*"/>
+                <colspec colname="c14" colnum="14" colwidth="1*"/>
+                <colspec colname="c15" colnum="15" colwidth="1*"/>
+                <colspec colname="c16" colnum="16" colwidth="1*"/>
+                <colspec colname="c17" colnum="17" colwidth="1*"/>
+                <colspec colname="c18" colnum="18" colwidth="1*"/>
+                <thead>
+                    <row>
+                        <entry namest="c1" nameend="c6"/>
+                        <entry namest="c7" nameend="c18"><p outputclass="Table-Column-Head">U. S. Gallons/hr &amp; liters/hr at
+                            temperature rise indicated</p></entry>
+                    </row>
+
+                    <row>
+                        <entry morerows="1"><p outputclass="Table-Column-Head">Model</p></entry>
+                        <entry morerows="1"><p outputclass="Table-Column-Head">Type of Gas</p></entry>
+                        <entry namest="c3" nameend="c4"><p outputclass="Table-Column-Head">Input</p></entry>
+                        <entry morerows="1">
+                            <p id="p_v1l_rk5_2bb" outputclass="Table-Column-Head">Thermal Efficiency</p></entry>
+                        <entry><p outputclass="Table-Column-Head">°F</p></entry>
+                        <entry><p outputclass="Table-Column-Head">30 °F</p></entry>
+                        <entry><p outputclass="Table-Column-Head">40 °F</p></entry>
+                        <entry><p outputclass="Table-Column-Head">50 °F</p></entry>
+                        <entry><p outputclass="Table-Column-Head">60 °F</p></entry>
+                        <entry><p outputclass="Table-Column-Head">70 °F</p></entry>
+                        <entry><p outputclass="Table-Column-Head">80 °F</p></entry>
+                        <entry><p outputclass="Table-Column-Head">90 °F</p></entry>
+                        <entry><p outputclass="Table-Column-Head">100 °F</p></entry>
+                        <entry><p outputclass="Table-Column-Head">110 °F</p></entry>
+                        <entry><p outputclass="Table-Column-Head">120 °F</p></entry>
+                        <entry><p outputclass="Table-Column-Head">130 °F</p></entry>
+                        <entry><p outputclass="Table-Column-Head">140 °F</p></entry>
+                    </row>
+                    <row>
+                        <entry><p outputclass="Table-Column-Head">Btu/hr</p></entry>
+                        <entry><p outputclass="Table-Column-Head">kW</p></entry>
+                        <entry> °C</entry>
+                        <entry><p outputclass="Table-Column-Head">17 °C</p></entry>
+                        <entry><p outputclass="Table-Column-Head">22 °C</p></entry>
+                        <entry><p outputclass="Table-Column-Head">28 °C</p></entry>
+                        <entry><p outputclass="Table-Column-Head">33 °C</p></entry>
+                        <entry><p outputclass="Table-Column-Head">39 °C</p></entry>
+                        <entry><p outputclass="Table-Column-Head">44 °C</p></entry>
+                        <entry><p outputclass="Table-Column-Head">50 °C</p></entry>
+                        <entry><p outputclass="Table-Column-Head">56 °C</p></entry>
+                        <entry><p outputclass="Table-Column-Head">61 °C</p></entry>
+                        <entry><p outputclass="Table-Column-Head">67 °C</p></entry>
+                        <entry><p outputclass="Table-Column-Head">72 °C</p></entry>
+                        <entry><p outputclass="Table-Column-Head">78 °C</p></entry>
+                    </row>
+                </thead>
+                <tbody>
+                    <row>
+                        <entry morerows="1"><p outputclass="Table-Cell">BTH 120</p></entry>
+                        <entry><p outputclass="Table-Cell">Natural</p></entry>
+                        <entry morerows="1"><p outputclass="Table-Cell">12,000</p></entry>
+                        <entry morerows="1">
+                            <p outputclass="Table-Cell">35</p>
+                        </entry>
+                        <entry morerows="1"><p outputclass="Table-Cell">95</p></entry>
+                        <entry><p outputclass="Table-Cell">GPH</p></entry>
+                        <entry><p outputclass="Table-Cell">461</p></entry>
+                        <entry><p outputclass="Table-Cell">345</p></entry>
+                        <entry><p outputclass="Table-Cell">276</p></entry>
+                        <entry><p outputclass="Table-Cell">230</p></entry>
+                        <entry><p outputclass="Table-Cell">197</p></entry>
+                        <entry><p outputclass="Table-Cell">173</p></entry>
+                        <entry><p outputclass="Table-Cell">154</p></entry>
+                        <entry><p outputclass="Table-Cell">138</p></entry>
+                        <entry><p outputclass="Table-Cell">126</p></entry>
+                        <entry><p outputclass="Table-Cell">115</p></entry>
+                        <entry><p outputclass="Table-Cell">106</p></entry>
+                        <entry><p outputclass="Table-Cell">99</p></entry>
+                    </row>
+                    <row>
+                        <entry><p outputclass="Table-Cell">Propane</p></entry>
+                        <entry><p outputclass="Table-Cell">LPH</p></entry>
+                        <entry><p outputclass="Table-Cell">1743</p></entry>
+                        <entry><p outputclass="Table-Cell">1308</p></entry>
+                        <entry><p outputclass="Table-Cell">1046</p></entry>
+                        <entry><p outputclass="Table-Cell">872</p></entry>
+                        <entry><p outputclass="Table-Cell">747</p></entry>
+                        <entry><p outputclass="Table-Cell">654</p></entry>
+                        <entry><p outputclass="Table-Cell">581</p></entry>
+                        <entry><p outputclass="Table-Cell">523</p></entry>
+                        <entry><p outputclass="Table-Cell">475</p></entry>
+                        <entry><p outputclass="Table-Cell">436</p></entry>
+                        <entry><p outputclass="Table-Cell">402</p></entry>
+                        <entry><p outputclass="Table-Cell">374</p></entry>
+                    </row>
+                    <row>
+                        <entry morerows="1"><p outputclass="Table-Cell">BTH 150</p></entry>
+                        <entry><p outputclass="Table-Cell">Natural</p></entry>
+                        <entry morerows="1"><p outputclass="Table-Cell">150,000</p></entry>
+                        <entry morerows="1"><p outputclass="Table-Cell">44</p></entry>
+                        <entry morerows="1"><p outputclass="Table-Cell">98</p></entry>
+                        <entry><p outputclass="Table-Cell">GPH</p></entry>
+                        <entry><p outputclass="Table-Cell">594</p></entry>
+                        <entry><p outputclass="Table-Cell">445</p></entry>
+                        <entry><p outputclass="Table-Cell">356</p></entry>
+                        <entry><p outputclass="Table-Cell">297</p></entry>
+                        <entry><p outputclass="Table-Cell">255</p></entry>
+                        <entry><p outputclass="Table-Cell">223</p></entry>
+                        <entry><p outputclass="Table-Cell">198</p></entry>
+                        <entry><p outputclass="Table-Cell">178</p></entry>
+                        <entry><p outputclass="Table-Cell">162</p></entry>
+                        <entry><p outputclass="Table-Cell">148</p></entry>
+                        <entry><p outputclass="Table-Cell">137</p></entry>
+                        <entry><p outputclass="Table-Cell">127</p></entry>
+                    </row>
+                    <row>
+                        <entry><p outputclass="Table-Cell">Propane</p></entry>
+                        <entry><p outputclass="Table-Cell">LPH</p></entry>
+                        <entry>
+                            <p outputclass="Table-Cell">2248</p>
+                        </entry>
+                        <entry><p outputclass="Table-Cell">1686</p></entry>
+                        <entry><p outputclass="Table-Cell">1349</p></entry>
+                        <entry><p outputclass="Table-Cell">1124</p></entry>
+                        <entry><p outputclass="Table-Cell">963</p></entry>
+                        <entry><p outputclass="Table-Cell">843</p></entry>
+                        <entry><p outputclass="Table-Cell">749</p></entry>
+                        <entry><p outputclass="Table-Cell">674</p></entry>
+                        <entry><p outputclass="Table-Cell">613</p></entry>
+                        <entry><p outputclass="Table-Cell">562</p></entry>
+                        <entry><p outputclass="Table-Cell">519</p></entry>
+                        <entry><p outputclass="Table-Cell">482</p></entry>
+                    </row>
+                    <row>
+                        <entry morerows="1"><p outputclass="Table-Cell">BTH 199</p></entry>
+                        <entry><p outputclass="Table-Cell">Natural</p></entry>
+                        <entry morerows="1"><p outputclass="Table-Cell">199,000</p></entry>
+                        <entry morerows="1"><p outputclass="Table-Cell">58</p></entry>
+                        <entry morerows="1"><p outputclass="Table-Cell">97</p></entry>
+                        <entry><p outputclass="Table-Cell">GPH</p></entry>
+                        <entry><p outputclass="Table-Cell">783</p></entry>
+                        <entry><p outputclass="Table-Cell">588</p></entry>
+                        <entry><p outputclass="Table-Cell">470</p></entry>
+                        <entry><p outputclass="Table-Cell">392</p></entry>
+                        <entry><p outputclass="Table-Cell">336</p></entry>
+                        <entry><p outputclass="Table-Cell">294</p></entry>
+                        <entry><p outputclass="Table-Cell">261</p></entry>
+                        <entry><p outputclass="Table-Cell">235</p></entry>
+                        <entry><p outputclass="Table-Cell">214</p></entry>
+                        <entry><p outputclass="Table-Cell">196</p></entry>
+                        <entry><p outputclass="Table-Cell">181</p></entry>
+                        <entry><p outputclass="Table-Cell">168</p></entry>
+                    </row>
+                    <row>
+                        <entry><p outputclass="Table-Cell">Propane</p></entry>
+                        <entry><p outputclass="Table-Cell">LPH</p></entry>
+                        <entry>
+                            <p outputclass="Table-Cell">2965</p>
+                        </entry>
+                        <entry><p outputclass="Table-Cell">2224</p></entry>
+                        <entry><p outputclass="Table-Cell">1779</p></entry>
+                        <entry><p outputclass="Table-Cell">1483</p></entry>
+                        <entry><p outputclass="Table-Cell">1271</p></entry>
+                        <entry><p outputclass="Table-Cell">1112</p></entry>
+                        <entry><p outputclass="Table-Cell">988</p></entry>
+                        <entry><p outputclass="Table-Cell">890</p></entry>
+                        <entry><p outputclass="Table-Cell">809</p></entry>
+                        <entry><p outputclass="Table-Cell">741</p></entry>
+                        <entry><p outputclass="Table-Cell">684</p></entry>
+                        <entry><p outputclass="Table-Cell">635</p></entry>
+                    </row>
+                    <row>
+                        <entry morerows="1"><p outputclass="Table-Cell">BTH 250</p></entry>
+                        <entry><p outputclass="Table-Cell">Natural</p></entry>
+                        <entry morerows="1"><p outputclass="Table-Cell">250,000</p></entry>
+                        <entry morerows="1"><p outputclass="Table-Cell">73</p></entry>
+                        <entry morerows="1"><p outputclass="Table-Cell">96</p></entry>
+                        <entry><p outputclass="Table-Cell">GPH</p></entry>
+                        <entry><p outputclass="Table-Cell">970</p></entry>
+                        <entry><p outputclass="Table-Cell">727</p></entry>
+                        <entry><p outputclass="Table-Cell">582</p></entry>
+                        <entry><p outputclass="Table-Cell">485</p></entry>
+                        <entry><p outputclass="Table-Cell">416</p></entry>
+                        <entry><p outputclass="Table-Cell">364</p></entry>
+                        <entry><p outputclass="Table-Cell">323</p></entry>
+                        <entry><p outputclass="Table-Cell">291</p></entry>
+                        <entry><p outputclass="Table-Cell">264</p></entry>
+                        <entry><p outputclass="Table-Cell">242</p></entry>
+                        <entry><p outputclass="Table-Cell">224</p></entry>
+                        <entry><p outputclass="Table-Cell">208</p></entry>
+                    </row>
+                    <row>
+                        <entry><p outputclass="Table-Cell">Propane</p></entry>
+                        <entry><p outputclass="Table-Cell">LPH</p></entry>
+                        <entry><p outputclass="Table-Cell">3670</p></entry>
+                        <entry><p outputclass="Table-Cell">2753</p></entry>
+                        <entry><p outputclass="Table-Cell">2202</p></entry>
+                        <entry><p outputclass="Table-Cell">1835</p></entry>
+                        <entry><p outputclass="Table-Cell">1573</p></entry>
+                        <entry><p outputclass="Table-Cell">1376</p></entry>
+                        <entry><p outputclass="Table-Cell">1223</p></entry>
+                        <entry><p outputclass="Table-Cell">1101</p></entry>
+                        <entry><p outputclass="Table-Cell">1001</p></entry>
+                        <entry><p outputclass="Table-Cell">918</p></entry>
+                        <entry><p outputclass="Table-Cell">847</p></entry>
+                        <entry><p outputclass="Table-Cell">786</p></entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+        
+    </conbody>
+</concept>

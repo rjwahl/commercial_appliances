@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<concept id="concept_ofv_zbg_sdb" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:concept.xsd">
+    <title>Typical Installation</title>
+    <conbody>
+        <table frame="all" rowsep="1" colsep="1" id="table_Untitled5_e2c_lcg_sdb">
+            <title>Typical Installation</title>
+            <tgroup cols="4" align="center">
+                <colspec colname="c1" colnum="1" colwidth="2.5*"/>
+                <colspec colname="c2" colnum="2" colwidth="1*"/>
+                <colspec colname="c3" colnum="3" colwidth="1.78*"/>
+                <colspec colname="c4" colnum="4" colwidth="1.39*"/>
+                <tbody>
+                    <row>
+                        <entry namest="c1" nameend="c2" morerows="3"><image
+                                keyref="img:btx_typical_install"
+                                id="image_btx_typcl_instlltn_pyv_sdg_sdb" scale="350"/></entry>
+                        <entry namest="c3" nameend="c4" align="left" valign="top">
+                            <p id="p_Untitled5_mml_4cg_sdb">REPLACEMENT PARTS AND DELIMING
+                                PRODUCTS</p>
+                            <p id="p_Untitled5_nml_4cg_sdb">Replacement parts and recommended
+                                delimer may be ordered through authorized servicers or distributors.
+                                When ordering parts, provide complete model and serial numbers (see
+                                rating plate), quantity and name of part desired. Standard hardware
+                                items may be purchased locally.</p>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry><image keyref="img:thermal_expansion_tank"
+                                id="image_btx_typcl_instlltn_r2q_ffg_sdb" scale="60"/></entry>
+                        <entry align="center" valign="top"><image
+                                keyref="img:condensate_trap_assembly"
+                                id="image_btx_typcl_instlltn_pfb_nhg_sdb" scalefit="yes" scale="60"
+                            /></entry>
+                    </row>
+                    <row>
+                        <entry namest="c3" nameend="c4"><image keyref="img:blower_burner_only"
+                                id="image_btx_typcl_instlltn_ypm_x3g_sdb" scale="60"/><p
+                                id="p_btx_typcl_instlltn_xjx_y3g_sdb">Blower Burner
+                            Assembly</p></entry>
+                    </row>
+                    <row>
+                        <entry><p id="p_btx_typcl_instlltn_qkt_vjg_sdb"><image
+                                    keyref="img:vacuum_relief_valve"
+                                    id="image_btx_typcl_instlltn_nqk_tjg_sdb" scale="50"/></p>Vacuum
+                            Relief Valve</entry>
+                        <entry align="center" valign="top">
+                            <fig id="fig_btx_typcl_instlltn_q1l_2lg_sdb">
+                                <title>Temperature Indicators and Adjustment Buttons</title>
+                                <image keyref="img:emerson_thermostat"
+                                    id="image_btx_typcl_instlltn_r1l_2lg_sdb" scale="50"/>
+                            </fig>
+                        </entry>
+                    </row>
+                    <row valign="top">
+                        <entry namest="c1" nameend="c4" align="left" valign="top">
+                            <p id="p_btx_typcl_instlltn_grs_5lg_sdb"> * CAUTION HARNESS HAS 120 VAC.
+                                IN OPERATION.</p>
+                            <p id="p_btx_typcl_instlltn_hrs_5lg_sdb"> ** See “PLANNING THE VENT
+                                SYSTEM”, “CONDENSATE” and “BLOWER ASSEMBLY INSTALLATION” for more
+                                information.</p>
+                            <p id="p_btx_typcl_instlltn_irs_5lg_sdb">*** The side recirculation loop
+                                connections may not be used as the primary water inlet and outlet
+                                connections. For your convenience, plugs are installed in these
+                                fittings at the factory. Remove these plugs if needed for your
+                                specific installation. Otherwise (as with all connections) check for
+                                leaks while filling the tank with water and after completing the
+                                installation.</p>
+                        </entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+        <p></p>
+    </conbody>
+</concept>

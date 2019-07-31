@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><concept xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="concept_x2m_4y3_t1b" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:concept.xsd">
+    <title>Blower/Burner Assembly Detail</title>
+    <shortdesc/>
+    <conbody>
+       <section>
+           <!-- Role: Component Process Description -->
+           <title>Spark Igniter</title>
+           <p>The control system energizes the spark ignition transformer with 120 VAC during the ignition cycle. The spark ignition transformer then sends a high-voltage current to the spark igniter which in turn ignites the main burner air/gas mixture.
+           </p>
+            <fig id="fig_blower_burner_components" scale="200">
+                <title>Blower/Burner Components</title>
+                <image keyref="img:Blower_Burner_Components" id="image_k5s_j1j_t1b" width="600px"/>
+            </fig>
+       </section>
+       <section>
+           <!-- Role: Component Process Description -->
+           <title>Flame Sensor</title>
+           <p>The control system also monitors the flame sensor to confirm a flame is present at the main burner. If a flame is not verified during the ignition trial period (3-5 seconds) the control system will immediately de-energize the 24-volt gas valve.</p>
+       </section>
+    </conbody>
+</concept>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:map.xsd">
+    <title>Conref Keys for Warning Messages</title>
+    
+    <!-- Warning Message Keys  -->  
+    <!--conkeyref -->
+    <topicref keys="wmsg:caution_property_damage_leakage" href="../hzrd_sttmnts/hzrd_sttmnts.dita#prprty_dmge_hzrd-lkge" format="dita" processing-role="resource-only"/> 
+    <topicref keys="wmsg:warning_brthng_hzrd_CO2_long" href="../hzrd_sttmnts/hzrd_sttmnts.dita#warning_brthng_hzrd_CO2_long" format="dita" processing-role="resource-only"/>
+    <topicref keys="wmsg:brthg_hzrd-insuation_blanket" href="../hzrd_sttmnts/hzrd_sttmnts.dita#brthg_hzrd-insuation_blanket" format="dita" processing-role="resource-only"/>
+    <topicref keys="wmsg:warning_brthng_hzrd_CO2_installation" href="../hzrd_sttmnts/hzrd_sttmnts.dita#warning_brthng_hzrd_CO2_installation" format="dita" processing-role="resource-only"/>
+    <topicref keys="wmsg:fre_hzrd-carpet_flood_damage" href="../hzrd_sttmnts/hzrd_sttmnts.dita#fre_hzrd-carpet_flood_damage" format="dita" processing-role="resource-only"/>
+    <topicref keys="wmsg:fre_or_explsn_hzrd-flmble_strge_long" href="../hzrd_sttmnts/hzrd_sttmnts.dita#fre_or_explsn_hzrd-flmble_strge_long" format="dita" processing-role="resource-only"/>
+    <topicref keys="wmsg:fire_or_explosion_hazard" href="../hzrd_sttmnts/hzrd_sttmnts.dita#fre_or_explsn_hzrd-flmble_strge" format="dita" processing-role="resource-only"/>
+    <topicref keys="wmsg:fire_or_explosion_hazard-gas" href="../hzrd_sttmnts/hzrd_sttmnts.dita#fre_or_explsn_hzrd-gas" format="dita" processing-role="resource-only"/>
+    <topicref keys="wmsg:fire_or_explosion_hazard-leak_test" href="../hzrd_sttmnts/hzrd_sttmnts.dita#fre_or_explsn_hzrd-leak_test" format="dita" processing-role="resource-only"/>
+    <topicref keys="wmsg:caution_water_damage-TP_valve" href="../hzrd_sttmnts/hzrd_sttmnts.dita#wtr_dmge_hzrd-TP_valve" format="dita" processing-role="resource-only"/>
+    <topicref keys="wmsg:caution_water_damage-prssre_rlf_valve" href="../hzrd_sttmnts/hzrd_sttmnts.dita#wtr_dmge_hzrd-TP_valve" format="dita" processing-role="resource-only"/>
+    <topicref keys="wmsg:explosion_hazard-TP_valve" href="../hzrd_sttmnts/hzrd_sttmnts.dita#explsn_hzrd-TP_valve" format="dita" processing-role="resource-only"/>
+    <topicref keys="wmsg:explosion_hazard-prssre_rlf_valve" href="../hzrd_sttmnts/hzrd_sttmnts.dita#explsn_hzrd-prssre_rlf_valve" format="dita" processing-role="resource-only"/>
+    <topicref keys="wmsg:fire_or_explosion_hazard-hydrogen" href="../hzrd_sttmnts/hzrd_sttmnts.dita#warning_explosion_hazard_hydrogen" format="dita" processing-role="resource-only"/>
+    <topicref keys="wmsg:burn_hazard-hot_water" href="../hzrd_sttmnts/hzrd_sttmnts.dita#brn_hzrd-hot_water" format="dita" processing-role="resource-only"/>   
+    <topicref keys="wmsg:burn_hazard-TP_valve" href="../hzrd_sttmnts/hzrd_sttmnts.dita#brn_hzrd-TP_valve" format="dita" processing-role="resource-only"/>   
+    <topicref keys="wmsg:explosion_hazard-over_heated_water" href="../hzrd_sttmnts/hzrd_sttmnts.dita#explsn_hzrd-over_heated_water" format="dita" processing-role="resource-only"/>
+    <topicref keys="wmsg:explosion_hazard-overfiring" href="../hzrd_sttmnts/hzrd_sttmnts.dita#fre_or_explsn_hzrd-overfiring" format="dita" processing-role="resource-only"/>
+    <topicref keys="wmsg:breathing_hazard-overfiring" href="../hzrd_sttmnts/hzrd_sttmnts.dita#breathing_hzrd-overfiring" format="dita" processing-role="resource-only"/> 
+    <topicref keys="wmsg:property_damage_hazard-TP_valve" href="../hzrd_sttmnts/hzrd_sttmnts.dita#wtr_dmge_hzrd-TP_valve" format="dita" processing-role="resource-only"/>   
+    <topicref keys="wmsg:property_damage_hazard-prssre_rlf_valve" href="../hzrd_sttmnts/hzrd_sttmnts.dita#wtr_dmge_hzrd-prssre_rlf_valve" format="dita" processing-role="resource-only"/>
+    <topicref keys="wmsg:caution_prprty_dmge_hzrd-improper_installation" href="../hzrd_sttmnts/hzrd_sttmnts.dita#caution_prprty_dmge_hzrd-improper_installation" format="dita" processing-role="resource-only"/>
+    <topicref keys="wmsg:caution_prprty_dmge_hzrd-improper_install_short" href="../hzrd_sttmnts/hzrd_sttmnts.dita#caution_prprty_dmge_hzrd-improper_install_short" format="dita" processing-role="resource-only"/>
+    <topicref keys="wmsg:read_manual" href="../hzrd_sttmnts/hzrd_sttmnts.dita#warning_read_manual" format="dita" processing-role="resource-only"/> 
+    <topicref keys="wmsg:burn_hazard-water_heater_internals" href="../hzrd_sttmnts/hzrd_sttmnts.dita#brn_hzrd-wtr_htr_internals" format="dita" processing-role="resource-only"/> 
+    <topicref keys="wmsg:wrnng-elctrcl_shck-mntnnce" href="../hzrd_sttmnts/hzrd_sttmnts.dita#wrnng-elctrcl_shck-mntnnce" format="dita" processing-role="resource-only"/>
+    <topicref keys="wmsg:wrnng-explsn_hzrd-overheated_wtr" href="../hzrd_sttmnts/hzrd_sttmnts.dita#explsn_hzrd-overheated_wtr" format="dita" processing-role="resource-only"/>
+    <topicref keys="wmsg:service_jumping_controls_hazard" href="../hzrd_sttmnts/hzrd_sttmnts.dita#service_jumping_controls_hazard" format="dita" processing-role="resource-only"/>
+    <topicref keys="wmsg:warning_fre_and_explsn_hzrd_general" href="../hzrd_sttmnts/hzrd_sttmnts.dita#warning_fre_and_explsn_hzrd_general" format="dita" processing-role="resource-only"/>
+    
+    
+</map>

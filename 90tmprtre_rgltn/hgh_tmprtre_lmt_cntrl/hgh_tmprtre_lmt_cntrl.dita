@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><concept xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="concept_xhr_k4z_gbb" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:concept.xsd">
+    <title>High Temperature Limit Control</title>
+    <shortdesc/>
+    <conbody>
+        <p id="p_yjx_m4z_gbb">This water heater is equipped with an energy cut off (ECO), a
+            non-adjustable high-temperature-limit switch. The ECO is a normally-closed switch that
+            opens (activates) when the temperature increases to a preset threshold temperature.</p>
+        <p id="p_zjx_m4z_gbb">The ECO is located inside the Upper Temperature Probe (two red wires).
+            See <xref keyref="sec:Components_Side_Views/fig_components_side_view"/> for the location. 
+            The ECO switch contacts open when the water temperature increases to approximately 202°F (94°C) 
+            and close when the water temperature decreases to approximately 140°F (60°C). </p>
+        <p id="p_akx_m4z_gbb">If the ECO activates (contacts open) due to abnormally-high water
+            temperatures in the storage tank, the control system immediately de-energizes the
+            24-volt gas valve and ends the current heating cycle. The control system automatically
+            locks up to disable any further heating operation. The control system displays the
+                <uicontrol>ECO Fault</uicontrol> message on the LCD screen. It is important that a
+                <b>qualified service agent</b> be contacted to determine the reason for the ECO
+            activation before resetting the ECO. Once the reason has been determined and corrected,
+            the ECO can be reset as follows:</p>
+        <p id="p_bkx_m4z_gbb">If the ECO activates, the water temperature must drop below 140°F
+            (60°C) before the control system can be reset. Once the water temperature has cooled
+            below this point, the power supply to the water heater must be turned off and on again
+            to reset the control system.</p>
+    </conbody>
+</concept>

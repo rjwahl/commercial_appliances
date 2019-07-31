@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><task xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="task_yzj_qk4_hbb" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:task.xsd">
+    <title>Electrical Connections</title>
+    <shortdesc/>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Ensure that the power-supply connections to the water heater are polarity
+                    correct. See the requirements for the <xref keyref="sec:Power_Supply_Connections"/> and <xref keyref="sec:Electrical_Wiring"/>.</cmd>
+            </step>
+            <step>
+                <cmd>Ensure that the water heater is properly grounded. Flame sensing requires an
+                    adequate earth ground. If the water heater is not properly grounded, it will
+                    cause ignition failure.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

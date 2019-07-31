@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="C:/Users/rjwahl/Documents/Ontology/test.css"?><concept xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="concept_t3f_3gr_mbb" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:concept.xsd">
+    <title>Field-Supplied Fittings</title>
+    <shortdesc/>
+    <conbody>
+        <p id="p_wts_jgr_mbb">Field-supplied fittings should be equivalent to the piping material
+            being installed. Field installed/supplied fittings will add equivalent feet to the vent
+            or intake air piping as indicated below. </p>
+        <ul id="ul_vkd_kgr_mbb">
+            <li>90° elbows (short or long radius) are equivalent to 5 linear feet (152 cm) of pipe. </li>
+            <li>45° elbows (short or long radius) are equivalent to 2.5 linear feet (76 cm) of
+                pipe.</li>
+        </ul>
+        <p id="p_dyh_qll_5bb">All field supplied/installed fittings and piping must be factored into
+            the equivalent feet calculations. </p>
+        <note>See <xref keyref="sec:Polypropylene_Installations/table_MG_Duravent_PolyPro_vnt_systm_cmpnnts"/>
+            and <xref keyref="sec:Polypropylene_Installations/table_Centrotherm_InnoFlueSW_vnt_systm_cmpnnts"/>
+            for equivalent linear pipe length of AL29-4C<tm tmtype="reg"/> 45° and 90° elbows.</note>
+        <p outputclass="hidden"/>
+    </conbody>
+</concept>

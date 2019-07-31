@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<task xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="task_q4w_rgs_gbb" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:task.xsd">
+    <title>Condensate Drain Installation Instructions</title>
+    <shortdesc/>
+    <prolog>
+        <author type="contributor">rjwahl</author>
+        <critdates>
+            <!--rjwahl-->
+            <revised modified="2019/03/28"/>
+        </critdates>
+    </prolog>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Ensure the water heater’s Enable/Disable switch is in the “Disable”
+                    position.</cmd>
+            </step>
+            <step>
+                <cmd>Install a 1/2 inch PVC condensate drain line between condensate drain
+                    connection on the Exhaust/Condensate Elbow and a suitable building drain. The
+                    condensate line must slope to an open drain. 
+                    See <xref keyref="sec:Condensate_Drain_Installation_Instructions/fig_condensate_drain_installation"/>.</cmd>
+            </step>
+            <step>
+                <!-- In the following step, "keyref="condensate_drain_clearance" functions as a 
+                     variable (which can be either 6 inches for most markets or 12 inches for 
+                     the Canadian market. The value is set in the keys map. -->
+                <cmd>Terminate the condensate drain piping with an elbow above the drain. Ensure
+                    that any discharge will exit the condensate drain line no more than <keyword keyref="condensate_drain_clearance"/>  above a suitable building drain, or
+                    external to the building. See <xref keyref="sec:Condensate_Drain_Installation_Instructions/fig_condensate_drain_installation"/>.</cmd>
+                <info>
+                    <note>In cold climates it is recommended the condensate drain be terminated at a
+                        suitable drain inside the building.</note>
+                </info>
+            </step>
+            <step>
+                <cmd>Ensure the condensate drain line is not elevated above the condensate drain
+                    connection on the Exhaust/Condensate Elbow.
+                    See <xref keyref="sec:Condensate_Drain_Installation_Instructions/fig_condensate_drain_installation"/>.</cmd>
+            </step>
+            <step>
+                <cmd>Brace the condensate drain line with floor-mounted standoffs every three
+                    feet.</cmd>
+            </step>
+            <step>
+                <cmd>Ensure that the condensate drains freely during start up. 
+                    See <xref keyref="sec:Start-Up"/>.</cmd>
+            </step>
+            <step>
+                <cmd>Condensate clean out cap must be on and tight when unit is in operation.</cmd>
+                <info>
+                    <fig id="fig_condensate_drain_installation">
+                        <title>Condensate Drain Installation</title>
+                        <image keyref="img:condensate_drain_installation" id="image_szq_33s_gbb" width="550px"/>
+                    </fig>
+                </info>
+            </step>
+        </steps>
+    </taskbody>
+</task>

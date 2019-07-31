@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><concept xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="concept_hwh_25v_1bb" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:concept.xsd">
+    <title>Power Fluctuations and Electrical Noise</title>
+    <shortdesc/>
+    <conbody>
+        <p id="p_lw2_m5v_1bb">The water heater’s control system requires a source of stable clean
+            electricity for proper operation. Connecting the water heater to a branch circuit that
+            is subject to fluctuations in voltage level or electrical line noise such as EMI
+            (electro magnetic interference) or RFI (radio frequency interference) may cause erratic
+            control system operation and malfunction. </p>
+        <p id="p_mw2_m5v_1bb">A high quality power supply filter/suppressor must be installed if the
+            above conditions exist. Call the technical support phone number listed on the back cover
+            of this manual or contact a local power filter/suppressor supplier for more information. </p>
+        <note>Malfunctions caused by the power supply and costs to install power supply filters are
+            not covered under the limited warranty. See Commercial Water Heater Limited Warranty
+            (page 76).</note>
+    </conbody>
+</concept>

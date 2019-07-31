@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><concept xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="concept_xcp_mt3_fbb" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:concept.xsd">
+    <title>Optional Concentric &amp; Low-Profile Terminations</title>
+    <shortdesc/>
+    <conbody>
+        <p/>
+        <p id="p_e3v_4t3_fbb">The water heaters covered by this manual may be installed in a Direct
+            Vent configuration using a concentric termination or a low-profile termination. </p>
+        <p id="p_f3v_4t3_fbb">Concentric and Low-Profile terminations must be ordered separately.
+            Contact your local distributor or call the parts department phone number listed on the
+            back cover of this manual to order.</p>
+        <p id="p_pzq_pt3_fbb">The following are the part numbers for the different pipe
+            diameters:</p>
+        <ul id="ul_ndg_qt3_fbb">
+            <li>Two-Inch Concentric Termination #100153586</li>
+            <li>Two-Inch Low-Profile Termination #100086241</li>
+            <li>Four-Inch Concentric Termination # 100111100 (used for both three- and four-inch
+                diameter piping</li>
+            <li>Three-Inch Low-Profile Termination # 100187887</li>
+            <li>Four-Inch Low-Profile Termination # 100187888</li>
+        </ul>
+    </conbody>
+</concept>

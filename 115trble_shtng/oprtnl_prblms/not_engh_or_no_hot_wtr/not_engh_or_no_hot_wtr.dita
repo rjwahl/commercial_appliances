@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><task xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="task_nn4_yw4_hbb" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:task.xsd">
+    <title>Not Enough Or No Hot Water</title>
+    <shortdesc/>
+    <taskbody>
+        <context>
+            <p id="p_dml_hd3_ccb">If the volume of hot water is insufficient, check the
+                following:</p>
+            <ul id="ul_rtc_gx4_hbb">
+                <li>No power to the water heater. Check breaker and fuses.</li>
+                <li>The Enable/Disable switch is in the Disabled position. Set the switch to the
+                    Enable position to allow the unit to operate.</li>
+                <li>The hot water supply valve(s) to the fixtures is closed.</li>
+                <li>The Operating Set Point is set too low and/or the Differential setting is set
+                    too high. See <xref keyref="sec:Operating_Set_Point_and_Differential_Adjustment"/>.</li>
+                <li>The Tank Probe Offset is causing the heating cycles to terminate prematurely.
+                    See <xref keyref="sec:Temperatures_Menu"/>.</li>
+                <li>An external supervisory control (using the enable/disable circuit) is disabling
+                    the heating operation. Ensure that if there is an external supervisory control
+                    system, that it is not affecting heating operation.</li>
+                <li>The demand for hot water has exceeded the heating capacity of the water heater
+                    and the water heater is unable to meet demand.</li>
+                <li>Colder incoming water is lengthening the time required to heat the water to
+                    desired temperature.</li>
+                <li>Hot water piping leaks, open faucets, water heater drain valve leaking or
+                    open.</li>
+                <li>Sediment or lime-scale accumulation may be affecting water heater operation. See
+                        <xref keyref="sec:Sediment_Removal"/> for sediment and lime-scale removal
+                    procedures.</li>
+                <li>The water heater not firing at full input rating. Check the actual firing rate
+                    of the water heater. See <xref keyref="sec:Checking_the_Firing_Rate"/>. Note
+                    that the water heaters covered by this manual are capable of modulating their
+                    firing rate. The firing rate is dictated by the hot water draw and various other
+                    temperature limitations.</li>
+            </ul>
+        </context>
+    </taskbody>
+</task>

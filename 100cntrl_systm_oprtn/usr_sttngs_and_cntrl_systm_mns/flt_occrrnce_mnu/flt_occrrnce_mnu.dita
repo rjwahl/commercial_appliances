@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><concept xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="concept_msz_dk4_qbb" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:concept.xsd">
+    <title>Fault Occurrence Menu</title>
+    <shortdesc/>
+    <conbody>
+        <p id="p_hmq_fk4_qbb">Press Fault Occurrence from the Main Menu to enter this menu. This
+            menu contains non adjustable operational information. Use the Slidebar to navigate the
+            menu.</p>
+        <p id="p_ntl_gk4_qbb">This menu contains a running total of how many times each Fault
+            condition has occurred since the water heater was first installed</p>
+        <note>Historical data is stored in the configuration key. If this "key" is replaced 
+            during servicing the historical data will be lost. The data stored in the new configuration key 
+            will no longer reflect the entire history of the water heater.
+        </note>
+        <fig id="fig_fault_occurrence_menu">
+            <title>Fault Occurrence Menu</title>
+            <image keyref="img:UIM_fault_occurrence_menu" id="image_kwy_kk4_qbb"/>
+        </fig>
+    </conbody>
+</concept>

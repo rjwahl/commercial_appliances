@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<task id="task_hsj_sfg_ndb" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:task.xsd">
+    <title>Secure the Drain Hose</title>
+    <taskbody>
+        <steps-unordered>
+            <step id="step_secure_drain_hose">
+                <cmd>Ensure that the drain hose is secured before and during the entire flushing
+                    procedure. Flushing is performed with system water pressure applied to the water
+                    heater.</cmd>
+            </step>
+        </steps-unordered>
+    </taskbody>
+</task>

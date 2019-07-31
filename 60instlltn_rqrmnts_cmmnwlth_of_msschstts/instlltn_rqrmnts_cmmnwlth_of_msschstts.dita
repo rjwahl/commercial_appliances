@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?><concept xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="concept_g3b_hzc_bbb" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:concept.xsd">
+    <title>Installation Requirements - Commonwealth of Massachusetts</title>
+    <conbody>
+        <section id="section_scy_mzc_bbb">
+            <title>Commonwealth of Massachusetts</title>
+            <p id="p_tcy_mzc_bbb"/>
+            <p id="p_jh4_4zc_bbb">For all side wall terminated, horizontally vented power vent,
+                direct vent, and power direct vent gas fueled water heaters installed in every
+                dwelling, building or structure used in whole or in part for residential purposes,
+                including those owned or operated by the Commonwealth and where the side wall
+                exhaust vent termination is less than seven (7) feet above finished grade in the
+                area of the venting, including but not limited to decks and porches, the following
+                requirements shall be satisfied:</p>
+        </section>
+        <section id="sec_installing_carbonmonoxide_detectors">
+            <title>Installing Carbon Monoxide Detectors</title>
+            <p id="p_qjx_4zc_bbb"/>
+            <p id="p_kmk_qzc_bbb">At the time of installation of the side-wall horizontal-vented
+                gas-fueled equipment, the installing plumber or gas-fitter shall observe that a
+                hard-wired carbon‑monoxide detector, with an alarm and battery back-up, is installed
+                on the floor level where the gas equipment is to be installed. In addition, the
+                installing plumber or gas‑fitter shall observe that a battery-operated or hard-wired
+                carbon-monoxide detector, with an alarm, is installed on each additional level of
+                the dwelling, building, or structure served by the side-wall horizontal-vented
+                gas-fueled equipment. It shall be the responsibility of the property owner to secure
+                the services of qualified licensed professionals for the installation of hard-wired
+                carbon-monoxide detectors.</p>
+            <p id="p_lmk_qzc_bbb">In the event that the side-wall horizontally-vented gas-fueled
+                equipment is installed in a crawl space or an attic, the hard-wired carbon-monoxide
+                detector, with alarm and battery back-up, may be installed on the next adjacent
+                floor level.</p>
+            <p id="p_mmk_qzc_bbb">In the event that the requirements of this subdivision can not be
+                met at the time of completion of installation, the owner shall have a period of
+                thirty (30) days to comply with the above requirements provided that during said
+                thirty (30) day period, a battery-operated carbon‑monoxide detector, with an alarm,
+                shall be installed.</p>
+        </section>
+        <section id="section_rgx_qzc_bbb">
+            <title>Approved Carbon Monoxide Detectors</title>
+            <p id="p_sgx_qzc_bbb">Each carbon-monoxide detector as required in accordance with the
+                above provisions shall comply with NFPA 720 and be ANSI/UL 2034 listed and CSA
+                certified.</p>
+        </section>
+        <section id="section_nfw_szc_bbb">
+            <title>Signage</title>
+            <p id="p_ofw_szc_bbb">A metal or plastic identification plate shall be permanently
+                mounted to the exterior of the building at a minimum height of eight (8) feet above
+                grade directly in line with the exhaust vent terminal for the horizontally‑vented
+                gas‑fueled heating appliance or equipment. The sign shall read, in print size no
+                less than one-half (1/2) inch in size, “gas vent directly below. Keep clear of all
+                obstructions.</p>
+        </section>
+        <section id="section_rgf_11d_bbb">
+            <title>Inspection</title>
+            <p id="p_sgf_11d_bbb">The state or local gas inspector of the side-wall
+                horizontally-vented gas-fueled equipment shall not approve the installation unless,
+                upon inspection, the inspector observes carbon-monoxide detectors and signage
+                installed in accordance with the provisions of 248 CMR 5.08(2)(a) 1 through 4.</p>
+        </section>
+        <section id="section_lh3_d1d_bbb">
+            <title>Exemptions</title>
+            <p id="p_mh3_d1d_bbb">The following equipment is exempt from 248 CMR 5.08(2)(a)1 through
+                4:</p>
+            <ol id="ol_lbs_21d_bbb">
+                <li>The equipment listed in Chapter 10 entitled “Equipment Not Required To Be
+                    Vented” in the most current edition of NFPA 54 as adopted by the Board; and</li>
+                <li>Product Approved side-wall horizontally-vented gas-fueled equipment installed in
+                    a room or structure separate from the dwelling, building, or structure used in
+                    whole or in part for residential purposes.</li>
+            </ol>
+        </section>
+        <section id="section_wvv_g1d_bbb">
+            <title>Manufacturer Requirements - Gas Equipment Venting System Provided</title>
+            <p id="p_uqv_31d_bbb">When the manufacturer of Product Approved side-wall
+                horizontally-vented gas-fueled equipment provides a venting system design or venting
+                system components with the equipment, the instructions provided by the manufacturer
+                for installation of the equipment and the venting system shall include:</p>
+            <ol id="ol_e4p_j1d_bbb">
+                <li>Detailed instructions for the installation of the venting-system design or the
+                    venting-system components.</li>
+                <li>A complete parts list for the venting-system design or venting system.</li>
+            </ol>
+        </section>
+        <section id="section_izv_m1d_bbb">
+            <title>Manufacturer Requirements - Gas Equipment Venting System Not Provided</title>
+            <p id="p_jzv_m1d_bbb">When the manufacturer of a Product Approved side‑wall
+                horizontally‑vented gas‑fueled equipment does not provide the parts for venting the
+                flue gases, but identifies “special venting systems,” the following requirements
+                shall be satisfied by the manufacturer:</p>
+            <ol id="ol_v5z_n1d_bbb">
+                <li>The referenced “special venting system” instructions shall be included with the
+                    appliance or equipment installation instructions.</li>
+                <li>The “special venting systems” shall be Product Approved by the Board, and the
+                    instructions for that system shall include a parts list and detailed
+                    installation instructions.</li>
+            </ol>
+            <p id="p_ig4_q1d_bbb">A copy of all installation instructions for all Product Approved
+                side‑wall horizontally‑vented gas‑fueled equipment, all venting instructions, all
+                parts lists for venting instructions, and/or all venting-design instructions shall
+                remain with the appliance or equipment at the completion of the installation.</p>
+        </section>
+    </conbody>
+</concept>

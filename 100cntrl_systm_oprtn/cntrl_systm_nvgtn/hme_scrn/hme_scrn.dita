@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><concept xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="concept_dc4_vd1_hbb" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:concept.xsd">
+    <title>Home Screen</title>
+    <shortdesc/>
+    <conbody>
+        <p>During normal operation the control system will display the "Desktop" screen on the LCD
+            Touch Display which is the default screen. The control system will return to the Desktop
+            screen when there are no active Fault or Alert conditions or when there has been no user
+            input for several minutes. </p>
+        <ul id="ul_xn5_xd1_hbb">
+            <li>Manufacturer and water heater model information is displayed in Title Bar at the top
+                of the Desktop screen. Menu titles are displayed in the Title Bar when navigating
+                the control system menus.</li>
+            <li>The first temperature shown on the Desktop screen, Tank Temperature, is the
+                temperature of the water inside the water heater's storage tank.</li>
+            <li>The second temperature shown on the Desktop screen is the Operating Set Point. The
+                Operating Set Point is the temperature at which the control system will maintain the
+                water inside the storage tank. </li>
+            <li>Beneath the Operating Set Point is the "Status" line. The Status line shows the
+                current operational state of the control system in real time, see Table 19.
+                Operating States on page 47 for a description of the various operational
+                states.</li>
+            <li>The Desktop screen also displays animated "Status Icons" to convey operational
+                information, see Table 18 (page 46) for descriptions of the Status Icons.</li>
+        </ul>
+    </conbody>
+</concept>

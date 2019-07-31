@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><concept xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="concept_kp1_cc1_xbb" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:concept.xsd">
+    <title>Multiple Concentric Termination Arrangements</title>
+    <shortdesc/>
+    <conbody>
+        <p id="p_nly_dc1_xbb">The illustrations on this page show some of the installation
+            arrangements for multiple concentric terminations that are allowed.</p>
+        <p id="p_oly_dc1_xbb">See <xref keyref="sec:Multiple_Concentric_Termination_Clearances"/> for detailed
+            information on clearances and additional arrangement options.</p>
+        <note>When multiple concentric terminations are installed through a roof in the same
+            location all termination caps must be at the same height measured from the ground. </note>
+        <section id="section_yq4_nc1_xbb">
+            <title>Two Concentric Terminations</title>
+            <p id="p_j3z_4c1_xbb">Two concentric terminations may be installed in close proximity as
+                shown in 
+                <xref keyref="sec:Multiple_Concentric_Termination_Arrangements/fig_two_cncntrc_trmntns_arrngmnt"/>
+                or with standard clearances when this arrangement is not
+                possible. See  <xref keyref="sec:Multiple_Concentric_Termination_Clearances"/> for
+                detailed information on clearances. 
+                See <xref keyref="sec:Multiple_Concentric_Termination_Clearances/fig_three_cncntrc_trmntns_thrgh_rf_or_sde_wll"/>
+                when installing three concentric terminations.</p>
+            <fig id="fig_two_cncntrc_trmntns_arrngmnt">
+                <title>Two Concentric Terminations (Side-Walll and Roof)</title>
+                <image keyref="img:two_concentric_terminations_arrangement" id="image_isd_4dh_xbb"/>
+            </fig>
+        </section>
+        <section id="section_awf_sc1_xbb">
+            <title>Four Concentric Terminations</title>
+            <p id="p_bwf_sc1_xbb">Four concentric terminations may be installed in close proximity
+                as shown in <xref keyref="sec:Multiple_Concentric_Termination_Arrangements/fig_four_cncntrc_trmntns_arrngmnt"/>
+                See <xref keyref="sec:Multiple_Concentric_Termination_Clearances/fig_four_grouped_cncntrc_trmntns_thrgh_rf_or_sde_wll"/>
+                and <xref keyref="sec:Multiple_Concentric_Termination_Clearances/fig_four_linear_cncntrc_trmntns_thrgh_rf_or_sde_wll"/>
+                for detailed information on clearances and additional arrangement options.</p>
+            <p id="p_w3n_tc1_xbb">Four concentric terminations may be installed in close proximity
+                as shown in <xref keyref="sec:Multiple_Concentric_Termination_Arrangements/fig_four_cncntrc_trmntns_arrngmnt"/>. 
+                See <xref keyref="sec:Multiple_Concentric_Termination_Clearances/fig_four_grouped_cncntrc_trmntns_thrgh_rf_or_sde_wll"/> 
+                and <xref keyref="sec:Multiple_Concentric_Termination_Clearances/fig_four_linear_cncntrc_trmntns_thrgh_rf_or_sde_wll"/> 
+                for detailed information on clearances and additional arrangement options.</p>
+            <fig id="fig_four_cncntrc_trmntns_arrngmnt">
+                <title>Four Concentric Terminations (Side-Wall and Roof)</title>
+                <image keyref="img:four_concentric_terminations_arrangement" id="image_flc_wdh_xbb"/>
+            </fig>
+        </section>
+        <section id="section_i3t_wc1_xbb">
+            <title>Eight Concentric Terminations</title>
+            <p id="p_jvc_1d1_xbb">Eight concentric terminations may be installed in two stacked
+                groups of four, in close proximity, as shown in 
+                <xref keyref="sec:Multiple_Concentric_Termination_Clearances/fig_eight_cncntrc_trmntns_sde_wll_and_rf"/>.
+                See <xref keyref="sec:Multiple_Concentric_Termination_Clearances/fig_eight_cncntrc_trmntns_sde_wll_and_rf"/>
+                for detailed information on clearances. </p>
+            <p id="p_kvc_1d1_xbb">Lateral groups of four as shown in 
+                <xref keyref="sec:Multiple_Concentric_Termination_Clearances/fig_four_linear_cncntrc_trmntns_thrgh_rf_or_sde_wll"/>
+                may be a more convenient installation arrangement for multiple groups depending on available
+                space.</p>
+            <fig id="fig_eight_cncntrc_trmntns_arrngmnt">
+                <title>Eight Concentric Terminations (Side-Wall and Roof)</title>
+                <image keyref="img:eight_concentric_terminations_arrangement" id="image_vpk_xdh_xbb"/>
+            </fig>
+        </section>
+    </conbody>
+</concept>

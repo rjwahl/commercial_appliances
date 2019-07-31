@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<concept id="concept_w4b_z4z_rdb" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:concept.xsd">
+    <title>Components  - Right Side View</title>
+    <conbody>
+        <fig id="fig_btx75_cmpnts_rgt-sde_vw_bhb_cpz_rdb">
+            <title>Right-Side View</title>
+            <image keyref="img:Right_Side_View" id="image_btx75_cmpnts_rgt-sde_vw_yxq_dpz_rdb"
+                scale="200"/>
+            <ol id="ol_btx75_cmpnts_rgt-sde_vw_bg4_2pz_rdb">
+                <li>
+                    <p id="p_btx75_cmpnts_sde_vw_urq_jmz_rdb">Water heater drain valve.</p>
+                </li>
+                <li>
+                    <p id="p_btx75_cmpnts_rgt-sde_vw_ks4_hpz_rdb">Lower Temperature Probe, 1 of 2
+                        temperature probes. The water heater’s control system monitors this probe to
+                        detect water temperature in the lower portion of the storage tank.</p>
+                </li>
+                <li>
+                    <p id="p_btx75_cmpnts_sde_vw_qrq_jmz_rdb">Temperature-Pressure Relief Valve. See
+                            <xref keyref="sec:Temperature_Pressure_Relief_Valve"/>. </p>
+                </li>
+                <li>Blocked Exhaust (vent) switch. Normally closed contacts that open on a rise in
+                    pressure. This switch is used to insure the Exhaust (vent) piping connected to
+                    the water heater is not restricted. The control system monitors this switch and
+                    will disable heating operation if its contacts are open during a heating
+                    cycle.</li>
+                <li>
+                    <p id="p_btx75_cmpnts_rgt-sde_vw_ybx_jqz_rdb">Enable/Disable Switch</p>
+                </li>
+                <li>
+                    <p id="p_btx75_cmpnts_rgt-sde_vw_fk5_nqz_rdb">UIM (user interface module). The
+                        UIM includes the display circuit board and the control system’s LCD Touch
+                        Display. Used to adjust various user settings and view operational
+                        information. See <xref keyref="sec:Control_System_Operation"/>.</p>
+                </li>
+                <li>
+                    <p id="p_btx75_cmpnts_rgt-sde_vw_l2j_pqz_rdb">CCB enclosure - see item 3 in
+                            <xref keyref="sec:Components_Top_View"/> for description.</p>
+                </li>
+                <li>
+                    <p id="p_btx75_cmpnts_rgt-sde_vw_hww_1sz_rdb">Water heater 24-volt gas
+                        valve.</p>
+                </li>
+                <li>Combustion Blower Assembly includes a Gas Valve and Venturi gas feed
+                    system.</li>
+                <li>Intake air connection - three-inch PVC.</li>
+                <li>Spark Ignition Transformer. When energized, sends the electrical current to the
+                    spark igniter.</li>
+                <li>120-VAC junction box. Incoming power supply, ground connections, and other field
+                    installed electrical connections are made here. See <xref
+                        keyref="sec:Power_Supply"/> and <xref keyref="sec:Power_Supply_Connections"
+                    />.</li>
+                <li>Powered anode rods. The water heaters covered in this manual are equipped with
+                    powered (non sacrificial) anode rods. Protective current is fed by the control
+                    system to the titanium electrodes at the end of each anode rod. This current
+                    flows through the water to the conductive surfaces inside the storage tank which
+                    diminishes the corrosive effect of water when it comes in contact with
+                    steel.</li>
+                <li>Blocked Intake Air switch. Normally closed contacts that open on fall in
+                    pressure. This switch is used to insure intake (combustion) air to the water
+                    heater is not restricted. The control system monitors this switch and will
+                    disable heating operation if its contacts are open during a heating cycle.</li>
+                <li>
+                    <p id="p_btx75_cmpnts_rgt-sde_vw_ezc_nq2_sdb">Vent Connection
+                        (Exhaust/Condensate Elbow) three-inch aluminum. </p>
+                </li>
+            </ol>
+        </fig>
+        <p></p>
+    </conbody>
+</concept>

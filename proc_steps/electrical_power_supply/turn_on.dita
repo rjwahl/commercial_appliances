@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<task id="task_lnq_2wj_mdb" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:task.xsd">
+    <title>Turn on Electrical Power Supply to the Water Heater</title>
+    <shortdesc>This topic is a container topic used to hold variations of steps that describe how to
+        turn on the power</shortdesc>
+    <taskbody>
+        <steps-unordered>
+            <step id="step_trn_elctrcl_pwr0">
+                <cmd>Turn on electricity. </cmd>
+            </step>
+            <step id="step_trn_elctrcl_pwr1">
+                <cmd>Turn on the electrical disconnect switch.</cmd>
+            </step>
+            <step id="step_trn_elctrcl_pwr2">
+                <cmd>Turn on the electrical supply to the water heater.</cmd>
+            </step>
+            <step id="step_trn_elctrcl_pwr3">
+                <cmd>Turn on the electrical supply to place the water heater back in
+                    operation.</cmd>
+            </step>
+            <step id="step_trn_elctrcl_pwr4">
+                <cmd>Turn on the electrical supply to place the water heater back in operation. See
+                    Initial Start Up.</cmd>
+            </step>
+            <step id="step_dvf_t1k_mdb">
+                <cmd/>
+            </step>
+        </steps-unordered>
+    </taskbody>
+</task>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="all_safety_labels">
+    <title>All Safety_labels</title>
+    <shortdesc></shortdesc>
+    <prolog>
+        <author type="contributor">rjwahl</author>
+        <critdates>
+            <!--rjwahl-->
+            <revised modified="2019/07/10"/>
+        </critdates>
+    </prolog>
+    <conbody>
+       
+        <p><hazardstatement conkeyref="wmsg:caution_prprty_dmge_hzrd-improper_installation" type="caution"> 
+            <messagepanel>
+                <typeofhazard>Property Damage Hazard</typeofhazard>
+                <consequence></consequence>
+                <howtoavoid></howtoavoid>
+            </messagepanel>
+            <hazardsymbol/>
+        </hazardstatement>
+           
+        </p>
+        <table frame="none" rowsep="1" colsep="1" id="table_xyx_tjs_w1b">
+            <title/>
+            <tgroup cols="2">
+                <colspec colname="c1" colnum="1" colwidth="1*"/>
+                <colspec colname="c2" colnum="2" colwidth="1*"/>
+                <tbody>
+                    <row>
+                        <entry><p> <hazardstatement conkeyref="wmsg:danger_scalding_hazard" type="danger">
+                            <messagepanel>
+                                <typeofhazard>Type of Hazard</typeofhazard>
+                                <consequence>Consequence</consequence>
+                                <howtoavoid>Avoidance.</howtoavoid>
+                            </messagepanel>
+                            <hazardsymbol keyref="icn:danger_scalding_hazard"></hazardsymbol>
+                        </hazardstatement></p></entry>
+                        <entry><image keyref="wmsg:explosion_hazard_overheated_water"  width="2.75in" placement="break"/></entry>
+                    </row>
+                
+                    <row>
+                        <entry><image keyref="wmsg:danger_scalding_hazard"  width="2.75in" placement="break"/></entry>
+                        <entry><image keyref="wmsg:improper_installation_powered_anodes"  width="2.75in" placement="break"/></entry>
+                    </row>
+                    <row>
+                        <entry><image keyref="wmsg:fire_or_explosion_hazard-general"  width="2.75in" placement="break"/></entry>
+                        <entry><image keyref="wmsg:carpet_flood_damage_fire_hazard"  width="2.75in" placement="break"/></entry>
+                    </row>
+                    <row>
+                        <entry><image keyref="wmsg:warning_breathing_hazard_CO2_short" width="2.75in" placement="break"/></entry>
+                        <entry><image keyref="wmsg:gas_pipedope_leak_test_hazard" width="2.75in" placement="break"/></entry>
+                    </row>
+                    <row>
+                        <entry><image keyref="wmsg:caution_prop_dam_leak_drain" width="2.75in" placement="break"/></entry>
+                        <entry><image keyref="wmsg:improper_installation_powered_anodes" width="2.75in" placement="break"/></entry>
+                    </row>
+                    <row>
+                        <entry></entry>
+                        <entry/>
+                    </row>
+                    <row>
+                        <entry/>
+                        <entry/>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+        
+        
+        <table frame="all" rowsep="1" colsep="1" conkeyref="wmsg:caution_frost-damage">
+            <title></title>
+            <tgroup cols="2" align="left">
+                <colspec colname="c1" colnum="1" colwidth="1*"/>
+                <colspec colname="c2" colnum="2" colwidth="4.13*"/>
+                <thead>
+                    <row>
+                        <entry namest="c1" nameend="c2">Caution</entry>
+                    </row>
+                </thead>
+                <tbody>
+                    <row>
+                        <entry morerows="1"/>
+                        <entry></entry>
+                    </row>
+                    <row>
+                        <entry></entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+        
+        
+        
+        <!--   
+        <topicref keys="wmsg:read_the_manual" href="hzrd_sttmnts/warning_read_manual.svg" format="svg"></topicref>
+        <topicref keys="wmsg:warning_group_safe_install" href="hzrd_sttmnts/wrnng_grp_sfe_instll.svg" format="svg"></topicref>
+        <topicref keys="wmsg:scalding_hazard" href="hzrd_sttmnts/danger_scald_01.svg" format="svg"></topicref>
+        <topicref keys="wmsg:explosion_hazard_overheated_water" href="hzrd_sttmnts/warning_explosion_hazard_overheated_water.svg" format="svg"></topicref>
+        <topicref keys="wmsg:improper_installation_powered_anodes" href="hzrd_sttmnts/caution_improper_installation_powered_anodes.svg" format="svg"></topicref>
+        <topicref keys="wmsg:fire_explosion_gas" href="hzrd_sttmnts/warning_fire_explosion_gas.svg" format="svg"></topicref>
+        <topicref keys="wmsg:CO_insulation_blkts_hazard" href="hzrd_sttmnts/warning_CO_insulation_blkts.svg" format="svg"></topicref>
+        
+        <topicref keys="wmsg:turn_off_power_before_service" href="hzrd_sttmnts/warning_turn_off_power_before_service.svg" format="svg"></topicref>
+        <topicref keys="wmsg:carpet_flood_damage_fire_hazard" href="hzrd_sttmnts/warning_fire_hazard_carpet_flood_damage.svg" format="svg"></topicref>
+        <topicref keys="wmsg:gas_pipedope_leak_test_hazard" href="hzrd_sttmnts/warning_gas_pipedope_leak_test.svg" format="svg"></topicref>
+        <topicref keys="wmsg:gas_exessive_pressure_hazard" href="hzrd_sttmnts/warning_correct_gas_exessive_pressure.svg" format="svg"></topicref>
+        <topicref keys="wmsg:service_jumping_controls_hazard" href="hzrd_sttmnts/warning_service_jumping_controls.svg" format="svg"></topicref>
+        -->
+ 
+ 
+    </conbody>
+</concept>

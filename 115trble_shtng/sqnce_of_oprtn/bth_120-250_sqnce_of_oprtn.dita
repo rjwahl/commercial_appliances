@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><concept xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="concept_kkc_bl4_hbb" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:concept.xsd">
+    <title>Sequence of Operation</title>
+    <shortdesc/>
+    <conbody>
+        <p>Read the Sequence of Operation section below before attempting to correct any operational
+            problems. See <xref keyref="sec:Features_and_Components"/> for the location of various
+            water heater components described below. See also the <xref keyref="sec:Sequence_of_Operation/fig_sequence_of_operation_flow_chart"/>.</p>
+        <!-- The BTH 300-400-500 version includes steps and language that address the blower prover switch, which
+             is not a part of the BTH 120-250 versions. Also, the flow chart is a little different.-->
+        <ol id="ol_rzv_cl4_hbb">
+            <li>When the control system is first powered, during initialization, it displays water
+                heater model information. After a few moments, the control system LCD touch display,
+                which is part of the UIM (user interface module), displays the default screen known
+                as the "Desktop" screen.</li>
+            <li>If the control system determines that the water temperature inside the tank is below
+                the programmed Operating Set Point minus the Differential setting, a heating cycle
+                is activated.</li>
+            <li>The control system then performs selected diagnostic system checks. This includes
+                confirming the low-gas pressure, blocked exhaust, blocked intake and ECO (energy cut
+                out) switch contacts are closed.</li>
+            <li>If all diagnostic checks are successfully passed, the control system energizes the
+                combustion blower for pre-purge.</li>
+            <li>The control system energizes the spark ignition transformer.</li>
+            <li>The control system energizes the 24-volt gas valve, allowing gas to flow to the main
+                burner.</li>
+            <li>The control system monitors the flame sensor to confirm that a flame is present at
+                the main burner. If a flame is not verified during the ignition trial period, the
+                control system trys for ignition up to two more times. If flame can not be verified
+                after three trials for ignition, the control system locks out and displays the
+                “Ignition Failure” fault message.</li>
+            <li>If a flame is verified, the control system de-energizes the spark ignition
+                transformer and enters the heating mode, during which it continues heating the water
+                until the Operating Set Point is reached. At this point, the control system
+                de-energizes the 24-volt gas valve and enters the post-purge cycle (approximately 30
+                seconds).</li>
+            <li>The water heaters covered by this manual are capable of modulating their firing
+                rate. The firing rate is dictated by the hot water draw and various other
+                temperature limitations.</li>
+            <li>The combustion blower runs for the duration of the post-purge cycle to purge the
+                water heater of all combustion gases. When the post-purge cycle is complete, the
+                blower is de-energized and coasts to a stop.</li>
+            <li>The control system now enters the standby mode, while continuing to monitor the
+                internal storage tank water temperature and the state of other system devices. If
+                the tank temperature drops below the Operating Set Point minus the Differential
+                setting, the control system automatically returns to Step 2 and repeats the
+                operating cycle.</li>
+        </ol>
+        <fig id="fig_sequence_of_operation_flow_chart">
+            <title>Sequence of Operation</title>
+            <image keyref="img:sequence_of_operation_operation_flow_chart" id="image_uy4_cm4_hbb" width="500px"/>
+        </fig>
+    </conbody>
+</concept>

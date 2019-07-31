@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><concept xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="concept_nzl_k1d_ybb" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:concept.xsd">
+    <title>Minimum Equivalent Lengths</title>
+    <shortdesc/>
+    <conbody>
+        <section id="section_pgv_l1d_ybb">
+            <title>Four-Inch Pipe</title>
+            <p id="p_sgv_l1d_ybb">The water heaters covered in this manual are certified to a
+                minimum length of four-inch pipe for the vent (exhaust) of 15 equivalent feet (4.6
+                m). There is no minimum equivalent feet requirement for the intake air pipe.</p>
+        </section>
+        <section id="section_qqc_p1d_ybb">
+            <title>Six-Inch Pipe</title>
+            <p id="p_rqc_p1d_ybb">The water heaters covered in this manual are certified to a
+                minimum length of six-inch pipe for the vent (exhaust) of 70 equivalent feet (21.3
+                m). There is no minimum equivalent feet requirement for the intake air pipe.</p>
+        </section>
+    </conbody>
+</concept>

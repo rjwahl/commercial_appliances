@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><concept xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="concept_fr4_bn3_fbb" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:concept.xsd">
+    <title>Factory-Supplied Fittings</title>
+    <shortdesc/>
+    <conbody>
+        <p>The water heater ships with two (2) factory-supplied four-inch terminations (PVC 45°
+            elbows with debris screen). Factory-supplied vent and intake air terminations or
+            concentric- and low-profile terminations must be used. Factory-supplied terminations and
+            installed fittings (exhaust elbow and intake air connection) add zero equivalent feet to
+            the vent and intake air piping.</p>
+        <note>Three-inch vent and/or intake pipe as well as three-inch terminations previously used on older 
+            BTH 300 and 400 models must be replaced with four-inch or six.inch pipe and four-inch or six-inch
+            terminations, depending on installed length</note>
+        <table frame="all" rowsep="1" colsep="1" id="table_PVC_CPVC_plyprpylne_mximm_ft_by_ppe_dmtr_and_nmbr_of_elbws">
+            <title>PVC/CPVC and Polypropylene Maximum Feet by Pipe Diameter and Number of
+                Elbows</title>
+            <tgroup cols="3" align="center">
+                <colspec colname="c1" colnum="1" colwidth="1*"/>
+                <colspec colname="c2" colnum="2" colwidth="1*"/>
+                <colspec colname="c3" colnum="3" colwidth="1*"/>
+                <thead>
+                    <row>
+                        <entry morerows="1" valign="bottom">Number of 90° Elbows Installed</entry>
+                        <entry>Four-Inch Pipe</entry>
+                        <entry>Six-Inch Pipe</entry>
+                    </row>
+                    <row>
+                        <entry>
+                            <p id="p_vxr_zjl_wbb">Maximum Feet (Meters)</p>
+                        </entry>
+                        <entry>
+                            <p id="p_azv_zjl_wbb">Maximum Feet (Meters)</p>
+                        </entry>
+                    </row>
+                </thead>
+                <tbody>
+                    <row>
+                        <entry>One (1)</entry>
+                        <entry>65 feet (19.8 meters)</entry>
+                        <entry>115 feet (35.0 meters)</entry>
+                    </row>
+                    <row>
+                        <entry>Two (2)</entry>
+                        <entry>60 feet (18.2 meters)</entry>
+                        <entry>110 feet (33.5 meters)</entry>
+                    </row>
+                    <row>
+                        <entry>Three (3)</entry>
+                        <entry>55 feet (16.8 meters)</entry>
+                        <entry>105 feet (32.0 meters)</entry>
+                    </row>
+                    <row>
+                        <entry>Four (4)</entry>
+                        <entry>50 feet (15.2 meters)</entry>
+                        <entry>100 feet (30.5 meters)</entry>
+                    </row>
+                    <row>
+                        <entry>Five (5)</entry>
+                        <entry>45 feet (13.7 meters)</entry>
+                        <entry>95 feet (29.0 meters)</entry>
+                    </row>
+                    <row>
+                        <entry>Six (6)</entry>
+                        <entry>40 feet (12.2 meters)</entry>
+                        <entry>90 feet (27.4 meters)</entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+       
+            
+    </conbody>
+</concept>

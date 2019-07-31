@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><concept xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="concept_mjf_q1p_hbb" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:concept.xsd">
+    <title>Fault Conditions</title>
+    <shortdesc/>
+    <conbody>
+        <p>When the control system declares a fault condition, it displays a fault message on the
+            control system screen with an exclamation mark ("!"). The control system locks out and
+            disables heating operation until the condition is corrected. The water heater must be
+            serviced by a qualified service agent before operation can be restored.</p>
+    </conbody>
+</concept>

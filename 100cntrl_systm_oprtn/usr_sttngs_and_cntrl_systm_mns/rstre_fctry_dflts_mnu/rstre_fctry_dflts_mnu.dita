@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><concept xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="concept_lqk_kbh_hbb" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:concept.xsd">
+    <title>Restore Factory Defaults</title>
+    <shortdesc/>
+    <conbody>
+        <p id="p_blv_lbh_hbb">Press Restore Factory Defaults from the Main Menu to enter this
+            menu.</p>
+        <p id="p_clv_lbh_hbb">To restore the adjustable user settings to their factory default
+            settings press “YES.” The display will show text confirming the factory default settings
+            have been restored.</p>
+        <p id="p_dlv_lbh_hbb">Press NO to exit the Restore Factory Defaults menu.</p>
+        <fig id="fig_hfm_4ch_hbb">
+            <title>Restore Factory Defaults Menu</title>
+            <image keyref="img:UIM_restore_factory_defaults_menu" id="image_ifm_4ch_hbb" width="500px"/>
+        </fig>
+    </conbody>
+</concept>

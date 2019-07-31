@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<task id="task_v2g_zfg_ndb" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:task.xsd">
+    <title>Flush the Water Heater Storage Tank</title>
+    <shortdesc></shortdesc>
+    <taskbody>
+        <context>
+            <p></p>
+        </context>
+        <steps-unordered>
+            <step id="step_flush_storage_tank_A">
+                <cmd>Flush the water-heater storage tank to remove sediment and allow the water to
+                    flow until it runs clean.</cmd>
+            </step>
+            <step id="step_flush_storage_tank_B">
+                <cmd>Flush tank to remove sediment.</cmd>
+            </step>
+        </steps-unordered>
+    </taskbody>
+</task>

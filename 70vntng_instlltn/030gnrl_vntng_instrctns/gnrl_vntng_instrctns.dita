@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?><task xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="task_ydv_hxc_fbb" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:task.xsd">
+    <title>General Venting Instructions</title>
+    <shortdesc/>
+    <taskbody>
+        <context>
+            <p>These instructions must be followed on all installations.</p>
+        </context>
+        <steps>
+            <step>
+                <cmd><i outputclass="Emphasis">Do not</i> install the water heater in a Power Vent
+                    configuration unless there is adequate supply of fresh air. 
+                    See <xref keyref="sec:air_requirements"/>. 
+                     If the installation space does not provide an adequate supply of
+                    fresh air the water heater must be installed in a Direct Vent
+                    configuration.</cmd>
+            </step>
+            <step>
+                <cmd>If the water heater is to be installed in a beauty shop, barber shop, cleaning
+                    establishment, a laundry with dry cleaning equipment or any space with
+                    contaminated air it is imperative that the water heater(s) be installed in a
+                    Direct Vent configuration so that all air for combustion is derived from the
+                    outdoor atmosphere.</cmd>
+            </step>
+            <step>
+                <cmd>The vent and intake air piping must terminate outdoors.</cmd>
+            </step>
+            <step>
+                <cmd>The minimum clearance from combustible materials for the vent (exhaust) and
+                    intake air piping shall be 0 inches. Vent piping passing through a combustible
+                    wall or ceiling must be a continuous run (no joints).</cmd>
+            </step>
+            <step>
+                <cmd>The water heater must be protected from freezing downdrafts during shutdown
+                    periods.</cmd>
+            </step>
+            <step>
+                <cmd>The intake air and vent pipes must not be combined with pipes from any other
+                    appliance unless they meet the requirements in the separate manual for common
+                    venting of heaters covered by this manual. See <i><b>Common Vent Kit
+                            Instructions.</b></i></cmd>
+            </step>
+            <step>
+                <cmd>Locate the water heater where the vent (exhaust) and intake air piping will
+                    remain within the maximum equivalent lengths allowed. 
+                    See <xref keyref="sec:Venting_Requirements"/>.</cmd>
+            </step>
+            <step>
+                <cmd>Do not install the vent or intake air piping in a manner that will allow water
+                    to be trapped in the piping.</cmd>
+            </step>
+            <step>
+                <cmd>Vent pipes and air intakes must be pitched a minimum of a 1/4 inch per foot
+                    back to the water heater (to allow drainage of condensate).</cmd>
+            </step>
+            <step>
+                <cmd>Do not anchor the vent or intake air pipe directly to framed walls, floors or
+                    ceilings unless rubber isolation pipe hangers are used to prevent vibration
+                    noise from being transmitted.</cmd>
+            </step>
+            <step>
+                <cmd>Use only approved vent/intake air pipe sizes and materials. 
+                    See <xref keyref="sec:Venting_Requirements"/>.</cmd>
+            </step>
+            <step>
+                <cmd>Use only factory-supplied vent and intake air, concentric or low profile
+                    terminations. 
+                    See <xref keyref="sec:Venting_Requirements"/>.</cmd>
+            </step>
+            <step>
+                <cmd>Do not locate the vent (exhaust) or intake air terminations where they would be
+                    objectionable due to noise at the termination(s). This includes locations close
+                    to or across from windows and doors.</cmd>
+            </step>
+            <step>
+                <cmd>Direct venting into dead air spaces such as alleys, atriums, and inside corners
+                    can cause recirculation of flue gases. Recirculation of flue gases will cause
+                    sooting, premature failure of the heat exchanger and icing of the combustion air
+                    intake during severe cold weather. To prevent the recirculation of flue gases,
+                    maintain as much distance as possible between the intake air and vent
+                    terminations.</cmd>
+            </step>
+            <step>
+                <cmd>Do not locate the vent termination over a public area where condensate or vapor
+                    can cause a nuisance or ice hazard.</cmd>
+            </step>
+            <step>
+                <cmd>Ensure the screens in the factory supplied terminations are securely installed
+                    to prevent blockage in the vent system.</cmd>
+            </step>
+            <step>
+                <cmd>Stress levels in pipe/fittings can be significantly increased by improper
+                    installation. If rigid pipe clamps are used to hold the pipe in place, or if the
+                    pipe cannot move freely through a wall penetration, the pipe may be stressed, or
+                    high thermal stresses may be formed when the pipe heats up and expands. Install
+                    accordingly to minimize such stresses.</cmd>
+            </step>
+            <step>
+                <cmd>Ensure the intake air connection Tee fitting is oriented properly, see page
+                    Intake Air Connection section for instructions.</cmd>
+            </step>
+            <step>
+                <cmd>Carefully read the <xref keyref="sec:Venting_Requirements"/> and then proceed to 
+                    <xref keyref="sec:Venting_Installation_Sequence"/>.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><task xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="task_llg_5b5_gbb" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:task.xsd">
+    <title>Gas Line Leak Test</title>
+    <taskbody>
+        <context>
+            <p>Any time work is done on the gas-supply system, perform a leak test to avoid the
+                possibility of fire or explosion.</p>
+            <p id="p_btf_rc5_gbb"><hazardstatement conkeyref="wmsg:fire_or_explosion_hazard-leak_test">
+                <messagepanel>
+                    <typeofhazard/>
+                    <consequence/>
+                    <howtoavoid/>
+                </messagepanel>
+                <hazardsymbol/>
+            </hazardstatement></p>
+        </context>
+        <steps>
+            <step>
+                <cmd>For test pressures exceeding 1/2 psi (3.45 kPa), disconnect the water heater
+                    and its Main Gas Shutoff valve from the gas-supply piping system during testing.
+                    See <xref keyref="sec:Supply_Gas_Line_Installation/fig_supply_gas_line_installation"/>. 
+                    The gas-supply line must be capped when disconnected from the water heater.</cmd>
+            </step>
+            <step>
+                <cmd>For test pressures of 1/2 psi (3.45 kpa) or less, the water heater need not be
+                    disconnected, but must be isolated from the supply-gas line by closing the Main
+                    Gas Shutoff valve during testing.</cmd>
+            </step>
+            <step>
+                <cmd>Paint all supply-gas line joints and connections upstream of the water heater
+                    with a rich soap-and-water solution to test for leaks. Bubbles indicate a gas
+                    leak. Do not use matches, candles, flame, or other sources of ignition for this
+                    purpose.</cmd>
+            </step>
+            <step>
+                <cmd>Repair any leaks before placing the water heater in operation.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

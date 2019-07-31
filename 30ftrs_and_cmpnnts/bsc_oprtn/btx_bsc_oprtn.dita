@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<concept id="concept_wgf_ngj_rdb" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:concept.xsd">
+    <title>Basic Operation</title>
+    <shortdesc></shortdesc>
+    <conbody>
+        <p>The water heaters covered in this manual are heated with a burner below the tank</p>
+    </conbody>
+</concept>

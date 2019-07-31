@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><concept xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="concept_gyd_zyg_hbb" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:concept.xsd">
+    <title>Fault History</title>
+    <shortdesc/>
+    <conbody>
+        <!-- The bth 300-400-500 and bth 120-250 have different UIM versions.-->
+        <table frame="all" rowsep="1" colsep="1" id="table_twl_pcx_1cb">
+            <title>Fault History</title>
+            <tgroup cols="2" align="left">
+                <colspec colname="c1" colnum="1" colwidth="1*"/>
+                <colspec colname="c2" colnum="2" colwidth="1*"/>
+                <thead>
+                    <row>
+                        <entry>Description/Action</entry>
+                        <entry>Display</entry>
+                    </row>
+                </thead>
+                <tbody>
+                    <row>
+                        <entry>
+                            <p id="p_yhk_1zg_hbb">Select <uicontrol>Fault History</uicontrol> from
+                                the Main menu to enter this menu. This menu contains non adjustable
+                                operational information. Use the <uicontrol>Up</uicontrol> and
+                                    <uicontrol>Down</uicontrol> buttons to navigate the menu.</p>
+                            <p id="p_zhk_1zg_hbb">This menu contains a list of the last nine fault
+                                and alert messages with a time stamp. The newest event will replace
+                                the oldest. </p>
+                            <p id="p_a3k_1zg_hbb">Select any item in the list and press the
+                                multifunction button under <uicontrol>VIEW</uicontrol> to view
+                                details for that Fault or Alert message.</p>
+                        </entry>
+                        <entry><image keyref="img:UIM_fault_history_menu" id="image_jp1_4zg_hbb" width="500px"/></entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+    </conbody>
+</concept>

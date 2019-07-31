@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><concept xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="concept_wm4_gqc_bbb" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:concept.xsd">
+    <title>Air Requirements</title>
+    <shortdesc/>
+    <conbody>
+        <p id="p_hnl_hqc_bbb">For safe operation an adequate supply of fresh uncontaminated air for
+            combustion and ventilation must be provided.</p>
+        <p id="p_inl_hqc_bbb">An insufficient supply of air can cause recirculation of combustion
+            products resulting in contamination that may be hazardous to life. Such a condition
+            often will result in a yellow, luminous burner flame, causing sooting of the combustion
+            chamber, burners and flue tubes and creates a risk of asphyxiation.</p>
+        
+        <hazardstatement conkeyref="wmsg:warning_brthng_hzrd_CO2_installation">
+            <messagepanel id="messagepanel_g4z_kqc_bbb">
+                <typeofhazard/>
+                <howtoavoid/>
+            </messagepanel>
+        </hazardstatement>
+        <p id="p_lfv_lqc_bbb">Do not install the water heater in a confined space unless an adequate
+            supply of air for combustion and ventilation is brought in to that space using the
+            methods described in the Confined Space section that follows. </p>
+        <p id="p_mfv_lqc_bbb">Never obstruct the flow of ventilation air. If you have any doubts or
+            questions at all, call your gas supplier. Failure to provide the proper amount of
+            combustion air can result in a fire or explosion and cause property damage, serious
+            bodily injury or death.</p>
+    </conbody>
+</concept>

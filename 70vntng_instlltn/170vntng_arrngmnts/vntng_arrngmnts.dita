@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><concept xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="concept_zkd_kfl_gbb" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:concept.xsd">
+    <title>Venting Arrangements</title>
+    <shortdesc/>
+    <conbody>
+        <table frame="all" rowsep="1" colsep="1" id="table_cp4_nfl_gbb">
+            <tgroup cols="3" align="center">
+                <colspec colname="c1" colnum="1" colwidth="1*"/>
+                <colspec colname="c2" colnum="2" colwidth="1*"/>
+                <colspec colname="c3" colnum="3" colwidth="1*"/>
+                <tbody>
+                    <row>
+                        <entry>
+                            <fig id="fig_pwr_vnt_vrtcl">
+                                <title>Power Vent - Vertical</title>
+                                <image keyref="img:vent_configurations_power_vent_vertical" id="image_vsl_btl_gbb" width="300px"/>
+                            </fig>
+                        </entry>
+                        <entry>
+                            <fig id="fig_pwr_vnt_hrzntl">
+                                <title>Power Vent - Horizontal</title>
+                                <image keyref="img:vent_configurations_power_vent_horizontal" id="image_a4q_d5l_gbb" width="300px"/>
+                            </fig>
+                        </entry>
+                        <entry>
+                            <fig id="fig_drct_vnt_vrtcl">
+                                <title>Direct Vent - Vertical</title>
+                                <image keyref="img:vent_configurations_direct_vent_vertical" id="image_sfx_v5l_gbb" width="300px"/>
+                            </fig>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry>
+                            <fig id="fig_drct_vnt_hrzntl">
+                                <title>Direct Vent - Horizontal</title>
+                                <image keyref="img:vent_configurations_direct_vent_horizontal" id="image_ukh_qqm_gbb" width="300px"/>
+                            </fig>
+                        </entry>
+                        <entry>
+                            <fig id="fig_drct_vnt_vrtcl_vnt_wth_hrzntl_intke">
+                                <title>Direct Vent - Vertical Vent with Horizontal Intake</title>
+                                <image keyref="img:vent_configurations_direct_vent_vertical_vent_w_horizontal_intake" id="image_tgg_tqm_gbb" width="300px"/>
+                            </fig>
+                        </entry>
+                        <entry>
+                            <fig id="fig_drct_vnt_hrzntl_vnt_vrtcl_intke">
+                                <title>Direct Vent - Horizontal Vent Vertical Intake</title>
+                                <image keyref="img:vent_configurations_direct_vent_horizontal_vent_vert_intake" id="image_spw_wqm_gbb" width="300px"/>
+                            </fig>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry>
+                            <fig id="fig_drct_vnt_vrtcl_cncntrc">
+                                <title>Direct Vent - Vertical Concentric</title>
+                                <image keyref="img:vent_configurations_direct_vent_vertical_concentric" id="image_izn_fcm_gbb" width="300px"/>
+                            </fig>
+                        </entry>
+                        <entry>
+                            <fig id="fig_drct_vnt_hrzntl_cncntrc">
+                                <title>Direct Vent - Horizontal Concentric</title>
+                                <image keyref="img:vent_configurations_direct_vent_horizontal_concentric" id="image_mmg_2dm_gbb" width="300px"/>
+                            </fig>
+                        </entry>
+                        <entry>
+                            <fig id="fig_drct_vnt_hrzntl_low_prfle">
+                                <title>Direct Vent - Horizontal Low Profile</title>
+                                <image keyref="img:vent_configurations_direct_vent_horizontal_low_profile" id="image_qlg_k2m_gbb" width="300px"/>
+                            </fig>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry namest="c1" nameend="c3"><p outputclass="Table-Footnote">*Direct Vent combustion air intake drains
+                            are required in certain situations. See <xref keyref="sec:Direct_Vent_Air_Intake_Moisture_Protection"/>.</p></entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+    </conbody>
+</concept>

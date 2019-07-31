@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<task id="task_sck_hxf_ndb" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:task.xsd">
+    <title>Close the Water Heater Drain Valve</title>
+    <shortdesc></shortdesc>
+    <taskbody>
+        <context>
+            <p></p>
+        </context>
+        <steps-unordered>
+            <step id="step_close_drain_valve_A">
+                <cmd>Close the water-heater drain valve when all water in the storage tank has
+                    drained.</cmd>
+            </step>
+            <step id="step_close_drain_valve_B">
+                <cmd>Close the drain valve.</cmd>
+            </step>
+            <step id="step_close_drain_valve_C">
+                <cmd>Close the water-heater drain valve when flushing is completed.</cmd>
+            </step>
+            <step id="step_close_drain_valve_D">
+                <cmd>Close the drain valve when finished flushing.</cmd>
+            </step>
+        </steps-unordered>
+    </taskbody>
+</task>

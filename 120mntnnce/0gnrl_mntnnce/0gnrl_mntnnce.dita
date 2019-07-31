@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><concept xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="concept_bgv_btp_hbb" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:concept.xsd">
+    <title>General Maintenance</title>
+    <shortdesc/>
+    <conbody>
+        <p id="p_evt_dtp_hbb">Keep the water heater area clear and free from combustible materials,
+            gasoline, and other flammable vapors and liquids. See <xref keyref="sec:Locating_the_Water_Heater"/>.</p>
+        <p id="p_fvt_dtp_hbb">Water heater maintenance includes periodic tank flushing and cleaning,
+            and removal of lime scale. The water heater should be inspected and adjusted to maintain
+            proper combustion. 
+            See <xref keyref="sec:Initial_Start_Up"/>. 
+            A periodic inspection of the venting system should be made. 
+            See <xref keyref="sec:Maintenance_Precautions/table_maintenance_schedule"/>. 
+            Where used, water circulating pump(s) should be oiled according to the pump 
+            manufacturers recommendations.</p>
+    </conbody>
+</concept>

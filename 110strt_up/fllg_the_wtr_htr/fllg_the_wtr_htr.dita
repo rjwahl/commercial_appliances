@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><task xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="task_rtp_xlh_hbb" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:task.xsd">
+    <title>Filling the Water Heater</title>
+    <shortdesc/>
+    <taskbody>
+        <context>
+            <p>Follow these steps to fill the water heater prior to start up.</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Close the heater drain valve.</cmd>
+            </step>
+            <step>
+                <cmd>Open a nearby hot water faucet to permit air in system to escape.</cmd>
+            </step>
+            <step>
+                <cmd>Fully open the cold water inlet valve allowing the piping and water heater to
+                    fill with water.</cmd>
+            </step>
+            <step>
+                <cmd>Observe the hot water faucet opened in Step 2 and close it when water starts to
+                    flow.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

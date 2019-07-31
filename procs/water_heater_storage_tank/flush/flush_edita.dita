@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<task id="task_flush_water_heater_e" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:task.xsd" props="flush storage tank"
+    otherprops="electrically powered, electrically heated, drain hose">
+    <title>Flush Water Heater Storage Tank</title>
+    <taskbody>
+        <steps>
+            <step
+                conref="../../../proc_steps/electrical_power_supply/turn_off.dita#task_fcs_xbk_mdb/step_elctrcl_pwr_off3"
+                id="step_Untitled5_dys_lyt_ndb">
+                <cmd/>
+            </step>
+            <step
+                conref="../../../proc_steps/drain_hose/attach.dita#task_hvg_svf_ndb/step_attach_hose_to_drain_valve_B"
+                id="step_Untitled5_vjr_ryt_ndb">
+                <cmd/>
+            </step>
+            <step
+                conref="../../../proc_steps/drain_valve/open.dita#task_u3l_v3f_ndb/step_open_drain_valve_H"
+                id="step_Untitled5_ty1_vyt_ndb">
+                <cmd/>
+            </step>
+            <step
+                conref="../../../proc_steps/drain_valve/conditional_steps.dita#task_fgm_ttf_ndb/step_conditional_steps_q35_yyt_ndb"
+                id="step_flush_d_xtm_2zt_ndb">
+                <cmd/>
+            </step>
+            <step
+                conref="../../../proc_steps/drain_valve/close.dita#task_sck_hxf_ndb/step_close_drain_valve_C"
+                id="step_flush_d_ftm_hzt_ndb">
+                <cmd/>
+            </step>
+            <step
+                conref="../../../proc_steps/drain_hose/remove.dita#task_kww_f1g_ndb/step_remove_drain_hose_B"
+                id="step_flush_d_p4x_nzt_ndb">
+                <cmd/>
+            </step>
+            <step
+                conref="../../../proc_steps/electrical_power_supply/turn_on.dita#task_lnq_2wj_mdb/step_trn_elctrcl_pwr0"
+                id="step_flush_d_wgg_szt_ndb">
+                <cmd/>
+            </step>
+        </steps>
+        <!-- Originally some of these steps were combined with other steps in the same sentence
+             or as bulleted items underneith.-->
+    </taskbody>
+</task>

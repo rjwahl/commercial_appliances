@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><concept xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="concept_vg3_1fz_kbb" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:concept.xsd">
+    <title>Extended Vent Terminations</title>
+    <shortdesc/>
+    <conbody>
+        <p id="p_q3v_bfz_kbb">The water heaters covered by this manual can be installed using
+            four-inch pipe for the intake air and/or vent piping up to a maximum of 70 equivalent
+            feet (21.3 m). The intake air and/or vent piping can be extended up to 120 equivalent
+            feet (36.5 m) by installing six-inch pipe. See the <xref keyref="sec:Venting_Requirements"/>. </p>
+        <p id="p_r3v_bfz_kbb">The water heater ships from the factory with two (2) four-inch
+            terminations that are 45° PVC elbows with a debris screen installed. When six-inch intake
+            air or vent pipe is installed, factory supplied six-inch terminations must be used. </p>
+        <p id="p_s3v_bfz_kbb">Contact your local distributor or call the parts department phone
+            number listed on the back cover of this manual to order six-inch termination(s).</p>
+    </conbody>
+</concept>

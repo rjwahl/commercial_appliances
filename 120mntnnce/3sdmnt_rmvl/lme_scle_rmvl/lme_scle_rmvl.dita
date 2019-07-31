@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><concept xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="concept_lv5_scq_hbb" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:concept.xsd">
+    <title>Lime Scale Removal</title>
+    <shortdesc/>
+    <conbody>
+        <p id="p_qbv_tcq_hbb">When water is heated, dissolved minerals in the water, such as calcium
+            and magnesium carbonate (lime scale), become less soluble. As the water temperature
+            rises, these minerals precipitate or “fall out” of solution.</p>
+        <p id="p_rbv_tcq_hbb">The amount of lime scale released from water is in direct proportion
+            to water temperature and usage. The higher the water temperature or water usage, the
+            more lime deposits are dropped out of the water.</p>
+        <p id="p_sbv_tcq_hbb">Water hardness also affects lime scale accumulation. With the
+            temperature and usage being the same, hard water  releases more lime scale than softer
+            water.</p>
+        <p id="p_tbv_tcq_hbb">Lime scale reduces heating efficiency as it accumulates inside a water
+            heater. Heating transfer surfaces become coated with lime scale deposits, which
+            increases fuel costs to operate the water heater. Lime scale deposits can also cause
+            rumbling and pounding noises as air molecules, trapped in the lime scale, escape when
+            heated. Lime scale accumulation also reduces the life span of water heaters. For these
+            reasons, a regular schedule for deliming should be set up.</p>
+        <p id="p_ubv_tcq_hbb">The depth of lime accumulation in the bottom of the water heater
+            should be measured periodically. Inspect by removing the cleanout cover once every six
+            months at first. Deliming maintenance should then be performed based on the time it
+            takes for 1 inch (2.5 cm) of lime to accumulate in the bottom of the water heater.</p>
+        <p id="p_vbv_tcq_hbb">Sediment and lime scale removal may be accomplished manually through
+            the cleanout opening furnished on the water heater. See <xref keyref="sec:Lime_Scale_Removal/fig_cleanout_access"/>. </p>
+        <fig id="fig_cleanout_access">
+            <title>Cleanout Access</title>
+            <image keyref="img:cleanout_access" id="image_xby_fdq_hbb" width="500px"/>
+        </fig>
+    </conbody>
+</concept>

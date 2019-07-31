@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><concept xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="concept_kj1_4qc_bbb" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:concept.xsd">
+    <title>Unconfined Space</title>
+    <shortdesc/>
+    <conbody>
+        <p id="p_yh2_pqc_bbb">An Unconfined Space is one whose volume is not less than 50 cubic feet
+            per 1,000 Btu/hr (4.8 cubic meters per kW) of the total input rating of all appliances
+            installed in the space. Rooms communicating directly with the space, in which the
+            appliances are installed, through openings not furnished with doors, are considered a
+            part of the unconfined space.</p>
+        <p id="p_zh2_pqc_bbb">Makeup air requirements for the operation of exhaust fans, kitchen
+            ventilation systems, clothes dryers and fireplaces shall also be considered in
+            determining the adequacy of a space to provide combustion, ventilation and dilution
+            air.</p>
+    </conbody>
+</concept>

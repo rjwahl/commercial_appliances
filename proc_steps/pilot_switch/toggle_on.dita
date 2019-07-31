@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<task id="task_toggle_pilot_switch_on" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:task.xsd">
+    <title>Turning On the Pilot Switch</title>
+    <taskbody>
+        <steps-unordered>
+            <step id="step_toggle_pilot_switch_on_A">
+                <cmd>Turn on the pilot toggle switch.</cmd>
+            </step>
+            <step id="step_toggle_pilot_switch_on_B">
+                <cmd>Turn on the pilot toggle switch on the water heater.</cmd>
+            </step>
+        </steps-unordered>
+    </taskbody>
+</task>

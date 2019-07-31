@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><concept xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="concept_c5x_hrv_1bb" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:concept.xsd">
+    <title>Power Supply</title>
+    <shortdesc/>
+    <conbody>
+        <p>The water heaters covered in this manual require a 120-VAC, 1Ø (single-phase), 60-Hz,
+            15-amp power supply and must also be electrically grounded in accordance with local
+            codes or, in the absence of local codes, with the <i outputclass="Cite">National
+                Electrical Code</i>, <i outputclass="Cite">ANSI/NFPA 70</i> or the <i outputclass="Cite">Canadian Electrical Code, CSA C22.1</i>.</p>
+    </conbody>
+</concept>

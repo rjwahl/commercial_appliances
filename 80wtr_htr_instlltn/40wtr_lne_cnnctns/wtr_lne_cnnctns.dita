@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><concept xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="concept_ifg_kl5_gbb" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:concept.xsd">
+    <title>Water Line Connections</title>
+    <shortdesc/>
+    <conbody>
+        <p id="p_kdg_ll5_gbb">The water piping installation must conform to these instructions and
+            to all local and national code authority having jurisdiction. Good practice requires
+            that all heavy piping be supported.</p>
+        <p id="p_ldg_ll5_gbb">Read and observe all requirements in the following sections before
+            beginning installation of the water piping:</p>
+        <ol id="ol_aw4_ll5_gbb">
+            <li><xref keyref="sec:Mixing_Valves"/>.</li>
+            <li><xref keyref="sec:Dish_Washing_Machines"/>.</li>
+            <li><xref keyref="sec:Temperature_Pressure_Relief_Valve"/>.</li>
+            <li><xref keyref="sec:Thermal_Expansion"/> and <xref keyref="sec:Closed_Water_Systems"/>.</li>
+            <li>For multiple water heater installations, see <xref keyref="sec:Water_Piping_Diagrams"/>.</li>
+        </ol>
+    </conbody>
+</concept>

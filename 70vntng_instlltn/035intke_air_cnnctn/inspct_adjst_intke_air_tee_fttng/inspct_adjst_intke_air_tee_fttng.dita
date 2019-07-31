@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><task xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="inspct_adjst_intke_air_tee_fttng" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:task.xsd">
+    <title>Inspect/Adjust Intake Air Tee Fitting</title>
+    <shortdesc/>
+    <taskbody>
+        <context>
+            <p>Inspect the angle of the Tee fitting's 1/2 inch branch and hose barb while viewing
+                from the end of the Tee. 
+                See <xref keyref="sec:Intake_Air_Connection/fig_cnnctng_the_intake_air_assmbly"/>. 
+                If the angle of the Tee fitting 1/2 inch branch and hose barb is lower than shown, 
+                adjustment will be necessary. To adjust the intake air Tee fitting angle follow 
+                the steps listed below.</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Ensure the water heater is turned off at the on/off switch on the front of the
+                     water heater.</cmd>
+            </step>
+            <step>
+                <cmd>Disconnect the Blocked Intake Air switch sensing tube. 
+                    See <xref keyref="sec:Components_Top_View/fig_top_view"/> for the location.</cmd>
+            </step>
+            <step>
+                <cmd>Loosen the large hose clamp on the Fernco coupling that connects the intake air
+                     connection pipe to the Combustion blower. 
+                     See <xref keyref="sec:Intake_Air_Connection/fig_ornttn_of_intke_air_tee_fttngs"/>.</cmd>
+            </step>
+            <step>
+                <cmd>Adjust the angle of the Tee fitting so that the 1/2 inch branch and hose barb
+                     are at the proper angle as shown in 
+                    <xref keyref="sec:Intake_Air_Connection/fig_cnnctng_the_intake_air_assmbly"/>.</cmd>
+            </step>
+            <step>
+                <cmd>Retighten the large hose clamp on the Combustion Blower intake air Fernco
+                     coupling.</cmd>
+            </step>
+            <step>
+                <cmd>Reconnect the Blocked Intake Air switch sensing tube making sure the sensing
+                     tube is securely connected at both ends and is not kinked.</cmd>
+            </step>
+        </steps>
+        <example>
+            <fig id="fig_intke_air_cnnctn_ppe">
+                <title>Intake Air Connection Pipe</title>
+                <image keyref="img:Intake_Air_Connection_Pipe" id="image_tq4_4b3_fbb" width="500px"/>
+            </fig>
+        </example>
+    </taskbody>
+</task>

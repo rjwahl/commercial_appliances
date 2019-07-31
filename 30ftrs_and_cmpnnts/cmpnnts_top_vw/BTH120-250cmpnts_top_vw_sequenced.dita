@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><concept xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="concept_lwp_mcj_t1b" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:concept.xsd">
+    <title>Components - Top View</title>
+    <shortdesc/>
+    <conbody>
+        <fig id="fig_top_veiw">
+            <title>Components - Top View</title>
+            <image keyref="img:Top_View" id="image_ivv_5fj_t1b" width="500px"/>
+        </fig>
+        <ol><li>Water Heater’s Enable/Disable Switch. When in the "Disabled" position the switch removes
+                electrical power from the gas valve so that water heating is disabled. The display,
+                CCB, and other electrical components will still be energized and the display will
+                read "<uicontrol>Water Heating Disabled"</uicontrol>.<note type="important">The
+                    Enable/Disable switch listed in this manual is NOT an "on/off" switch and does
+                    not disconnect 120 volt power to the CCB and other heater
+                components.</note></li>
+            <li>Water outlet connection 1 1/2” NPT.</li>
+            <li>Temperature-Pressure Relief Valve. See <xref keyref="sec:Temperature_Pressure_Relief_Valve"/>.</li>
+            <li>Central Control Board (CCB) enclosure. This enclosure houses the control system’s
+                main circuit board, power supply board, power transformer, and configuration key.
+                The CCB regulates water temperature and controls all water heater functions. See
+                    <xref keyref="sec:Control_System_Operation"/>.</li>
+            <li>Combustion Blower Assembly includes a Gas Valve and Venturi gas feed system.</li>
+            <li>Spark Ignition Transformer. When energized, sends the electrical current to the
+                spark igniter.</li>
+            <li>Powered anode rods. The water heaters covered in this manual are equipped with powered (non sacrificial) anode rods. The BTH 120 has one powered anode, all other models will have two. Protective current is fed by the control system to the titanium electrodes at the end of each anode rod. This current flows through the water to the conductive surfaces inside the storage tank which diminishes the corrosive effect of water when it comes in contact with steel.</li>
+            <li>120-VAC junction box. Incoming power supply, ground connections, and other field
+                installed electrical connections are made here. See <xref keyref="sec:Power_Supply"/> and
+                <xref keyref="sec:Power_Supply_Connections"/>.</li>
+            <li>Water heater's 24-volt gas valve.</li>
+            <li>Supply gas line connection. See the requirements for gas supply systems in <xref keyref="sec:Gas_Supply_Systems">Gas Supply Systems</xref>.</li>
+            <li>Low Gas Pressure switch. Normally open contacts that close on a rise in pressure.
+                This switch is used to insure supply gas pressure is above minimum requirements. The
+                control system monitors this switch and will disable heating operation if its
+                contacts are open during a heating cycle. See the gas pressure requirements listed
+                in <xref keyref="sec:Rough_In_Dimensions/table_gas_prssre_rqrmnts"/>.</li>
+            <li>Intake air connection - three-inch PVC.</li>
+            <li>Blocked Intake Air switch. Normally closed contacts that open on fall in pressure. This switch is used to insure intake (combustion) air to the water heater is not restricted. The control system monitors this switch and will disable heating operation if its contacts are open during a heating cycle.</li>
+            <li>Blocked Exhaust (vent) switch. Normally closed contacts that open on a rise in
+                pressure. This switch is used to insure the Exhaust (vent) piping connected to the
+                water heater is not restricted. The control system monitors this switch and will
+                disable heating operation if its contacts are open during a heating cycle.</li>
+            <li>Vent connection (exhaust / condensate elbow) - three-inch aluminum.</li>
+            <li>Upper Temperature Probe, 1 of 2 temperature probes. The water heater’s control
+                system monitors this probe to detect water temperature in the upper portion of the
+                storage tank. The Upper Temperature Probe also houses the Energy Cut-Out switch
+                (ECO). This is a non adjustable high temperature limit switch. The ECO switch
+                contacts are normally closed and will open on a temperature rise. See <xref keyref="sec:High_Temperature_Limit_Control_(ECO)">High Temperature Limit Control
+                    (ECO)</xref>.</li>
+            <li>UIM (user interface module). The UIM includes the display circuit board and the
+                control system’s LCD Touch Display. Used to adjust various user settings and view
+                operational information. See <xref keyref="sec:Control_System_Operation"/>.</li>
+        </ol>
+    </conbody>
+</concept>

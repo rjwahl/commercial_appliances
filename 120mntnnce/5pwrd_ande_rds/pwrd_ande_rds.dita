@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><concept xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="concept_g3b_dfq_hbb" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:concept.xsd">
+    <title>Powered Anode Rods</title>
+    <shortdesc/>
+    <conbody>
+        <p>To insure a long, trouble-free operating life, the water heaters covered in this manual
+            are factory-equipped with a powered anode system. The anode rod(s) are of a permanent
+            design and do not need replacing unless damaged. Inspection and cleaning should be
+            performed once a year.</p>
+        <note>Follow the instructions to drain the water heater storage tank in <xref keyref="sec:Draining_the_Water_Heater_Storage_Tank"/> first. Remove the powered
+            anodes from the water heater by loosening the 3/4" NPT bushing that forms the top of the
+            anodes. Do not disassemble the retaining nut and wire terminal from the top while
+            installed in the water heater. The anode's electrode could fall inside the tank. Remove
+            the entire anode rod from the water heater prior to inspection. Clean the anode rods
+            with a soft cloth and reinstall. Follow the instructions for filling the water heater in
+                <xref keyref="sec:Filling_the_Water_Heater"/> when finished.</note>
+    </conbody>
+</concept>

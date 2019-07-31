@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:map.xsd">
+    <title></title>
+    
+    <!-- Graphical Warning Messages -->
+    <topicref keys="wmsg:wrnng-read_the_manual" href="../../grphcs/warning_messages/warning_read_manual.svg" format="svg" processing-role="resource-only"/>
+    <topicref keys="wmsg:warning_group_safe_install" href="../../grphcs/warning_messages/warning_group_safe_install_0.svg" format="svg" processing-role="resource-only"/>
+    <topicref keys="wmsg:explosion_hazard_overheated_water" href="hzrd_sttmnts/warning_explosion_hazard_overheated_water.svg" format="svg" processing-role="resource-only"/>
+    <topicref keys="wmsg:improper_installation_powered_anodes" href="hzrd_sttmnts/caution_improper_installation_powered_anodes.svg" format="svg" processing-role="resource-only"/>
+    <topicref keys="wmsg:warning_explosion_hazard_hydrogen_gas" href="hzrd_sttmnts/warning_explosion_hazard_hydrogen_gas.svg" format="svg" processing-role="resource-only"/> 
+    <topicref keys="wmsg:turn_off_power_before_service" href="hzrd_sttmnts/warning_turn_off_power_before_service.svg" format="svg" processing-role="resource-only"/>
+    <topicref keys="wmsg:do_not_operate_if" href="hzrd_sttmnts/caution_do_not_operate_if.svg" format="svg" processing-role="resource-only"/>
+    <topicref keys="wmsg:fire_or_explosion_hazard-general" href="hzrd_sttmnts/warning_fre_and_explsn_hzrd_general.svg" format="svg" processing-role="resource-only"/>
+    
+    <!-- Fire Hazard    warning_correct_gas_exessive_pressure.svg-->
+    <topicref keys="wmsg:carpet_flood_damage_fire_hazard" href="hzrd_sttmnts/warning_fire_hazard_carpet_flood_damage.svg" format="svg" processing-role="resource-only"/>
+    <topicref keys="wmsg:fire_explosion_gas" href="hzrd_sttmnts/warning_fire_explosion_leaked_gas.svg" format="svg" processing-role="resource-only"/>
+    <topicref keys="wmsg:fire_explosion_leaked_gas" href="hzrd_sttmnts/warning_fire_explosion_leaked_gas.svg" format="svg" processing-role="resource-only"/>
+    
+    
+    <!-- Breathing Hazard  -->
+    <topicref keys="wmsg:warning_breathing_hazard_CO_vent_install" href="hzrd_sttmnts/hzrd_sttmnts.dita#brthg_hzrd-CO_vent_installation" format="dita" processing-role="resource-only"/>
+    <topicref keys="wmsg:warning_breathing_hazard_CO2_long" href="hzrd_sttmnts/warning_breathing_hazard_CO2_long.svg" format="svg" processing-role="resource-only"/>
+    <topicref keys="wmsg:warning_breathing_hazard_CO2_short" href="hzrd_sttmnts/warning_breathing_hazard_CO2_short.svg" format="svg" processing-role="resource-only"/>
+    <topicref keys="wmsg:warning_breathing_hazard_CO2_installation" href="hzrd_sttmnts/warning_breathing_hazard_CO2_installation.svg" format="svg" processing-role="resource-only"/>
+    <topicref keys="wmsg:warning_breathing_hazard_CO2_operation" href="hzrd_sttmnts/warning_breathing_hazard_CO2_operation.svg" format="svg" processing-role="resource-only"/>  
+    <topicref keys="wmsg:warning_breathing_hazard_CO2_condensate_line" href="hzrd_sttmnts/warning_breathing_hazard_CO2_condensate_line.svg" format="svg" processing-role="resource-only"/>
+    <topicref keys="wmsg:warning_breathing_hazard_CO2_insulation_blkts" href="hzrd_sttmnts/warning_CO_insulation_blkts.svg" format="svg" processing-role="resource-only"/>
+    <topicref keys="wmsg:warning_breathing_hazard_condensate_line" href="hzrd_sttmnts/warning_breathing_hazard_condensate_line.svg" format="svg" processing-role="resource-only"/>
+    <topicref keys="wmsg:gas_pipedope_leak_test_hazard" href="hzrd_sttmnts/warning_gas_pipedope_leak_test.svg" format="svg" processing-role="resource-only"/>
+    <topicref keys="wmsg:gas_exessive_pressure_hazard" href="hzrd_sttmnts/warning_correct_gas_exessive_pressure.svg" format="svg" processing-role="resource-only"/>
+    
+    <!-- Property Damage Hazard -->    
+    <topicref keys="wmsg:warning_property_damage_hazard_heaters_leak" href="hzrd_sttmnts/caution_prop_dam_leak_drain.svg" format="svg" processing-role="resource-only"/>
+    <topicref keys="wmsg:caution_prop_dam_leak_drain" href="hzrd_sttmnts/caution_prop_dam_leak_drain.svg" format="svg" processing-role="resource-only"/>
+    
+</map>

@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="sfty_lbles" xml:lang="en-us">
+    <title>Safety Labels</title>
+    <shortdesc>The safety lables that appear in this manual.</shortdesc>
+    <prolog>
+        <metadata>
+            <keywords>
+                <indexterm>safety labels</indexterm>
+            </keywords>
+        </metadata>
+    </prolog>
+    <conbody>
+    	<hazardstatement conkeyref="wmsg:burn_hazard-hot_water">
+    		<messagepanel>
+    			<typeofhazard></typeofhazard>
+    			<consequence></consequence>
+    			<howtoavoid></howtoavoid>
+    		</messagepanel>
+    		<hazardsymbol/>
+    	</hazardstatement>
+    	
+    	<hazardstatement conkeyref="wmsg:fire_or_explosion_hazard-hydrogen">
+    		<messagepanel>
+    			<typeofhazard></typeofhazard>
+    			<consequence></consequence>
+    			<howtoavoid></howtoavoid>
+    		</messagepanel>
+    		<hazardsymbol/>
+    	</hazardstatement>
+    	
+    	<hazardstatement conkeyref="wmsg:read_manual">
+    		<messagepanel>
+    			<typeofhazard></typeofhazard>
+    			<consequence></consequence>
+    			<howtoavoid></howtoavoid>
+    		</messagepanel>
+    		<hazardsymbol/>
+    	</hazardstatement>
+
+    	<hazardstatement conkeyref="wmsg:wrnng-explsn_hzrd-overheated_wtr">
+    		<messagepanel>
+    			<typeofhazard></typeofhazard>
+    			<consequence></consequence>
+    			<howtoavoid></howtoavoid>
+    		</messagepanel>
+    		<hazardsymbol/>
+    	</hazardstatement>
+
+    	<hazardstatement conkeyref="wmsg:burn_hazard-hot_water">
+    		<messagepanel>
+    			<typeofhazard></typeofhazard>
+    			<consequence></consequence>
+    			<howtoavoid></howtoavoid>
+    		</messagepanel>
+    		<hazardsymbol/>
+    	</hazardstatement>
+ 
+ 
+    	<hazardstatement conkeyref="wmsg:burn_hazard-TP_valve">
+    		<messagepanel>
+    			<typeofhazard></typeofhazard>
+    			<consequence></consequence>
+    			<howtoavoid></howtoavoid>
+    		</messagepanel>
+    		<hazardsymbol/>
+    	</hazardstatement>
+    	
+    	
+
+ 
+ 
+    	<hazardstatement conkeyref="wmsg:caution_prprty_dmge_hzrd-improper_installation">
+    		<messagepanel>
+    			<typeofhazard></typeofhazard>
+    			<consequence></consequence>
+    			<howtoavoid></howtoavoid>
+    		</messagepanel>
+    		<hazardsymbol/>
+    	</hazardstatement>
+    	
+    	<hazardstatement conkeyref="wmsg:wrnng-elctrcl_shck-mntnnce">
+    		<messagepanel>
+    			<typeofhazard></typeofhazard>
+    			<consequence></consequence>
+    			<howtoavoid></howtoavoid>
+    		</messagepanel>
+    		<hazardsymbol/>
+    	</hazardstatement>
+    	
+    	<hazardstatement conkeyref="wmsg:warning_brthng_hzrd_CO2_long">
+    		<messagepanel>
+    			<typeofhazard></typeofhazard>
+    			<consequence></consequence>
+    			<howtoavoid></howtoavoid>
+    		</messagepanel>
+    		<hazardsymbol/>
+    	</hazardstatement>	 
+
+    	<hazardstatement conkeyref="wmsg:fre_or_explsn_hzrd-flmble_strge_long">
+    		<messagepanel>
+    			<typeofhazard></typeofhazard>
+    			<consequence></consequence>
+    			<howtoavoid></howtoavoid>
+    		</messagepanel>
+    		<hazardsymbol/>
+    	</hazardstatement>	    
+    	
+    	<hazardstatement conkeyref="wmsg:fire_or_explosion_hazard">
+    		<messagepanel>
+    			<typeofhazard></typeofhazard>
+    			<consequence></consequence>
+    			<howtoavoid></howtoavoid>
+    		</messagepanel>
+    		<hazardsymbol/>
+    	</hazardstatement>	    		
+
+    	<hazardstatement conkeyref="wmsg:brthg_hzrd-insuation_blanket">
+    		<messagepanel>
+    			<typeofhazard></typeofhazard>
+    			<consequence></consequence>
+    			<howtoavoid></howtoavoid>
+    		</messagepanel>
+    		<hazardsymbol/>
+    	</hazardstatement>	    	
+    	
+    	<hazardstatement conkeyref="wmsg:caution_property_damage_leakage">
+    		<messagepanel>
+    			<typeofhazard></typeofhazard>
+    			<consequence></consequence>
+    			<howtoavoid></howtoavoid>
+    		</messagepanel>
+    		<hazardsymbol/>
+    	</hazardstatement>	    	
+
+
+    	<hazardstatement conkeyref="wmsg:wrnng-elctrcl_shck-mntnnce">
+    		<messagepanel>
+    			<typeofhazard></typeofhazard>
+    			<consequence></consequence>
+    			<howtoavoid></howtoavoid>
+    		</messagepanel>
+    		<hazardsymbol/>
+    	</hazardstatement>	    	
+
+
+    	<hazardstatement conkeyref="wmsg:fre_hzrd-carpet_flood_damage">
+    		<messagepanel>
+    			<typeofhazard></typeofhazard>
+    			<consequence></consequence>
+    			<howtoavoid></howtoavoid>
+    		</messagepanel>
+    		<hazardsymbol/>
+    	</hazardstatement>	    	
+    	
+    	
+    	<hazardstatement conkeyref="wmsg:fire_or_explosion_hazard-leak_test">
+    		<messagepanel>
+    			<typeofhazard></typeofhazard>
+    			<consequence></consequence>
+    			<howtoavoid></howtoavoid>
+    		</messagepanel>
+    		<hazardsymbol/>
+    	</hazardstatement>	    	
+    	
+    	
+    	
+    	
+    	<hazardstatement conkeyref="wmsg:fire_or_explosion_hazard-gas">
+    		<messagepanel>
+    			<typeofhazard></typeofhazard>
+    			<consequence></consequence>
+    			<howtoavoid></howtoavoid>
+    		</messagepanel>
+    		<hazardsymbol/>
+    	</hazardstatement>	    	
+    	
+    	
+    	
+    	
+    	
+    	<hazardstatement conkeyref="wmsg:service_jumping_controls_hazard">
+    		<messagepanel>
+    			<typeofhazard></typeofhazard>
+    			<consequence></consequence>
+    			<howtoavoid></howtoavoid>
+    		</messagepanel>
+    		<hazardsymbol/>
+    	</hazardstatement>	    	
+    	
+    	
+    	
+    	
+    	
+    	<hazardstatement conkeyref="wmsg:explosion_hazard-TP_valve">
+    		<messagepanel>
+    			<typeofhazard></typeofhazard>
+    			<consequence></consequence>
+    			<howtoavoid></howtoavoid>
+    		</messagepanel>
+    		<hazardsymbol/>
+    	</hazardstatement>	    	
+    	
+    	
+    	
+    	
+    	<hazardstatement conkeyref="wmsg:explosion_hazard-prssre_rlf_valve">
+    		<messagepanel>
+    			<typeofhazard></typeofhazard>
+    			<consequence></consequence>
+    			<howtoavoid></howtoavoid>
+    		</messagepanel>
+    		<hazardsymbol/>
+    	</hazardstatement>	    	
+    	
+    	
+    	
+    	   	
+    	<hazardstatement conkeyref="wmsg:caution_water_damage-TP_valve">
+    		<messagepanel>
+    			<typeofhazard></typeofhazard>
+    			<consequence></consequence>
+    			<howtoavoid></howtoavoid>
+    		</messagepanel>
+    		<hazardsymbol/>
+    	</hazardstatement>	    	
+    	
+    	
+    	
+    	
+    	
+    	
+    	<hazardstatement conkeyref="wmsg:warning_brthng_hzrd_CO2_installation">
+    		<messagepanel>
+    			<typeofhazard></typeofhazard>
+    			<consequence></consequence>
+    			<howtoavoid></howtoavoid>
+    		</messagepanel>
+    		<hazardsymbol/>
+    	</hazardstatement>	    	
+    	
+    	
+    	
+    	
+    	
+    	<hazardstatement conkeyref="wmsg:explosion_hazard-overfiring">
+    		<messagepanel>
+    			<typeofhazard></typeofhazard>
+    			<consequence></consequence>
+    			<howtoavoid></howtoavoid>
+    		</messagepanel>
+    		<hazardsymbol/>
+    	</hazardstatement>	    	
+    	
+    	
+    	
+    	<hazardstatement conkeyref="wmsg:breathing_hazard-overfiring">
+    		<messagepanel>
+    			<typeofhazard></typeofhazard>
+    			<consequence></consequence>
+    			<howtoavoid></howtoavoid>
+    		</messagepanel>
+    		<hazardsymbol/>
+    	</hazardstatement>	    	
+    	
+    	<hazardstatement conkeyref="wmsg:property_damage_hazard-TP_valve">
+    		<messagepanel>
+    			<typeofhazard></typeofhazard>
+    			<consequence></consequence>
+    			<howtoavoid></howtoavoid>
+    		</messagepanel>
+    		<hazardsymbol/>
+    	</hazardstatement>	    	
+
+
+    	<hazardstatement conkeyref="wmsg:property_damage_hazard-prssre_rlf_valve">
+    		<messagepanel>
+    			<typeofhazard></typeofhazard>
+    			<consequence></consequence>
+    			<howtoavoid></howtoavoid>
+    		</messagepanel>
+    		<hazardsymbol/>
+    	</hazardstatement>	    	
+    	
+
+
+    	<hazardstatement conkeyref="wmsg:caution_prprty_dmge_hzrd-improper_install_short">
+    		<messagepanel>
+    			<typeofhazard></typeofhazard>
+    			<consequence></consequence>
+    			<howtoavoid></howtoavoid>
+    		</messagepanel>
+    		<hazardsymbol/>
+    	</hazardstatement>	    	
+    	
+   
+
+    	<hazardstatement conkeyref="wmsg:explosion_hazard-over_heated_water">
+    		<messagepanel>
+    			<typeofhazard></typeofhazard>
+    			<consequence></consequence>
+    			<howtoavoid></howtoavoid>
+    		</messagepanel>
+    		<hazardsymbol/>
+    	</hazardstatement>	    	
+    	
+    	
+    	
+    	<hazardstatement conkeyref="wmsg:burn_hazard-water_heater_internals">
+    		<messagepanel>
+    			<typeofhazard></typeofhazard>
+    			<consequence></consequence>
+    			<howtoavoid></howtoavoid>
+    		</messagepanel>
+    		<hazardsymbol/>
+    	</hazardstatement>	    	
+    	
+    	
+    	
+    	
+    	<hazardstatement conkeyref="wmsg:caution_water_damage-prssre_rlf_valve">
+    		<messagepanel>
+    			<typeofhazard></typeofhazard>
+    			<consequence></consequence>
+    			<howtoavoid></howtoavoid>
+    		</messagepanel>
+    		<hazardsymbol/>
+    	</hazardstatement>	    	
+    	
+    	
+    	
+    	
+    	
+    	<hazardstatement conkeyref="wmsg:warning_fre_and_explsn_hzrd_general">
+    		<messagepanel>
+    			<typeofhazard></typeofhazard>
+    			<consequence></consequence>
+    			<howtoavoid></howtoavoid>
+    		</messagepanel>
+    		<hazardsymbol/>
+    	</hazardstatement>	    	
+    	
+    	
+    	
+    	
+    	   	
+    </conbody>
+</concept>

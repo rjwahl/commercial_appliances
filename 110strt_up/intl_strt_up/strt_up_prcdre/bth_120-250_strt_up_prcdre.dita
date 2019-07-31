@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><task xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="task_y2n_5mh_hbb" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:task.xsd">
+    <title>Start-Up Procedure</title>
+    <shortdesc/>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Using the control system menus, change the Operating Set Point to the lowest
+                    temperature setting. 
+                    See <xref keyref="sec:Operating_Set_Point_and_Differential_Adjustment"/>.</cmd>
+            </step>
+            <step>
+                <cmd>Turn the water heater’s Enable/Disable switch to the Disabled position.</cmd>
+            </step>
+            <step>
+                <cmd>Close the Main Gas Shut Off valve, see <xref keyref="sec:Supply_Gas_Line_Installation/fig_supply_gas_line_installation"/>.</cmd>
+            </step>
+            <step>
+                <cmd>Wait five (5) minutes for any residual gas to clear.</cmd>
+            </step>
+            <step>
+                <cmd>Connect the manometer to the supply gas pressure port on the gas valve. 
+                    See <xref keyref="sec:Start_Up_Procedure/fig_gas_valve_venturi_assembly_top_view"/>
+                    and <xref keyref="sec:Start_Up_Procedure/fig_gas_valve_top_detail_view"/>.</cmd>
+            </step>
+            <step>
+                <cmd>The manometer tubing should be purged before taking any readings.</cmd>
+                <substeps id="substeps_ebg_gnh_hbb">
+                    <substep>
+                        <cmd>Water heaters covered by this manual have test ports for supply and
+                            manifold gas pressure readings on the gas valve. Using a small flat tip
+                            pocket screw driver - open the needle valve inside the supply gas
+                            pressure test port one full turn only.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Turn the needle valve screw counter-clockwise to open the valve. </cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Slide the manometer sensing tube over the top of the test port. 
+                            See <xref keyref="sec:Start_Up_Procedure/fig_gas_valve_venturi_assembly_top_view"/>
+                            and <xref keyref="sec:Start_Up_Procedure/fig_gas_valve_top_detail_view"/>.</cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd>Open the Main Gas Shutoff valve.</cmd>
+            </step>
+            <step>
+                <cmd>Measure and record the supply gas pressure. This is a “static” supply gas
+                    pressure reading taken while the water heater is not firing. Adjust supply gas
+                    pressure as necessary. See <xref keyref="sec:Initial_Start_Up"/>.</cmd>
+                <info>
+                    <fig id="fig_gas_valve_venturi_assembly_top_view">
+                        <title>Gas Valve/Venturi Assembly - Top View</title>
+                        <image keyref="img:gas_valve_venturi_assembly_top_view" id="image_x13_c4h_hbb" width="500px"/>
+                    </fig>
+                    <fig id="fig_gas_valve_top_detail_view">
+                        <title>Gas Valve Top Detail View</title>
+                        <image keyref="img:gas_valve_venturi_assembly_test_port_detail_view" id="image_ylr_n4h_hbb" width="500px"/>
+                    </fig>
+                    <fig id="fig_gas_valve_venturi_assembly_side_view">
+                        <title>Gas Valve/Venturi Assembly Side View</title>
+                        <image keyref="img:gas_valve_venturi_assembly_side_view" id="image_a2g_1ph_hbb" width="500px"/>
+                    </fig>
+                </info>
+            </step>
+        </steps>
+    </taskbody>
+</task>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><concept xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="concept_skf_2rc_bbb" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:concept.xsd">
+    <title>Direct Vent Appliances</title>
+    <shortdesc/>
+    <conbody>
+        <p>Appliances installed in a Direct Vent configuration that derive all air for combustion
+            from the outdoor atmosphere through sealed intake air piping are not factored in the
+            total appliance input Btu/hr calculations used to determine the size of openings
+            providing fresh air into confined spaces.</p>
+    </conbody>
+</concept>

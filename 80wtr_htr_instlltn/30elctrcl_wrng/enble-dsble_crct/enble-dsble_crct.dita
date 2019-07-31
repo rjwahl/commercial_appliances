@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><concept xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="concept_qxm_x35_gbb" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:concept.xsd">
+    <title>Enable/Disable Circuit</title>
+    <shortdesc/>
+    <prolog>
+        <author type="contributor">rjwahl</author>
+        <critdates>
+            <!--rjwahl-->
+            <revised modified="2019/01/02"/>
+        </critdates>
+    </prolog>
+    <conbody>
+        <p id="p_tjm_y35_gbb">The water heaters covered in this manual are equipped with an
+            enable/disable circuit for use with field-supplied external supervisory controls, such
+            as time clocks or <b>Building Management Systems</b>. The enable/disable circuit may be
+            used to disable heating operation during periods when the building is unoccupied or
+            there is no demand for hot water. </p>
+        <p id="p_ujm_y35_gbb">To use the enable/disable circuit, it must first be
+                activate<sup>d</sup> by selecting the <uicontrol>Use External Enable</uicontrol>
+            from the UIM. Field-supplied wiring is then installed between the water heater’s central
+            control board (CCB) and a set of “dry contacts” (no voltage or load) on the field
+            supplied external control.</p>
+        <note>The water heater’s enable/disable circuit is a switching circuit only: Do not apply
+            external voltage or connect any load (IE: relay coil) to this circuit. This will damage
+            the CCB circuit board and is not covered under the limited warranty. See <cite>Commercial
+            Water Heater Limited Warranty (page 76).</cite></note>
+    </conbody>
+</concept>

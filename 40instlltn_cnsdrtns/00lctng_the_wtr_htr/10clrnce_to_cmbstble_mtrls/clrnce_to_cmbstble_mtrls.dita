@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><concept xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="concept_j2q_5jb_fbb" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:concept.xsd">
+    <title>Clearance to Combustible Materials</title>
+    <shortdesc/>
+    <conbody>
+        <p id="p_ifd_wjb_fbb">The water heaters covered in this manual are approved for installation
+            on combustible flooring. The clearance to combustible and non combustible construction
+            materials is zero inches on the back and sides of the water heater. These water heaters
+            are also approved for installation in an alcove.</p>
+        <p id="p_jfd_wjb_fbb">When the water heater is installed directly on carpeting, the water
+            heater shall be installed on a metal or wood panel extending beyond the full width and
+            depth of the water heater by at least three inches (76.2 mm) in any direction or, if the
+            water heater is installed in an alcove or closet, the entire floor shall be covered by
+            the panel. The panel must be strong enough to carry the weight of the heater when full
+            of water.</p>
+        <note type="note">Adequate clearance for servicing should be maintained on all
+            installations. See Service Clearance (page 12).</note>
+        <fig id="fig_clearances_to_construction_materials">
+            <title>Clearances to Construction Materials</title>
+            <image keyref="img:cyclone_clearances-construction_materials" id="image_hvt_yp3_hbb" width="600px"/>
+        </fig>
+    </conbody>
+</concept>

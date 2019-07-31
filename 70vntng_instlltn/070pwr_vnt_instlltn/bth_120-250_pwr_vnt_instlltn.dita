@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><task xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="pwr_vnt_instlltn" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:task.xsd">
+    <title>Power Vent Installation</title>
+    <shortdesc/>
+    <taskbody>
+        <context>
+            <p/>
+        </context>
+        <steps>
+            <step>
+                <cmd>Read the <xref keyref="sec:General_Venting_Instructions"/> 
+                    and <xref keyref="sec:Venting_Requirements"/> before proceeding. 
+                    These instructions and requirements must be followed in
+                    addition to the instructions below that are specific for Power Vent
+                    configurations</cmd>
+            </step>
+            <step>
+                <cmd>Determine which Power Vent arrangement will be used for the installation;
+                    vertical or horizontal termination. 
+                    See <xref keyref="sec:Venting_Arrangements/fig_pwr_vnt_vrtcl"/> 
+                    and <xref keyref="sec:Venting_Arrangements/fig_drct_vnt_hrzntl"/>.</cmd>
+            </step>
+            <step>
+                <cmd>Determine the vent pipe size for the installation. 
+                    See <xref keyref="sec:Venting_Requirements"/>.</cmd>
+            </step>
+            <step>
+                <cmd>Plan the layout of the vent piping backwards from the termination point
+                    outdoors to the water heater. Layout the vent piping to use a minimum of pipe
+                    and elbows.</cmd>
+            </step>
+            <step>
+                <cmd>nstall the termination first.</cmd>
+                <info>
+                    <ul id="ul_i44_nfj_fbb">
+                        <li>If the vent piping will terminate vertically, through a roof. 
+                            See <xref keyref="sec:Vertical_Termination_Installation"/>.</li>
+                        <li>If the vent piping will terminate horizontally, through a sidewall.
+                            See <xref keyref="sec:Sidewall_Termination_Installation"/>.</li>
+                    </ul>
+                </info>
+            </step>
+            <step>
+                <cmd>When installation of the termination is complete install necessary piping and
+                    fittings to route the vent piping back to the water heater.</cmd>
+            </step>
+            <step>
+                <cmd>The vent pipe shall be supported properly to avoid bending or failure. The
+                    water heater manufacturer recommends that the vent pipe be supported every five
+                    feet (152 cm) of vertical run and every three feet (91 cm) of horizontal
+                    run.</cmd>
+            </step>
+            <step>
+                <cmd>Do not install the vent piping in a manner that will allow water to be trapped
+                    in the piping.</cmd>
+                <info><fig id="fig_power_vent_exhaust_connection">
+                    <title>Power Vent (Exhaust) Connection</title>
+                    <image keyref="img:Exhaust_Vent_Connection" id="image_amp_tgj_fbb" width="500px"/>
+                </fig></info>
+            </step>
+            <step>
+                <cmd>All vent (exhaust) pipes shall be pitched a minimum of a 1/4 inch per foot back
+                    to the water heater (to allow drainage of condensate).</cmd>
+            </step>
+            <step>
+                <cmd>If installing three-inch vent pipe, connect the vent pipe to the exhaust elbow
+                    on the water heater.</cmd>
+            </step>
+            <step>
+                <cmd>If installing two- or four-inch pipe, transition to three-inch pipe at the
+                    exhaust elbow on the water heater as shown in 
+                    <xref keyref="sec:Power_Vent_Installation/fig_power_vent_exhaust_connection"/>. 
+                    The field-installed three-inch pipe between the exhaust elbow and the reducer coupling
+                    should be 18 inches (45 cm) or less in length.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

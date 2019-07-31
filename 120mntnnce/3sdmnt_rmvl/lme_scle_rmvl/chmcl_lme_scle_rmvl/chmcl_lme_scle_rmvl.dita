@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><concept xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="concept_szh_l2q_hbb" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:concept.xsd">
+    <title>Chemical Lime Scale Removal</title>
+    <shortdesc/>
+    <conbody>
+        <p id="p_yf4_m2q_hbb">To dissolve and remove more stubborn lime scale deposits, <tm tmtype="reg">UN-LIME</tm> Professional Delimer should be used. </p>
+        <p id="p_zf4_m2q_hbb"><tm tmtype="reg">UN-LIME</tm> Professional Delimer is an
+            easy-to-handle, patented, food-grade acid, formulated specifically for lime-scale
+            removal from all types of water-using equipment. Hydrochloric-base acids must not be
+            used to delime the water heaters covered in this manual.</p>
+        <p id="p_ag4_m2q_hbb">Follow the instructions on the <tm tmtype="reg">UN-LIME</tm> container
+            to delime the water heater.</p>
+        <note>Call the parts department phone number on the back cover of this manual to order <tm tmtype="reg">UN-LIME</tm> Professional Delimer. 
+            See <xref keyref="sec:Chemical_Lime_Scale_Removal/table_UNLIME_Delimer_Part_Numbers"/>
+            for part numbers.</note>
+        <table frame="all" rowsep="1" colsep="1" id="table_UNLIME_Delimer_Part_Numbers">
+            <title><tm tmtype="reg">UN-LIME</tm> Delimer Part Numbers</title>
+            <tgroup cols="2" align="center">
+                <colspec colname="c1" colnum="1" colwidth="1*"/>
+                <colspec colname="c2" colnum="2" colwidth="1*"/>
+                <thead>
+                    <row>
+                        <entry><p outputclass="Table-Column-Head">Part Number</p></entry>
+                        <entry><p outputclass="Table-Column-Head">Description</p></entry>
+                    </row>
+                </thead>
+                <tbody>
+                    <row>
+                        <entry><p outputclass="Table-Cell">100110459</p></entry>
+                        <entry><p outputclass="Table-Cell">4 - 1 gallon (case)</p></entry>
+                    </row>
+                    <row>
+                        <entry><p outputclass="Table-Cell">100110460</p></entry>
+                        <entry><p outputclass="Table-Cell">1 - 5 gallon</p></entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+    </conbody>
+</concept>

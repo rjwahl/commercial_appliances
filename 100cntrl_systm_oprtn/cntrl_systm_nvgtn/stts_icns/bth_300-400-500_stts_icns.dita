@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?><concept xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="concept_nbt_321_hbb" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:concept.xsd">
+    <title>Status Icons</title>
+    <shortdesc/>
+<!-- The bth 300-400-500 has an additional icon for the Blower-Prover switch. Otherwise the table is the same for both.-->
+    <conbody>
+        <p>The Status Icons are displayed on the Desktop screen and convey operational and
+            diagnostic information. The icons are described in the table below.</p>
+        <table frame="all" rowsep="1" colsep="1" id="table_status_icons">
+            <title>Status Icons</title>
+            <tgroup cols="2" align="center">
+                <colspec colname="c1" colnum="1" colwidth="1*"/>
+                <colspec colname="c2" colnum="2" colwidth="4*"/>
+                <thead>
+                    <row>
+                        <entry><p outputclass="Table-Column-Head">Icon</p></entry>
+                        <entry><p outputclass="Table-Column-Head">Description</p></entry>
+                    </row>
+                </thead>
+                <tbody>
+                    <row>
+                        <entry><p outputclass="Table-Cell-Centered"><image keyref="icn:falling_temperature" id="image_uw2_bh1_hbb" height="40pt"/></p></entry>
+                        <entry><p outputclass="Table-Cell-Left">Water temperature in the tank has fallen. Shaded area of the
+                                animated thermometer icon will rise and fall in response to water
+                                temperature in the storage tank as sensed from the Upper and Lower
+                                Temperature Probes. See <xref keyref="sec:Components_Top_View/fig_top_view"/> and <xref keyref="sec:Components_Side_Views/fig_components_side_view"/>
+                                 for location for location of temperature probes.</p></entry>
+                    </row>
+                    <row>
+                        <entry><p outputclass="Table-Cell-Centered"><image keyref="icn:at_setpoint_temperature" id="image_xxn_fl1_hbb" height="40pt"/></p></entry>
+                        <entry><p outputclass="Table-Cell-Left">Water temperature in the tank has reached the Operating Set Point.
+                                The control system enters the Standby mode.</p></entry>
+                    </row>
+                    <row>
+                        <entry><p outputclass="Table-Cell-Centered"><image keyref="icn:unable_to_heat" id="image_w3g_141_hbb" height="40pt"/></p></entry>
+                        <entry><p outputclass="Table-Cell-Left">The control is unable to initiate a heating cycle. This will happen
+                                whenever a Fault condition is detected by the control system or when
+                                the Enable/Disable switch on front panel is in disable position or
+                                Building Management system Enable/Disable circuit is an open
+                                circuit. Display will read "Status: Water Heating Disabled." For
+                                more information see <xref keyref="sec:Enable_Disable_Circuit"/>.</p></entry>
+                    </row>
+                    <row>
+                        <entry><p outputclass="Table-Cell-Centered"><image keyref="icn:combustion_blower_reenergized" id="image_w1k_bq1_hbb" height="40pt"/></p></entry>
+                        <entry><p outputclass="Table-Cell-Left">The Combustion Blower is being energized.</p></entry>
+                    </row>
+                    <row>
+                        <entry><p outputclass="Table-Cell-Centered"><image keyref="icn:blower_prover_switch_close"/></p></entry>
+                        <entry>The Blower Prover pressure switch contacts have closed. The check
+                            mark icon is visual confirmation of contact closure. 
+                            See <xref keyref="sec:Blower_Burner_Assembly_Detail/fig_blower_burner_components"/> for Blower Prover Switch
+                            location.</entry>
+                    </row>
+                    <row>
+                        <entry><p outputclass="Table-Cell-Centered"><image keyref="icn:spark_ignitier_energized" id="image_fcj_yq1_hbb" height="40pt"/></p></entry>
+                        <entry><p outputclass="Table-Cell-Left">The Spark Igniter is being energized. 
+                            See <xref keyref="sec:Blower_Burner_Assembly_Detail/fig_blower_burner_components"/> for Spark Igniter location.</p></entry>
+                    </row>
+                    <row>
+                        <entry><p outputclass="Table-Cell-Centered"><image keyref="icn:24_volt_gas_valve_energized" id="image_eqv_vr1_hbb" height="40pt"/></p></entry>
+                        <entry><p outputclass="Table-Cell-Left">The 24-volt gas valve is being energized.</p></entry>
+                    </row>
+                    <row>
+                        <entry><p outputclass="Table-Cell-Centered"><image keyref="icn:flame_detected" id="image_zsn_hz1_hbb" height="40pt"/></p></entry>
+                        <entry><p outputclass="Table-Cell-Left">The control system has sensed flame at the Main Burner from the
+                                flame sensor. See the flow chart in <xref keyref="sec:Sequence_of_Operation"/> and
+                               <xref keyref="sec:Blower_Burner_Assembly_Detail/fig_blower_burner_components"/>.</p></entry>
+                    </row>
+                    <row>
+                        <entry><p outputclass="Table-Cell-Centered"><image keyref="icn:fault_detected" id="image_cwz_m1b_hbb" height="40pt"/></p></entry>
+                        <entry><p outputclass="Table-Cell-Left">The control system has declared a Fault condition and must be
+                                inspected/serviced by a Qualified Service Agent. Fault message
+                                details can be viewed in the Current Fault menu. Heating operation
+                                is disabled (lock out) until the condition that caused the Fault is
+                                corrected. Power to the water heater must be cycled off and on at
+                                the breaker to reset the control system.</p>
+                            <note>Cycling power will not reset the control system if the condition
+                                that caused the Fault has not been corrected.</note></entry>
+                    </row>
+                    <row>
+                        <entry><p outputclass="Table-Cell-Centered"><image keyref="icn:alert_detected" id="image_y1s_x1b_hbb" height="40pt"/></p></entry>
+                        <entry><p outputclass="Table-Cell-Left">The control system has declared an Alert condition and must be
+                                inspected/serviced by a Qualified Service Agent. The water heater
+                                will continue to operate during an Alert condition.</p></entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+    </conbody>
+</concept>

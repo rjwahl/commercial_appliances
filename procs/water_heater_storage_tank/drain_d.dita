@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<task id="task_rb4_jwl_ndb" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:task.xsd"
+    otherprops="electrically powered, electrically heated, cool-down flush, drain hose heated,"
+    props="drain storage tank">
+    <title>Draining the Water Heater</title>
+    <taskbody>
+        <steps>
+            <step
+                conref="../../proc_steps/hot_water_faucet/open.dita#task_cmr_rb2_ndb/step_open_hot_faucet_C"
+                id="step_drain_d_egl_bxl_ndb">
+                <cmd/>
+            </step>
+            <step
+                conref="../../proc_steps/hot_water_faucet/open.dita#task_cmr_rb2_ndb/step_open_hot_faucet_C"
+                id="step_drain_d_rmm_cxl_ndb">
+                <cmd/>
+            </step>
+            <step
+                conref="../../proc_steps/drain_hose/attach.dita#task_hvg_svf_ndb/step_attach_hose_to_drain_valve_B"
+                id="step_drain_b_a2t_jtl_ndb">
+                <cmd/>
+            </step>
+            <step
+                conref="../../proc_steps/hot_water_faucet/open.dita#task_cmr_rb2_ndb/step_open_hot_faucet_A"
+                id="step_drain_c_o15_lvl_ndb">
+                <cmd/>
+            </step>
+            <step
+                conref="../../proc_steps/drain_valve/open.dita#task_u3l_v3f_ndb/step_open_drain_valve_C"
+                id="step_drain_c_pgk_nvl_ndb">
+                <cmd/>
+            </step>
+            <step
+                conref="../../proc_steps/drain_valve/conditional_steps.dita#task_fgm_ttf_ndb/step_if_extended_shutdown"
+                id="step_drain_b_ihq_m5l_ndb">
+                <cmd/>
+            </step>
+        </steps>
+    </taskbody>
+</task>

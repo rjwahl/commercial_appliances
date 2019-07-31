@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><concept xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="concept_ufq_2th_hbb" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:concept.xsd">
+    <title>Supply Gas Pressure Adjustment</title>
+    <shortdesc/>
+    <conbody>
+        <p>Supply gas pressure shall be measured while the water heater is not firing (static
+            pressure) and while the water heater is firing at full capacity (dynamic pressure).</p>
+        <p id="p_ugv_kth_hbb">      
+            <hazardstatement conkeyref="wmsg:fire_or_explosion_hazard-gas">
+            <messagepanel>
+                <typeofhazard/>
+                <consequence/>
+                <howtoavoid/>
+            </messagepanel>
+            <hazardsymbol/>
+        </hazardstatement></p>
+        <p id="p_knn_tth_hbb">If the supply gas pressure to the water heater is not between the
+            required minimum and maximum values given in 
+            <xref keyref="sec:Rough_In_Dimensions/table_gas_prssre_rqrmnts"/> adjust the supply gas
+            regulator as necessary. Adjust the supply gas regulator(s) per the regulator
+            manufacturer’s instructions to achieve the required “static” and “dynamic” supply gas
+            pressure.</p>
+    </conbody>
+</concept>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><concept xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="concept_wm5_blw_1bb" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:concept.xsd">
+    <title>Dish-washing Machines</title>
+    <shortdesc/>
+    <conbody>
+        <p id="p_avj_2lw_1bb">All dish-washing machines meeting the National Sanitation Foundation
+            requirements are designed to operate with water flow pressures between 15 and 25 pounds
+            per square inch (103 kPa and 173 kPa). Flow pressures above 25 pounds per square inch
+            (173 kPa), or below 15 pounds per square inch (103 kPa), will result in improperly
+            sanitized dishes. Where pressures are high, a water pressure reducing or flow regulating
+            control valve should be used in the 180°F (82°C) line to the dish-washing machine and
+            should be adjusted to deliver water pressure between these limits.</p>
+        <p id="p_w3m_ylw_1bb">The National Sanitation Foundation also recommends circulation of
+            180°F (82°C) water. The circulation should be just enough to provide 180°F (82°C) water
+            at the point of take-off to the dish-washing machine. </p>
+        <p id="p_x3m_ylw_1bb">Adjust flow by throttling a full port ball valve installed in the
+            circulating line on the outlet side of the pump. Never throttle flow on the suction side
+            of a pump. See the <xref keyref="sec:Water_Piping_Diagrams"/>.</p>
+        <note id="p_y3m_ylw_1bb" type="note">Note: To comply with <i outputclass="Cite">NSF Standard 5 installation requirements,</i> the
+            the bottom of the water heater must be sealed to the floor with a silicone based sealant or
+            elevated 6 inches above the floor.</note>
+    </conbody>
+</concept>

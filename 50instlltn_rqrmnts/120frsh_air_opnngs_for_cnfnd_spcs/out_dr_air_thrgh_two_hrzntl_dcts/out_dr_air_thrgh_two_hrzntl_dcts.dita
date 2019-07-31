@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><concept xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="concept_u4m_ybr_mbb" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:concept.xsd">
+    <title>Outdoor Air through Two Horizontal Ducts</title>
+    <shortdesc/>
+    <conbody>
+        <p id="p_ux3_ccr_mbb">The confined space shall be provided with two permanent horizontal
+            ducts, one commencing within 12 inches (300 mm) of the top and one commencing within 12
+            inches (300 mm) of the bottom of the enclosure. The horizontal ducts shall communicate
+            directly with the outdoors. 
+            See <xref keyref="sec:Outdoor_Air_Through_Two_Horizontal_Ducts/fig_out_dr_air_thrgh_two_hrzntl_dcts"/>.</p>
+        <p id="p_vx3_ccr_mbb">Each duct opening shall have a minimum free area of 1 square inch per
+            2,000 Btu/hr (1100 mm2 per kW) of the aggregate input rating of all appliances installed
+            in the enclosure.</p>
+        <p id="p_wx3_ccr_mbb">When ducts are used, they shall be of the same cross sectional area as
+            the free area of the openings to which they connect. The minimum dimension of
+            rectangular air ducts shall be not less than 3 inches. </p>
+        <fig id="fig_out_dr_air_thrgh_two_hrzntl_dcts">
+            <title>Outdoor Air through Two Horizontal Ducts</title>
+            <image keyref="img:air_req_outdoor_two_hrzntl_dcts" id="image_kbp_2cr_mbb" width="500px"/>
+        </fig>
+    </conbody>
+</concept>

@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?><task xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="sde_wll_trmntn_instlltn" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:task.xsd">
+    <title>Sidewall Termination Installation</title>
+    <shortdesc/>
+    <taskbody><!-- The bth 120-250 and bth 300-400-500 versions of this topic are identical except for the pipe sizes in step 7 and the mention of included wall plates (second paragraph of step 9 in the bth 120-250 version) that is only mentioned in the bth 120-250 version.-->
+        <steps>
+            <step>
+                <cmd>Determine the location for the termination(s).</cmd>
+            </step>
+            <step>
+                <cmd>If installing only vent (exhaust) piping in a <i>power vent</i> configuration through
+                    a sidewall, ensure that all exterior sidewall clearance requirements for the
+                    termination, shown in 
+                    <xref keyref="sec:Termination_Clearances_Sidewall_Power_Vent/fig_trmntn_clrncs_for_pwr_vnt_usng_rm_air"/>, 
+                    are being maintained. These clearances and those cited by local and national codes
+                    must be maintained.</cmd>
+            </step>
+            <step>
+                <cmd>If installing both the intake air and the vent piping in a <i>direct vent</i>
+                    configuration through a sidewall, ensure that all exterior sidewall clearance
+                    requirements for the terminations, shown in 
+                    <xref keyref="sec:Termination_Clearances_Sidewall_Direct_Vent/fig_trmntn_clrnces_for_drct_vnt_usng_otsde_air"/>
+                    for the vent and the intake air termination, are being maintained. These clearances and
+                    those cited by local and national codes must be maintained.</cmd>
+            </step>
+            <step>
+                <cmd>If installing both an intake air and vent termination in a <i>direct vent</i>
+                    configuration through a sidewall, there must be a minimum of 24 inches (61 cm)
+                    separation, measured on vertical center line, between the intake air and vent
+                    terminations. 
+                    See <xref keyref="sec:Sidewall_Termination_Installation/fig_sde_wll_trmntns_drct_vnt"/>.</cmd>
+                <info>
+                    <note>In colder climates, this separation should be increased to at least 48
+                        inches (122 cm) between the intake air and vent termination or any other
+                        appliance vent that discharges moisture-laden air, such as clothes dryers.
+                        This will reduce the possibility of frost over from side winds blowing exhaust
+                        vapors to the intake air termination. This is recommended for Canadian
+                        installations. 
+                        See <xref keyref="sec:Vertical_Termination_Installation/fig_vrtcl_trmntn_flt_rf_clrnce_intke_exhst"/>.
+                    </note>
+                </info>
+            </step>
+            <step>
+                <cmd>If installing both intake air and vent terminations in a <i>direct vent</i>
+                    configuration through a sidewall, the intake air and vent terminations must be
+                    installed at the same elevation measured on the horizontal center line. 
+                    See <xref keyref="sec:Sidewall_Termination_Installation/fig_sde_wll_trmntns_drct_vnt"/>.</cmd>
+                <info>
+                    <fig id="fig_sde_wll_trmntns_drct_vnt">
+                        <title>Side-Wall Terminations - Direct Vent</title>
+                        <image keyref="img:direct_vent_sidewall_terminations" id="image_cmr_nxq_fbb" width="500px"/>
+                    </fig>
+                </info>
+            </step>
+            <step>
+                <cmd>When the intake air and/or vent piping from multiple water heaters will
+                    terminate at the same location through a sidewall, the vent terminations can be
+                    grouped together in close proximity - zero inches/touching. The intake air
+                    terminations can also be grouped together in close proximity - zero
+                    inches/touching.</cmd>
+                <info>
+                    <note>However, the distance between the closest vent and intake air terminations
+                        must be a minimum of 24 inches (61 cm). In colder climates this separation
+                        should be increased to at least 48 inches (122 cm). 
+                        See <xref keyref="sec:Sidewall_Termination_Installation/fig_sde_wll_trmntns_drct_vnt"/>.
+                    </note>
+                </info>
+            </step>
+            <step>
+                <cmd>Cut a hole in the wall through which the pipes will pass as follows:</cmd>
+                <choicetable frame="all" relcolwidth="1* 1*" id="choicetable_fs1_txq_fbb">
+                    <chhead>
+                        <choptionhd>Pipe Size</choptionhd>
+                        <chdeschd>Hole Size</chdeschd>
+                    </chhead>
+                    <chrow>
+                        <choption>2"</choption>
+                        <chdesc>3" (7.6 cm)</chdesc>
+                    </chrow>
+                    <chrow>
+                        <choption>3"</choption>
+                        <chdesc>4" (10 cm)</chdesc>
+                    </chrow>
+                    <chrow>
+                        <choption>4"</choption>
+                        <chdesc>5" (13 cm,)</chdesc>
+                    </chrow>
+                </choicetable>
+                <info>
+                    <note>Beware of concealed wiring and piping when cutting through the
+                        wall.</note>
+                </info>
+            </step>
+            <step>
+                <cmd>Cut a length(s) of pipe to be installed from 3.5 inches (8.9 cm) to 9.5 inches
+                    (24.1 cm) longer than the wall thickness at the opening. 
+                    See <xref keyref="sec:Sidewall_Termination_Installation/fig_sde_wll_trmntn_instlltn"/>.</cmd>
+                <info>
+                    <note>Note: Vent Termination – exhaust gases of this water heater are less than
+                        140°F. In cold climates water vapor in the exhaust gases will condense into
+                        a cloud of vapor where the vent exits the building. This vapor can gradually
+                        discolor exterior building surfaces. The vent termination should be located
+                        where this vapor cloud and potential discoloration are not a concern.
+                        Extending the exposed vent piping up to a maximum of 6 inches (15.2 cm) from
+                        the wall helps vapor from being trapped along a building’s face. To avoid
+                        this problem, the vent can also be terminated vertically through the roof,
+                        see <xref keyref="sec:Vertical_Termination_Installation"/>.</note>
+                </info>
+            </step>
+            <step>
+                <cmd>Cement the intake air and/or vent termination to the section(s) of pipe cut to
+                    length in the previous step.</cmd>
+                <info>The wall plates for the three-inch vent pipe are included with the heater.
+                    Wall plates for two-inch or four-inch vents are field-supplied. </info>
+            </step>
+            <step>
+                <cmd>Slide the included metal wall plate(s) over the pipe(s) to stop against the
+                    intake air and/or vent termination. Place some silicone caulking (field
+                    supplied) on the back of the wall plate(s) to secure it to the wall.</cmd>
+            </step>
+            <step>
+                <cmd>Working from outside, slide the pipe and termination(s) assembled in the above
+                    steps through the wall. Ensure the termination(s) is pointed down towards the
+                    ground. See <xref keyref="sec:Sidewall_Termination_Installation/fig_sde_wll_trmntn_instlltn"/>.</cmd>
+                <info>
+                    <fig id="fig_sde_wll_trmntn_instlltn">
+                        <title>Side-Wall Termination Installation</title>
+                        <image keyref="img:sidewall_termination_installation" id="image_yyn_wyq_fbb" width="500px"/>
+                    </fig>
+                </info>
+            </step>
+            <step>
+                <cmd>Place a bead of silicone caulking (field supplied) around the gap between the
+                    installed pipe(s) and the wall. Apply enough to fill the gap between the pipe(s)
+                    and wall.</cmd>
+            </step>
+            <step>
+                <cmd>Press the wall plate flush against the outside wall.</cmd>
+            </step>
+            <step>
+                <cmd>Working from the inside apply enough silicone caulking on the back of the
+                    interior wall plate(s) to hold it in place and slide the wall plate over the
+                    installed pipe(s).</cmd>
+            </step>
+            <step>
+                <cmd>Install a coupling to the end of the pipe(s) inside the building. Before the
+                    silicone caulking has time to completely set go outside the building and ensure
+                    the termination(s) is still pointing down towards the ground. 
+                    See <xref keyref="sec:Sidewall_Termination_Installation/fig_sde_wll_trmntn_instlltn"/>.</cmd>
+            </step>
+            <step>
+                <cmd>Return to <xref keyref="sec:Power_Vent_Installation"/> 
+                or <xref keyref="sec:Direct_Vent_Installation"/> to complete the installation of the 
+                intake air and/or vent piping between the termination(s) and the water heater.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

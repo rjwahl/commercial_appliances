@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><task xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="task_wdq_23q_hbb" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:task.xsd">
+    <title>Vent System</title>
+    <shortdesc/>
+    <taskbody>
+        <context>
+            <p>Examine the vent system every six months. Points of inspection are as follows:</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Check for obstructions and/or deterioration of the intake-air and/or vent
+                    piping and the intake-air and vent terminations. Replace immediately where
+                    needed.</cmd>
+            </step>
+            <step>
+                <cmd>The debris screens in the intake-air and vent terminations should be cleaned of
+                    foreign material and soot. See <xref keyref="sec:Direct_Vent_Installation/fig_intke_air_scrn"/>.</cmd>
+                <info>
+                    <note>Do not reach inside the vent termination when the heater is in
+                        operation.</note>
+                </info>
+            </step>
+            <step>
+                <cmd>Check all vent-system connections for leakage and repair or reseal as
+                    necessary.</cmd>
+            </step>
+            <step>
+                <cmd>Inspect and clean the built-in condensate trap of any debris. 
+                    See <xref keyref="sec:Condensate_Drain/fig_exhaust_condensate_elbow"/>
+                    and <xref keyref="sec:Condensate_Drain_Installation_Instructions/fig_condensate_drain_installation"/>.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

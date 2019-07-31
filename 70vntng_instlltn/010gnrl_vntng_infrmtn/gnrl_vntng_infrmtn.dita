@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?><concept xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="concept_tzk_l4c_fbb" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:concept.xsd">
+    <title>General Venting Information</title>
+    <shortdesc/>
+    <conbody>
+        <p>The water heaters covered in this manual are Category IV appliances and may be installed
+            in either a Power Vent or Direct Vent configuration.</p>
+        <section id="section_vz3_fqc_fbb">
+            <title>Approved Materials</title>
+            <p id="p_wz3_fqc_fbb">Approved vent and intake air pipe materials that may be used in
+                the United States:</p>
+        </section>
+        <section id="section_gn3_brc_fbb">
+            <title>PVC Pipe Materials</title>
+            <ul id="ul_kxr_crc_fbb">
+                <li>DWV ASTM-D2665 or CSA B181.2</li>
+                <li>Schedule 40, 80, 120 ASTM-D1785 or CSA B137.3</li>
+                <li>SDR Series ASTM-2241 or CSA B137.3</li>
+            </ul>
+        </section>
+        <section id="section_ehp_grc_fbb">
+            <title>CPVC Pipe Materials</title>
+            <ul id="ul_vdb_3rc_fbb">
+                <li>CPVC 41 ASTM-D2846 or CSA B137.6</li>
+                <li>Schedule 40, 80 ASTM-F441 or CSA B137.6</li>
+                <li>SDR Series ASTM-F442</li>
+            </ul>
+        </section>
+        <section id="section_a1s_mrc_fbb">
+            <title>Polypropylene </title>
+            <ul id="ul_xyj_nrc_fbb">
+                <li>M &amp; G Duravent PolyPro vent system</li>
+                <li>Centrotherm InnoFlue vent system</li>
+            </ul><p>See <xref keyref="sec:Polypropylene_Installations"/>.</p>
+        </section>
+        <section id="section_ysl_qrc_fbb">
+            <title>AL29-4C Stainless Steel</title>
+            <ul id="ul_qy5_rrc_fbb">
+                <li>HeatFab Saf-T Vent</li>
+                <li>Duravent FasNSeal</li>
+            </ul><p>See <xref keyref="sec:AL29-4C_Vent_Installations"/>.</p>
+        </section>
+        <section id="section_vbj_wrc_fbb">
+            <title>Approved Vent Pipe Materials that must be Used in Canada</title>
+            <ul id="ul_up5_xrc_fbb">
+                <li>ULC S636 PVC / CPVC</li>
+                <li>ULC S636 Polypropylene; see <xref keyref="sec:Polypropylene_Installations"/>.</li>
+                <li>AL29-4C Stainless Steel; see <xref keyref="sec:AL29-4C_Vent_Installations"/>.</li>
+            </ul>
+        </section>
+        <section id="section_kb1_fsc_fbb">
+            <title>Approved Intake Air Pipe Materials that must be used in Canada:</title>
+            <p id="p_tr1_3sc_fbb">PVC Pipe Materials</p>
+            <ul id="ul_cdk_hsc_fbb">
+                <li>DWV ASTM-D2665 or CSA B181.2</li>
+                <li>Schedule 40, 80, 120 ASTM-D1785 or CSA B137.3</li>
+                <li>SDR Series ASTM-D2241 or CSA B137.3</li>
+            </ul>
+            <p id="p_wbs_fsc_fbb">CPVC pipe materials:</p>
+            <ul id="ul_smh_nsc_fbb">
+                <li>CPVC 41 ASTM-D2846 or CSA B137.6</li>
+                <li>Schedule 40, 80 ASTM-F441 or CSA B137.6</li>
+                <li>SDR Series ASTM-F442</li>
+            </ul>
+            <p id="p_lb1_fsc_fbb">Polypropylene</p>
+            <ul id="ul_oyj_tsc_fbb">
+                <li>M &amp; G Duravent PolyPro vent system</li>
+                <li>Centrotherm InnoFlue vent system</li>
+            </ul><p>See <xref keyref="sec:Polypropylene_Installations"/>.</p>
+            <p id="p_hp3_vsc_fbb">AL29-4C Stainless Steel</p>
+            <ul id="ul_wlv_wsc_fbb">
+                <li>HeatFab Saf-T Vent</li>
+                <li>Duravent FasNSeal</li>
+            </ul><p>See <xref keyref="sec:AL29-4C_Vent_Installations"/>.</p>
+        </section>
+        <section>
+            <note>The use of cellular core PVC (ASTM F891), cellular core CPVC, or Radel®
+                (polyphenolsulfone) in non-metallic venting systems is prohibited. Covering
+                non-metallic vent pipe and fittings with thermal insulation is prohibited.</note>
+        </section>
+    </conbody>
+</concept>

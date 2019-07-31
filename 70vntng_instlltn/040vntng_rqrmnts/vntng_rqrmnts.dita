@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><dita xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:ditabase.xsd">
+    <topic id="topic_fst_pd3_fbb">
+        <title>Venting Requirements</title>
+        <body>
+            <section id="section_n5j_rd3_fbb">
+                <title>Field-Supplied Fittings</title>
+                <p id="p_o5j_rd3_fbb">Field-supplied fittings should be equivalent to the piping
+                    material being installed. Field-installed/supplied fittings will add equivalent
+                    feet to the vent or intake air piping as indicated below. All
+                    field-supplied/installed fittings and piping must be factored into the
+                    equivalent feet calculations.</p>
+                <ul id="ul_m2p_td3_fbb">
+                    <li>90° elbows (short or long radius) are equivalent to 5 linear feet (152 cm)
+                        of pipe.</li>
+                    <li>45° elbows (short or long radius) are equivalent to 2.5 linear feet (76 cm)
+                        of pipe.</li>
+                </ul>
+            </section>
+            <section id="section_owy_vd3_fbb">
+                <title>Primer and Cement</title>
+                <p id="p_pwy_vd3_fbb">Tetrahydrofuran (THF) primer should be used to prepare the
+                    surfaces of pipe and fittings for solvent welding. If CPVC or ABS pipe and
+                    fittings are used, then the proper cement must be used for all joints, including
+                    joining the pipe to the factory provided terminations (PVC material). PVC
+                    Materials should use ASTM D-2564 Grade Cement; CPVC Materials should use ASTM
+                    F-493 Grade Cement.</p>
+            </section>
+            <section id="section_zwt_yd3_fbb">
+                <title>Pipe Size Requirements</title>
+                <p id="p_axt_yd3_fbb">The water heaters covered in this manual are certified for the
+                    use of two-, three-, and four-inch pipe for the vent (exhaust) and intake air
+                    piping. If the installed equivalent length for the intake air or vent piping
+                    will be 50 feet (15.2 m) or less, two- or three-inch pipe must be used. If the
+                    installed equivalent length will be more than 50 feet (15.2 m), four-inch pipe
+                    must be used.</p>
+                <note type="note">
+                    <p id="p_zz2_b23_fbb">Install the pipe size required for the installed
+                        equivalent length of each pipe independently. That is, if the intake air
+                        pipe will be 50 equivalent feet or less and the vent pipe will be more than
+                        50 equivalent feet, the intake air pipe must be installed using three-inch
+                        pipe and the vent must be installed using four-inch pipe.</p>
+                </note>
+            </section>
+            <p/>
+        </body>
+    </topic>
+</dita>

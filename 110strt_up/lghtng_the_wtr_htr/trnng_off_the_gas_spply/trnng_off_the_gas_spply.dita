@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><task xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="task_l32_3wh_hbb" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:task.xsd">
+    <title>Turning Off the Gas Supply</title>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Change the Operating Set Point to the lowest temperature setting. 
+                     See <xref keyref="sec:Operating_Set_Point_and_Differential_Adjustment"/>.</cmd>
+            </step>
+            <step>
+                <cmd>When the water heater has completed its shut down sequence and enters the
+                    standby mode, turn the water heater’s Enable/Disable switch to the Disable
+                    position. When in the Disable position, the switch only removes electrical power
+                    from the gas valve so that water heating is disabled. The display, CCB, and
+                    other electrical components will still be energized and the display will read
+                    "Water Heating Disabled".</cmd>
+            </step>
+            <step>
+                <cmd>Close Main Gas Shutoff valve. See <xref keyref="sec:Supply_Gas_Line_Installation/fig_supply_gas_line_installation"/>.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<task id="task_rcd_z2g_ndb" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:task.xsd">
+    <title>Turn Off the Gas Supply</title>
+    <shortdesc></shortdesc>
+    <taskbody>
+        <steps-unordered>
+            <step id="step_main-gas-shutoff-valve_turn_off">
+                <cmd>Turn off the gas supply at the main gas shutoff valve if the water heater is
+                    going to be shut down for an extended period.</cmd>
+            </step>
+        </steps-unordered>
+    </taskbody>
+</task>

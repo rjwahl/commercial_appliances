@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?><concept xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="concept_csf_htp_hbb" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:concept.xsd">
+    <title>Precautions</title>
+    <shortdesc/>
+    <conbody>
+        <p><image keyref="wmsg:do_not_operate_if" id="image_nzl_dr3_mcb"/>
+        </p>
+        <p id="p_ypx_15p_hbb">Never operate the water heater without first being certain that it is
+            filled with water and has a properly-sized and rated temperature-pressure relief valve
+            installed in the relief-valve opening on the water heater. 
+            See <xref keyref="sec:Water_Line_Connections"/>.</p>
+        <p id="p_jdp_c5p_hbb">
+            
+            <hazardstatement conkeyref="wmsg:wrnng-explsn_hzrd-overheated_wtr">
+                <messagepanel>
+                    <typeofhazard/>
+                    <consequence/>
+                    <howtoavoid/>
+                </messagepanel>
+                <hazardsymbol/>
+            </hazardstatement>
+            
+        </p>
+        <p id="p_wzm_pyp_hbb">If overheating occurs, or the gas supply fails to shut off, turn off
+            the main gas shutoff valve. See <xref keyref="sec:Supply_Gas_Line_Installation/fig_supply_gas_line_installation"/>.</p>
+        <table frame="all" rowsep="1" colsep="1" id="table_maintenance_schedule">
+            <title>Maintenance Schedule</title>
+            <tgroup cols="4" align="left">
+                <colspec colname="c1" colnum="1" colwidth="1*"/>
+                <colspec colname="c2" colnum="2" colwidth="1*"/>
+                <colspec colname="c3" colnum="3" colwidth="1*"/>
+                <colspec colname="c4" colnum="4" colwidth="1*"/>
+                <thead>
+                    <row>
+                        <entry>Component</entry>
+                        <entry>Operation</entry>
+                        <entry>Interval</entry>
+                        <entry>Required</entry>
+                    </row>
+                </thead>
+                <tbody>
+                    <row>
+                        <entry>Tank</entry>
+                        <entry>Lime Scale Removal (Water Less Than 25 Grains Hard)</entry>
+                        <entry>Not Required</entry>
+                        <entry>N/A</entry>
+                    </row>
+                    <row>
+                        <entry>Tank</entry>
+                        <entry>Lime Scale Removal (Water Greater Than 25 Grains Hard)</entry>
+                        <entry>Annually</entry>
+                        <entry>
+                            <p id="p_bsw_2j3_ccb">UN-LIME<i>®</i></p>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry>Burner</entry>
+                        <entry>Inspection/Cleaning</entry>
+                        <entry>Annually</entry>
+                        <entry>Clean Burner Surface</entry>
+                    </row>
+                    <row>
+                        <entry>Powered Anode Rods</entry>
+                        <entry>Inspection/Cleaning</entry>
+                        <entry>Not Required</entry>
+                        <entry>N/A</entry>
+                    </row>
+                    <row>
+                        <entry>T&amp;P Valve</entry>
+                        <entry>Test Operation</entry>
+                        <entry>Semi Annually</entry>
+                        <entry>Test</entry>
+                    </row>
+                    <row>
+                        <entry>Vent System</entry>
+                        <entry>Inspection</entry>
+                        <entry>Annually</entry>
+                        <entry>
+                            <p id="p_dyj_433_ccb">Terminations Screens Clean</p>
+                            <p id="p_pxy_m33_ccb">Reseal/Repair</p>
+                        </entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+    </conbody>
+</concept>

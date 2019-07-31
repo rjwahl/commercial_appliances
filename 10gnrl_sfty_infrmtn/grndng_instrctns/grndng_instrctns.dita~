@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="grounding00001" xml:lang="en-us">
+    <title>Grounding Instructions</title>
+    <shortdesc>The water heater must be properly grounded for reliable operation and to comply with regulations.</shortdesc>
+    <prolog>
+        <metadata>
+            <keywords>
+                <indexterm>grounding</indexterm>
+                <indexterm>National Electrical Code</indexterm>
+                <indexterm>regulations<indexterm>National Electrical Code</indexterm></indexterm>                
+            </keywords>
+        </metadata>
+    </prolog>
+    <conbody>
+    	<p>This water heater must be grounded in accordance with the <cite>National Electrical Code</cite> and/or local codes. These codes must be followed in all cases. Failure to ground this water heater properly may also cause erratic control system operation.</p>
+    	<p>This water heater must be connected to a grounded metal, permanent wiring system; or an equipment grounding conductor must be run with the circuit conductors and connected to the equipment grounding terminal or lead on the water heater.</p>
+    </conbody>
+</concept>

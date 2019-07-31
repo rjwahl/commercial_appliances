@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><concept xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="concept_fwb_vx3_t1b" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:concept.xsd">
+    <title>Modulation</title>
+    <shortdesc/>
+    <conbody>
+        <p>The water heaters covered by this manual are capable of modulating their firing rate. The
+            combustion blower is controlled by the Central Control Board (CCB). The CCB monitors the
+            water temperature in the tank and regulates the firing rate to achieve the target
+            temperature set-point. The firing rate is dictated by the hot water draw, proximity to
+            the tank temperature set-point, and various other temperature limitations.</p>
+    </conbody>
+    <!-- The bth120-250 has a shorter Modulation section, but it does not seem to be different. However, the bth300-400-500 manual describes a periodic ramped-up mode that increases the blower speed to blow out any accumulated condensation that is not described in the bth120-250 manual.-->
+</concept>

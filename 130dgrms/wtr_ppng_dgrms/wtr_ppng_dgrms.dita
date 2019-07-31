@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?><concept xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="concept_rpk_r3k_3bb" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:concept.xsd">
+    <title>Water Piping Diagrams</title>
+    <shortdesc/>
+    <conbody>
+        <section id="section_pcp_hlk_3bb"><title>One Water Heater, Single Temperature, with Building
+                Recirculation</title><p id="p_pzg_jlk_3bb">Before installation of water piping,
+                review the following:</p><ol id="ol_qzg_jlk_3bb">
+                <li> Mixing Valves <xref keyref="sec:Mixing_Valves"/> </li>
+                <li>Dish-washing Machines <xref keyref="sec:Dish_Washing_Machines"/></li>
+                <li>Temperature-Pressure Relief Valve <xref keyref="sec:Temperature_Pressure_Relief_Valve"/></li>
+                <li>Thermal Expansion and Closed Water Systems <xref keyref="sec:Thermal_Expansion"/></li>
+                <li>Water Line Connections <xref keyref="sec:Water_Line_Connections"/> </li>
+                <li>If a pump is being installed between a water heater and storage tank or on a
+                    building recirculation loop wire, see <xref keyref="sec:Circulation_Pump_Wiring_Diagrams/fig_storage_tank_or_building_recirculation"/>. </li>
+                <li>If a pump is being installed in a recirculation loop between the water heater
+                    and a commercial dishwasher wire, see <xref keyref="sec:Circulation_Pump_Wiring_Diagrams/fig_dishwasher_loop_toggle_switch"/>.</li>
+            </ol><image keyref="img:wtr_ppng_dgrm-one_htr_sngle_tmprtr_w_blgng_recrcltn" id="image_un5_dlk_3bb" width="600px"/></section>
+        <section id="section_pxq_plk_3bb"><title>One Water Heater, Two Temperatures, with
+                High-Temperature Loop, and Building Recirculation</title><p id="p_vxg_5lk_3bb">Before installation of water piping, review the following:</p><ol id="ol_wxg_5lk_3bb">
+                <li> Mixing Valves <xref keyref="sec:Mixing_Valves"/>
+                </li>
+                <li>Dish-washing Machines <xref keyref="sec:Dish_Washing_Machines"/></li>
+                <li>Temperature-Pressure Relief Valve <xref keyref="sec:Temperature_Pressure_Relief_Valve"/></li>
+                <li>Thermal Expansion and Closed Water Systems <xref keyref="sec:Thermal_Expansion"/></li>
+                <li>Water Line Connections <xref keyref="sec:Water_Line_Connections"/>
+                </li>
+                <li>If a pump is being installed between a water heater and storage tank or on a
+                    building recirculation loop wire, see <xref keyref="sec:Circulation_Pump_Wiring_Diagrams/fig_storage_tank_or_building_recirculation"/>. </li>
+                <li>If a pump is being installed in a recirculation loop between the water heater
+                    and a commercial dishwasher wire, see <xref keyref="sec:Circulation_Pump_Wiring_Diagrams/fig_dishwasher_loop_toggle_switch"/>.</li>
+            </ol><image keyref="img:wtr_ppng_dgrm-one_htr_two_tmprtrs_w_hgh_tmprtr_and_bldgn_recrcltn" id="image_ilv_vlk_3bb" width="600px"/></section>
+        <section id="section_mcd_3mk_3bb"><title>One Water Heater, Single Temperature, with Vertical
+                Storage Tank, Forced Recirculation, and Building Recirculation</title><p id="p_hqg_xmk_3bb">Before installation of water piping, review the following:</p><ol id="ol_kf4_nmk_3bb">
+                <li> Mixing Valves <xref keyref="sec:Mixing_Valves"/>
+                </li>
+                <li>Dish-washing Machines <xref keyref="sec:Dish_Washing_Machines"/></li>
+                <li>Temperature-Pressure Relief Valve <xref keyref="sec:Temperature_Pressure_Relief_Valve"/></li>
+                <li>Thermal Expansion and Closed Water Systems <xref keyref="sec:Thermal_Expansion"/></li>
+                <li>Water Line Connections <xref keyref="sec:Water_Line_Connections"/>
+                </li>
+                <li>If a pump is being installed between a water heater and storage tank or on a
+                    building recirculation loop wire, see <xref keyref="sec:Circulation_Pump_Wiring_Diagrams/fig_storage_tank_or_building_recirculation"/>. </li>
+                <li>If a pump is being installed in a recirculation loop between the water heater
+                    and a commercial dishwasher wire, see <xref keyref="sec:Circulation_Pump_Wiring_Diagrams/fig_dishwasher_loop_toggle_switch"/>.</li>
+            </ol><image keyref="img:wtr_ppng_dgrm-one_htr_sngle_tmprtr_w_vrtcl_strge_tnk_frcd_recrcltn" id="image_qr2_pmk_3bb" width="600px"/></section>
+        <section id="section_fnv_rmk_3bb"><title>One Water Heater, Single Temperature, Horizontal
+                Storage Tank with Forced Recirculation, and Building Recirculation</title><p id="p_yzb_wmk_3bb">Before installation of water piping, review the following:</p><ol id="ol_zzb_wmk_3bb">
+                <li> Mixing Valves <xref keyref="sec:Mixing_Valves"/>
+                </li>
+                <li>Dish-washing Machines <xref keyref="sec:Dish_Washing_Machines"/></li>
+                <li>Temperature-Pressure Relief Valve <xref keyref="sec:Temperature_Pressure_Relief_Valve"/></li>
+                <li>Thermal Expansion and Closed Water Systems <xref keyref="sec:Thermal_Expansion"/></li>
+                <li>Water Line Connections <xref keyref="sec:Water_Line_Connections"/>
+                </li>
+                <li>If a pump is being installed between a water heater and storage tank or on a
+                    building recirculation loop wire, see <xref keyref="sec:Circulation_Pump_Wiring_Diagrams/fig_storage_tank_or_building_recirculation"/>. </li>
+                <li>If a pump is being installed in a recirculation loop between the water heater
+                    and a commercial dishwasher wire, see <xref keyref="sec:Circulation_Pump_Wiring_Diagrams/fig_dishwasher_loop_toggle_switch"/>.</li>
+            </ol><image keyref="img:wtr_ppng_dgrm-one_htr_sngle_tmprtr_w_hrzntl_strge_tnk_frcd_recrcltn" id="image_uws_ymk_3bb" width="600px"/></section>
+        <section id="section_o1c_zmk_3bb"><title>Two Water Heaters, Single Temperature with Building
+                Recirculation</title><p id="p_fnk_dnk_3bb">Before installation of water piping,
+                review the following:</p><ol id="ol_gnk_dnk_3bb">
+                <li> Mixing Valves <xref keyref="sec:Mixing_Valves"/>
+                </li>
+                <li>Dish-washing Machines <xref keyref="sec:Dish_Washing_Machines"/></li>
+                <li>Temperature-Pressure Relief Valve <xref keyref="sec:Temperature_Pressure_Relief_Valve"/></li>
+                <li>Thermal Expansion and Closed Water Systems <xref keyref="sec:Thermal_Expansion"/></li>
+                <li>Water Line Connections <xref keyref="sec:Water_Line_Connections"/>
+                </li>
+                <li>If a pump is being installed between a water heater and storage tank or on a
+                    building recirculation loop wire, see <xref keyref="sec:Circulation_Pump_Wiring_Diagrams/fig_storage_tank_or_building_recirculation"/>. </li>
+                <li>If a pump is being installed in a recirculation loop between the water heater
+                    and a commercial dishwasher wire, see <xref keyref="sec:Circulation_Pump_Wiring_Diagrams/fig_dishwasher_loop_toggle_switch"/>.</li>
+            </ol><image keyref="img:wtr_ppng_dgrm-two_htrs_sngle_tmprtr_w_bldgn_recrcltn" id="image_gck_fnk_3bb" width="600px"/></section>
+        <section id="section_tyx_fnk_3bb"><title>Three Water Heaters, Single Temperature with
+                Building Recirculation</title><p id="p_el5_jnk_3bb">Before installation of water
+                piping, review the following:</p><ol id="ol_fl5_jnk_3bb">
+                <li> Mixing Valves <xref keyref="sec:Mixing_Valves"/>
+                </li>
+                <li>Dish-washing Machines <xref keyref="sec:Dish_Washing_Machines"/></li>
+                <li>Temperature-Pressure Relief Valve <xref keyref="sec:Temperature_Pressure_Relief_Valve"/></li>
+                <li>Thermal Expansion and Closed Water Systems <xref keyref="sec:Thermal_Expansion"/></li>
+                <li>Water Line Connections <xref keyref="sec:Water_Line_Connections"/>
+                </li>
+                <li>If a pump is being installed between a water heater and storage tank or on a
+                    building recirculation loop wire, see <xref keyref="sec:Circulation_Pump_Wiring_Diagrams/fig_storage_tank_or_building_recirculation"/>. </li>
+                <li>If a pump is being installed in a recirculation loop between the water heater
+                    and a commercial dishwasher wire, see <xref keyref="sec:Circulation_Pump_Wiring_Diagrams/fig_dishwasher_loop_toggle_switch"/>.</li>
+            </ol><image keyref="img:wtr_ppng_dgrm-three_htrs_sngle_tmprtr_w_bldgn_recrcltn" id="image_skt_knk_3bb" width="600px"/></section>
+        <section id="section_s2c_lnk_3bb"><title>Four Water Heaters, Single Temperature, with
+                Building Recirculation</title><p id="p_k1f_pnk_3bb">Before installation of water
+                piping, review the following:</p><ol id="ol_l1f_pnk_3bb">
+                <li> Mixing Valves <xref keyref="sec:Mixing_Valves"/>
+                </li>
+                <li>Dish-washing Machines <xref keyref="sec:Dish_Washing_Machines"/></li>
+                <li>Temperature-Pressure Relief Valve <xref keyref="sec:Temperature_Pressure_Relief_Valve"/></li>
+                <li>Thermal Expansion and Closed Water Systems <xref keyref="sec:Thermal_Expansion"/></li>
+                <li>Water Line Connections <xref keyref="sec:Water_Line_Connections"/>
+                </li>
+                <li>If a pump is being installed between a water heater and storage tank or on a
+                    building recirculation loop wire, see <xref keyref="sec:Circulation_Pump_Wiring_Diagrams/fig_storage_tank_or_building_recirculation"/>. </li>
+                <li>If a pump is being installed in a recirculation loop between the water heater
+                    and a commercial dishwasher wire, see <xref keyref="sec:Circulation_Pump_Wiring_Diagrams/fig_dishwasher_loop_toggle_switch"/>.</li>
+            </ol><image keyref="img:wtr_ppng_dgrm-four_htrs_sngle_tmprtr_w_bldgn_recrcltn" id="image_e2s_qnk_3bb" width="600px"/></section>
+    </conbody>
+</concept>

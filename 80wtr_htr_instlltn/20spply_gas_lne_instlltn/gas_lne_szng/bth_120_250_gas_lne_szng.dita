@@ -1,0 +1,755 @@
+<?xml version="1.0" encoding="UTF-8"?><concept xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="concept_c3l_hqs_gbb" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:concept.xsd">
+    <title>Gas Line Sizing</title>
+    <!-- Pipe Sizes: 1/2", 3/4", 1", 1 1/4", 1 1/2", 2" for BTH 120-250A. Also, the bth 300-400-500 refers to the minimum supply gas line size table that has been removed from the bth 120-250. -->
+      <conbody>
+          <p id="p_eyh_3qs_gbb">
+            Depending on the developed equivalent length and/or the number of
+            appliances connected to a common main, the size of supply gas lines might have to be
+            increased.</p>
+        <p id="p_fyh_3qs_gbb">Size the supply/main gas line(s) in accordance with the values given
+            in <xref keyref="sec:Gas_Line_Sizing/table_gas_lne_szng_us_unts"/> or <xref keyref="sec:Gas_Line_Sizing/table_gas_lne_szng_mtrc_unts"/>. The values given in the
+            tables are for straight lengths of iron pipe at 0.5" W. C. (.125 kPa) pressure drop,
+            which is considered normal for low pressure systems. Note that fittings, such as elbows
+            and tees, will add to the pipe pressure drop.</p>
+        <p id="p_gyh_3qs_gbb">Schedule-40 steel or wrought-iron pipe is the preferred material for
+            the gas line of this water heater. <b>It is imperative to follow the sizing
+                recommendations in the latest version of the <i outputclass="Cite">National Fuel Gas
+                    Code</i> if corrugated stainless steel tubing (CSST) is used as the gas line for
+                this water heater.</b></p>
+          <table frame="all" rowsep="1" colsep="1" id="table_gas_lne_szng_us_unts">
+            <title>Supply Gas Line Sizing U.S. Units</title>
+            <tgroup cols="7" align="center">
+                <colspec colname="c1" colnum="1" colwidth="1*"/>
+                <colspec colname="c2" colnum="2" colwidth="1*"/>
+                <colspec colname="c3" colnum="3" colwidth="1*"/>
+                <colspec colname="c4" colnum="4" colwidth="1*"/>
+                <colspec colname="c5" colnum="5" colwidth="1*"/>
+                <colspec colname="c6" colnum="6" colwidth="1*"/>
+                <colspec colname="c7" colnum="7" colwidth="1*"/>
+                <thead>
+                    <row>
+                        <entry morerows="1">
+                            <p outputclass="Table-Column-Head">Length in Feet</p>
+                        </entry>
+                        <entry namest="c2" nameend="c7">
+                            <p outputclass="Table-Column-Head">Normal Iron Pipe Sizes (Inches) Input
+                                in Thousands BTU/hr</p>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry>
+                            <p outputclass="Table-Column-Head">1/2"</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Column-Head">3/4"</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Column-Head">1"</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Column-Head">1 1/4"</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Column-Head">1 1/2"</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Column-Head">2"</p>
+                        </entry>
+                    </row>
+                </thead>
+                <tbody>
+                    <row>
+                        <entry>
+                            <p outputclass="Table-Row-Head">10</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell">175</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell">360</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell">680</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell">1400</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell">2100</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell">3960</p>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry>
+                            <p outputclass="Table-Row-Head">20</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell">120</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell">250</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell">485</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell">950</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell">1460</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell">2750</p>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry>
+                            <p outputclass="Table-Row-Head">30</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell">97</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell">200</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell">375</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell">770</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell">1180</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell">2200</p>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry>
+                            <p outputclass="Table-Row-Head">40</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell">82</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell">170</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell">320</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell">660</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell">990</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell">1900</p>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry>
+                            <p outputclass="Table-Row-Head">50</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell">73</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell">151</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell">285</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell">580</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell">900</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell">1680</p>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry>
+                            <p outputclass="Table-Row-Head">60</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell">66</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell">138</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell">260</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell">530</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell">810</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell">1520</p>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry>
+                            <p outputclass="Table-Row-Head">70</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell">61</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell">125</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell">240</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell">490</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell">750</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell">1400</p>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry>
+                            <p outputclass="Table-Row-Head">80</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell">57</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell">118</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell">220</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell">460</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell">690</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell">1300</p>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry>
+                            <p outputclass="Table-Row-Head">90</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell">53</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell">110</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell">205</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell">430</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell">650</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell">1220</p>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry>
+                            <p outputclass="Table-Row-Head">100</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell">50</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell">103</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell">195</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell">400</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell">620</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell">1150</p>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry>
+                            <p outputclass="Table-Row-Head">125</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell">44</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell">93</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell">175</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell">360</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell">550</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell">1020</p>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry>
+                            <p outputclass="Table-Row-Head">150</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell">40</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell">84</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell">160</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell">325</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell">500</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell">950</p>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry>
+                            <p outputclass="Table-Row-Head">175</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell">37</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell">77</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell">145</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell">300</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell">460</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell">850</p>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry>
+                            <p outputclass="Table-Row-Head">200</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell">35</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell">72</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell">135</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell">280</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell">430</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell">800</p>
+                        </entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+        
+          <table frame="all" rowsep="1" colsep="1" id="table_gas_lne_szng_mtrc_unts">
+            <title>Supply Gas Line Sizing - Metric Units</title>
+            <tgroup cols="7" align="center">
+                <colspec colname="c1" colnum="1" colwidth="1*"/>
+                <colspec colname="c2" colnum="2" colwidth="1*"/>
+                <colspec colname="c3" colnum="3" colwidth="1*"/>
+                <colspec colname="c4" colnum="4" colwidth="1*"/>
+                <colspec colname="c5" colnum="5" colwidth="1*"/>
+                <colspec colname="c6" colnum="6" colwidth="1*"/>
+                <colspec colname="c7" colnum="7" colwidth="1*"/>
+                <thead>
+                    <row>
+                        <entry morerows="1">
+                            <p outputclass="Table-Column-Head">Length in Meters</p>
+                        </entry>
+                        <entry namest="c2" nameend="c7">
+                            <p outputclass="Table-Column-Head">Normal Iron Pipe Sizes (Inches) Input
+                                in Thousands kW/hr</p>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry>
+                            <p outputclass="Table-Column-Head">1/2"</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Column-Head">3/4"</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Column-Head">1"</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Column-Head">1 1/4"</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Column-Head">1 1/2"</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Column-Head">2"</p>
+                        </entry>
+                    </row>
+                </thead>
+                <tbody>
+                    <row>
+                        <entry>
+                            <p outputclass="Table-Row-Head">3.0</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell">51</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell">105</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell">199</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell">410</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell">615</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell">1160</p>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry>
+                            <p outputclass="Table-Row-Head">6.1</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell">35</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell">73</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell">142</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell">278</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell">428</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell">805</p>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry>
+                            <p outputclass="Table-Row-Head">9.1</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell">28</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell">59</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell">110</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell">225</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell">346</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell">644</p>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry>
+                            <p outputclass="Table-Row-Head">12.2</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell">24</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell">50</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell">94</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell">193</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell">290</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell">556</p>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry>
+                            <p outputclass="Table-Row-Head">15.2</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell">21</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell">44</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell">83</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell">170</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell">264</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell">492</p>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry>
+                            <p outputclass="Table-Row-Head">18.3</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell">19</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell">40</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell">76</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell">155</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell">237</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell">445</p>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry>
+                            <p outputclass="Table-Row-Head">21.3</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell">18</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell">37</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell">70</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell">143</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell">220</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell">410</p>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry>
+                            <p outputclass="Table-Row-Head">24.4</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell">17</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell">35</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell">64</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell">135</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell">202</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell">381</p>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry>
+                            <p outputclass="Table-Row-Head">27.4</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell">16</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell">32</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell">60</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell">126</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell">190</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell">357</p>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry>
+                            <p outputclass="Table-Row-Head">30.5</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell">15</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell">30</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell">57</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell">117</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell">182</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell">337</p>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry>
+                            <p outputclass="Table-Row-Head">38.1</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell">13</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell">27</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell">51</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell">105</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell">161</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell">299</p>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry>
+                            <p outputclass="Table-Row-Head">45.7</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell">12</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell">25</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell">47</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell">95</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell">146</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell">278</p>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry>
+                            <p outputclass="Table-Row-Head">53.3</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell">11</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell">23</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell">42</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell">88</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell">135</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell">249</p>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry>
+                            <p outputclass="Table-Row-Head">61.0</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell">10</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell">21</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell">40</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell">82</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell">126</p>
+                        </entry>
+                        <entry>
+                            <p outputclass="Table-Cell">234</p>
+                        </entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>     
+    </conbody>
+</concept>

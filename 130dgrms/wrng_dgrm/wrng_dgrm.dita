@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><concept xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="concept_ryd_13k_3bb" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:concept.xsd">
+    <title>Wiring Diagram</title>
+    <conbody>
+        <image keyref="img:wrng_dgrm" id="image_kwr_b3k_3bb" width="500px"/>
+    </conbody>
+</concept>

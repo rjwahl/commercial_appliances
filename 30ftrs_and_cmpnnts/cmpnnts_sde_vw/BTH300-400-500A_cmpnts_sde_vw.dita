@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><concept xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="concept_side_view" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:concept.xsd">
+    <title>Components - Side Views</title>
+    <shortdesc/>
+    <conbody><ol>
+        <li><p>Cleanout access panel, covers water heater cleanout opening and ASME plate, where applicable.</p></li>
+        <li><p>CCB enclosure - see item 3 in <xref keyref="sec:Components_Top_View"/> for a description.</p></li>
+        <li><p>120 VAC junction box. Incoming power supply, ground connections, and other field installed
+                    electrical connections are made here. See <xref keyref="sec:Power_Supply">Power Supply</xref> and 
+                    <xref keyref="sec:Power_Supply_Connections">Power Supply Connections</xref>.</p></li>
+        <li><p>Intake air connection - four-inch PVC.</p></li>
+            <li>
+                <p id="p_kqg_b2x_kbb">Supply gas line connection. </p>
+            </li>
+            <li>
+                <p id="p_vsn_c2x_kbb">Low Gas Pressure switch. See item 9 in 
+                    <xref keyref="sec:Components_Top_View"/>  for a description. 
+                    See also <xref keyref="sec:Rough_In_Dimensions/table_gas_prssre_rqrmnts"/>. </p>
+            </li>
+        <li><p>Water heater 24-volt gas valve.</p></li>
+            <li>
+                <p id="p_n31_l2x_kbb">Water outlet - 1 1/2” NPT connection.</p>
+            </li>
+            <li><p>VFD (variable frequency drive) blower motor drive. See <xref keyref="sec:Components_Top_View"/>
+                    for description.</p></li>
+            <li>
+                <p id="p_anj_42x_kbb">UIM (user interface module). The UIM includes the display
+                    circuit board and the control system’s LCD Touch Display. Used to adjust various
+                    user settings and view operational information. See <xref keyref="sec:Control_System_Operation"/>.</p>
+            </li>
+            <li>
+                <p id="p_kmj_r2x_kbb">Temperature-Pressure Relief Valve. See <xref keyref="sec:Temperature_Pressure_Relief_Valve"/> .</p>
+            </li>
+            <li>
+                <p id="p_oqp_p2x_kbb">Temperature-Pressure Relief Valve discharge pipe</p>
+            </li>
+            <li>
+                <p id="p_ty1_52x_kbb">Lower Temperature Probe, 1 of 2 temperature probes. The water
+                    heater’s control system monitors this probe to detect water temperature in the
+                    lower portion of the storage tank.</p>
+            </li>
+            <li>
+                <p id="p_jnz_52x_kbb">Water inlet - 1 1/2” NPT connection.</p>
+            </li>
+            <li>
+                <p id="p_yzn_w2x_kbb">Water heater drain valve.</p>
+            </li>
+        <li><p>Combustion Blower.</p></li>
+        <li><p>Vent Connection (Exhaust/Condensate Elbow) three-inch  aluminum.
+        </p></li>
+            <li><p>Recirculation loop return connection - 3/4" NPT.</p></li>
+        <li><p>Spark Ignition Transformer. When energized, sends the electrical current to the spark igniter.</p></li>
+    </ol>
+        <fig id="fig_components_side_view">
+            <title>BTH Components - Side View</title>
+            <image keyref="img:Left_Side_View" id="bth_lft_sde_vw" width="400px"/>
+            <image keyref="img:Right_Side_View" id="bth_rght_sde_vw" width="400px"/>
+        </fig>
+    </conbody>
+</concept><!-- The BTH 300-400-500A has the following differences with the 120-250:
+-VFD (variable frequency drive) blower motor drive
+-Recirculation loop return connection
+-The bth 120-250 version of this section does not call out the 120 VAC junction box.
+-The bth 120-250 version of this section  does not have  a Minimum Supply Gas Line Size table.
+-->

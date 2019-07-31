@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="prprng_for_instlltn00001" xml:lang="en-us">
+    <title>Preparing for the Installation</title>
+    <shortdesc></shortdesc>
+    <prolog>
+        <metadata>
+            <keywords>
+                <indexterm>installation precautions</indexterm>
+            </keywords>
+        </metadata>
+    </prolog>
+    <conbody>
+    <ol>
+		<li>Read the entire manual before attempting to install or operate the water heater. Pay close attention to the 
+			<xref keyref="sec:General_Safety_Information"/>. If you don’t follow the safety rules, the water heater may not operate safely. It could cause property damage, injury and/or death.
+		<ul>
+			<li>This manual contains instructions for the installation, operation, and maintenance of the water heater. It also contains warnings throughout the manual that you must read and be aware of. All warnings and all instructions are essential to the proper operation of the water heater and your safety. </li>
+			<li>Detailed installation diagrams are also found in this manual. These diagrams will serve to provide the installer with a reference. It is essential that all venting, water piping, gas piping and wiring be installed as shown.</li>
+			<li>Particular attention should be given to the installation of thermometers at the locations indicated in the piping diagrams as these are necessary for checking the operation of the water heater.</li>
+			<li>The principal components of the water heater are identified in <xref keyref="sec:Features_and_Components" />
+				in this manual. Use this reference to locate and identify various components on the water heater.</li>
+			<li>See <xref keyref="sec:Troubleshooting"/>. By using this resource the user may be able to make minor
+						operational adjustments and avoid unnecessary service calls. However,
+						service and diagnostic procedures should be performed only by a Qualified
+						Service Agency.</li>
+		</ul>
+		<note type="note">Costs to correct installation errors are not covered under the limited warranty. See Commercial Water Heater Limited Warranty (page 99). </note>
+		</li>
+		<li>Be sure to turn off power when working on or near the electrical system of the water heater. Never touch electrical components with wet hands or when standing in water.</li>
+		<li>The installation must conform to all instructions contained in this manual and the local code authority having jurisdiction. These shall be carefully followed in all cases. Authorities having jurisdiction should be consulted before installation begins if there are any questions regarding compliance with local, state or national codes.
+		<ul><li>In the absence of local codes, the installation must comply with the current editions of the 
+			<i outputclass="Cite">National Fuel Gas Code, ANSI Z223.1/NFPA 54</i> and the 
+			<i outputclass="Cite">National Electrical Code, NFPA 70</i> or 
+			<i outputclass="Cite">CAN/CSA-B149.1</i>, the 
+			<i outputclass="Cite">Natural Gas and Propane Installation Code </i> and 
+			<i outputclass="Cite">CSA C22.1, the Canadian Electrical Code</i>. 
+			All documents are available from the Canadian Standards Association, 8501 East Pleasant Valley Road, Cleveland, OH 44131. NFPA
+		    documents are also available from the National Fire Protection Association,
+			1 Batterymarch Park, Quincy, MA 02269.</li></ul>
+		</li>
+		<li>After reading this manual, if you have any questions or do not understand any portion of the instructions, call the toll free number on the back cover of this manual for technical assistance. In order to expedite your request, please have the full Model, Serial and Series numbers of the water heater you are working with available for the technician. This information is located on the water heater’s rating label.</li>
+		<li>Carefully plan the placement of the water heater. Examine the location to ensure that it complies with the requirements in 
+			<xref keyref="sec:Locating_the_Water_Heater"/> and the <xref keyref="sec:Rough_In_Dimensions"/>.</li>
+		<li>For installation in California this water heater must be braced or anchored to avoid falling or moving during an earthquake. See instructions for correct installation procedures. Instructions may be obtained from California Office of the State Architect, 1102 Q Street, Suite 5100, Sacramento, CA 95811.</li>
+		<li>Massachusetts Code requires this water heater to be installed in accordance with
+			<i outputclass="Cite">Massachusetts 248-CMR 2.00: State Plumbing Code</i> and <i outputclass="Cite">248-CMR 5</i>. 
+			See <xref keyref="sec:Installation_Requirements-Massachusetts">Installing Carbonmonoxide Detectors</xref>.</li>
+    </ol>
+    </conbody>
+</concept>

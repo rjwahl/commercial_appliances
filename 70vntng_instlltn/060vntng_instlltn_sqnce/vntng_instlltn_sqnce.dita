@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><concept xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="concept_blk_5w3_fbb" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:concept.xsd">
+    <title>Venting Installation Sequence</title>
+    <shortdesc/>
+    <conbody>
+        <ol id="ol_dlr_vw3_fbb">
+            <li>Read <xref keyref="sec:General_Venting_Instructions"/> and
+                <xref keyref="sec:Venting_Requirements"/> before proceeding. 
+                These instructions and requirements must be followed on all installations.</li>
+            <li>Determine whether the water heater will be installed in a <i>Power Vent</i> or
+                    <i>Direct Vent</i> configuration and which vent system arrangement will be used
+                for the installation. See the various venting arrangements in the following
+                sections.</li>
+            <li>Proceed to the applicable instructions:<ul id="ul_gqc_bx3_fbb">
+                    <li><xref keyref="sec:Power_Vent_Installation"/></li>
+                    <li><xref keyref="sec:Direct_Vent_Installation"/></li>
+                </ul></li>
+        </ol>
+    </conbody>
+</concept>

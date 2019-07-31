@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><task xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="task_hwt_ldq_hbb" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:task.xsd">
+    <title>Manual Lime Scale Removal</title>
+    <shortdesc/>
+    <taskbody>
+        <context>
+            <note>Contact your local distributor or call the parts department phone number on the
+                back cover of this manual to order a new cleanout gasket. Have the new gasket
+                available before removing the cleanout cover.</note>
+            <p>The cleanout opening is shown in <xref keyref="sec:Lime_Scale_Removal/fig_cleanout_access"/>. To remove lime scale
+                manually through the cleanout opening, proceed as follows:</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Turn the Enable/Disable switch located on the front of the heater to the
+                    Disabled position.</cmd>
+            </step>
+            <step>
+                <cmd>Turn off the electrical supply to the water heater.</cmd>
+            </step>
+            <step>
+                <cmd>The water heater must be drained. See <xref keyref="sec:Draining_and_Flushing"/>. Follow
+                    the instructions on how to drain the water heater.</cmd>
+            </step>
+            <step>
+                <cmd>Remove the outer cleanout-access panel from lower side of the water-heater
+                    jacket.</cmd>
+            </step>
+            <step>
+                <cmd>Remove the cleanout cover from cleanout opening.</cmd>
+            </step>
+            <step>
+                <cmd>Remove lime, scale, and/or sediment using care not to damage the glass
+                    lining.</cmd>
+            </step>
+            <step>
+                <cmd>Install a new cleanout gasket if required.</cmd>
+            </step>
+            <step>
+                <cmd>Reinstall the cleanout cover. Be sure to draw the plate up tight by tightening
+                    the screws securely.</cmd>
+            </step>
+            <step>
+                <cmd>Close the water-heater drain valve.</cmd>
+            </step>
+            <step>
+                <cmd>Fill the water heater. See <xref keyref="sec:Filling_the_Water_Heater"/>.</cmd>
+            </step>
+            <step>
+                <cmd>Turn on the electrical supply to place the water heater back in operation. 
+                    See <xref keyref="sec:Initial_Start_Up"/>.</cmd>
+            </step>
+            <step>
+                <cmd>Allow the water heater to complete several heating cycles to ensure it is
+                    operating properly.</cmd>
+            </step>
+            <step>
+                <cmd>Check for water leakage.</cmd>
+            </step>
+            <step>
+                <cmd>Reinstall the cleanout access panel.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

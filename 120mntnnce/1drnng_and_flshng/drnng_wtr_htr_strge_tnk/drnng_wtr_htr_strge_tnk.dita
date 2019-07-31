@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><task xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="task_hys_2bq_hbb" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:task.xsd">
+    <title>Draining the Water Heater Storage Tank</title>
+    <shortdesc/>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Turn the Enable/Disable switch located on the front of the heater to the
+                    Disabled position.</cmd>
+            </step>
+            <step>
+                <cmd>Turn off the electrical supply to the water heater.</cmd>
+            </step>
+            <step>
+                <cmd>Turn off the gas supply at the main-gas shutoff valve if the water heater is
+                    going to be shut down for an extended period. </cmd>
+            </step>
+            <step>
+                <cmd>Ensure that the cold-water inlet valve is open.</cmd>
+            </step>
+            <step id="open_hot_water_faucet_step">
+                <cmd>Open a nearby hot-water faucet and let the water run until the water is no
+                    longer hot.</cmd>
+            </step>
+            <step>
+                <cmd>Connect a hose to the water-heater drain valve and terminate it in an adequate
+                    drain.</cmd>
+            </step>
+            <step>
+                <cmd>Close the cold-water inlet valve.</cmd>
+            </step>
+            <step>
+                <cmd>Open the water-heater drain valve and allow all the water to drain from the
+                    storage tank.</cmd>
+            </step>
+            <step>
+                <cmd>Close the water-heater drain valve when all water in the storage tank has
+                    drained.</cmd>
+            </step>
+            <step>
+                <cmd>Close the hot-water faucet opened in <xref href="#open_hot_water_faucet_step">Step 5</xref>.</cmd>
+            </step>
+            <step>
+                <cmd>If the water heater is going to be shut down for an extended period, the drain
+                    valve should be left open.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

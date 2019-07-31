@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><concept xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="concept_lqb_3t4_hbb" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:concept.xsd">
+    <title>Momentary Ignition</title>
+    <shortdesc/>
+    <conbody>
+        <p id="p_n5g_y54_hbb">If the main burner ignites momentarily but does not sustain ignition,
+            allow the water heater to try to ignite up to two more times until the control system
+            locks out and the Ignition Failure fault message displays on the control system screen.
+            If the water heater is experiencing rough starts, see <xref keyref="sec:Rough_Starting_Rough_Operation"/>. </p>
+        <p>      
+            <hazardstatement conkeyref="wmsg:burn_hazard-water_heater_internals">
+            <messagepanel>
+                <typeofhazard/>
+                <consequence/>
+                <howtoavoid/>
+            </messagepanel>
+            <hazardsymbol/>
+        </hazardstatement></p>
+        <p id="p_ztj_5b3_ccb">For momentary ignition problems without rough starting, check the
+            following:</p>
+        <ul id="ul_txt_y54_hbb">
+            <li>Undersized supply-gas line (low volume of supply gas). See <xref keyref="sec:Gas_Supply_Systems"/>.</li>
+            <li>A supply-gas regulator is not installed per installation requirements (erratic
+                gas-supply volume/pressures). See <xref keyref="sec:Supply_Gas_Regulator"/>.</li>
+            <li>See the list of possible causes and things to check and repair for the Ignition
+                Failure fault message in <xref keyref="sec:Fault_and_Alert_Messages"/>.</li>
+            <li>Debris clogging/blocking the intake-air screen(s). See <xref keyref="sec:Direct_Vent_Installation/fig_intke_air_scrn"/> and <xref keyref="sec:Termination_Clearances_Sidewall_Direct_Vent/fig_trmntn_clrnces_for_drct_vnt_usng_otsde_air"/>.</li>
+            <li>Debris clogging/blocking the Main Burner. See <xref keyref="sec:Blower_Burner_Assembly_Detail/fig_blower_burner_components"/>.</li>
+        </ul>
+    </conbody>
+</concept>

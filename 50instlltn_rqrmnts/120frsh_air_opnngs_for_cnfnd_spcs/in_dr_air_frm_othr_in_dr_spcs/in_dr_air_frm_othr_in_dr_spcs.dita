@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><concept xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="concept_mmk_y1r_mbb" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:concept.xsd">
+    <title>Air from Other Indoor Spaces</title>
+    <shortdesc/>
+    <conbody>
+        <p id="p_any_1br_mbb">The confined space shall be provided with two permanent openings, one
+            commencing within 12 inches (300 mm) of the top and one commencing within 12 inches (300
+            mm) of the bottom of the enclosure. 
+            See <xref keyref="sec:Air_From_Other_Indoor_Spaces/fig_in_dr_air_frm_othr_in_dr_spcs"/>.</p>
+        
+        <p id="p_bny_1br_mbb">Each opening shall communicate directly with an additional room(s) of
+            sufficient volume so that the combined volume of all spaces meets the criteria for an
+            Unconfined Space.</p>
+        <p id="p_cny_1br_mbb">Each opening shall have a minimum free area of 1 square inch per 1,000
+            Btu/hr (1100 mm2 per kW) of the aggregate input rating of all appliances installed in
+            the enclosure. Each opening shall not be less than 100 square inches (645 cm2). </p>
+        <fig id="fig_in_dr_air_frm_othr_in_dr_spcs">
+            <title>Indoor Air from Other Indoor Spaces</title>
+            <image keyref="img:air_req_other_indoor_spaces" id="image_f3v_cbr_mbb"/>
+        </fig>
+    </conbody>
+</concept>

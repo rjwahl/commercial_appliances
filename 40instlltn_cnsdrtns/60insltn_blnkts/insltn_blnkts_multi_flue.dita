@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<concept xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" 
+    id="insltn_blnkts_multi_flue" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:concept.xsd">
+    <title>Insulation Blankets</title>
+    <!-- There are three versions of this topic for three types of water heaters: blower-burner, single-flue, and multi-flue. 
+    -->
+    <shortdesc/>
+    <conbody>
+        <p id="insltn_blnkts123">
+        <hazardstatement conkeyref="wmsg:brthg_hzrd-insulation_blanket" type="warning">
+            <messagepanel>
+                <typeofhazard/>
+                <consequence/>
+                <howtoavoid/>
+            </messagepanel>
+            <hazardsymbol/>
+        </hazardstatement></p>
+        <p id="p_h4p_5jc_fbb">Insulation blankets are available to the general public for external
+            use on gas water heaters but are not necessary with these products. The purpose of an
+            insulation blanket is to reduce the standby heat loss encountered with storage tank
+            heaters. The water heaters covered by this manual meet or exceed the <i outputclass="Cite">Energy Policy Act</i> standards with respect to insulation and
+            standby heat loss requirements, making an insulation blanket unnecessary.</p>
+        <p id="p_i4p_5jc_fbb">If you choose to apply an insulation blanket to this heater, you
+            should follow these instructions. 
+            See <xref keyref="sec:Features_and_Components"/> section of this manual for identification 
+            of components mentioned below. Failure to follow these instructions can restrict the air 
+            flow required for proper combustion, potentially resulting in fire, asphyxiation, serious 
+            personal injury or death.</p><ul>
+                <li>Do not apply insulation to the top of the water heater, as this will interfere with safe operation 
+                    of the draft hood.
+                </li>
+                <li><b>Do not</b> cover the control system LCD on top of the water heater.</li>
+                <li><b>Do not</b> cover the  the gas valve, thermostat, or the temperature-pressure relief valve.</li>
+                <li><b>Do not</b> allow insulation to come within two inches (5 cm) of of the burners, to prevent 
+                    blockage of combustion air flow to the burners.</li>
+                <li><b>Do not</b> allow insulation to come within nine inches (23 cm) of floor, 
+                    (within two inches (5 cm) of bottom cover) to prevent blockage of combustion 
+                    air flow to the burners.</li>
+                <li><b>Do not</b> cover the instruction manual. Keep it on the side of the water
+                heater or nearby for future reference.</li>
+                <li><b>Do</b> obtain new warning and instruction labels from the manufacturer for
+                placement on the blanket directly over the existing labels.</li>
+                <li><b>Do</b> inspect the insulation blanket frequently to make certain it does not
+                sag, thereby obstructing combustion air flow.</li>
+            </ul>
+    </conbody>
+</concept>

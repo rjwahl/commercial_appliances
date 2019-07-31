@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?><task xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="task_uln_2hr_fbb" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:task.xsd">
+    <title>Concentric Termination Installation Preparation</title>
+    <shortdesc/>
+    <taskbody>        
+        <!-- BTH 120-250 and BTH 300-400-500 versions of this topic are identical except for step 1 which 
+        calls out specific models and the specific part numbers of concentric termination kits to use and the hole sizes in step 7.-->
+        <steps>
+            <step>
+                <cmd>Concentric terminations must be ordered separately. BTH 120–250 models must use
+                    the four-inch concentric termination (Part Number: 100111100) for both
+                    three-inch and four-inch vent diameters or the two-inch terminal (Par Number:
+                    100153586) for two-inch diameter pipe. Contact your local distributor or call
+                    the parts department phone number on the back cover of this manual to order
+                    concentric terminations.</cmd>
+            </step>
+            <step>
+                <cmd>Determine the location for the termination.</cmd>
+                <info>
+                    <note>Roof termination is preferred since it is less susceptible to damage, has
+                        reduced chances to intake contaminants and vent vapors are less
+                        visible.</note>
+                </info>
+            </step>
+            <step>
+                <cmd>When installing a concentric termination vertically through the roof, ensure
+                    that all exterior vertical clearance requirements for the concentric
+                    termination, shown in <xref keyref="sec:Concentric_Termination_Installation/fig_cncntrc_trmntn_vrtcl_instlltn"/>, are being
+                    maintained. These clearances and those cited by local and national codes must be
+                    maintained.</cmd>
+            </step>
+            <step>
+                <cmd>When installing a concentric termination vertically through a flat roof, the
+                    termination's vent cap must be a minimum of 10 feet (3 m) away from any parapet,
+                    vertical wall or structure as shown in <xref keyref="sec:Concentric_Termination_Installation_Preparation/fig_cncntrc_trmntn_flt_rf_clrnce"/>.</cmd>
+                <info>
+                    <fig id="fig_cncntrc_trmntn_flt_rf_clrnce">
+                        <title>Concentric Termination–Flat Roof Clearance</title>
+                        <image keyref="img:flat_roof_concentric_termination_clearance" id="image_rf5_m3r_fbb" width="500px"/>
+                    </fig>
+                    <note>If this required 10 foot (3 m) distance to a parapet, vertical wall, or
+                        structure cannot be maintained, standard terminations must be used. See
+                            <xref keyref="sec:Vertical_Termination_Installation"/>.</note>
+                </info>
+            </step>
+            <step>
+                <cmd>When installing a concentric termination through a sidewall, ensure that all
+                    exterior sidewall clearance requirements for the termination, shown in 
+                    <xref keyref="sec:Termination_Clearances_Sidewall_Direct_Vent/fig_trmntn_clrnces_for_drct_vnt_usng_otsde_air"/>
+                    are being maintained. These clearances and those cited by local and national codes
+                    must be maintained.</cmd>
+            </step>
+            <step>
+                <cmd>When installing multiple concentric terminations vertically through a roof or
+                    horizontally through a sidewall ensure the required clearances between
+                    terminations and groupings of multiple terminations are maintained. 
+                    See <xref keyref="sec:Multiple_Concentric_Termination_Clearances"/> and 
+                    <xref keyref="sec:Multiple_Concentric_Termination_Arrangements"/> for more information.</cmd>
+            </step>
+            <step>
+                <cmd/>
+                <info>
+                    <p id="p_dbk_l3c_dcb">Cut a hole in the roof or wall through which the pipes
+                        will pass as follows:</p>
+                    <simpletable frame="all" relcolwidth="1* 1*" id="simpletable_bdx_vhc_dcb">
+                        <sthead>
+                            <stentry>Termination Pipe Size</stentry>
+                            <stentry>Hole Size</stentry>
+                        </sthead>
+                        <strow>
+                            <stentry>2"</stentry>
+                            <stentry>3" (8 cm)</stentry>
+                        </strow>
+                        <strow>
+                            <stentry>4"</stentry>
+                            <stentry>5" (13 cm)</stentry>
+                        </strow>
+                    </simpletable>
+                </info>
+                <info>
+                    <note>Beware of concealed wiring and piping when cutting through the wall or
+                        roof.</note>
+                </info>
+            </step>
+            <step>
+                <cmd>When installing multiple concentric terminations vertically through the roof in
+                    the same location, the termination caps for all concentric terminations must be
+                    at the same height measured from ground. 
+                    See <xref keyref="sec:Multiple_Concentric_Termination_Arrangements"/>.</cmd>
+            </step>
+            <step>
+                <cmd>Determine if the concentric termination will need to be shortened to
+                    accommodate required clearances or to ensure all vent caps are at the same
+                    height when installing multiple terminations vertically through the roof in the
+                    same location.</cmd>
+                <info>
+                    <ul id="ul_ugh_y3r_fbb">
+                        <li>See <xref keyref="sec:Concentric_Termination_Installation/fig_cncntrc_trmntn_kit"/> for the minimum lengths allowed for the
+                            concentric termination.</li>
+                        <li>When shortening the length of the termination, carefully measure and cut
+                            the larger (intake air) pipe first. Cut the same amount of pipe from the
+                            smaller (vent) pipe.</li>
+                        <li> Lengthening of the Concentric Vent Termination is not permitted.</li>
+                    </ul>
+                </info>
+            </step>
+            <step>
+                <cmd>Proceed to <xref keyref="sec:Concentric_Termination_Installation"/>.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><concept xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="concept_ynz_d14_hbb" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:concept.xsd">
+    <title>Installation Checklist</title>
+    <shortdesc/>
+    <conbody>
+        <p id="p_zfs_f14_hbb">The list below represents some of the most critical installation
+            requirements that, when overlooked, often result in operational problems, down time, and
+            needless parts replacement. This is not a complete list. Before performing any
+            troubleshooting procedures, use the list below to check for installation errors. </p>
+        <note>Costs to correct installation errors are not covered under the limited warranty. See
+            Commercial Water Heater Limited Warranty.</note>
+        <p id="p_edp_h14_hbb">Ensure all installation requirements and instructions in this manual
+            have been maintained and followed.</p>
+    </conbody>
+</concept>

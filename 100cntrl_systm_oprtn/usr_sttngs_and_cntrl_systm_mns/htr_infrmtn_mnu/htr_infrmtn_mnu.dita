@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><concept xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="concept_ibh_3d4_qbb" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:concept.xsd">
+    <title>Heater Information Menu</title>
+    <shortdesc/>
+    <conbody>
+        <table frame="all" rowsep="1" colsep="1" id="table_uh1_qkw_1cb">
+            <title>Heater Information Menu</title>
+            <tgroup cols="2" align="left">
+                <colspec colname="c1" colnum="1" colwidth="1*"/>
+                <colspec colname="c2" colnum="2" colwidth="1*"/>
+                <thead>
+                    <row>
+                        <entry>Discription/Action</entry>
+                        <entry>Display</entry>
+                    </row>
+                </thead>
+                <tbody>
+                    <row>
+                        <entry>
+                            <p id="p_txd_1lw_1cb">Press <uicontrol>Heater Information</uicontrol>
+                                from the Main Menu to enter this menu. This menu contains non
+                                adjustable operational information.</p>
+                            <ul id="ul_qzn_ld4_qbb">
+                                <li><i>Elapsed Time</i> - Total accumulated time the control system
+                                    (water heater) has been energized.</li>
+                                <li><i>Burner On Time</i> - Total accumulated time the control
+                                    system has been in the heating operating state; burner run
+                                    time.</li>
+                                <li><i>Total Cycle Count </i>- Total accumulated count of heating
+                                    cycles.</li>
+                                <li><i>CCB Version</i> - Software version for central control
+                                    board</li>
+                                <li><i>Config CRC</i> - Verifies the configuration key matches the
+                                    CCB programming.</li>
+                                <li><i>UIM Version</i> - Software version for user interface
+                                    module.</li>
+                                <li><i>Use External Enable</i> - Enables/Disables the external
+                                    enable circuit.</li>
+                                <li><i>External Enable Status</i> - Displays whether the external
+                                    enable circuit has been activated.</li>
+                                <li><i>Ignition Trials </i>- Displays the number of ignition trials
+                                        allowed.<note>Historical data is stored in the configuration
+                                        key. If this key is replaced during servicing, the
+                                        historical data will be lost. The data stored in the new
+                                        configuration key will no longer reflect the entire history
+                                        of the water heater. The configuration key should never be
+                                        replaced unless directed by Technical Support.</note></li>
+                                <li>Elapsed Time, Burner On Time, and Cycle Count indicate age,
+                                    usage, and wear.</li>
+                                <li>If the Cycle Count per day is high (divide cycle count by days
+                                    to determine cycles per day) or the cycle duration is short
+                                    (determine burner on time total minutes, divide burner on time
+                                    total minutes by cycle count) consider rasing the Differential
+                                    setting to avoid short cycling and excessive component wear. See
+                                        <xref
+                                        keyref="sec:Operating_Set_Point_and_Differential_Adjustment"
+                                    />.</li>
+                                <li>This historical data can also be used to assist facilities
+                                    managers in forecasting planned replacement of equipment to help
+                                    avoid lengthy and costly hot water supply interruptions.</li>
+                                <li>The Elapsed Time, Burner On Time, and Cycle Count indicate age,
+                                    usage, and wear.</li>
+                                <li>If the Cycle Count per day is high (divide cycle count by days
+                                    to determine cycles per day) or the cycle duration is short
+                                    (determine burner on time total minutes, divide burner on time
+                                    total minutes by cycle count) consider rasing the Differential
+                                    setting to avoid short cycling and excessive component wear. See
+                                        <xref
+                                        keyref="sec:Operating_Set_Point_and_Differential_Adjustment"
+                                    />.</li>
+                                <li>This historical data can also be used to assist facilities
+                                    managers in forecasting planned replacement of equipment to help
+                                    avoid lengthy and costly hot water supply interruptions.</li>
+                            </ul>
+                        </entry>
+                        <entry><p id="p_jsk_nmw_1cb">Top of Menu</p><image
+                                keyref="img:UIM_heater_information_menu1" id="image_h1w_y24_qbb"/><p
+                                id="p_mfl_4mw_1cb">Middle of Menu</p><image
+                                keyref="img:UIM_heater_information_menu2" id="image_ty3_1f4_qbb"/><p
+                                id="p_nc1_pmw_1cb">Bottom of Menu</p><image
+                                keyref="img:UIM_heater_information_menu3" id="image_etn_bf4_qbb"
+                            /></entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+    </conbody>
+</concept>

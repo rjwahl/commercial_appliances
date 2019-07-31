@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><concept xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="concept_cxm_kfq_hbb" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:concept.xsd">
+    <title>Drain Valve and Access Panels</title>
+    <shortdesc/>
+    <conbody>
+        <p>The water heaters covered in this manual are equipped with a drain valve. 
+            See <xref keyref="sec:Features_and_Components"/> for location. The water heaters covered in this manual are also
+            equipped with a cleanout opening for sediment and lime scale removal. 
+            See <xref keyref="sec:Lime_Scale_Removal/fig_cleanout_access"/>.</p>
+    </conbody>
+</concept>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><concept xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="concept_fhn_hr4_hbb" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:concept.xsd">
+    <title>Installation Errors</title>
+    <shortdesc/>
+    <conbody>
+        <p id="p_dnp_3r4_hbb">Operational problems on new installations are often the result of
+            installation requirements that have been overlooked rather than failed components. For
+            example, a "Low Gas Pressure" fault condition is most often caused by low supply-gas
+            pressure rather than a defective low-gas-pressure switch. Rough starting and rough
+            operation are often caused by undersized supply gas lines and/or the absence of a supply
+            gas regulator at the water heater.</p>
+        <p id="p_enp_3r4_hbb">Prior to performing any operational checks, inspect the water heater
+            installation to ensure all installation requirements and instructions have been
+            maintained and followed. See the <xref keyref="sec:Installation_Checklist"/>.</p>
+        <note>Costs to correct installation errors are not covered under the limited warranty. 
+              See the Commercial Water Heater Limited Warranty.</note>
+    </conbody>
+</concept>

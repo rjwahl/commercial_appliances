@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?><task xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="task_pfb_r5p_fbb" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:task.xsd">
+    <title>Vertical Termination Installation</title>
+    <shortdesc/>
+    <taskbody><!-- The bth 120-250 and bth 300-400-500 versions of this topic are identical except for the dimensions of the pipes referenced in step 7, so two separate topics are being maintained.-->
+        <steps>
+            <step>
+                <cmd>Determine the location for the termination(s).</cmd>
+            </step>
+            <step>
+                <cmd>If installing only the vent (exhaust) piping in a <i>power vent</i>
+                    configuration vertically through the roof, ensure that all exterior vertical
+                    clearance requirements shown in <xref keyref="sec:Vertical_Termination_Installation/fig_stndrd_fctry_sppld_intke_air_trmntns"/> and <xref keyref="sec:Vertical_Termination_Installation/fig_vrtcl_trmntn_flt_rf_clrnce_intke_exhst"/> are being maintained. These clearances and those cited by local and national
+                    codes must be maintained.</cmd>
+                <info>
+                    <note>On flat roof installations, the vent termination must be a minimum of 24
+                        inches (60 cm) above any parapet, vertical wall, or structure within 10 feet
+                        (3 m) horizontally. See <xref keyref="sec:Vertical_Termination_Installation/fig_vrtcl_trmntn_flt_rf_clrnce_intke_exhst"/>. </note>
+                </info>
+            </step>
+            <step>
+                <cmd>If installing both intake air and vent piping in a direct vent configuration
+                    vertically through the roof, ensure that all exterior vertical clearance
+                    requirements shown in <xref keyref="sec:Vertical_Termination_Installation/fig_stndrd_fctry_sppld_intke_air_trmntns"/> and <xref keyref="sec:Vertical_Termination_Installation/fig_vrtcl_trmntn_flt_rf_clrnce_intke_exhst"/> are being maintained. These clearances and those cited by local and national
+                    codes must be maintained.</cmd>
+                <info>
+                    <note>On flat-roof installations, the intake air and the vent terminations must
+                        be a minimum of 24 inches (60 cm) above any parapet, vertical wall, or
+                        structure within 10 feet (3 m) horizontally. See <xref keyref="sec:Vertical_Termination_Installation/fig_vrtcl_trmntn_flt_rf_clrnce_intke_exhst"/>. </note>
+                </info>
+            </step>
+            <step>
+                <cmd>If installing only vent piping in a power vent configuration vertically through
+                    the roof, the following instructions must be followed:</cmd>
+                <info>
+                    <ul id="ul_hjk_1vp_fbb">
+                        <li>The vent termination must be oriented facing downward as shown in <xref keyref="sec:Vertical_Termination_Installation/fig_stndrd_fctry_sppld_intke_air_trmntns"/> and <xref keyref="sec:Vertical_Termination_Installation/fig_vrtcl_trmntn_flt_rf_clrnce_intke_exhst"/> .</li>
+                        <li>The bottom edge of vent termination must be a minimum of 12 inches (30
+                            cm), 18 inches (45 cm) in Canada, above average or expected snow level
+                            as shown in <xref keyref="sec:Vertical_Termination_Installation/fig_stndrd_fctry_sppld_intke_air_trmntns"/>. .</li>
+                    </ul>
+                </info>
+            </step>
+            <step>
+                <cmd>If installing both intake air and vent piping in a direct vent configuration
+                    vertically through the roof, the following instructions must be followed:</cmd>
+                <info>
+                    <ul id="ul_k3v_2vp_fbb">
+                        <li>The intake air and vent pipes must penetrate the same side of the roof
+                            as shown in <xref keyref="sec:Vertical_Termination_Installation/fig_drct_vnt_vrtcl_trmntn_instlltns"/>.</li>
+                        <li>The intake air and vent terminations must be oriented facing downward
+                            and in the same direction as shown in <xref keyref="sec:Vertical_Termination_Installation/fig_drct_vnt_vrtcl_trmntn_instlltns"/>.</li>
+                        <li>The intake air and vent terminations must have a minimum separation of
+                            24” (61 cm) measured on center line as shown in <xref keyref="sec:Vertical_Termination_Installation/fig_drct_vnt_vrtcl_trmntn_instlltns"/>. In colder climates, this separation should be increased to at least
+                            48 inches (122 cm).</li>
+                        <li>The bottom edge of the intake air and vent terminations must be a
+                            minimum of 12 inches (30 cm), 18 inches (45 cm) in Canada, above the
+                            average or expected snow level as shown in <xref keyref="sec:Vertical_Termination_Installation/fig_stndrd_fctry_sppld_intke_air_trmntns"/> and <xref keyref="sec:Vertical_Termination_Installation/fig_drct_vnt_vrtcl_trmntn_instlltns"/>.</li>
+                    </ul>
+                </info>
+            </step>
+            <step>
+                <cmd>When the intake air and/or vent piping from multiple water heaters will
+                    terminate in the same location, the vent terminations can be grouped together in
+                    close proximity 0 inches/touching. Intake air terminations can also be grouped
+                    together in close proximity 0 inches/touching.</cmd>
+                <info>
+                    <note>The distance between the closest vent and intake air terminations must be
+                        a minimum of 24 inches (61 cm) as shown in <xref keyref="sec:Vertical_Termination_Installation/fig_drct_vnt_vrtcl_trmntn_instlltns"/>. In colder climates, this separation should be increased to at least 48
+                        inches (122 cm).</note>
+                </info>
+            </step>
+            <step>
+                <cmd>Cut a hole in the wall through which the pipes will pass as follows:</cmd>
+                <info>
+                    <simpletable frame="all" relcolwidth="1* 1*" id="simpletable_wkq_jkw_ccb">
+                        <sthead>
+                            <stentry>Pipe Size</stentry>
+                            <stentry>Hole Size</stentry>
+                        </sthead>
+                        <strow>
+                            <stentry>3"</stentry>
+                            <stentry>4" (10 cm)</stentry>
+                        </strow>
+                        <strow>
+                            <stentry>4"</stentry>
+                            <stentry>5" (13 cm)</stentry>
+                        </strow>
+                    </simpletable>
+                    <note>Beware of concealed wiring and piping when cutting through the
+                        roof.</note>
+                </info>
+            </step>
+            <step>
+                <cmd>Suspend the pipe(s) through center of the hole using field-supplied metal
+                    strapping or equivalent support materials as shown in <xref keyref="sec:Vertical_Termination_Installation/fig_stndrd_fctry_sppld_intke_air_trmntns"/>.</cmd>
+            </step>
+            <step>
+                <cmd>Slide a roof boot or equivalent flashing over the pipe and secure the roof boot
+                    or equivalent flashing to the roof. Seal around the flashing as shown in <xref keyref="sec:Vertical_Termination_Installation/fig_stndrd_fctry_sppld_intke_air_trmntns"/>, <xref keyref="sec:Vertical_Termination_Installation/fig_vrtcl_trmntn_flt_rf_clrnce_intke_exhst"/>, and <xref keyref="sec:Vertical_Termination_Installation/fig_drct_vnt_vrtcl_trmntn_instlltns"/>.</cmd>
+            </step>
+            <step>
+                <cmd>Install the factory-supplied intake air and/or vent termination(s) using
+                    field-supplied pipe and one field-supplied 90° elbow as shown in <xref keyref="sec:Vertical_Termination_Installation/fig_stndrd_fctry_sppld_intke_air_trmntns"/>. The short section of pipe that connects between the field-supplied 90° elbow
+                    and the factory-supplied termination must not be excessive in length. The
+                    exposed portion of this pipe shall be no more than two inches (5 cm).</cmd>
+            </step>
+            <step>
+                <cmd>Return to <xref keyref="sec:Power_Vent_Installation"/> or <xref keyref="sec:Direct_Vent_Installation"/> to complete the installation of the
+                    intake air and/or vent piping between the termination(s) and the water
+                    heater.</cmd>
+                <info>
+                    <fig id="fig_stndrd_fctry_sppld_intke_air_trmntns">
+                        <title>Standard Factory-Supplied Intake Air Terminations</title>
+                        <image keyref="img:Standard_Intake_Air_Terminations" id="image_cxw_5wp_fbb" width="500px"/>
+                    </fig>
+                    <fig id="fig_vrtcl_trmntn_instlltns">
+                        <title>Vertical Termination Installations</title>
+                        <image keyref="img:power_vent_terminations_installation" id="image_n44_3xp_fbb" width="500px"/>
+                    </fig>
+                    <fig id="fig_vrtcl_trmntn_flt_rf_clrnce_intke_exhst">
+                        <title>Vertical Termination Flat Roof Clearance - Intake/Exhaust</title>
+                        <image keyref="img:flat_roof_vertical_terminations_plus_clearances" id="image_ndv_nyp_fbb" width="500px"/>
+                    </fig>
+                    <fig id="fig_drct_vnt_vrtcl_trmntn_instlltns">
+                        <title>Direct Vent Vertical Termination Installation</title>
+                        <image keyref="img:direct_vent_vertical_clearances_install" id="image_g1w_z1q_fbb" width="500px"/>
+                    </fig>
+                </info>
+            </step>
+        </steps>
+    </taskbody>
+</task>

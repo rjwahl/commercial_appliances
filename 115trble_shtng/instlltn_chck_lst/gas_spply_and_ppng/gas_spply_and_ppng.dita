@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><task xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="task_ljm_nj4_hbb" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:task.xsd">
+    <title>Gas Supply and Piping</title>
+    <shortdesc/>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Ensure that a supply gas regulator has been installed for each water heater.
+                    See the requirements for a <xref keyref="sec:Supply_Gas_Regulator"/>.</cmd>
+            </step>
+            <step>
+                <cmd>Ensure that the supply gas line to each water heater meets the minimum supply
+                    gas-line size requirements. See the requirements for the <xref keyref="sec:Gas_Supply_Systems"/> and the installation instructions in <xref keyref="sec:Gas_Line_Sizing"/> and <xref keyref="sec:Gas_Line_Connection"/>.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

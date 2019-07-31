@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><concept xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="concept_mqb_pyb_fbb" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:concept.xsd">
+    <title>Optional Direct Vent Terminations</title>
+    <shortdesc/>
+    <conbody>
+        <p id="p_zzj_qyb_fbb">The water heaters covered in this manual can be installed in a direct
+            vent configuration using optional concentric or low-profile terminations. 
+            See <xref keyref="sec:Optional_Direct_Vent_Terminations"/> and <xref keyref="sec:Low-Profile_Vent_Termination_Installation"/>.</p>
+        <p id="p_a1k_qyb_fbb">Concentric and low profile terminations must be ordered separately.
+            Contact your local distributor or call the parts department phone number listed on the
+            back cover of this manual to order.</p>
+    </conbody>
+</concept>

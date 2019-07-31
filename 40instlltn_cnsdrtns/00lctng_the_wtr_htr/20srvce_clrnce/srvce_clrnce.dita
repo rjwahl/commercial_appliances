@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><concept xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="concept_p4q_2qb_fbb" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:concept.xsd">
+    <title>Service Clearance</title>
+    <shortdesc/>
+    <conbody>
+        <p>A service clearance of 24 inches (61 cm) should be maintained from serviceable parts such
+            as the T&amp;P valve, control system components, gas valve, clean out opening, drain
+            valve, the vent connection (exhaust/condensate elbow), and the condensate drain. Leave
+            as much room as possible above the water heater and near the exhaust elbow for this
+            reason. 
+            See <xref keyref="sec:Condensate_Drain/fig_exhaust_condensate_elbow"/>.</p>
+    </conbody>
+</concept>

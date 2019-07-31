@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><concept xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="concept_kjk_dwh_fbb" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:concept.xsd">
+    <title>Intake Air Connection</title>
+    <shortdesc/>
+    <conbody>
+        <p id="p_bj4_2wh_fbb">The water heaters covered in this manual are factory equipped with a
+            unique Combustion Blower and intake air connection Tee fitting. The Tee is a 3" x 3" x
+            1/2" fitting. The intake air connection Tee fitting has a hose barb installed in the 1/2
+            inch branch to connect the Blocked Intake Air switch sensing tube.
+            See <xref keyref="sec:Intake_Air_Connection/fig_cnnctng_the_intake_air_assmbly"/>.</p>
+        <fig id="fig_cnnctng_the_intake_air_assmbly">
+            <title>Connecting the Intake Air Assembly</title>
+            <image keyref="img:instlltn_of_intke_air_assmbly" id="image_ny5_fxh_fbb" width="500px"/>
+        </fig>
+        <p id="p_wdl_hxh_fbb">Ensure the hose barb installed in the Tee fitting is not facing down
+            towards the ground (180° - 6 o'clock position) before venting installation begins. The
+            barb fitting must be angled between 90° and no more than 130° as shown in 
+            <xref keyref="sec:Intake_Air_Connection/fig_ornttn_of_intke_air_tee_fttngs"/>. 
+            If the barb fitting is facing down, residual condensate that occasionally forms in the
+            intake air pipe can drain into the Blocked Intake Air switch through the attached
+            sensing tube and damage the switch. This condition can also lead to Blocked Intake Air
+            fault conditions and associated control system lock outs.</p>
+        <fig id="fig_ornttn_of_intke_air_tee_fttngs">
+            <title>Orientation of Intake Air Tee Fittings</title>
+            <image keyref="img:intke_air_assmbly-tee_angle" id="image_ngv_ryh_fbb" width="400px"/>
+        </fig>
+        <p id="p_wts_syh_fbb">The intake air Tee fitting is factory installed with the 1/2 inch
+            branch and hose barb angled to the right at approximately 130° when viewed from the end.
+            See <xref keyref="sec:Intake_Air_Connection/fig_ornttn_of_intke_air_tee_fttngs"/>.
+            The Tee fitting's 1/2 inch branch and hose barb must not be angled any
+            lower (towards the ground) than this factory specification. Angling higher, up to a 90°
+            position, will not adversely affect operation and is acceptable.</p>
+    </conbody>
+</concept>

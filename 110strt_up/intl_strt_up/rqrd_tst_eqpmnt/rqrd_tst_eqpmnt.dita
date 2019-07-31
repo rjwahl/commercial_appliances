@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><concept xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="concept_amd_kmh_hbb" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:concept.xsd">
+    <title>Required Test Equipment</title>
+    <shortdesc/>
+    <conbody>
+        <ul id="ul_dv2_mmh_hbb">
+            <li>One U-tube manometer, recommended ranges; 0-14” W.C. (0-3.5 kPa) and 0-35” W.C.
+                (0-8.7 kPa) or pressure gauges.</li>
+            <li>One digital manometer can be used in place of U-tube manometers or pressure gauges.
+                Recommended ranges; -14.00 to +14.00” W.C. (0-3.5 kPa) resolution 0.01” W.C. and
+                0-35” W.C. (0-8.7 kPa) resolution 0.10” W.C.</li>
+            <li/>
+        </ul>
+        <note>All test equipment must be acclimated to ambient temperature before calibration and
+            use.</note>
+    </conbody>
+</concept>

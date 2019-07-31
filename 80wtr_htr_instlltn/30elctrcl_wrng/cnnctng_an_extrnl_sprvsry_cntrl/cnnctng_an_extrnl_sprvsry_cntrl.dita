@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><task xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="task_ebf_nj5_gbb" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:task.xsd">
+    <title>Connecting An External Supervisory Control</title>
+    <shortdesc/>
+    <taskbody>
+        <context>
+            <p>The enable/disable circuit is accessed from the CCB’s J17 plug inside the CCB
+                enclosure. See <xref keyref="sec:Components_Top_View/fig_top_view"/>
+                to locate the CCB enclosure. Install field wiring to the enable/disable circuit:</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Turn off power at the water heater’s Enable/Disable switch and the breaker that
+                    supplies power to the water heater.</cmd>
+            </step>
+            <step>
+                <cmd>Locate the CCB enclosure.</cmd>
+            </step>
+            <step>
+                <cmd>Carefully remove the temperature-probe connectors and the CCB enclosure
+                    cover.</cmd>
+            </step>
+            <step>
+                <cmd>Locate pins 1 and 2 on the CCB J17 plug. See <xref keyref="sec:Central_Control_Board_Layout/"/>.</cmd>
+            </step>
+            <step>
+                <cmd>Connect the two field-supplied control wires to pins 1 and 2 on the CCB J17
+                    plug.</cmd>
+            </step>
+            <step>
+                <cmd>Thread the control wires out of the CCB enclosure with the other wiring and
+                    carefully replace the CCB enclosure cover. Ensure all wiring is routed through
+                    the intended area provided for strain relief. Ensure that no wiring is being
+                    pinched.</cmd>
+            </step>
+            <step>
+                <cmd>Reinstall the CCB enclosure cover and temperature-probe connectors.</cmd>
+            </step>
+            <step>
+                <cmd>Route the control wires inside the junction box on the top of the water heater.
+                    See <xref keyref="sec:Components_Top_View/fig_top_view"/> 
+                    to locate the junction box. Use an available
+                    knock-out to route the wires inside the junction box.</cmd>
+            </step>
+            <step>
+                <cmd>Install field-supplied control wiring and conduit, as required by national and
+                    local codes, between the water heater’s junction box and the external
+                    supervisory control. Connect the wiring from the external control to the control
+                    wires inside the junction box using wire nuts and electrical tape.</cmd>
+            </step>
+            <step>
+                <cmd>Connect the control wiring to a set of dry contacts on the external control.
+                    Follow the control manufacturer’s instructions for making connections.</cmd>
+            </step>
+            <step>
+                <cmd>Restore power to the water heater.</cmd>
+            </step>
+            <step>
+                <cmd>From the water heaters user interface module (UIM) Heater Information screen,
+                    select <uicontrol>Use External Enable</uicontrol> and change the value to
+                        <i>Yes</i>. See <xref keyref="sec:Components_Top_View/fig_top_view"/> to
+                    locate the UIM.</cmd>
+                <info>
+                    <note>Whenever the external control opens the set of dry contacts used, water
+                        heating operation is disabled. Whenever the external control closes the set
+                        of dry contacts used, water heating operation is enabled. A diagonal line
+                        and circle appears over the thermometer icon on the UIM when water heating
+                        operation is disabled. See <xref keyref="sec:Status_Icons/table_status_icons"/>.</note>
+                    <note>Ensure that the water heater is protected from freezing temperatures when
+                        water heating operation is disabled. Damage to the water heater that is
+                        caused by freezing temperatures is not covered under the limited warranty.
+                        See Commercial Water Heater Limited Warranty.</note>
+                </info>
+            </step>
+        </steps>
+    </taskbody>
+</task>

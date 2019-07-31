@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><concept xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="concept_clx_5wh_hbb" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:concept.xsd">
+    <title>High Altitude Installations</title>
+    <shortdesc/>
+    <conbody>
+        <p id="p_cpl_q13_hbb">The water heaters covered by this manual are certified for use without
+            modification for altitudes up to 10,100 feet (3,078 m).</p>
+        <p>     
+            <hazardstatement conkeyref="wmsg:explosion_hazard-overfiring">
+            <messagepanel>
+                <typeofhazard/>
+                <consequence/>
+                <howtoavoid/>
+            </messagepanel>
+            <hazardsymbol/>
+        </hazardstatement></p>
+
+        <p>     
+            <hazardstatement conkeyref="wmsg:breathing_hazard-overfiring">
+                <messagepanel>
+                    <typeofhazard/>
+                    <consequence/>
+                    <howtoavoid/>
+                </messagepanel>
+                <hazardsymbol/>
+            </hazardstatement></p>
+        <p id="p_dpl_q13_hbb">Most gas utility companies de-rate their gas for high altitudes,
+            making it unnecessary to install high altitude orifices. </p>
+        <!-- The bth 300-400-500 version of this topic includes the following paragraph, which is 
+              omitted from the bth 120-250 version-->
+        <p id="p_lcg_yqg_ccb">For installations above 10,100 feet call the technical support phone
+            number listed on the back cover of this manual for further technical assistance. Call
+            the local gas or utility company to verify Btu per cubic foot content before calling for
+            technical assistance and have that information available.</p>
+        <note>The actual firing rate of the water heater must not exceed the input rating on the
+            water heater's rating label under any circumstances.</note>
+        <note>Due to the input rating reduction at high altitudes, the output rating of the water
+            heater is also reduced and should be compensated for in the sizing of the
+            equipment.</note>
+
+
+    </conbody>
+</concept>

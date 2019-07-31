@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?><concept xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="concept_ns4_ffp_hbb" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:concept.xsd">
+    <title>Fault and Alert Messages</title>
+    <shortdesc/>
+    <conbody>
+        <p>Call the technical support phone number listed on the back cover for further technical
+            assistance or to locate a qualified service agent in your area.</p>
+        <table frame="all" rowsep="1" colsep="1" id="table_vq4_4fp_hbb">
+            <tgroup cols="2" align="center">
+                <colspec colname="c1" colnum="1" colwidth="1*"/>
+                <colspec colname="c2" colnum="2" colwidth="1*"/>
+                <thead>
+                    <row>
+                        <entry><p outputclass="Table-Column-Head">Possible Causes - Check/Repair</p></entry>
+                        <entry><p outputclass="Table-Column-Head">Displayed Fault/Alert Message</p></entry>
+                    </row>
+                </thead>
+                <tbody>
+                    <row>
+                        <entry>
+                            <ul id="ul_aps_fnp_hbb">
+                                <li outputclass="Table-Cell-Bullet">Using a manometer, ensure that
+                                    gas supply pressure is above minimum requirement listed on
+                                    heater’s data plate and does not drop more than 1.5” W.C. when
+                                    unit fires.</li>
+                                <li outputclass="Table-Cell-Bullet">Ensure that the wire connections
+                                    to gas valve are clean and tight.</li>
+                                <li outputclass="Table-Cell-Bullet">Ensure that the wire connections
+                                    to flame sensor are clean and tight.</li>
+                                <li outputclass="Table-Cell-Bullet">Ensure that the wire connections
+                                    to spark igniter are clean and tight.</li>
+                                <li outputclass="Table-Cell-Bullet">Inspect flame sensor;
+                                    clean/replace as needed.</li>
+                                <li outputclass="Table-Cell-Bullet">Inspect spark igniter; realign
+                                    igniter gap as needed.</li>
+                                <li outputclass="Table-Cell-Bullet">Ensure that an adequate
+                                    electrical ground to heater has been established.</li>
+                            </ul>
+                        </entry>
+                        <entry><image keyref="img:UIM_msg_ignition_failure" id="image_j34_qmp_hbb" width="500"/></entry>
+                    </row>
+                    <row>
+                        <entry>
+                            <ul id="ul_ctz_rnp_hbb">
+                                <li>Confirm that supply gas is turned on.</li>
+                                <li>Using a manometer, ensure that the supply gas pressure is above
+                                    the minimum pressure requirement listed on heater’s data plate
+                                    before and during operation.</li>
+                                <li>Ensure that the wire connections to gas pressure switch are
+                                    clean and tight.</li>
+                                <li>If all above conditions are met, replace the gas pressure
+                                    switch.</li>
+                            </ul>
+                        </entry>
+                        <entry><image keyref="img:UIM_msg_low_gas_pressure" id="image_vld_wnp_hbb" width="300px"/></entry>
+                    </row>
+                    <row>
+                        <entry>
+                            <ul id="ul_igy_ynp_hbb">
+                                <li>If a Blocked Exhaust error occurs when the blower is running,
+                                    check for restrictions in the exhaust pipe, including exhaust
+                                    elbow, condensate drain, and outside termination. Also, check
+                                    the exhaust pipe installation (size/length) per manual.</li>
+                                <li>If a Blocked Exhaust error occurs before the blower runs, make
+                                    sure that the pressure switch connections are clean and tight.
+                                    Check the pressure switch continuity/resistance. The switch
+                                    should be closed (continuity/0 ohms). Replace the switch if its
+                                    contacts are open (no continuity).</li>
+                                <li>Other possible causes: high-wind conditions and excessive
+                                    negative air pressure in building.</li>
+                            </ul>
+                        </entry>
+                        <entry><image keyref="img:UIM_msg_blocked_exhaust" id="image_gdh_l4p_hbb" width="300px"/></entry>
+                    </row>
+                    <row>
+                        <entry>
+                            <ul id="ul_t2l_nlp_hbb">
+                                <li outputclass="Table-Cell-Bullet">If Blocked Intake error occurs
+                                    before blower runs, make sure pressure switch connections are
+                                    clean and tight. Check pressure switch continuity/resistance.
+                                    Switch should be closed (continuity/0 ohms). Replace switch if
+                                    open (no continuity).</li>
+                                <li outputclass="Table-Cell-Bullet">If Blocked Intake error occurs
+                                    when blower is running, check for restrictions in intake pipe,
+                                    including intake air connection, outside termination, and inlet
+                                    condensate drains (if installed).</li>
+                                <li outputclass="Table-Cell-Bullet">Other possible causes: High-wind
+                                    conditions and/or excessive negative air pressure in the
+                                    building.</li>
+                            </ul>
+                        </entry>
+                        <entry><image keyref="img:UIM_msg_blocked_air_intake" id="image_r15_4mp_hbb" width="300px" align="center"/></entry>
+                    </row>
+                    <row>
+                        <entry>
+                            <ul>
+                            <li>Ensure that the wire connections to the upper temperature probe are
+                                    clean and tight.</li>
+                                <li>Using a thermometer, check the water temperature of the
+                                    heater.</li>
+                                <li>Use a multi-meter and check for continuity between the two red
+                                    wires of the upper temperature probe.</li>
+                                <li>If the two red wires are open (no continuity) ,and the water
+                                    temperature is below 160°F, replace the upper temperature
+                                    probe.</li>
+                                <li>If the water temperature exceeds 195°F, turn off electric power
+                                    and gas supply and call Tech Support for further
+                                    instructions.</li>
+                        </ul>
+                        </entry>
+                        <entry><image keyref="img:UIM_msg_high_temp_limit_exceeded" id="image_rc5_hnp_hbb" width="300px"/></entry>
+                    </row>
+                    <row>
+                        <entry>
+                            <ul id="ul_m11_knp_hbb">
+                                <li>Confirm that the water heater is full of water.</li>
+                                <li>Confirm that the powered anode wire connections are tight and
+                                    free of debris or moisture (for example, rust, solder, metal
+                                    pipe shavings).</li>
+                                <li>Confirm that a proper electrical ground to the water heater has
+                                    been established.</li>
+                                <li>Inspect the powered anode(s) and clean or replace as
+                                    needed.</li>
+                            </ul>
+                        </entry>
+                        <entry><image keyref="img:UIM_msg_no_water" id="image_c53_nnp_hbb" width="300px"/></entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+    </conbody>
+</concept>

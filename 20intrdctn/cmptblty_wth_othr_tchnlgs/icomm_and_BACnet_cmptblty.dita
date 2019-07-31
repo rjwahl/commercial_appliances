@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="icomm_cmptblty00001" xml:lang="en-us">
+    <title>iCOMM™ and BACnet Compatibility</title>
+    <shortdesc>Short description</shortdesc>
+    <prolog>
+        <metadata>
+            <keywords>
+                <indexterm>iCOMM™</indexterm>
+            </keywords>
+        </metadata>
+    </prolog>
+    <conbody>
+    	<p>This water heater comes equipped with the iCOMM™ remote monitoring system. This system
+            allows users to monitor critical operations and diagnose issues remotely using the
+            manufacture’s water heater app (available for IOS and Android).</p>
+    	<p>The iCOMM system can automatically notify selected personnel via email and or mobil phone
+            text messages if operational problems or user-defined alert conditions occur. The system
+            is expandable to meet the needs of multiple heaters and groups of heaters. </p>
+    </conbody>
+</concept>

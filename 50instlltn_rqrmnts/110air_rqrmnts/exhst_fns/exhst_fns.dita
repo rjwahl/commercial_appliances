@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><concept xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="concept_kpj_lrc_bbb" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:concept.xsd">
+    <title>Exhaust Fans</title>
+    <shortdesc/>
+    <conbody>
+        <p>Where exhaust fans are installed, additional air shall be provided to replace the
+            exhausted air. When an exhaust fan is installed in the same space with a water heater,
+            sufficient openings to provide fresh air must be provided that accommodate the
+            requirements for all appliances in the room and the exhaust fan. Undersized openings
+            will cause air to be drawn into the room through the water heater’s vent system causing
+            poor combustion. Sooting, serious damage to the water heater, and the risk of fire or
+            explosion may result. It can also create a risk of asphyxiation.</p>
+    </conbody>
+</concept>

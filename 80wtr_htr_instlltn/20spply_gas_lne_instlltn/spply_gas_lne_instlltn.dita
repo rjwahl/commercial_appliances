@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><concept xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="concept_enw_qms_gbb" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:concept.xsd">
+    <title>Supply Gas Line Installation</title>
+    <conbody>
+        <p id="p_qbh_c4s_gbb">Contact your local gas utility company to ensure that adequate gas
+            service is available and to review applicable installation codes for your area.</p>
+        <p id="p_ad2_d4s_gbb">Be sure that the gas meter has sufficient capacity to supply the rated
+            gas input of the water heater as well as the requirements of all other gas fired
+            equipment supplied by the meter. If the gas meter is undersized, the gas company will
+            have to install a properly sized gas meter.</p>
+        <p><hazardstatement conkeyref="wmsg:fire_or_explosion_hazard-gas">
+            <messagepanel>
+                <typeofhazard/>
+                <consequence/>
+                <howtoavoid/>
+            </messagepanel>
+            <hazardsymbol/>
+        </hazardstatement></p>
+        <p id="p_xlh_24s_gbb">Make sure gas supplied is same type listed on the water heater’s rating
+            label.</p>
+        <p id="p_ylh_24s_gbb">The water heaters covered in this manual are not intended for
+            operation at higher than 14.0" W. C. (3.49 kPa)  for both natural gas and propane gas
+            supply pressure. See <xref keyref="sec:Rough_In_Dimensions/table_gas_prssre_rqrmnts"/>. </p>
+        <p id="p_txz_vhf_2cb">The water heaters covered in this manual require supply gas regulators
+            to maintain required supply gas pressure. Exposure to higher gas supply pressure may
+            cause damage to the gas controls which could result in fire or explosion. If
+            overpressure has occurred such as through improper testing of gas lines or malfunction
+            of the supply system the water heater’s gas valve must be checked for safe operation by
+            a Qualified Service Agency. </p>
+        <p id="p_zlh_24s_gbb">Ensure supply regulator vent lines and the safety vent valves are
+            protected against blockage. These are components of the gas supply system, not the water
+            heater. Vent blockage may occur during ice storms.</p>
+        <p id="p_amh_24s_gbb">It is important to guard against gas valve fouling from contaminants
+            in the gas ways. Such fouling may cause improper operation, fire or explosion. If copper
+            supply lines are used they must be internally tinned and certified for gas service.</p>
+        <fig id="fig_supply_gas_line_installation">
+            <title>Supply Gas Line Installation</title>
+            <image keyref="img:supply_gas_line_installation" id="image_qlw_tps_gbb" width="500px"/>
+        </fig>
+        <p id="p_yvs_xps_gbb">Ensure all gas pipe is clean on the inside before installation. To
+            trap any dirt or foreign material in the gas supply line a sediment trap must be
+            installed as shown in <xref keyref="sec:Supply_Gas_Line_Installation/fig_supply_gas_line_installation"/>.
+            The sediment trap must be readily accessible and not
+            subject to freezing conditions. Install in accordance with the recommendations of the
+            local gas utility company.</p>
+    </conbody>
+</concept>

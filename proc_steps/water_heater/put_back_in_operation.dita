@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<task id="task_c1v_gkt_ndb" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:task.xsd">
+    <title>Place Water Heater Back into Operation</title>
+    <taskbody>
+        <steps-unordered>
+            <step id="step_put_water_heater_back_in_operation">
+                <cmd>Place the water heater back in operation. Allow the water heater to complete
+                    several heating cycles to ensure it is operating properly.</cmd>
+            </step>
+        </steps-unordered>
+    </taskbody>
+</task>

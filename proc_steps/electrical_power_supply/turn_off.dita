@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<task id="task_fcs_xbk_mdb" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:task.xsd">
+    <title>Turning Off Electrical Power</title>
+    <shortdesc></shortdesc>
+    <taskbody>
+        <steps-unordered>
+            <step id="step_elctrcl_pwr_off0">
+                <cmd>Turn off the electrical disconnect switch.</cmd>
+            </step>
+            <step id="step_elctrcl_pwr_off1">
+                <cmd>Turn off the electrical supply to the water heater.</cmd>
+            </step>
+            <step id="step_elctrcl_pwr_off2">
+                <cmd>Turn off the electrical supply to the water heater at the breaker or disconnect
+                    switch.</cmd>
+            </step>
+            <step id="step_elctrcl_pwr_off3">
+                <cmd>Turn off the electrical supply to the water heater at the circuit breaker or
+                    disconnect switch.</cmd>
+            </step>
+        </steps-unordered>
+    </taskbody>
+</task>

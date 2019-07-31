@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><reference xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="reference_dnm_xyp_hbb" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:reference.xsd">
+    <title>Maintenance Schedule</title>
+    <shortdesc/>
+    <refbody>
+        <table frame="all" rowsep="1" colsep="1" id="table_xkc_bzp_hbb">
+            <title>Maintenance Schedule</title>
+            <tgroup cols="4" align="center">
+                <colspec colname="c1" colnum="1" colwidth="1*"/>
+                <colspec colname="c2" colnum="2" colwidth="1*"/>
+                <colspec colname="c3" colnum="3" colwidth="1*"/>
+                <colspec colname="c4" colnum="4" colwidth="1*"/>
+                <thead>
+                    <row>
+                        <entry><p outputclass="Table-Column-Head">Component</p></entry>
+                        <entry><p outputclass="Table-Column-Head">Operation</p></entry>
+                        <entry><p outputclass="Table-Column-Head">Interval</p></entry>
+                        <entry><p outputclass="Table-Column-Head">Required</p></entry>
+                    </row>
+                </thead>
+                <tbody>
+                    <row>
+                        <entry><p outputclass="Table-Cell">Tank</p></entry>
+                        <entry><p outputclass="Table-Cell">Lime Scale Removal (Water Less Than 25 Grains Hard)</p></entry>
+                        <entry><p outputclass="Table-Cell">Not Required</p></entry>
+                        <entry><p outputclass="Table-Cell">N/A</p></entry>
+                    </row>
+                    <row>
+                        <entry><p outputclass="Table-Cell">Tank</p></entry>
+                        <entry><p outputclass="Table-Cell">Lime Scale Removal (Water Greater Than 25 Grains Hard)</p></entry>
+                        <entry><p outputclass="Table-Cell">Annually</p></entry>
+                        <entry><p outputclass="Table-Cell">UN-LIME</p></entry>
+                    </row>
+                    <row>
+                        <entry><p outputclass="Table-Cell">Burner</p></entry>
+                        <entry><p outputclass="Table-Cell">Inspection/Cleaning</p></entry>
+                        <entry><p outputclass="Table-Cell">Annually</p></entry>
+                        <entry><p outputclass="Table-Cell">Clean Burner Surface</p></entry>
+                    </row>
+                    <row>
+                        <entry><p outputclass="Table-Cell">Powered Anode Rods</p></entry>
+                        <entry><p outputclass="Table-Cell">Inspection/Cleaning</p></entry>
+                        <entry><p outputclass="Table-Cell">Not Required</p></entry>
+                        <entry><p outputclass="Table-Cell">N/A</p></entry>
+                    </row>
+                    <row>
+                        <entry><p outputclass="Table-Cell">T&amp;P Valve</p></entry>
+                        <entry><p outputclass="Table-Cell">Test Operation</p></entry>
+                        <entry><p outputclass="Table-Cell">Semi Annually</p></entry>
+                        <entry><p outputclass="Table-Cell">Test</p></entry>
+                    </row>
+                    <row>
+                        <entry><p outputclass="Table-Cell">Vent System</p></entry>
+                        <entry><p outputclass="Table-Cell">Inspection</p></entry>
+                        <entry><p outputclass="Table-Cell">Annually</p></entry>
+                        <entry>
+                            <ul id="ul_fc3_c1q_hbb">
+                                <li>Termination Screens Clean</li>
+                                <li>Reseal/Repair</li>
+                            </ul>
+                        </entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+    </refbody>
+</reference>

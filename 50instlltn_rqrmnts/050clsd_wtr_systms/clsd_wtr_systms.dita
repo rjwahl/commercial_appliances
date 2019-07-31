@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><concept xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="concept_w1x_h4w_1bb" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:concept.xsd">
+    <title>Closed Water Systems</title>
+    <shortdesc/>
+    <conbody>
+        <p>Water supply systems may, because of code requirements or such conditions as high line
+            pressure, among others, have installed devices such as pressure reducing valves, check
+            valves, and back flow preventers. Devices such as these cause the water system to be a
+            closed system.</p>
+    </conbody>
+</concept>

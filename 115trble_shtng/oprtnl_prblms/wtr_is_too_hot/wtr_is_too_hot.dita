@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><task xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="task_czm_5x4_hbb" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:task.xsd">
+    <title>Water is Too Hot</title>
+    <shortdesc/>
+    <taskbody>
+        <context>
+            <ul id="ul_rzd_wx4_hbb">
+                <li>The Operating Set Point setting is too high. See <xref keyref="sec:Operating_Set_Point_and_Differential_Adjustment"/>.</li>
+                <li>If installed, check thermostatic mixing valve settings.</li>
+                <li>The Tank Probe Offset setting is improperly set. See <xref keyref="sec:Temperatures_Menu"/>.</li>
+                <li>There is lime build-up on the temperature probes. Inspect and Clean.</li>
+                <li>Improper water piping. See <xref keyref="sec:Water_Piping_Diagrams"/>.</li>
+            </ul>
+        </context>
+    </taskbody>
+</task>

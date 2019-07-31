@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><concept xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="concept_xch_24x_1bb" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:concept.xsd">
+    <title>Condensate PH Level</title>
+    <shortdesc/>
+    <conbody>
+        <p id="p_nyq_f4x_1bb">The condensate drains from the water heater’s covered in this manual
+            have pH levels between 4.3 and 5.0. Install a commercially available neutralizing kit if
+            required by local codes.</p>
+        <note id="note_oyq_f4x_1bb" type="note">Lower pH levels are acidic. Do not connect a metal
+            drain line, such as copper, to the water heater for this reason. 
+            See <xref keyref="sec:Condensate_Drain/fig_exhaust_condensate_elbow"/>.</note>
+    </conbody>
+</concept>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><concept xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="concept_qrj_ybb_hbb" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:concept.xsd">
+    <title>Operating States</title>
+    <shortdesc/>
+    <conbody>
+        <p>The current operational state of the water heater is displayed on the Desktop screen as
+            the "Status." The common operational states are described in the table below.</p>
+        <table frame="all" rowsep="1" colsep="1" id="table_operating_states">
+            <title>Operating States</title>
+            <tgroup cols="2" align="center">
+                <colspec colname="c1" colnum="1" colwidth="1*"/>
+                <colspec colname="c2" colnum="2" colwidth="4*"/>
+                <thead>
+                    <row>
+                        <entry><p outputclass="Table-Column-Head">State</p></entry>
+                        <entry><p outputclass="Table-Column-Head">Description</p></entry>
+                    </row>
+                </thead>
+                <tbody>
+                    <row>
+                        <entry><p outputclass="Table-Cell-Left">Standby</p></entry>
+                        <entry><p outputclass="Table-Cell-Left">The water heater is not in an active heating cycle. IE: the Tank
+                                Temperature is at or above the Operating Set Point.</p></entry>
+                    </row>
+                    <row>
+                        <entry><p outputclass="Table-Cell-Left">Input Verification</p></entry>
+                        <entry><p outputclass="Table-Cell-Left">The control system is conducting a diagnostic check at the
+                                beginning of a heating cycle.</p></entry>
+                    </row>
+                    <row>
+                        <entry><p outputclass="Table-Cell-Left">Water Heating Disabled</p></entry>
+                        <entry><p outputclass="Table-Cell-Left">A Fault condition is detected by the control, the Enable/Disable
+                                switch on front panel is in disable position, or the Building
+                                Management system Enable/Disable is an open circuit.</p></entry>
+                    </row>
+                    <row>
+                        <entry><p outputclass="Table-Cell-Left">Pre-Purge</p></entry>
+                        <entry><p outputclass="Table-Cell-Left">The Combustion Blower is energized to flush residual flue gases
+                                from the combustion chamber prior to ignition.</p></entry>
+                    </row>
+                    <row>
+                        <entry><p outputclass="Table-Cell-Left">Spark Igniter Energized</p></entry>
+                        <entry><p outputclass="Table-Cell-Left">The Spark Igniter is energized.</p></entry>
+                    </row>
+                    <row>
+                        <entry><p outputclass="Table-Cell-Left"/></entry>
+                        <entry><p outputclass="Table-Cell-Left">The 24-volt gas valve is energized and opens to allow fuel gas to
+                                flow to the Main Burner.</p></entry>
+                    </row>
+                    <row>
+                        <entry><p outputclass="Table-Cell-Left">Ignition Activation</p></entry>
+                        <entry>
+                            <p id="p_bzx_bdb_hbb">The control system is monitoring the flame sensor
+                                for the required minimum flame sensing current.</p>
+                            <p id="p_czx_bdb_hbb">Ensure the water heater is properly grounded.
+                                Flame sensing requires an adequate earth ground. If the water heater
+                                is not properly grounded it will cause ignition failure.</p></entry>
+                    </row>
+                    <row>
+                        <entry><p outputclass="Table-Cell-Left">Ignition Verification</p></entry>
+                        <entry><p outputclass="Table-Cell-Left">The Combustion Blower is energized to flush residual fuel gas from
+                                the combustion chamber after a failed ignition attempt.</p></entry>
+                    </row>
+                    <row>
+                        <entry><p outputclass="Table-Cell-Left">Inter-Purge</p></entry>
+                        <entry><p outputclass="Table-Cell-Left">Ignition was successful, flame sensing current has been
+                                established. The water in the storage tank is being heated.</p></entry>
+                    </row>
+                    <row>
+                        <entry><p outputclass="Table-Cell-Left">Heating</p></entry>
+                        <entry><p outputclass="Table-Cell-Left">The Combustion Blower is energized to flush residual flue gases
+                                from the combustion chamber at the end of a heating cycle.</p></entry>
+                    </row>
+                    <row>
+                        <entry><p outputclass="Table-Cell-Left">Post-Purge</p></entry>
+                        <entry>
+                            <p id="p_udc_2db_hbb">The control system has detected a Fault condition.
+                                Heating operation is disabled until the Fault condition is
+                                corrected. Power to the water heater must be cycled off and on at
+                                the breaker to reset the control system. </p>
+                            <p id="p_vdc_2db_hbb">Note: Cycling power will not reset the control
+                                system if the condition that caused the Fault has not been
+                                corrected.</p></entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+    </conbody>
+</concept>
